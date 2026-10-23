@@ -1,0 +1,233 @@
+[
+  {
+    "id": "person.sui.yangjian",
+    "uuid": "cea2c7fa-4d0a-4a21-b478-e8716b054d4a",
+    "name": "杨坚",
+    "name_traditional": "楊堅",
+    "titles": [
+      "隋文帝",
+      "高祖文皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.sui",
+    "birth": {
+      "year": 541,
+      "circa": false,
+      "original": "西魏大统七年六月癸丑生于冯翊般若寺",
+      "disputed": []
+    },
+    "death": {
+      "year": 604,
+      "circa": false,
+      "original": "仁寿四年七月丁未，崩于仁寿宫大宝殿（一说为杨广所弑），年六十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 581,
+      "end": 604,
+      "note": "大定元年二月受北周静帝禅"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.sui.yangguang"
+      ]
+    },
+    "predecessor": "person.nzhou.yuwenchan",
+    "successor": "person.sui.yangguang",
+    "bio": "隋朝开国皇帝，弘农华阴人，父杨忠为西魏十二大将军之一。以外戚（北周宣帝岳父）身份辅政，受禅建隋。在位期间灭陈统一全国，创三省六部制、开皇律、科举取士雏形，行均田、大索貌阅，户口滋盛，仓储丰溢，史称「开皇之治」。然猜忌功臣、苛察明察，废太子杨勇立杨广，埋下亡国祸根。",
+    "events": [
+      "event.chen.miechen"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "隋书·高祖纪",
+        "type": "primary",
+        "ref": "卷一至卷二"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.sui.yangguang",
+    "uuid": "fb73fe0e-0013-4cad-a41c-10a2742926c6",
+    "name": "杨广",
+    "name_traditional": "楊廣",
+    "titles": [
+      "隋炀帝",
+      "世祖明皇帝"
+    ],
+    "courtesy_name": "阿摐",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.sui",
+    "birth": {
+      "year": 569,
+      "circa": false,
+      "original": "北周天和四年生，文帝次子",
+      "disputed": []
+    },
+    "death": {
+      "year": 618,
+      "circa": false,
+      "original": "大业十四年三月丙辰，江都兵变中被宇文化及缢杀，年五十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 604,
+      "end": 618
+    },
+    "family": {
+      "father": "person.sui.yangjian",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.sui.yangjian",
+    "successor": "person.sui.yangyou",
+    "bio": "灭陈时为行军元帅，以矫情饰行得太子位。在位十四年，营东都洛阳、开凿大运河贯通南北、三游江都、北巡突厥、三征高句丽，役民无度，「罄南山之竹，书罪无穷」。大业十三年李渊起兵入长安，天下土崩；次年在江都被弑。其运河、科举二事泽被后世千年，然身死国灭，为「暴君」典型。",
+    "events": [
+      "event.sui.dayunhe",
+      "event.sui.gaogouli",
+      "event.sui.liyuan-qibing"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "隋书·炀帝纪",
+        "type": "primary",
+        "ref": "卷三至卷四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.sui.yangyou",
+    "uuid": "e48fe2ff-23e4-491a-9267-df29375e9f2c",
+    "name": "杨侑",
+    "name_traditional": "楊侑",
+    "titles": [
+      "隋恭帝",
+      "酅国公"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.sui",
+    "birth": {
+      "year": 605,
+      "circa": false,
+      "original": "大业元年生，元德太子杨昭之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 619,
+      "circa": false,
+      "original": "唐武德二年五月卒（一说遇害），年十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 617,
+      "end": 618,
+      "note": "李渊入长安所立，尊炀帝为太上皇；次年禅位于李渊"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.sui.yangguang",
+    "successor": "person.tang.liyuan",
+    "bio": "隋炀帝之孙。大业十三年李渊起兵入长安，立其为帝，遥尊炀帝为太上皇，实为过渡傀儡。炀帝凶讯至，被迫禅位于李渊，降为酅国公，次年卒，年仅十五。",
+    "events": [
+      "event.sui.liyuan-qibing"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "隋书·恭帝纪",
+        "type": "primary",
+        "ref": "卷五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.sui.yangtong",
+    "uuid": "872c2000-043d-41d1-9847-182039002ca2",
+    "name": "杨侗",
+    "name_traditional": "楊侗",
+    "titles": [
+      "皇泰主",
+      "潞国公"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "monarch"
+    ],
+    "dynasty": "dynasty.sui",
+    "birth": null,
+    "death": {
+      "year": 619,
+      "circa": false,
+      "original": "皇泰二年，被王世充缢杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": 618,
+      "end": 619,
+      "note": "炀帝死后洛阳群臣所立，年号皇泰"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "隋炀帝之孙，留守东都洛阳。江都之变后被段达、王世充等拥立为帝，改元皇泰。朝政旋即落入王世充之手，皇泰二年被废为潞国公，后被缢杀，隋祀遂绝。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "隋书·越王侗传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

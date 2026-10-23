@@ -1,0 +1,21 @@
+[
+  {
+    "id": "event.later-liang.cuantang",
+    "uuid": "da54df38-fd75-4b05-a77e-95a3e166ac98",
+    "name": "朱温篡唐",
+    "name_traditional": "朱溫篡唐",
+    "category": ["regime-change"],
+    "time": {"start": 907, "end": 907, "original": "天祐四年四月", "precision": "month"},
+    "place": ["place.luoyang"],
+    "participants": [
+      {"person": "person.later-liang.zhuwen", "role": "instigator"},
+      {"person": "person.tang.lizhu", "role": "victim"},
+      {"person": "person.tang.liye", "role": "victim"}
+    ],
+    "related_events": ["event.tang.huangchao"],
+    "description": "朱温先弑昭宗于洛阳，立十三岁的哀帝为傀儡，又于白马驿尽杀朝臣三十余人投尸黄河，曰「使此辈清流，常投之浊流」。天祐四年四月，哀帝被迫禅位，朱温即皇帝位于开封，国号大梁。唐朝二百九十年国祚终结，五代十国开始。",
+    "outcome": "唐亡，五代十国时代开启",
+    "sources": [{"title": "旧五代史·梁书·太祖本纪", "type": "primary"}, {"title": "资治通鉴·后梁纪一", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "suitang-v1", "version": 1}
+  }
+]

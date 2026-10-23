@@ -628,5 +628,115 @@
       "prompt_version": "weijin-v1",
       "version": 1
     }
+  },
+  {
+    "id": "dynasty.later-liang",
+    "name": "后梁",
+    "name_traditional": "後梁",
+    "start": 907,
+    "end": 923,
+    "circa": false,
+    "capital": "洛阳、开封",
+    "note": "朱温篡唐建立，923年亡于后唐",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.later-tang",
+    "name": "后唐",
+    "name_traditional": "後唐",
+    "start": 923,
+    "end": 937,
+    "circa": false,
+    "capital": "洛阳",
+    "note": "李存勖灭梁建唐，自称中兴唐室；937年亡于后晋",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.later-jin",
+    "name": "后晋",
+    "name_traditional": "後晉",
+    "start": 936,
+    "end": 947,
+    "circa": false,
+    "capital": "开封",
+    "note": "石敬瑭借契丹兵灭后唐，割燕云十六州；947年亡于契丹",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.later-han",
+    "name": "后汉",
+    "name_traditional": "後漢",
+    "start": 947,
+    "end": 950,
+    "circa": false,
+    "capital": "开封",
+    "note": "刘知远于契丹北撤后建立，951年亡于后周",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.later-zhou",
+    "name": "后周",
+    "name_traditional": "後周",
+    "start": 951,
+    "end": 960,
+    "circa": false,
+    "capital": "开封",
+    "note": "郭威建立，960年赵匡胤陈桥兵变受禅，宋兴",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
   }
 ]

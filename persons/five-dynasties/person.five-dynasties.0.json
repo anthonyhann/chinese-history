@@ -1,0 +1,806 @@
+[
+  {
+    "id": "person.later-liang.zhuwen",
+    "uuid": "aac8edfc-2417-4ee9-bc74-1901c2c0bdb5",
+    "name": "朱温",
+    "name_traditional": "朱溫",
+    "titles": [
+      "后梁太祖",
+      "神武元圣孝皇帝"
+    ],
+    "courtesy_name": "全忠",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-liang",
+    "birth": {
+      "year": 852,
+      "circa": false,
+      "original": "唐大中六年十月二十一日夜生于砀山午沟里",
+      "disputed": []
+    },
+    "death": {
+      "year": 912,
+      "circa": false,
+      "original": "乾化二年六月戊寅，被其子朱友珪弑于洛阳宫中，年六十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 907,
+      "end": 912
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.later-liang.zhuyougui",
+        "person.later-liang.zhuyouzhen"
+      ]
+    },
+    "predecessor": "person.tang.lizhu",
+    "successor": "person.later-liang.zhuyougui",
+    "bio": "宋州砀山人，初从黄巢为将，兵败降唐，赐名全忠，任宣武节度使。以汴州为根基兼并中原，杀宦官、迁昭宗于洛阳而弑之，篡唐建梁。在位数年，与河东李克用父子连年苦战，晚年淫乱无度，召诸子妇入宫侍疾，终被亲子所弑。",
+    "events": [
+      "event.later-liang.cuantang"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·梁书·太祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "新五代史·梁本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-liang.zhuyougui",
+    "uuid": "5d0096df-321e-4bf5-92c1-bb378ba6dd3a",
+    "name": "朱友珪",
+    "name_traditional": "朱友珪",
+    "titles": [
+      "郢王"
+    ],
+    "courtesy_name": "遥喜",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-liang",
+    "birth": null,
+    "death": {
+      "year": 913,
+      "circa": false,
+      "original": "凤历元年，禁军政变中被杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": 912,
+      "end": 913,
+      "note": "弑父自立，在位八月"
+    },
+    "family": {
+      "father": "person.later-liang.zhuwen",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-liang.zhuwen",
+    "successor": "person.later-liang.zhuyouzhen",
+    "bio": "朱温第三子。朱温病重时欲传位于养子朱友文，友珪闻之，率五百牙兵夜闯寝宫弑父，弑君自立。在位八月，禁军哗变，与妻张氏一同被杀，为五代第一位弑父者。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·梁书·末帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-liang.zhuyouzhen",
+    "uuid": "2116f1bc-c482-40ed-adc6-607be66f74f0",
+    "name": "朱友贞",
+    "name_traditional": "朱友貞",
+    "titles": [
+      "后梁末帝",
+      "均王"
+    ],
+    "courtesy_name": "明正",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-liang",
+    "birth": {
+      "year": 888,
+      "circa": false,
+      "original": "唐文德元年九月十二日生于东京，朱温第四子",
+      "disputed": []
+    },
+    "death": {
+      "year": 923,
+      "circa": false,
+      "original": "龙德三年十月戊寅，后唐兵入开封，命皇甫麟杀己于建国楼，年三十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 913,
+      "end": 923
+    },
+    "family": {
+      "father": "person.later-liang.zhuwen",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-liang.zhuyougui",
+    "successor": null,
+    "bio": "朱温第四子。诛友珪后继位。在位十年，与河东李存勖夹河苦战，屡失河北、山东之地。龙德三年唐军奇袭开封，友贞知大势已去，令控鹤都将皇甫麟杀己，后梁亡。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·梁书·末帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-tang.licunxu",
+    "uuid": "937ba042-0f03-4acc-82b4-fc25ac33aa9d",
+    "name": "李存勖",
+    "name_traditional": "李存勗",
+    "titles": [
+      "后唐庄宗",
+      "光圣神闵孝皇帝"
+    ],
+    "courtesy_name": "亚子",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-tang",
+    "birth": {
+      "year": 885,
+      "circa": false,
+      "original": "唐光启元年十月二十二日生于晋阳宫，李克用长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 926,
+      "circa": false,
+      "original": "同光四年四月丁亥朔，兴教门之变中流矢而殂，年四十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 923,
+      "end": 926,
+      "note": "923年称帝于魏州，灭梁后都洛阳"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": "person.later-tang.lisiyuan",
+    "bio": "沙陀族，晋王李克用长子。承父三矢之恨，十五年血战灭后梁、平前蜀，自谓「于十指上得天下」。然知音律、好俳优，自取艺名「李天下」，宠信伶官宦官，赏赐无度而军士饥寒。邺都兵变，从马直指挥使郭从谦攻兴教门，中流失而殂。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·唐书·庄宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "新五代史·唐本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-tang.lisiyuan",
+    "uuid": "b8a8bfaf-25d2-4536-92f9-d535a1916de9",
+    "name": "李嗣源",
+    "name_traditional": "李嗣源",
+    "titles": [
+      "后唐明宗",
+      "圣德和武钦孝皇帝"
+    ],
+    "courtesy_name": "邈佶烈",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-tang",
+    "birth": {
+      "year": 867,
+      "circa": false,
+      "original": "唐咸通八年生，李克用养子",
+      "disputed": []
+    },
+    "death": {
+      "year": 933,
+      "circa": false,
+      "original": "长兴四年十一月戊戌，崩于雍和殿，年六十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 926,
+      "end": 933
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.later-tang.liconghou"
+      ]
+    },
+    "predecessor": "person.later-tang.licunxu",
+    "successor": "person.later-tang.liconghou",
+    "bio": "后唐明宗，李克用养子。以蕃将佐命，庄宗被杀后被乱兵拥立。在位七年，诛阉宦、革弊政、轻徭薄赋，北方稍安，史称小康之局。然目不知书，四方奏事皆由枢密使读奏，晚年诸子争位，长兴四年病中闻秦王从荣反讯，惊恚而崩。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·唐书·明宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-tang.liconghou",
+    "uuid": "b6fea004-4563-4329-b5e4-9d66b485e051",
+    "name": "李从厚",
+    "name_traditional": "李從厚",
+    "titles": [
+      "后唐闵帝",
+      "愍皇帝"
+    ],
+    "courtesy_name": "菩萨奴",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-tang",
+    "birth": {
+      "year": 914,
+      "circa": false,
+      "original": "后梁乾化四年十一月庚申生于晋阳旧第，明宗第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 934,
+      "circa": false,
+      "original": "清泰元年四月，被李从珂使人缢杀于卫州，年二十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 933,
+      "end": 934,
+      "note": "在位仅五月"
+    },
+    "family": {
+      "father": "person.later-tang.lisiyuan",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-tang.lisiyuan",
+    "successor": "person.later-tang.licongke",
+    "bio": "明宗第三子。性仁弱，明宗暴崩后即位。潞王李从珂起兵凤翔，禁军倒戈，闵帝单骑出奔至卫州，被从珂使人缢杀。在位不足半年。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·唐书·闵帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-tang.licongke",
+    "uuid": "05cd76ce-455b-4629-8704-2c24b21bfc24",
+    "name": "李从珂",
+    "name_traditional": "李從珂",
+    "titles": [
+      "后唐末帝"
+    ],
+    "courtesy_name": "二十三",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-tang",
+    "birth": {
+      "year": 885,
+      "circa": false,
+      "original": "唐光启元年正月二十三日生于平山，本姓王，明宗养子",
+      "disputed": []
+    },
+    "death": {
+      "year": 937,
+      "circa": false,
+      "original": "清泰三年闰十一月辛巳，石敬瑭入洛阳，举族自焚于玄武楼，年五十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 934,
+      "end": 937
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-tang.liconghou",
+    "successor": "person.later-jin.shijingtang",
+    "bio": "本姓王，明宗养子，从战争中以骁勇著名。废闵帝自立后，猜忌河东节度使石敬瑭，下诏徙镇，石敬瑭遂引契丹兵反。清泰三年契丹与后晋联军入洛阳，从珂登玄武楼自焚，后唐亡。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·唐书·末帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-jin.shijingtang",
+    "uuid": "ab09c53f-d61f-40cb-8c83-0aae955b50e0",
+    "name": "石敬瑭",
+    "name_traditional": "石敬瑭",
+    "titles": [
+      "后晋高祖",
+      "圣文章武明德孝皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-jin",
+    "birth": {
+      "year": 892,
+      "circa": false,
+      "original": "唐景福元年二月二十八日生于太原汾阳里，沙陀族",
+      "disputed": []
+    },
+    "death": {
+      "year": 942,
+      "circa": false,
+      "original": "天福七年六月乙丑，崩于邺都保昌殿，年五十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 936,
+      "end": 942
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-tang.licongke",
+    "successor": "person.later-jin.shichonggui",
+    "bio": "沙陀族，后唐明宗女婿。清泰三年起兵反唐，向契丹称臣称子，许割燕云十六州，以契丹援兵灭后唐称帝。「儿皇帝」之耻自此始，中原门户洞开，为后世四百年边患之源。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·晋书·高祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "新五代史·晋本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-jin.shichonggui",
+    "uuid": "4097bf2a-f8db-4299-89ef-5feb9306a576",
+    "name": "石重贵",
+    "name_traditional": "石重貴",
+    "titles": [
+      "后晋出帝",
+      "少帝"
+    ],
+    "courtesy_name": "重贵",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-jin",
+    "birth": {
+      "year": 914,
+      "circa": false,
+      "original": "后梁乾化四年六月二十七日生于太原汾阳里，敬瑭兄石敬儒之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 974,
+      "circa": false,
+      "original": "北宋开宝七年卒于建州，年六十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 942,
+      "end": 947
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-jin.shijingtang",
+    "successor": "person.later-han.liuzhiyuan",
+    "bio": "石敬瑭之侄。即位后改向契丹称孙不称臣，契丹主耶律德光大怒，两次大举南侵。开运三年契丹陷开封，出帝被掳北去，封负义侯，置于黄龙府，后死于辽地。后晋亡。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·晋书·少帝本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-han.liuzhiyuan",
+    "uuid": "e052b1bd-050b-47df-acc2-a989b9f164ac",
+    "name": "刘知远",
+    "name_traditional": "劉知遠",
+    "titles": [
+      "后汉高祖",
+      "睿文圣武昭肃孝皇帝"
+    ],
+    "courtesy_name": "达",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-han",
+    "birth": {
+      "year": 895,
+      "circa": false,
+      "original": "唐乾宁二年二月四日生于太原，沙陀族",
+      "disputed": []
+    },
+    "death": {
+      "year": 948,
+      "circa": false,
+      "original": "乾祐元年正月丁丑，崩于万岁殿，年五十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 947,
+      "end": 948,
+      "note": "契丹北撤后于太原称帝，沿用汉国号"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.later-han.liuchengyou"
+      ]
+    },
+    "predecessor": "person.later-jin.shichonggui",
+    "successor": "person.later-han.liuchengyou",
+    "bio": "沙陀族，后晋河东节度使。契丹灭晋后，中原无主，知远在太原称帝，以「汉」为国号收揽人心。乘契丹北撤进入开封，各地藩镇纷纷归附。在位一年即崩，临终托孤郭威、史弘肇等。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·汉书·高祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "新五代史·汉本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-han.liuchengyou",
+    "uuid": "cfc8e763-91f4-4eb9-a632-c1dad0c8ddbb",
+    "name": "刘承祐",
+    "name_traditional": "劉承祐",
+    "titles": [
+      "后汉隐帝"
+    ],
+    "courtesy_name": "承祐",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-han",
+    "birth": {
+      "year": 931,
+      "circa": false,
+      "original": "后唐长兴二年三月七日生于邺都之旧第，高祖第二子",
+      "disputed": []
+    },
+    "death": {
+      "year": 951,
+      "circa": false,
+      "original": "乾祐三年十一月二十二日，郭威兵至，为乱兵所杀于赵村，年二十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 948,
+      "end": 951
+    },
+    "family": {
+      "father": "person.later-han.liuzhiyuan",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-han.liuzhiyuan",
+    "successor": "person.later-zhou.guowei",
+    "bio": "后汉高祖次子。十八岁即位，受制于史弘肇、杨邠等顾命大臣。乾祐三年尽杀杨邠、史弘肇、王章于朝堂，又遣人赴邺都谋杀郭威，事泄，郭威起兵入京，隐帝为乱兵所杀，后汉亡。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·汉书·隐帝本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-zhou.guowei",
+    "uuid": "58a67904-8779-49cc-8b18-f1bf046f3b95",
+    "name": "郭威",
+    "name_traditional": "郭威",
+    "titles": [
+      "后周太祖",
+      "圣神恭肃文武孝皇帝"
+    ],
+    "courtesy_name": "文仲",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-zhou",
+    "birth": {
+      "year": 904,
+      "circa": false,
+      "original": "唐天祐元年七月二十八日生于尧山之旧宅",
+      "disputed": []
+    },
+    "death": {
+      "year": 954,
+      "circa": false,
+      "original": "显德元年正月壬辰，崩于滋德殿，年五十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 951,
+      "end": 954
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.later-zhou.chairong"
+      ]
+    },
+    "predecessor": "person.later-han.liuchengyou",
+    "successor": "person.later-zhou.chairong",
+    "bio": "邢州尧山人，后汉枢密使。隐帝欲杀之，郭威以清君侧为名起兵，澶州兵变黄旗加身，入开封称帝建周。在位三年，革除后汉苛政、停营田、罢进献，为五代第一明君柴荣的改革开路。其子皆被隐帝所杀，故传位于养子柴荣。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·周书·太祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "新五代史·周本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-zhou.chairong",
+    "uuid": "cbf89387-0707-4a89-bb70-b5f8f491a966",
+    "name": "柴荣",
+    "name_traditional": "柴榮",
+    "titles": [
+      "后周世宗",
+      "睿武孝文皇帝"
+    ],
+    "courtesy_name": "君贵",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-zhou",
+    "birth": {
+      "year": 921,
+      "circa": false,
+      "original": "后梁龙德元年九月二十四日生于邢州龙岗，郭威养子",
+      "disputed": []
+    },
+    "death": {
+      "year": 959,
+      "circa": false,
+      "original": "显德六年六月癸巳，崩于万岁殿，年三十九",
+      "disputed": []
+    },
+    "reign": {
+      "start": 954,
+      "end": 959
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.later-zhou.chaizongxun"
+      ]
+    },
+    "predecessor": "person.later-zhou.guowei",
+    "successor": "person.later-zhou.chaizongxun",
+    "bio": "郭威养子，五代第一明君。高平之战大败北汉契丹联军，整军经武；三征南唐取淮南十四州，北伐契丹收复三关三州十七县。在位期间改革税制、疏浚漕运、抑制佛僧。显德六年北伐途中暴病而崩，年仅三十九，统一大业功亏一篑，宋人痛惜千载。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·周书·世宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.later-zhou.chaizongxun",
+    "uuid": "c7b72a3f-dccf-4d68-b0b9-a7c10ebaad5c",
+    "name": "柴宗训",
+    "name_traditional": "柴宗訓",
+    "titles": [
+      "后周恭帝",
+      "郑王"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.later-zhou",
+    "birth": {
+      "year": 953,
+      "circa": false,
+      "original": "广顺三年八月四日生于澶州之府第，世宗第四子",
+      "disputed": []
+    },
+    "death": {
+      "year": 973,
+      "circa": false,
+      "original": "北宋开宝六年三月，卒于房陵，年二十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 959,
+      "end": 960,
+      "note": "七岁即位，陈桥兵变后禅位于赵匡胤"
+    },
+    "family": {
+      "father": "person.later-zhou.chairong",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.later-zhou.chairong",
+    "successor": null,
+    "bio": "后周末代皇帝。世宗暴崩，七岁嗣位，太后垂帘。显德七年正月，赵匡胤陈桥兵变，黄袍加身，回师开封受禅。封郑王迁房陵，十四年后卒。后周亡，北宋兴。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧五代史·周书·恭帝纪",
+        "type": "primary"
+      },
+      {
+        "title": "宋史·太祖本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

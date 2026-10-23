@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "era.tang.wude",
+    "name": "武德",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liyuan",
+    "era_name": "武德",
+    "start": 618,
+    "end": 626,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.zhenguan",
+    "name": "贞观",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lishimin",
+    "era_name": "贞观",
+    "start": 627,
+    "end": 649,
+    "note": "贞观之治",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yonghui",
+    "name": "永徽",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "永徽",
+    "start": 650,
+    "end": 655,
+    "note": "永徽之治",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.xianqing",
+    "name": "显庆",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "显庆",
+    "start": 656,
+    "end": 661,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.longshuo",
+    "name": "龙朔",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "龙朔",
+    "start": 661,
+    "end": 663,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.linde",
+    "name": "麟德",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "麟德",
+    "start": 664,
+    "end": 665,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.qianfeng",
+    "name": "乾封",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "乾封",
+    "start": 666,
+    "end": 668,
+    "note": "封禅泰山",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.zongzhang",
+    "name": "总章",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "总章",
+    "start": 668,
+    "end": 670,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.xianheng",
+    "name": "咸亨",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "咸亨",
+    "start": 670,
+    "end": 674,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.shangyuan-gaozong",
+    "name": "上元",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "上元",
+    "start": 674,
+    "end": 676,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yifeng",
+    "name": "仪凤",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "仪凤",
+    "start": 676,
+    "end": 679,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.tiaolu",
+    "name": "调露",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "调露",
+    "start": 679,
+    "end": 680,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yonglong",
+    "name": "永隆",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "永隆",
+    "start": 680,
+    "end": 681,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.kaiyao",
+    "name": "开耀",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "开耀",
+    "start": 681,
+    "end": 682,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yongchun",
+    "name": "永淳",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "永淳",
+    "start": 682,
+    "end": 683,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.hongdao",
+    "name": "弘道",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhi",
+    "era_name": "弘道",
+    "start": 683,
+    "end": 683,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.sisheng",
+    "name": "嗣圣",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixian",
+    "era_name": "嗣圣",
+    "start": 684,
+    "end": 684,
+    "note": "中宗首次在位",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.wenming",
+    "name": "文明",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lidan",
+    "era_name": "文明",
+    "start": 684,
+    "end": 684,
+    "note": "睿宗首次在位",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.guangzhai",
+    "name": "光宅",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "光宅",
+    "start": 684,
+    "end": 685,
+    "note": "武后称制",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.chuigong",
+    "name": "垂拱",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "垂拱",
+    "start": 685,
+    "end": 688,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yongchang-wu",
+    "name": "永昌",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "永昌",
+    "start": 689,
+    "end": 689,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.zaichu",
+    "name": "载初",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "载初",
+    "start": 690,
+    "end": 690,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.tianshou",
+    "name": "天授",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "天授",
+    "start": 690,
+    "end": 692,
+    "note": "正式称帝改周",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.ruyi",
+    "name": "如意",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "如意",
+    "start": 692,
+    "end": 692,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.changshou",
+    "name": "长寿",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "长寿",
+    "start": 692,
+    "end": 694,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yanzai",
+    "name": "延载",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "延载",
+    "start": 694,
+    "end": 694,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.zhensheng",
+    "name": "证圣",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "证圣",
+    "start": 695,
+    "end": 695,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.tiance-wansui",
+    "name": "天册万岁",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "天册万岁",
+    "start": 695,
+    "end": 696,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.wansui-dengfeng",
+    "name": "万岁登封",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "万岁登封",
+    "start": 696,
+    "end": 696,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.wansui-tongtian",
+    "name": "万岁通天",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "万岁通天",
+    "start": 696,
+    "end": 697,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.shengong",
+    "name": "神功",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "神功",
+    "start": 697,
+    "end": 697,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.shengli",
+    "name": "圣历",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "圣历",
+    "start": 698,
+    "end": 700,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.jiushi",
+    "name": "久视",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "久视",
+    "start": 700,
+    "end": 701,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.dazu",
+    "name": "大足",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "大足",
+    "start": 701,
+    "end": 701,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.changan-wu",
+    "name": "长安",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.wuzetian",
+    "era_name": "长安",
+    "start": 701,
+    "end": 704,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.shenlong-tang",
+    "name": "神龙",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixian",
+    "era_name": "神龙",
+    "start": 705,
+    "end": 707,
+    "note": "神龙政变复位",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.jinglong",
+    "name": "景龙",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixian",
+    "era_name": "景龙",
+    "start": 707,
+    "end": 710,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.jingyun",
+    "name": "景云",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lidan",
+    "era_name": "景云",
+    "start": 710,
+    "end": 711,
+    "note": "睿宗复位",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.taiji",
+    "name": "太极",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lidan",
+    "era_name": "太极",
+    "start": 712,
+    "end": 712,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yanhe",
+    "name": "延和",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lidan",
+    "era_name": "延和",
+    "start": 712,
+    "end": 712,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.xiantian",
+    "name": "先天",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lilongji",
+    "era_name": "先天",
+    "start": 712,
+    "end": 713,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.kaiyuan",
+    "name": "开元",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lilongji",
+    "era_name": "开元",
+    "start": 713,
+    "end": 741,
+    "note": "开元盛世",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.tianbao",
+    "name": "天宝",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lilongji",
+    "era_name": "天宝",
+    "start": 742,
+    "end": 756,
+    "note": "安史之乱在天宝十四载",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.zhide",
+    "name": "至德",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liheng",
+    "era_name": "至德",
+    "start": 756,
+    "end": 758,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.qianyuan",
+    "name": "乾元",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liheng",
+    "era_name": "乾元",
+    "start": 758,
+    "end": 760,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.shangyuan-suzong",
+    "name": "上元",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liheng",
+    "era_name": "上元",
+    "start": 760,
+    "end": 761,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.baoying",
+    "name": "宝应",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liyu",
+    "era_name": "宝应",
+    "start": 762,
+    "end": 763,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.guangde",
+    "name": "广德",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liyu",
+    "era_name": "广德",
+    "start": 763,
+    "end": 764,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yongtai",
+    "name": "永泰",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liyu",
+    "era_name": "永泰",
+    "start": 765,
+    "end": 766,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.dali",
+    "name": "大历",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liyu",
+    "era_name": "大历",
+    "start": 766,
+    "end": 779,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.jianzhong",
+    "name": "建中",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.likuo",
+    "era_name": "建中",
+    "start": 780,
+    "end": 783,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.xingyuan",
+    "name": "兴元",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.likuo",
+    "era_name": "兴元",
+    "start": 784,
+    "end": 784,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.zhenyuan",
+    "name": "贞元",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.likuo",
+    "era_name": "贞元",
+    "start": 785,
+    "end": 805,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yongzhen",
+    "name": "永贞",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lisong",
+    "era_name": "永贞",
+    "start": 805,
+    "end": 805,
+    "note": "永贞革新",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.yuanhe",
+    "name": "元和",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lichun",
+    "era_name": "元和",
+    "start": 806,
+    "end": 820,
+    "note": "元和中兴",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.changqing",
+    "name": "长庆",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liheng-mu",
+    "era_name": "长庆",
+    "start": 821,
+    "end": 824,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.baoli",
+    "name": "宝历",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lizhan",
+    "era_name": "宝历",
+    "start": 825,
+    "end": 826,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.taihe-wenzong",
+    "name": "大和（太和）",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liang",
+    "era_name": "大和（太和）",
+    "start": 827,
+    "end": 835,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.kaicheng",
+    "name": "开成",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liang",
+    "era_name": "开成",
+    "start": 836,
+    "end": 840,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.huichang",
+    "name": "会昌",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liyan",
+    "era_name": "会昌",
+    "start": 841,
+    "end": 846,
+    "note": "会昌灭佛",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.dazhong",
+    "name": "大中",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lichen",
+    "era_name": "大中",
+    "start": 847,
+    "end": 859,
+    "note": "大中之治",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.xiantong",
+    "name": "咸通",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.licui",
+    "era_name": "咸通",
+    "start": 860,
+    "end": 874,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.qianfu",
+    "name": "乾符",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixuan-xi",
+    "era_name": "乾符",
+    "start": 874,
+    "end": 879,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.guangming",
+    "name": "广明",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixuan-xi",
+    "era_name": "广明",
+    "start": 880,
+    "end": 881,
+    "note": "黄巢入长安",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.zhonghe",
+    "name": "中和",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixuan-xi",
+    "era_name": "中和",
+    "start": 881,
+    "end": 885,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.guangqi",
+    "name": "光启",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixuan-xi",
+    "era_name": "光启",
+    "start": 885,
+    "end": 888,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.wende",
+    "name": "文德",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.lixuan-xi",
+    "era_name": "文德",
+    "start": 888,
+    "end": 888,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.longji",
+    "name": "龙纪",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liye",
+    "era_name": "龙纪",
+    "start": 889,
+    "end": 889,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.dashun",
+    "name": "大顺",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liye",
+    "era_name": "大顺",
+    "start": 890,
+    "end": 891,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.jingfu",
+    "name": "景福",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liye",
+    "era_name": "景福",
+    "start": 892,
+    "end": 893,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.qianning",
+    "name": "乾宁",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liye",
+    "era_name": "乾宁",
+    "start": 894,
+    "end": 898,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.guanghua",
+    "name": "光化",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liye",
+    "era_name": "光化",
+    "start": 898,
+    "end": 901,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.tianfu-zhaozong",
+    "name": "天复",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liye",
+    "era_name": "天复",
+    "start": 901,
+    "end": 904,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.tang.tianyou",
+    "name": "天祐",
+    "dynasty": "dynasty.tang",
+    "emperor": "person.tang.liye",
+    "era_name": "天祐",
+    "start": 904,
+    "end": 907,
+    "note": "哀帝沿用未改元",
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "era.later-jin.tianfu",
+    "name": "天福",
+    "dynasty": "dynasty.later-jin",
+    "emperor": "person.later-jin.shijingtang",
+    "era_name": "天福",
+    "start": 936,
+    "end": 944,
+    "note": "出帝沿用",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-jin.kaiyun",
+    "name": "开运",
+    "dynasty": "dynasty.later-jin",
+    "emperor": "person.later-jin.shichonggui",
+    "era_name": "开运",
+    "start": 944,
+    "end": 947,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

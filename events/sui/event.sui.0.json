@@ -1,0 +1,52 @@
+[
+  {
+    "id": "event.sui.dayunhe",
+    "uuid": "294eac5e-632b-4fd5-aa60-cb3dd2d8a0e8",
+    "name": "开凿大运河",
+    "name_traditional": "開鑿大運河",
+    "category": ["construction"],
+    "time": {"start": 605, "end": 610, "original": "大业元年至六年", "precision": "year"},
+    "place": ["place.luoyang"],
+    "participants": [{"person": "person.sui.yangguang", "role": "decision-maker"}],
+    "related_events": ["event.sui.gaogouli"],
+    "description": "隋炀帝以洛阳为中心，先后开凿通济渠（605）、邗沟、永济渠（608）、江南河（610），以约两千公里水道贯通海河、黄河、淮河、长江、钱塘江五大水系。役民数百万，死者相枕，直接耗尽民力；然其沟通南北之功，泽被唐宋元明清千余年，至今仍是世界最长的古代运河。",
+    "outcome": "南北交通动脉贯通；隋亡的重要诱因",
+    "sources": [{"title": "隋书·炀帝纪", "type": "primary", "ref": "卷三"}, {"title": "资治通鉴·隋纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "suitang-v1", "version": 1}
+  },
+  {
+    "id": "event.sui.gaogouli",
+    "uuid": "eb7fd250-d8a4-4307-82a0-eebb739dffcc",
+    "name": "三征高句丽",
+    "name_traditional": "三征高句麗",
+    "category": ["war"],
+    "time": {"start": 612, "end": 614, "original": "大业八年至十年", "precision": "year"},
+    "place": [],
+    "participants": [{"person": "person.sui.yangguang", "role": "commander"}],
+    "related_events": ["event.sui.dayunhe", "event.sui.liyuan-qibing"],
+    "description": "隋炀帝倾全国之力三次亲征高句丽。大业八年发兵一百一十三万，萨水之战九军惨败，三十万渡辽者仅二千七百人生还。九年再征，杨玄感于黎阳起兵，被迫班师。十年三征，高句丽王高元遣使请降，炀帝班师，然户口锐减、流民遍地，隋亡之势已成。",
+    "outcome": "隋国力耗尽，直接引爆隋末民变",
+    "sources": [{"title": "隋书·炀帝纪", "type": "primary", "ref": "卷四"}, {"title": "资治通鉴·隋纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "suitang-v1", "version": 1}
+  },
+  {
+    "id": "event.sui.liyuan-qibing",
+    "uuid": "bc204f57-e161-4822-803e-ff7bc60d51be",
+    "name": "李渊太原起兵",
+    "name_traditional": "李淵太原起兵",
+    "category": ["war", "regime-change"],
+    "time": {"start": 617, "end": 617, "original": "大业十三年五月至十一月", "precision": "month"},
+    "place": ["place.taiyuan", "place.changan"],
+    "participants": [
+      {"person": "person.tang.liyuan", "role": "commander"},
+      {"person": "person.tang.lishimin", "role": "commander"},
+      {"person": "person.sui.yangguang", "role": "subject"},
+      {"person": "person.sui.yangyou", "role": "subject"}
+    ],
+    "related_events": ["event.sui.gaogouli", "event.tang.xuanwumen"],
+    "description": "大业十三年五月，太原留守李渊在李世民、刘文静等策划下起兵，七月誓师南下，十一月攻克长安，立代王杨侑为帝，遥尊炀帝为太上皇，自为大丞相、唐王。次年五月受禅建唐，关龙集团重掌天下。",
+    "outcome": "唐王朝建立，隋亡唐兴",
+    "sources": [{"title": "旧唐书·高祖本纪", "type": "primary", "ref": "卷一"}, {"title": "资治通鉴·隋纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "suitang-v1", "version": 1}
+  }
+]

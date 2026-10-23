@@ -1,0 +1,112 @@
+[
+  {
+    "id": "era.later-tang.tongguang",
+    "name": "同光",
+    "dynasty": "dynasty.later-tang",
+    "emperor": "person.later-tang.licunxu",
+    "era_name": "同光",
+    "start": 923,
+    "end": 926,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-tang.tiancheng",
+    "name": "天成",
+    "dynasty": "dynasty.later-tang",
+    "emperor": "person.later-tang.lisiyuan",
+    "era_name": "天成",
+    "start": 926,
+    "end": 930,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-tang.changxing",
+    "name": "长兴",
+    "dynasty": "dynasty.later-tang",
+    "emperor": "person.later-tang.lisiyuan",
+    "era_name": "长兴",
+    "start": 930,
+    "end": 933,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-tang.yingshun",
+    "name": "应顺",
+    "dynasty": "dynasty.later-tang",
+    "emperor": "person.later-tang.liconghou",
+    "era_name": "应顺",
+    "start": 934,
+    "end": 934,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-tang.qingtai",
+    "name": "清泰",
+    "dynasty": "dynasty.later-tang",
+    "emperor": "person.later-tang.licongke",
+    "era_name": "清泰",
+    "start": 934,
+    "end": 936,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

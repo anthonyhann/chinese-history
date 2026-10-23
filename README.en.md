@@ -4,12 +4,12 @@
 
 ### Persons · Events · Artifacts: the open structured database of Chinese history
 
-135 historical figures · 51 events · 259 era names · 30 dynasties/regimes — all in JSON, clone and build
+174 historical figures · 66 events · 354 era names · 35 dynasties/regimes — all in JSON, clone and build
 
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![Facts: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![Texts: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![Entities: 179](https://img.shields.io/badge/entities-503-red.svg)](#-datasets)
+[![Entities: 179](https://img.shields.io/badge/entities-660-red.svg)](#-datasets)
 [![Validation: passing](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
 
 [🚀 Quickstart](#-quickstart) · [📦 Datasets](#-datasets) · [📐 Schema](schema/) · [🤝 Contributing](CONTRIBUTING.md) · [中文](README.md) · [llms.txt](llms.txt)
@@ -48,7 +48,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① get the data
 cd chinese-history
-python3 tools/validate.py                                     # ② verify integrity (503 records)
+python3 tools/validate.py                                     # ② verify integrity (660 records)
 jq '.[] | .name' persons/han/person.han.0.json                # ③ use it (or any JSON lib)
 ```
 
@@ -64,14 +64,16 @@ Every record must carry `sources` — records without provenance fail CI. That i
 |---|---:|---|
 | [Persons · Qin](persons/qin/) | 18 | ✅ M1 seed |
 | [Persons · Han](persons/han/) | 31 | ✅ M2 (complete imperial lines of both Han) |
-| [Persons · Wei-Jin & N/S Dynasties](persons/) | 86 | ✅ v0.2.0 (new) |
+| [Persons · Wei-Jin & N/S Dynasties](persons/) | 86 | ✅ v0.2.0 |
+| [Persons · Sui-Tang & Five Dynasties](persons/) | 39 | ✅ v0.3.0 (incl. Wu Zetian) |
 | [Events · Qin](events/qin/) | 20 | ✅ M1 seed |
 | [Events · Han](events/han/) | 19 | ✅ M2 (new) |
 | [Events · Wei-Jin & N/S Dynasties](events/) | 12 | ✅ v0.2.0 (Guandu, Chibi, Feishui…) |
+| [Events · Sui-Tang](events/) | 15 | ✅ v0.3.0 (Grand Canal, Xuanwu Gate, An Lushan…) |
 | [Artifacts](artifacts/qin/) | 1 | 🔬 schema sample; M3 scale-up |
-| [Dynasties/regimes](dynasties/) | 30 | ✅ base table |
-| [Era names](reign_eras/) | 259 | ✅ Qin through N/S Dynasties |
-| [Places](places/) | 21 | ✅ with modern names & coordinates |
+| [Dynasties/regimes](dynasties/) | 35 | ✅ base table |
+| [Era names](reign_eras/) | 354 | ✅ Qin through Five Dynasties |
+| [Places](places/) | 24 | ✅ with modern names & coordinates |
 | [Museums](museums/) | 6 | ✅ with open-data license status |
 
 ## 📐 Three design decisions (what differs from the poetry repo)
@@ -91,7 +93,8 @@ Every record must carry `sources` — records without provenance fail CI. That i
 - ✅ **M0 Infrastructure**: schemas, CI validator, base tables (dynasties / eras / places / museums)
 - ✅ **M1 Qin cold start**: 3 rulers + 15 related figures + 20 events
 - ✅ **M2 Han scale-up**: 31 imperial figures + 74 era names + 19 major events
-- ✅ **M2.5 Wei-Jin & N/S Dynasties**: 86 rulers + 182 era names + 12 major events (current)
+- ✅ **M2.5 Wei-Jin & N/S Dynasties**: 86 rulers + 182 era names + 12 major events
+- ✅ **M2.6 Sui-Tang & Five Dynasties**: 39 rulers + 95 era names + 15 major events (current)
 - 🔜 **M3 Artifacts**: CC0 Chinese artifacts from Met / Smithsonian open collections
 - 🔜 **M3+**: SQLite builder is ready (`python3 tools/build_sqlite.py`); release automation in `.github/workflows/release.yml`
 - 🔜 **M4**: all dynasties' emperors, showcase gallery
@@ -102,6 +105,7 @@ Made an app (site / app / visualization / AI project)? Open an issue with a link
 
 ## 📝 Changelog
 
+- **2026-10-23** v0.3.0: Sui-Tang & Five Dynasties — 39 rulers, 95 era names, 15 events; 660 entities total
 - **2026-10-23** v0.2.0: Wei-Jin & N/S Dynasties — 86 rulers, 182 era names, 12 events; 503 entities total
 - **2026-10-23** M2.1: 19 Han major events + SQLite builder; 203 entities total
 - **2026-10-23** M2: 31 Han imperial figures + 74 era names; 179 entities total

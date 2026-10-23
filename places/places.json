@@ -509,5 +509,80 @@
       "prompt_version": "weijin-v1",
       "version": 1
     }
+  },
+  {
+    "id": "place.mawei",
+    "name": "马嵬驿",
+    "name_traditional": "馬嵬驛",
+    "type": "site",
+    "modern_name": "陕西省咸阳市兴平市西",
+    "coordinates": {
+      "lat": 34.32,
+      "lng": 108.49,
+      "circa": true
+    },
+    "note": "756年杨贵妃缢死处",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.fanyang",
+    "name": "范阳",
+    "name_traditional": "范陽",
+    "type": "city",
+    "modern_name": "今北京市一带",
+    "coordinates": {
+      "lat": 39.9,
+      "lng": 116.4,
+      "circa": true
+    },
+    "note": "安禄山三镇节度使治所，安史之乱策源地",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.taiyuan",
+    "name": "太原",
+    "name_traditional": "太原",
+    "type": "city",
+    "modern_name": "山西省太原市",
+    "coordinates": {
+      "lat": 37.87,
+      "lng": 112.55,
+      "circa": true
+    },
+    "note": "李渊起兵之地，唐之北都",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
   }
 ]

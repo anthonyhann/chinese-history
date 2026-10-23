@@ -1,0 +1,112 @@
+[
+  {
+    "id": "era.sui.kaihuang",
+    "name": "开皇",
+    "dynasty": "dynasty.sui",
+    "emperor": "person.sui.yangjian",
+    "era_name": "开皇",
+    "start": 581,
+    "end": 600,
+    "note": "开皇之治",
+    "sources": [
+      {
+        "title": "隋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sui.renshou",
+    "name": "仁寿",
+    "dynasty": "dynasty.sui",
+    "emperor": "person.sui.yangjian",
+    "era_name": "仁寿",
+    "start": 601,
+    "end": 604,
+    "note": "",
+    "sources": [
+      {
+        "title": "隋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sui.daye",
+    "name": "大业",
+    "dynasty": "dynasty.sui",
+    "emperor": "person.sui.yangguang",
+    "era_name": "大业",
+    "start": 605,
+    "end": 618,
+    "note": "",
+    "sources": [
+      {
+        "title": "隋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sui.yining",
+    "name": "义宁",
+    "dynasty": "dynasty.sui",
+    "emperor": "person.sui.yangyou",
+    "era_name": "义宁",
+    "start": 617,
+    "end": 618,
+    "note": "李渊所立",
+    "sources": [
+      {
+        "title": "隋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sui.huangtai",
+    "name": "皇泰",
+    "dynasty": "dynasty.sui",
+    "emperor": "person.sui.yangtong",
+    "era_name": "皇泰",
+    "start": 618,
+    "end": 619,
+    "note": "洛阳政权",
+    "sources": [
+      {
+        "title": "隋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

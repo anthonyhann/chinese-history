@@ -1,0 +1,112 @@
+[
+  {
+    "id": "era.later-liang.kaiping",
+    "name": "开平",
+    "dynasty": "dynasty.later-liang",
+    "emperor": "person.later-liang.zhuwen",
+    "era_name": "开平",
+    "start": 907,
+    "end": 911,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-liang.qianhua",
+    "name": "乾化",
+    "dynasty": "dynasty.later-liang",
+    "emperor": "person.later-liang.zhuwen",
+    "era_name": "乾化",
+    "start": 911,
+    "end": 915,
+    "note": "末帝沿用",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-liang.fengli",
+    "name": "凤历",
+    "dynasty": "dynasty.later-liang",
+    "emperor": "person.later-liang.zhuyougui",
+    "era_name": "凤历",
+    "start": 913,
+    "end": 913,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-liang.zhenming",
+    "name": "贞明",
+    "dynasty": "dynasty.later-liang",
+    "emperor": "person.later-liang.zhuyouzhen",
+    "era_name": "贞明",
+    "start": 915,
+    "end": 921,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-liang.longde",
+    "name": "龙德",
+    "dynasty": "dynasty.later-liang",
+    "emperor": "person.later-liang.zhuyouzhen",
+    "era_name": "龙德",
+    "start": 921,
+    "end": 923,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

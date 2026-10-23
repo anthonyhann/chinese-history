@@ -1,0 +1,46 @@
+[
+  {
+    "id": "era.later-zhou.guangshun",
+    "name": "广顺",
+    "dynasty": "dynasty.later-zhou",
+    "emperor": "person.later-zhou.guowei",
+    "era_name": "广顺",
+    "start": 951,
+    "end": 953,
+    "note": "",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-zhou.xiande",
+    "name": "显德",
+    "dynasty": "dynasty.later-zhou",
+    "emperor": "person.later-zhou.chairong",
+    "era_name": "显德",
+    "start": 954,
+    "end": 960,
+    "note": "世宗、恭帝沿用",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]

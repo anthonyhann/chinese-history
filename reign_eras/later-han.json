@@ -1,0 +1,46 @@
+[
+  {
+    "id": "era.later-han.tianfu-houhan",
+    "name": "天福",
+    "dynasty": "dynasty.later-han",
+    "emperor": "person.later-han.liuzhiyuan",
+    "era_name": "天福",
+    "start": 947,
+    "end": 947,
+    "note": "沿用后晋年号",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-han.qianyou",
+    "name": "乾祐",
+    "dynasty": "dynasty.later-han",
+    "emperor": "person.later-han.liuzhiyuan",
+    "era_name": "乾祐",
+    "start": 948,
+    "end": 950,
+    "note": "隐帝沿用",
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "suitang-v1",
+      "version": 1
+    }
+  }
+]
