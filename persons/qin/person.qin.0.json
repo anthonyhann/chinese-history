@@ -1,0 +1,1007 @@
+[
+  {
+    "id": "person.qin.yingzheng",
+    "uuid": "783580d9-8f4a-4650-b293-d7b958fb9315",
+    "name": "嬴政",
+    "name_traditional": "嬴政",
+    "titles": [
+      "秦始皇",
+      "始皇帝",
+      "祖龙"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": {
+      "year": -259,
+      "circa": false,
+      "original": "秦昭襄王四十八年正月，生于邯郸",
+      "disputed": []
+    },
+    "death": {
+      "year": -210,
+      "circa": false,
+      "original": "秦始皇三十七年七月丙寅，崩于沙丘平台",
+      "disputed": []
+    },
+    "reign": {
+      "start": -247,
+      "end": -210,
+      "note": "前247年即位为秦王（时年十三），前238年亲政，前221年统一六国称始皇帝"
+    },
+    "family": {
+      "father": "person.qin.zichu",
+      "mother": "person.qin.zhaoji",
+      "spouses": [],
+      "children": [
+        "person.qin.fusu",
+        "person.qin.huhai"
+      ]
+    },
+    "predecessor": "person.qin.zichu",
+    "successor": "person.qin.huhai",
+    "bio": "中国历史上第一位称皇帝的君主。十三岁即秦王位，先后铲除嫪毐、吕不韦集团，前230年至前221年陆续攻灭韩、赵、魏、楚、燕、齐，完成统一。创立皇帝制度，废分封行郡县，书同文、车同轨、统一度量衡，北击匈奴修筑长城，南征百越。晚年求仙访药、大兴土木，前210年第五次东巡途中崩于沙丘平台。其制度框架为后世两千年帝制所沿用，评价历来毁誉参半。",
+    "events": [
+      "event.qin.mie-han",
+      "event.qin.mie-zhao",
+      "event.qin.mie-wei",
+      "event.qin.mie-chu",
+      "event.qin.mie-yan",
+      "event.qin.mie-qi",
+      "event.qin.unification",
+      "event.qin.junxian",
+      "event.qin.standardization",
+      "event.qin.chidao",
+      "event.qin.north-xiongnu",
+      "event.qin.changcheng",
+      "event.qin.fenshu",
+      "event.qin.kengru",
+      "event.qin.shaqiu-bian"
+    ],
+    "artifacts": [
+      "artifact.qin.terracotta-general"
+    ],
+    "wikidata": "Q7192",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "Wikidata Q7192",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7192"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.huhai",
+    "uuid": "533fa561-1de1-4d63-99ce-acf97fb76b84",
+    "name": "胡亥",
+    "name_traditional": "胡亥",
+    "titles": [
+      "秦二世"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": {
+      "year": -230,
+      "circa": false,
+      "original": "秦始皇之子，少子",
+      "disputed": []
+    },
+    "death": {
+      "year": -207,
+      "circa": false,
+      "original": "二世三年八月，被逼自杀于望夷宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -210,
+      "end": -207,
+      "note": "沙丘之变后在赵高、李斯支持下继位"
+    },
+    "family": {
+      "father": "person.qin.yingzheng",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.qin.yingzheng",
+    "successor": "person.qin.ziying",
+    "bio": "秦始皇第十八子（少子）。前210年始皇崩于沙丘，赵高、李斯矫诏赐死扶苏，立胡亥为二世皇帝。在位期间诛杀诸公子公主、大臣，朝政实归赵高，赋敛愈重、刑戮日甚，激起大泽乡起义与关东大乱。前207年刘邦入关在即，赵高指使阎乐逼其自杀于望夷宫，以庶人礼葬。",
+    "events": [
+      "event.qin.shaqiu-bian",
+      "event.qin.zhilu-weima",
+      "event.qin.dazexiang"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·李斯列传",
+        "type": "primary",
+        "ref": "卷八十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.ziying",
+    "uuid": "f330e8ea-5511-41dc-9b3a-83d9582295e9",
+    "name": "子婴",
+    "name_traditional": "子嬰",
+    "titles": [
+      "秦王",
+      "秦三世"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "monarch"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -206,
+      "circa": false,
+      "original": "汉元年，项羽入咸阳后杀子婴及秦诸公子宗族",
+      "disputed": []
+    },
+    "reign": {
+      "start": -207,
+      "end": -206,
+      "note": "前207年赵高弑二世后立子婴，去帝号称秦王；在位四十六日即降刘邦"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.qin.huhai",
+    "successor": null,
+    "bio": "秦朝末代君主，身世记载不详（或说始皇之孙、扶苏之子，或说始皇之弟）。即位前曾谏阻胡亥诛蒙恬兄弟。即位后五日与子宦者韩谈合谋诛杀赵高，夷其三族。前206年刘邦军至霸上，子婴素车白马、系颈以组，封皇帝玺符节，降于轵道旁，秦亡。刘邦入咸阳后月余，项羽至，杀子婴及秦诸公子宗族。",
+    "events": [
+      "event.qin.ruguan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·高祖本纪",
+        "type": "primary",
+        "ref": "卷八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.zichu",
+    "uuid": "0ad6ae90-6668-4ee6-a8ad-20ef6ce2b9d6",
+    "name": "子楚",
+    "name_traditional": "子楚",
+    "titles": [
+      "秦庄襄王",
+      "庄襄王"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "monarch"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": {
+      "year": -281,
+      "circa": true,
+      "original": "",
+      "disputed": []
+    },
+    "death": {
+      "year": -247,
+      "circa": false,
+      "original": "庄襄王三年五月丙午薨",
+      "disputed": []
+    },
+    "reign": {
+      "start": -249,
+      "end": -247,
+      "note": "原名异人，为质于赵，经吕不韦运作立为太子，孝文王死后继位"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [
+        "person.qin.zhaoji"
+      ],
+      "children": [
+        "person.qin.yingzheng"
+      ]
+    },
+    "predecessor": null,
+    "successor": "person.qin.yingzheng",
+    "bio": "秦始皇之父，本名异人，秦昭襄王之孙，早年为质于邯郸。商人吕不韦视为「奇货可居」，出资游说华阳夫人收其为嗣，改名子楚。秦孝文王（安国君）死后继位，在位三年，灭东周国，以吕不韦为相邦。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·秦本纪",
+        "type": "primary",
+        "ref": "卷五"
+      },
+      {
+        "title": "史记·吕不韦列传",
+        "type": "primary",
+        "ref": "卷八十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.zhaoji",
+    "uuid": "49814c6c-8a3d-4a08-b2f6-2c07f3fd72ad",
+    "name": "赵姬",
+    "name_traditional": "趙姬",
+    "titles": [
+      "帝太后"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "empress_dowager"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -228,
+      "circa": false,
+      "original": "秦王政十九年，太后薨",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [
+        "person.qin.zichu"
+      ],
+      "children": [
+        "person.qin.yingzheng"
+      ]
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "秦始皇生母，本为吕不韦姬妾，后归子楚。子楚死后被尊为太后，与嫪毐私通生二子，嫪毐之乱平定后被迁于雍地萯阳宫，后经茅焦劝谏复归咸阳。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·吕不韦列传",
+        "type": "primary",
+        "ref": "卷八十五"
+      },
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.lvbuwei",
+    "uuid": "88c052d7-07ca-48a3-883c-823d153b841f",
+    "name": "吕不韦",
+    "name_traditional": "呂不韋",
+    "titles": [
+      "仲父",
+      "文信侯"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "chancellor",
+      "merchant"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -235,
+      "circa": false,
+      "original": "秦王政十二年，饮鸩自杀",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "卫国濮阳人，大商人。以「奇货可居」投资在赵为质的异人（子楚），助其继位为秦庄襄王，自任相邦，封文信侯，食邑十万户。庄襄王死后辅年幼的秦王政，称仲父，权倾一时；召集门客编撰《吕氏春秋》，悬金求瑕。后因嫪毐之乱受牵连被罢相流放蜀地，途中饮鸩自尽。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·吕不韦列传",
+        "type": "primary",
+        "ref": "卷八十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.lisi",
+    "uuid": "33df023b-f8a8-42df-8208-7bfcb3658f6c",
+    "name": "李斯",
+    "name_traditional": "李斯",
+    "titles": [
+      "丞相"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": {
+      "year": -280,
+      "circa": true,
+      "original": "",
+      "disputed": []
+    },
+    "death": {
+      "year": -208,
+      "circa": false,
+      "original": "二世二年七月，具五刑，腰斩于咸阳市，夷三族",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "楚国上蔡人，师从荀卿，与韩非同学。入秦后为吕不韦舍人，渐升至廷尉、丞相，是秦制的主要设计者：力主郡县制、书同文（作《仓颉篇》小篆范本）、统一度量衡，亦倡焚书之议。始皇崩后与赵高合谋沙丘之变，立胡亥。后为赵高构陷，腰斩于咸阳，临刑顾谓其子「欲牵黄犬出上蔡东门，不可得矣」。",
+    "events": [
+      "event.qin.junxian",
+      "event.qin.standardization",
+      "event.qin.fenshu",
+      "event.qin.shaqiu-bian"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·李斯列传",
+        "type": "primary",
+        "ref": "卷八十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.zhaogao",
+    "uuid": "e378318b-80cb-461d-8c81-9949b8d779f4",
+    "name": "赵高",
+    "name_traditional": "趙高",
+    "titles": [
+      "中丞相"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "eunuch",
+      "chancellor"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -207,
+      "circa": false,
+      "original": "二世三年九月，为子婴与其子及宦者韩谈合谋刺杀，夷三族",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "秦中车府令，精通狱法，为胡亥之师。沙丘之变的主谋：匿始皇遗诏，胁李斯矫诏立胡亥、赐死扶苏与蒙恬。二世朝权倾朝野，任郎中令、中丞相，诛戮大臣宗室，「指鹿为马」以测群臣。关东大乱后逼杀二世，去帝号立子婴为秦王，旋为子婴所杀。",
+    "events": [
+      "event.qin.shaqiu-bian",
+      "event.qin.zhilu-weima"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·李斯列传",
+        "type": "primary",
+        "ref": "卷八十七"
+      },
+      {
+        "title": "史记·蒙恬列传",
+        "type": "primary",
+        "ref": "卷八十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.fusu",
+    "uuid": "d7021cc4-3e36-4871-be42-0e5e1fcf960f",
+    "name": "扶苏",
+    "name_traditional": "扶蘇",
+    "titles": [
+      "公子扶苏"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "prince"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -210,
+      "circa": false,
+      "original": "始皇三十七年，被矫诏赐死于上郡",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": "person.qin.yingzheng",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "秦始皇长子。因谏阻坑儒触怒始皇，被派往上郡监蒙恬军。始皇崩于沙丘，遗诏本令扶苏与丧会咸阳而葬（古来解读多认为属意扶苏继位），赵高、李斯矫诏赐其自尽。扶苏奉诏即自杀，蒙恬劝其复请未果。陈胜吴广起义时曾假托扶苏名义以收人心。",
+    "events": [
+      "event.qin.kengru",
+      "event.qin.shaqiu-bian"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·李斯列传",
+        "type": "primary",
+        "ref": "卷八十七"
+      },
+      {
+        "title": "史记·陈涉世家",
+        "type": "primary",
+        "ref": "卷四十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.mengtian",
+    "uuid": "795c52a3-faab-47df-8569-ad2e3eeb2cfc",
+    "name": "蒙恬",
+    "name_traditional": "蒙恬",
+    "titles": [
+      "将军"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -210,
+      "circa": false,
+      "original": "始皇三十七年，被囚于阳周，吞药自杀",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "名将世家，祖父蒙骜、父蒙武皆为秦将。前215年率三十万大军北击匈奴，收河南地，主持修筑西起临洮、东至辽东的万里长城，驻守上郡十余年威震匈奴。沙丘之变后被赵高矫诏系狱，吞药自杀。传说改良毛笔（「蒙恬造笔」为后世附会之说）。",
+    "events": [
+      "event.qin.north-xiongnu",
+      "event.qin.changcheng",
+      "event.qin.shaqiu-bian"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·蒙恬列传",
+        "type": "primary",
+        "ref": "卷八十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.mengyi",
+    "uuid": "f263fe83-e69f-4b49-abab-0d960af12427",
+    "name": "蒙毅",
+    "name_traditional": "蒙毅",
+    "titles": [
+      "上卿"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "official"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -210,
+      "circa": false,
+      "original": "始皇三十七年，被杀于代",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "蒙恬之弟，始皇近臣，位至上卿，出则参乘、入则御前。曾依法判处赵高死罪，始皇赦之，由此与赵高结怨。沙丘之变后被赵高构陷，囚于代地杀害。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·蒙恬列传",
+        "type": "primary",
+        "ref": "卷八十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.wangjian",
+    "uuid": "617a7adb-76b4-431b-8d60-31e6cc062cf4",
+    "name": "王翦",
+    "name_traditional": "王翦",
+    "titles": [
+      "武成侯"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": null,
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.qin.wangben"
+      ]
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "频阳东乡人，秦统一战争中最主要的统帅。破赵、下燕，前224年以六十万大军伐楚，坚壁养锐后一举击溃楚军，杀项燕，次年俘楚王负刍。伐楚前以「请田宅自污」释始皇猜忌，为战国四大名将（白起、王翦、廉颇、李牧）中难得善终者。",
+    "events": [
+      "event.qin.mie-zhao",
+      "event.qin.mie-yan",
+      "event.qin.mie-chu"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·白起王翦列传",
+        "type": "primary",
+        "ref": "卷七十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.wangben",
+    "uuid": "9c76826c-0698-4b7d-bff8-6bb1730958f2",
+    "name": "王贲",
+    "name_traditional": "王賁",
+    "titles": [
+      "通武侯"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": null,
+    "reign": null,
+    "family": {
+      "father": "person.qin.wangjian",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "王翦之子。前225年引水灌大梁灭魏，前222年攻灭燕国辽东残余与代国，前221年自燕南突袭临淄，齐王建不战而降，六国遂平。父子二人包办五国之灭。",
+    "events": [
+      "event.qin.mie-wei",
+      "event.qin.mie-yan",
+      "event.qin.mie-qi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·白起王翦列传",
+        "type": "primary",
+        "ref": "卷七十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.lixin",
+    "uuid": "8c1b789f-ad51-4f61-9385-cc5c9c099d53",
+    "name": "李信",
+    "name_traditional": "李信",
+    "titles": [
+      "将军"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": null,
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "年轻骁勇的秦将。伐燕时率数千兵逐燕太子丹至衍水，获其首级。前225年夸口二十万兵可灭楚，初胜后为楚将项燕尾随三日夜大破之，七都尉阵亡，为秦统一战争中少有的惨败。后随王贲平定燕齐，封陇西侯。",
+    "events": [
+      "event.qin.mie-yan",
+      "event.qin.mie-chu"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·白起王翦列传",
+        "type": "primary",
+        "ref": "卷七十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.zhanghan",
+    "uuid": "6bff3116-e964-4c02-9299-ac28066acdf7",
+    "name": "章邯",
+    "name_traditional": "章邯",
+    "titles": [
+      "雍王"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -205,
+      "circa": false,
+      "original": "汉二年，废丘城破自杀",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "秦末最后的名将，官至少府。陈胜部将周文兵临戏水时，建议二世赦骊山刑徒授兵以击之，连破周文、田臧，击杀项梁于定陶。后围巨鹿，项羽破釜沉舟大破其军；章邯惧赵高谗害，率二十万众降项羽。项羽分封其为雍王，据关中以西。楚汉战争中为刘邦所围，废丘城破自杀。",
+    "events": [
+      "event.qin.julu",
+      "event.qin.xinan-kengsha"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·项羽本纪",
+        "type": "primary",
+        "ref": "卷七"
+      },
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.chensheng",
+    "uuid": "b0295aef-7a06-4e76-8541-5f54268dc01a",
+    "name": "陈胜",
+    "name_traditional": "陳勝",
+    "titles": [
+      "陈王",
+      "张楚王"
+    ],
+    "courtesy_name": "涉",
+    "category": [
+      "rebel"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -208,
+      "circa": false,
+      "original": "二世二年，败走下城父，为御者庄贾所杀",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "阳城人，字涉，雇农出身，少有「鸿鹄之志」。前209年与吴广率九百戍卒赴渔阳，遇雨失期，按秦法当斩，遂于大泽乡揭竿而起，自立为将军、旋称王，国号张楚，天下云集响应。分兵略地而部将多自专，终为秦将章邯所败，被车夫庄贾杀害。「王侯将相宁有种乎」一语千古传诵。",
+    "events": [
+      "event.qin.dazexiang"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·陈涉世家",
+        "type": "primary",
+        "ref": "卷四十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.wuguang",
+    "uuid": "91adbfed-71e9-4fdf-a1f9-4f1814be1da0",
+    "name": "吴广",
+    "name_traditional": "吳廣",
+    "titles": [
+      "假王"
+    ],
+    "courtesy_name": "叔",
+    "category": [
+      "rebel"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": null,
+    "death": {
+      "year": -208,
+      "circa": false,
+      "original": "二世二年，围荥阳时为部将田臧矫陈王令所杀",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "阳夏人，字叔。素爱人，士卒多为用者。与陈胜共谋起事，以鱼腹丹书、篝火狐鸣造舆论，激将尉而杀之，为起义直接发动者之一。陈胜称王后任假王，率主力西围荥阳久攻不下，部将田臧矫诏杀之。",
+    "events": [
+      "event.qin.dazexiang"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·陈涉世家",
+        "type": "primary",
+        "ref": "卷四十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qin.xiangyu",
+    "uuid": "c5878c19-0dd3-4dbc-933a-ae233cf51772",
+    "name": "项羽",
+    "name_traditional": "項羽",
+    "titles": [
+      "西楚霸王"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "warlord",
+      "general"
+    ],
+    "dynasty": "dynasty.qin",
+    "birth": {
+      "year": -232,
+      "circa": false,
+      "original": "下相人，名籍，字羽",
+      "disputed": []
+    },
+    "death": {
+      "year": -202,
+      "circa": false,
+      "original": "汉五年，兵败垓下，自刎于乌江",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "名籍字羽，下相人，楚将项燕之孙，季父项梁。少时见始皇仪仗即言「彼可取而代也」。前209年随项梁起兵，巨鹿之战破釜沉舟，九战九捷，歼灭秦军主力，为灭秦首功。前206年入关分封十八诸侯，自号西楚霸王。其后与刘邦四年楚汉相争，垓下被围，乌江自刎，年三十一。",
+    "events": [
+      "event.qin.julu",
+      "event.qin.xinan-kengsha",
+      "event.han.chuhan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·项羽本纪",
+        "type": "primary",
+        "ref": "卷七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  }
+]

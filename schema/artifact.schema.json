@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://chinese-history.org/schema/artifact.schema.json",
+  "title": "Artifact 文物",
+  "description": "文物实体。事实数据 CC0；images 逐条标注许可，非 CC0 图片只放链接字段 link 不放 url",
+  "type": "object",
+  "required": ["id", "uuid", "name", "dynasty", "category", "current_holder", "data_license", "sources", "_meta"],
+  "properties": {
+    "id": {"type": "string"},
+    "uuid": {"type": "string"},
+    "name": {"type": "string"},
+    "name_traditional": {"type": "string"},
+    "name_en": {"type": ["string", "null"]},
+    "dynasty": {"type": "string"},
+    "date": {"$ref": "common.schema.json#/definitions/timeRange"},
+    "category": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+    "material": {"type": "array", "items": {"type": "string"}},
+    "dimensions": {"type": ["string", "null"]},
+    "description": {"type": "string"},
+    "current_holder": {
+      "type": "object",
+      "required": ["museum"],
+      "properties": {
+        "museum": {"type": "string", "description": "museum id 引用"},
+        "city": {"type": "string"},
+        "country": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "provenance": {"type": ["string", "null"], "description": "流传经历"},
+    "related_persons": {"type": "array", "items": {"type": "string"}},
+    "related_events": {"type": "array", "items": {"type": "string"}},
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["license", "source"],
+        "properties": {
+          "url": {"type": "string", "description": "仅当 license 为 CC0 时可直接放图床地址"},
+          "link": {"type": "string", "description": "非 CC0 时放源站页面链接"},
+          "license": {"type": "string", "enum": ["CC0", "CC BY", "CC BY-SA", "CC BY-NC-SA", "copyrighted"]},
+          "source": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    },
+    "data_license": {"type": "string", "enum": ["CC0", "CC BY-SA"]},
+    "sources": {"type": "array", "minItems": 1},
+    "_meta": {"type": "object"}
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://chinese-history.org/schema/person.schema.json",
+  "title": "Person 人物",
+  "description": "人物实体。id 规则：person.{dynasty_slug}.{pinyin_name}；category 至少含一个；emperor 类必须填 reign/predecessor/successor（可为 null）",
+  "type": "object",
+  "required": ["id", "uuid", "name", "category", "dynasty", "sources", "_meta"],
+  "properties": {
+    "id": {"type": "string"},
+    "uuid": {"type": "string"},
+    "name": {"type": "string"},
+    "name_traditional": {"type": "string"},
+    "titles": {"type": "array", "items": {"type": "string"}, "description": "尊号/庙号/谥号等"},
+    "courtesy_name": {"type": ["string", "null"], "description": "字"},
+    "category": {"type": "array", "minItems": 1, "items": {"type": "string"},
+                 "description": "如 emperor / monarch / general / chancellor / rebel / empress_dowager"},
+    "dynasty": {"type": "string", "description": "主属朝代 id 引用，如 dynasty.qin"},
+    "birth": {"$ref": "common.schema.json#/definitions/timePoint"},
+    "death": {"$ref": "common.schema.json#/definitions/timePoint"},
+    "reign": {
+      "type": ["object", "null"],
+      "required": ["start", "end"],
+      "properties": {
+        "start": {"type": "integer"},
+        "end": {"type": "integer"},
+        "note": {"type": "string"}
+      }
+    },
+    "family": {
+      "type": "object",
+      "properties": {
+        "father": {"type": ["string", "null"]},
+        "mother": {"type": ["string", "null"]},
+        "spouses": {"type": "array", "items": {"type": "string"}},
+        "children": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "predecessor": {"type": ["string", "null"], "description": "前任君主 id"},
+    "successor": {"type": ["string", "null"], "description": "继任君主 id"},
+    "bio": {"type": "string", "description": "原创描述文本（CC BY-SA），禁止照搬维基百科"},
+    "events": {"type": "array", "items": {"type": "string"}},
+    "artifacts": {"type": "array", "items": {"type": "string"}},
+    "wikidata": {"type": ["string", "null"], "pattern": "^Q[0-9]+$"},
+    "sources": {"type": "array", "minItems": 1},
+    "_meta": {"type": "object"}
+  },
+  "additionalProperties": false
+}

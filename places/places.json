@@ -1,0 +1,338 @@
+[
+  {
+    "id": "place.xianyang",
+    "name": "咸阳",
+    "name_traditional": "咸陽",
+    "type": "city",
+    "modern_name": "陕西省咸阳市",
+    "coordinates": {
+      "lat": 34.329,
+      "lng": 108.709,
+      "circa": true
+    },
+    "note": "秦都，前350年秦孝公迁都于此",
+    "sources": [
+      {
+        "title": "史记·秦本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.handan",
+    "name": "邯郸",
+    "name_traditional": "邯鄲",
+    "type": "city",
+    "modern_name": "河北省邯郸市",
+    "coordinates": {
+      "lat": 36.625,
+      "lng": 114.539,
+      "circa": true
+    },
+    "note": "战国赵都；嬴政出生于此",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.shanqiu",
+    "name": "沙丘平台",
+    "name_traditional": "沙丘平臺",
+    "type": "site",
+    "modern_name": "河北省邢台市广宗县大平台乡一带",
+    "coordinates": {
+      "lat": 37.07,
+      "lng": 115.06,
+      "circa": true
+    },
+    "note": "秦始皇三十七年（前210年）始皇东巡崩于此；赵武灵王亦困死于此",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.wangyi-gong",
+    "name": "望夷宫",
+    "name_traditional": "望夷宮",
+    "type": "palace",
+    "modern_name": "陕西省咸阳市泾阳县一带",
+    "coordinates": {
+      "lat": 34.53,
+      "lng": 108.95,
+      "circa": true
+    },
+    "note": "秦二世胡亥被赵高逼迫自杀处",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.dazexiang",
+    "name": "大泽乡",
+    "name_traditional": "大澤鄉",
+    "type": "site",
+    "modern_name": "安徽省宿州市埇桥区",
+    "coordinates": {
+      "lat": 33.65,
+      "lng": 116.98,
+      "circa": true
+    },
+    "note": "前209年陈胜吴广起义爆发地",
+    "sources": [
+      {
+        "title": "史记·陈涉世家",
+        "type": "primary",
+        "ref": "卷四十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.julu",
+    "name": "巨鹿",
+    "name_traditional": "鉅鹿",
+    "type": "city",
+    "modern_name": "河北省邢台市平乡县西南",
+    "coordinates": {
+      "lat": 37.06,
+      "lng": 115.03,
+      "circa": true
+    },
+    "note": "前207年项羽破釜沉舟大破秦军主力处",
+    "sources": [
+      {
+        "title": "史记·项羽本纪",
+        "type": "primary",
+        "ref": "卷七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.guanzhong",
+    "name": "关中",
+    "name_traditional": "關中",
+    "type": "region",
+    "modern_name": "陕西省渭河平原",
+    "coordinates": null,
+    "note": "四关之中的渭河平原，秦腹地",
+    "sources": [
+      {
+        "title": "史记",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.xinan",
+    "name": "新安",
+    "name_traditional": "新安",
+    "type": "city",
+    "modern_name": "河南省洛阳市新安县／义马市一带",
+    "coordinates": {
+      "lat": 34.75,
+      "lng": 112.13,
+      "circa": true
+    },
+    "note": "前206年项羽坑杀秦降卒二十余万于此",
+    "sources": [
+      {
+        "title": "史记·项羽本纪",
+        "type": "primary",
+        "ref": "卷七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.lintong",
+    "name": "骊山（临潼）",
+    "name_traditional": "驪山（臨潼）",
+    "type": "site",
+    "modern_name": "陕西省西安市临潼区",
+    "coordinates": {
+      "lat": 34.371,
+      "lng": 109.213,
+      "circa": true
+    },
+    "note": "秦始皇陵及兵马俑坑所在地",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.changan",
+    "name": "长安",
+    "name_traditional": "長安",
+    "type": "city",
+    "modern_name": "陕西省西安市",
+    "coordinates": {
+      "lat": 34.341,
+      "lng": 108.939,
+      "circa": true
+    },
+    "note": "西汉都城；新莽、玄汉、赤眉政权亦都于此",
+    "sources": [
+      {
+        "title": "汉书·地理志",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-events-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.luoyang",
+    "name": "洛阳",
+    "name_traditional": "洛陽",
+    "type": "city",
+    "modern_name": "河南省洛阳市",
+    "coordinates": {
+      "lat": 34.618,
+      "lng": 112.454,
+      "circa": true
+    },
+    "note": "东汉都城",
+    "sources": [
+      {
+        "title": "后汉书·郡国志",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-events-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.kunyang",
+    "name": "昆阳",
+    "name_traditional": "昆陽",
+    "type": "city",
+    "modern_name": "河南省平顶山市叶县",
+    "coordinates": {
+      "lat": 33.62,
+      "lng": 113.35,
+      "circa": true
+    },
+    "note": "公元23年刘秀以少胜多大破新莽大军处",
+    "sources": [
+      {
+        "title": "后汉书·光武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-events-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.baideng",
+    "name": "白登山",
+    "name_traditional": "白登山",
+    "type": "site",
+    "modern_name": "山西省大同市东北",
+    "coordinates": {
+      "lat": 40.15,
+      "lng": 113.35,
+      "circa": true
+    },
+    "note": "前200年刘邦被匈奴围困处",
+    "sources": [
+      {
+        "title": "史记·匈奴列传",
+        "type": "primary",
+        "ref": "卷一百一十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-events-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.yanran",
+    "name": "燕然山",
+    "name_traditional": "燕然山",
+    "type": "site",
+    "modern_name": "蒙古国杭爱山",
+    "coordinates": {
+      "lat": 47.0,
+      "lng": 100.3,
+      "circa": true
+    },
+    "note": "公元89年窦宪大破北匈奴、班固勒石记功处；《封燕然山铭》摩崖2017年于杭爱山被发现确认",
+    "sources": [
+      {
+        "title": "后汉书·窦融列传（附窦宪）",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-events-v1",
+      "version": 1
+    }
+  }
+]

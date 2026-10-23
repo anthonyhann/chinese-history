@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://chinese-history.org/schema/common.schema.json",
+  "title": "Common 公共定义",
+  "description": "所有实体共享的公共结构：时间双轨、出处、元信息。validate.py 以此为可执行契约。",
+  "definitions": {
+    "timePoint": {
+      "type": "object",
+      "description": "时间双轨制：original 存史料原文表述，year 存归一化公历（负数为公元前）；circa 表约数；disputed 存学术争议的其他说法",
+      "required": ["year"],
+      "properties": {
+        "year": {"type": "integer", "description": "公历年，公元前为负数。如 -221 = 公元前221年"},
+        "circa": {"type": "boolean", "default": false},
+        "original": {"type": "string", "description": "史料原文纪年，如 秦始皇三十七年七月丙寅"},
+        "disputed": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["year", "source"],
+            "properties": {
+              "year": {"type": "integer"},
+              "source": {"type": "string", "description": "该说法的出处"}
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "timeRange": {
+      "type": "object",
+      "required": ["start", "end"],
+      "properties": {
+        "start": {"type": "integer"},
+        "end": {"type": "integer"},
+        "circa": {"type": "boolean", "default": false},
+        "original": {"type": "string"},
+        "precision": {"type": "string", "enum": ["day", "month", "year", "decade", "century"]}
+      },
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "description": "出处。无出处的数据不允许合并（CI 强制）",
+      "required": ["title", "type"],
+      "properties": {
+        "title": {"type": "string", "minLength": 1, "description": "如 史记·秦始皇本纪"},
+        "type": {"type": "string", "enum": ["primary", "secondary", "reference", "institutional", "archaeological"],
+                 "description": "primary=一手史料；secondary=后世研究；reference=工具书/Wikidata；institutional=机构目录；archaeological=考古报告"},
+        "ref": {"type": "string", "description": "卷次/页码等定位信息"},
+        "url": {"type": "string", "format": "uri"}
+      },
+      "additionalProperties": false
+    },
+    "meta": {
+      "type": "object",
+      "description": "生产元信息，保证可复现性",
+      "required": ["created_by", "version"],
+      "properties": {
+        "created_by": {"type": "string", "enum": ["ai-pipeline", "human", "import"]},
+        "model": {"type": "string"},
+        "prompt_version": {"type": "string"},
+        "verified_by": {"type": "string"},
+        "verified_at": {"type": "string"},
+        "version": {"type": "integer", "minimum": 1}
+      },
+      "additionalProperties": false
+    },
+    "entityBase": {
+      "required": ["id", "uuid", "name", "sources", "_meta"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z]+(\\.[a-z0-9-]+)+$", "description": "entity.domain[.slug]，如 person.qin.yingzheng / dynasty.qin"},
+        "uuid": {"type": "string", "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"},
+        "name": {"type": "string", "minLength": 1},
+        "name_traditional": {"type": "string"},
+        "sources": {"type": "array", "minItems": 1},
+        "_meta": {"$ref": "#/definitions/meta"}
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+name: release
+
+on:
+  push:
+    tags: ["v*"]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate data
+        run: python3 tools/validate.py
+      - name: Build SQLite
+        run: python3 tools/build_sqlite.py
+      - name: Package JSON snapshot
+        run: |
+          mkdir -p dist/json
+          cp -r persons events artifacts dynasties reign_eras places museums dist/json/
+          cd dist && zip -qr chinese-history-json.zip json
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/chinese-history.sqlite
+            dist/chinese-history-json.zip
+          generate_release_notes: true

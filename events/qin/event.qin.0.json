@@ -1,0 +1,981 @@
+[
+  {
+    "id": "event.qin.mie-han",
+    "uuid": "2595cae0-c4ea-4361-82ba-c89a127e69c2",
+    "name": "秦灭韩",
+    "name_traditional": "秦滅韓",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": -230,
+      "end": -230,
+      "original": "秦王政十七年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "秦王政十七年，内史腾率军攻韩，俘韩王安，韩国成为六国中第一个被灭的国家，其地置颍川郡。",
+    "outcome": "韩国灭亡，秦统一战争开始",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.mie-zhao",
+    "uuid": "f3ad7e29-1b08-4f7e-b7ff-1405a3b1698e",
+    "name": "秦灭赵",
+    "name_traditional": "秦滅趙",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": -229,
+      "end": -228,
+      "original": "秦王政十八年至十九年",
+      "precision": "year"
+    },
+    "place": [
+      "place.handan"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "monarch"
+      },
+      {
+        "person": "person.qin.wangjian",
+        "role": "general"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "王翦等分路攻赵，以反间计使赵杀李牧。前228年破邯郸，俘赵王迁。赵公子嘉逃至代自立为代王，前222年为王贲所灭，赵祀乃绝。",
+    "outcome": "赵国灭亡（残余代国延至前222年）",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·廉颇蔺相如列传",
+        "type": "primary",
+        "ref": "卷八十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.mie-wei",
+    "uuid": "c45820c5-d181-4185-98ce-cc834705f46b",
+    "name": "秦灭魏",
+    "name_traditional": "秦滅魏",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": -225,
+      "end": -225,
+      "original": "秦王政二十二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "monarch"
+      },
+      {
+        "person": "person.qin.wangben",
+        "role": "general"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "王贲引黄河、鸿沟之水灌魏都大梁，三月城坏，魏王假出降，魏亡。",
+    "outcome": "魏国灭亡",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.mie-chu",
+    "uuid": "ecafb611-695f-4076-b2c8-01a3f8568f35",
+    "name": "秦灭楚",
+    "name_traditional": "秦滅楚",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": -225,
+      "end": -223,
+      "original": "秦王政二十二年至二十四年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "monarch"
+      },
+      {
+        "person": "person.qin.lixin",
+        "role": "general"
+      },
+      {
+        "person": "person.qin.wangjian",
+        "role": "general"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "李信轻敌称二十万兵可灭楚，初胜后为项燕尾随三日夜大破，七都尉阵亡。秦王政亲赴频阳请王翦复出，举国六十万兵付之。王翦坚壁不战养其锋锐，乘楚军东撤时追击，大破楚军于蕲南，杀项燕，前223年俘楚王负刍，楚亡。",
+    "outcome": "楚国灭亡，秦扫清统一最大障碍",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·白起王翦列传",
+        "type": "primary",
+        "ref": "卷七十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.mie-yan",
+    "uuid": "5ccbf740-c38c-48de-87f6-983ee2438b20",
+    "name": "秦灭燕",
+    "name_traditional": "秦滅燕",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": -226,
+      "end": -222,
+      "original": "秦王政二十一年至二十五年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "monarch"
+      },
+      {
+        "person": "person.qin.wangjian",
+        "role": "general"
+      },
+      {
+        "person": "person.qin.wangben",
+        "role": "general"
+      },
+      {
+        "person": "person.qin.lixin",
+        "role": "general"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "前227年燕太子丹遣荆轲刺秦王未果，秦大举攻燕。前226年王翦破燕都蓟，燕王喜杀太子丹献首求和，退保辽东。前222年王贲攻辽东，俘燕王喜，燕亡。",
+    "outcome": "燕国灭亡",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·刺客列传",
+        "type": "primary",
+        "ref": "卷八十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.mie-qi",
+    "uuid": "6180cdc7-4639-4a5f-900d-05f09e4e07db",
+    "name": "秦灭齐",
+    "name_traditional": "秦滅齊",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": -221,
+      "end": -221,
+      "original": "秦王政二十六年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "monarch"
+      },
+      {
+        "person": "person.qin.wangben",
+        "role": "general"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "齐长期奉行「事秦」之策，不修攻战之备。王贲军自燕南突袭临淄，齐王建不战而降，被迁于共地，六国尽灭。",
+    "outcome": "齐国灭亡，秦完成统一",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.unification",
+    "uuid": "9b4a4c92-7c6b-435d-b86e-6da074b7ed84",
+    "name": "秦统一六国，创立皇帝制度",
+    "name_traditional": "秦統一六國，創立皇帝制度",
+    "category": [
+      "unification",
+      "institution"
+    ],
+    "time": {
+      "start": -221,
+      "end": -221,
+      "original": "秦王政二十六年",
+      "precision": "year"
+    },
+    "place": [
+      "place.xianyang"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "protagonist"
+      }
+    ],
+    "related_events": [
+      "event.qin.mie-han",
+      "event.qin.mie-zhao",
+      "event.qin.mie-wei",
+      "event.qin.mie-chu",
+      "event.qin.mie-yan",
+      "event.qin.mie-qi"
+    ],
+    "description": "前221年，随着齐亡，秦完成统一。秦王政采「皇帝」尊号，自称始皇帝，命为制、令为诏，天子自称曰朕；废谥法，欲以二世三世至于万世。以咸阳为都，建立中国第一个统一的中央集权王朝。",
+    "outcome": "中国进入帝制时代",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.junxian",
+    "uuid": "9f46b6fd-a316-4f50-80a6-c8e5fcbf82a0",
+    "name": "废分封，行郡县",
+    "name_traditional": "廢分封，行郡縣",
+    "category": [
+      "reform",
+      "institution"
+    ],
+    "time": {
+      "start": -221,
+      "end": -221,
+      "original": "秦始皇二十六年",
+      "precision": "year"
+    },
+    "place": [
+      "place.xianyang"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qin.lisi",
+        "role": "advocate"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "丞相王绾等请立诸子为王分封东方，廷尉李斯力排众议，主张郡县制以绝诸侯争战之源。始皇从之，分天下为三十六郡（后增至四十余郡），郡置守、尉、监，开此后两千余年地方行政之基。",
+    "outcome": "郡县制取代分封制成为帝制中国的地方行政基本框架",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.standardization",
+    "uuid": "4fc50b8b-7116-4f8d-9726-f96ef52fa374",
+    "name": "书同文、车同轨、统一度量衡",
+    "name_traditional": "書同文、車同軌、統一度量衡",
+    "category": [
+      "reform",
+      "standardization"
+    ],
+    "time": {
+      "start": -221,
+      "end": -221,
+      "original": "秦始皇二十六年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qin.lisi",
+        "role": "executant"
+      }
+    ],
+    "related_events": [
+      "event.qin.unification"
+    ],
+    "description": "以小篆为标准字体（李斯作《仓颉篇》、赵高作《爰历篇》为范本），统一车轨宽度、度量衡器（商鞅方升为范式）与货币（半两钱）。这些标准化措施深刻塑造了此后中国的文化认同与经济整合。",
+    "outcome": "文字、度量衡、车轨、货币全国统一",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.chidao",
+    "uuid": "971e6f0d-cf4f-4e5b-af41-6913c11f0979",
+    "name": "修筑驰道",
+    "name_traditional": "修築馳道",
+    "category": [
+      "construction"
+    ],
+    "time": {
+      "start": -220,
+      "end": -220,
+      "original": "秦始皇二十七年",
+      "precision": "year",
+      "circa": true
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "以咸阳为中心修筑通往各地的驰道，东穷燕齐、南极吴楚，道广五十步，三丈而树，构成帝国交通与军事调度网络。",
+    "outcome": "建成全国交通干线网",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.north-xiongnu",
+    "uuid": "befe2bb6-d2cf-4e6d-9566-31c5a452ffe7",
+    "name": "蒙恬北击匈奴",
+    "name_traditional": "蒙恬北擊匈奴",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": -215,
+      "end": -215,
+      "original": "秦始皇三十二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qin.mengtian",
+        "role": "commander"
+      }
+    ],
+    "related_events": [
+      "event.qin.changcheng"
+    ],
+    "description": "秦始皇三十二年，遣蒙恬发兵三十万北击匈奴，略取河南地（今河套地区），设县置守，匈奴北徙十余年不敢南下饮马。",
+    "outcome": "秦控制河套，匈奴远徙",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·匈奴列传",
+        "type": "primary",
+        "ref": "卷一百一十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.changcheng",
+    "uuid": "47896f04-a93b-4794-931c-b63dc9456e76",
+    "name": "修筑万里长城",
+    "name_traditional": "修築萬里長城",
+    "category": [
+      "construction"
+    ],
+    "time": {
+      "start": -215,
+      "end": -210,
+      "original": "秦始皇三十二年至三十七年间",
+      "precision": "year",
+      "circa": true
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qin.mengtian",
+        "role": "executant"
+      }
+    ],
+    "related_events": [
+      "event.qin.north-xiongnu"
+    ],
+    "description": "连接并增筑战国秦、赵、燕三国北长城，西起临洮、东至辽东，延袤万余里。工程依托北击匈奴后新设的北方郡县展开，蒙恬主持，动用军民无数，成为后世长城体系的原型，亦是秦役繁重最具争议的体现。",
+    "outcome": "万里长城成型；民役负担剧增",
+    "sources": [
+      {
+        "title": "史记·蒙恬列传",
+        "type": "primary",
+        "ref": "卷八十八"
+      },
+      {
+        "title": "史记·匈奴列传",
+        "type": "primary",
+        "ref": "卷一百一十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.fenshu",
+    "uuid": "a95fa1b0-d32d-4446-b23d-4a62cae9f63f",
+    "name": "焚书",
+    "name_traditional": "焚書",
+    "category": [
+      "policy",
+      "cultural"
+    ],
+    "time": {
+      "start": -213,
+      "end": -213,
+      "original": "秦始皇三十四年",
+      "precision": "year"
+    },
+    "place": [
+      "place.xianyang"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qin.lisi",
+        "role": "advocate"
+      }
+    ],
+    "related_events": [
+      "event.qin.kengru"
+    ],
+    "description": "始皇三十四年，仆射周青臣颂郡县之功，博士淳于越议师古分封。丞相李斯借此上书：禁私学，烧天下《诗》《书》、百家语（医药卜筮种树之书除外），以吏为师。始皇可其奏。此事被视为中国古代文化专制的标志性事件。",
+    "outcome": "民间所藏诗书包禁毁，私学被禁",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·李斯列传",
+        "type": "primary",
+        "ref": "卷八十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.kengru",
+    "uuid": "8a079bc8-2d5c-417e-a3df-2298faba53ab",
+    "name": "坑儒",
+    "name_traditional": "坑儒",
+    "category": [
+      "policy",
+      "cultural"
+    ],
+    "time": {
+      "start": -212,
+      "end": -212,
+      "original": "秦始皇三十五年",
+      "precision": "year"
+    },
+    "place": [
+      "place.xianyang"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.yingzheng",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qin.fusu",
+        "role": "remonstrant"
+      }
+    ],
+    "related_events": [
+      "event.qin.fenshu"
+    ],
+    "description": "方士侯生、卢生求仙药不得，讥议始皇而去。始皇怒，使御史案问咸阳诸生，相与告发，坑杀四百六十余人。长子扶苏进谏「诸生皆诵法孔子，恐天下不安」，触怒始皇，被派往上郡监蒙恬军。史称「焚书坑儒」。后世对坑杀对象（儒生抑或方士）与人数多有考辨。",
+    "outcome": "四百六十余人被坑杀；扶苏外放上郡",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.shaqiu-bian",
+    "uuid": "2ce6d2d0-1203-4ee8-aa00-5bd4b5e71db4",
+    "name": "沙丘之变",
+    "name_traditional": "沙丘之變",
+    "category": [
+      "coup"
+    ],
+    "time": {
+      "start": -210,
+      "end": -210,
+      "original": "秦始皇三十七年七月",
+      "precision": "month"
+    },
+    "place": [
+      "place.shanqiu"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.zhaogao",
+        "role": "instigator"
+      },
+      {
+        "person": "person.qin.lisi",
+        "role": "accomplice"
+      },
+      {
+        "person": "person.qin.huhai",
+        "role": "beneficiary"
+      },
+      {
+        "person": "person.qin.yingzheng",
+        "role": "deceased"
+      },
+      {
+        "person": "person.qin.fusu",
+        "role": "victim"
+      },
+      {
+        "person": "person.qin.mengtian",
+        "role": "victim"
+      }
+    ],
+    "related_events": [
+      "event.qin.zhilu-weima"
+    ],
+    "description": "始皇第五次东巡，病笃于平原津，遗诏扶苏「与丧会咸阳而葬」。七月丙寅崩于沙丘平台。中车府令赵高匿诏不发，说胡亥、胁李斯，合谋篡改遗诏，立胡亥为太子，另矫诏赐扶苏、蒙恬死。扶苏接诏即自杀于上郡，蒙恬不肯死而被系狱。秘不发丧，车载鲍鱼以乱尸臭，还咸阳后胡亥继位为二世皇帝。",
+    "outcome": "胡亥继位，赵高掌权，秦室根基动摇",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "史记·李斯列传",
+        "type": "primary",
+        "ref": "卷八十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.dazexiang",
+    "uuid": "23d72d35-4317-4347-96e6-c0182b174245",
+    "name": "大泽乡起义",
+    "name_traditional": "大澤鄉起義",
+    "category": [
+      "uprising"
+    ],
+    "time": {
+      "start": -209,
+      "end": -209,
+      "original": "秦二世元年七月",
+      "precision": "month"
+    },
+    "place": [
+      "place.dazexiang"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.chensheng",
+        "role": "instigator"
+      },
+      {
+        "person": "person.qin.wuguang",
+        "role": "instigator"
+      }
+    ],
+    "related_events": [
+      "event.qin.julu",
+      "event.qin.ruguan"
+    ],
+    "description": "二世元年七月，陈胜、吴广等九百戍卒赴渔阳，会天大雨，道不通，度已失期，法皆斩。二人以「王侯将相宁有种乎」相激励，先以鱼腹丹书、篝火狐鸣树威，再杀两尉，斩木为兵、揭竿为旗，诈称公子扶苏、楚将项燕以收人心。陈胜自立为将军，攻下陈县后称王，国号「张楚」，天下郡县苦秦吏者皆刑其长吏以应之，揭开秦末大乱序幕。",
+    "outcome": "张楚政权建立，反秦战争全面爆发",
+    "sources": [
+      {
+        "title": "史记·陈涉世家",
+        "type": "primary",
+        "ref": "卷四十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.zhilu-weima",
+    "uuid": "753ce5ee-79fd-46f9-85a1-3e68f27a76ae",
+    "name": "指鹿为马",
+    "name_traditional": "指鹿為馬",
+    "category": [
+      "coup",
+      "politics"
+    ],
+    "time": {
+      "start": -207,
+      "end": -207,
+      "original": "秦二世三年八月",
+      "precision": "month"
+    },
+    "place": [
+      "place.xianyang"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.zhaogao",
+        "role": "instigator"
+      },
+      {
+        "person": "person.qin.huhai",
+        "role": "subject"
+      }
+    ],
+    "related_events": [
+      "event.qin.shaqiu-bian"
+    ],
+    "description": "赵高欲专权，恐群臣不听，乃先设验：持鹿献于二世曰「马也」。二世笑曰「丞相误邪，谓鹿为马」。问左右，或默，或言马以阿顺赵高，或言鹿。赵高因暗中以法中伤言鹿者。后群臣皆畏高。是月赵高遂使其婿阎乐逼二世于望夷宫自杀。成语「指鹿为马」出此，喻颠倒黑白。",
+    "outcome": "赵高完全掌控朝政，旋弑二世",
+    "sources": [
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.julu",
+    "uuid": "fd351266-3609-470b-9cf5-41c065ad8bd3",
+    "name": "巨鹿之战",
+    "name_traditional": "鉅鹿之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": -208,
+      "end": -207,
+      "original": "秦二世二年末至三年十二月",
+      "precision": "month"
+    },
+    "place": [
+      "place.julu"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.xiangyu",
+        "role": "commander"
+      },
+      {
+        "person": "person.qin.zhanghan",
+        "role": "commander"
+      }
+    ],
+    "related_events": [
+      "event.qin.dazexiang",
+      "event.qin.xinan-kengsha"
+    ],
+    "description": "章邯破项梁后北击赵，围巨鹿。楚怀王遣宋义、项羽救赵，项羽杀逗留不前的宋义夺军，引兵渡河，皆沉船、破釜甑、烧庐舍，持三日粮，示士卒必死。楚军九战九捷，大破秦军，诸侯军作壁上观而后归附。章邯军败势穷，又惧赵高见疑，率二十万众降项羽。",
+    "outcome": "秦军主力覆灭，秦亡已成定局；项羽为诸侯上将军",
+    "sources": [
+      {
+        "title": "史记·项羽本纪",
+        "type": "primary",
+        "ref": "卷七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.ruguan",
+    "uuid": "e11aee1c-6b7a-4d70-bbec-5f594b59accd",
+    "name": "刘邦入关，子婴投降",
+    "name_traditional": "劉邦入關，子嬰投降",
+    "category": [
+      "war",
+      "regime-change"
+    ],
+    "time": {
+      "start": -206,
+      "end": -206,
+      "original": "汉元年十月（秦以十月为岁首）",
+      "precision": "month"
+    },
+    "place": [
+      "place.guanzhong",
+      "place.xianyang"
+    ],
+    "participants": [
+      {
+        "person": "person.han.liubang",
+        "role": "commander"
+      },
+      {
+        "person": "person.qin.ziying",
+        "role": "surrenderer"
+      }
+    ],
+    "related_events": [
+      "event.qin.julu"
+    ],
+    "description": "刘邦乘项羽与秦军主力决战河北之机，自武关入秦。秦王子婴即位四十六日，沛公军至霸上，子婴素车白马，系颈以组，封皇帝玺符节，降于轵道旁。秦亡。刘邦入咸阳，与秦民约法三章：杀人者死，伤人及盗抵罪，余悉除去秦法，秦民大悦。",
+    "outcome": "秦朝正式灭亡",
+    "sources": [
+      {
+        "title": "史记·高祖本纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "史记·秦始皇本纪",
+        "type": "primary",
+        "ref": "卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.xinan-kengsha",
+    "uuid": "e33187b6-cfa0-4143-b88f-11602a9f25eb",
+    "name": "新安坑杀秦降卒",
+    "name_traditional": "新安坑殺秦降卒",
+    "category": [
+      "massacre"
+    ],
+    "time": {
+      "start": -206,
+      "end": -206,
+      "original": "汉元年十一月",
+      "precision": "month"
+    },
+    "place": [
+      "place.xinan"
+    ],
+    "participants": [
+      {
+        "person": "person.qin.xiangyu",
+        "role": "instigator"
+      },
+      {
+        "person": "person.qin.zhanghan",
+        "role": "survivor"
+      }
+    ],
+    "related_events": [
+      "event.qin.julu"
+    ],
+    "description": "项羽率诸侯军及章邯降卒西入关，秦卒多窃语「章将军等诈吾属降诸侯，今能入关破秦，大善；即不能，诸侯虏吾属而东，秦必尽诛吾父母妻子」。项羽恐秦卒入关后哗变，夜击坑杀二十余万人于新安城南，唯与章邯、司马欣、董翳入秦。此举尽失关中人心，与刘邦约法三章形成鲜明对照。",
+    "outcome": "二十余万秦降卒被坑杀，关中民心尽归刘邦",
+    "sources": [
+      {
+        "title": "史记·项羽本纪",
+        "type": "primary",
+        "ref": "卷七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  }
+]

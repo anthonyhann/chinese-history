@@ -1,0 +1,36 @@
+[
+  {
+    "id": "artifact.qin.terracotta-general",
+    "uuid": "9b5c6ff0-eee6-4c7b-a817-df1b2f008a60",
+    "name": "秦高级军吏俑（将军俑）",
+    "name_traditional": "秦高級軍吏俑（將軍俑）",
+    "name_en": "Armored General, Terracotta Army",
+    "dynasty": "dynasty.qin",
+    "date": {"start": -246, "end": -208, "original": "秦代（始皇陵营建期）", "circa": true},
+    "category": ["雕塑", "陶俑"],
+    "material": ["陶土"],
+    "dimensions": "高约196厘米",
+    "description": "秦始皇陵兵马俑坑中级别最高的陶俑，头戴鹖冠，身着双重长襦，外罩彩色鱼鳞甲，双手交叠于腹前拄剑状，神态威严沉静。为研究秦代军制、雕塑工艺与服饰制度的核心实物。",
+    "current_holder": {
+      "museum": "museum.qinshihuang-mausoleum",
+      "city": "西安",
+      "country": "中国"
+    },
+    "provenance": "1974年陕西临潼秦始皇陵兵马俑坑发现，1976年起陆续发掘出土",
+    "related_persons": ["person.qin.yingzheng"],
+    "related_events": [],
+    "images": [
+      {
+        "link": "https://www.bmy.com.cn",
+        "license": "copyrighted",
+        "source": "秦始皇帝陵博物院官网（无开放许可，仅放链接）"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {"title": "秦始皇帝陵博物院藏品信息", "type": "institutional", "url": "https://www.bmy.com.cn"},
+      {"title": "秦始皇陵兵马俑坑一号坑发掘报告", "type": "archaeological"}
+    ],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "seed-v1", "version": 1}
+  }
+]

@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "era.han.jianyuan",
+    "name": "建元",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "建元",
+    "start": -140,
+    "end": -135,
+    "note": "中国历史上第一个年号",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanguang",
+    "name": "元光",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "元光",
+    "start": -134,
+    "end": -129,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanshuo",
+    "name": "元朔",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "元朔",
+    "start": -128,
+    "end": -123,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanshou-wudi",
+    "name": "元狩",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "元狩",
+    "start": -122,
+    "end": -117,
+    "note": "因获白麟而改元；slug 加 -wudi 以别于哀帝元寿",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanding",
+    "name": "元鼎",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "元鼎",
+    "start": -116,
+    "end": -111,
+    "note": "因得宝鼎于汾阴而改元",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanfeng-wudi",
+    "name": "元封",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "元封",
+    "start": -110,
+    "end": -105,
+    "note": "因封禅泰山而改元；slug 加 -wudi 以别于昭帝元凤",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.taichu",
+    "name": "太初",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "太初",
+    "start": -104,
+    "end": -101,
+    "note": "改太初历，以正月为岁首",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.tianhan",
+    "name": "天汉",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "天汉",
+    "start": -100,
+    "end": -97,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.taishi",
+    "name": "太始",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "太始",
+    "start": -96,
+    "end": -93,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.zhenghe",
+    "name": "征和",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "征和",
+    "start": -92,
+    "end": -89,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.houyuan",
+    "name": "后元",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuche",
+    "era_name": "后元",
+    "start": -88,
+    "end": -87,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.shiyuan",
+    "name": "始元",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liufuling",
+    "era_name": "始元",
+    "start": -86,
+    "end": -80,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·昭帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanfeng-zhaodi",
+    "name": "元凤",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liufuling",
+    "era_name": "元凤",
+    "start": -80,
+    "end": -75,
+    "note": "slug 加 -zhaodi 以别于武帝元封",
+    "sources": [
+      {
+        "title": "汉书·昭帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanping",
+    "name": "元平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liufuling",
+    "era_name": "元平",
+    "start": -74,
+    "end": -74,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·昭帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.benshi",
+    "name": "本始",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxun",
+    "era_name": "本始",
+    "start": -73,
+    "end": -70,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.dijie",
+    "name": "地节",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxun",
+    "era_name": "地节",
+    "start": -69,
+    "end": -66,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuankang",
+    "name": "元康",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxun",
+    "era_name": "元康",
+    "start": -65,
+    "end": -61,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.shenjue",
+    "name": "神爵",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxun",
+    "era_name": "神爵",
+    "start": -61,
+    "end": -58,
+    "note": "因神雀集于雍而改元",
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.wufeng",
+    "name": "五凤",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxun",
+    "era_name": "五凤",
+    "start": -57,
+    "end": -54,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.ganlu",
+    "name": "甘露",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxun",
+    "era_name": "甘露",
+    "start": -53,
+    "end": -50,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.huanglong",
+    "name": "黄龙",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxun",
+    "era_name": "黄龙",
+    "start": -49,
+    "end": -49,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.chuyuan",
+    "name": "初元",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liushi",
+    "era_name": "初元",
+    "start": -48,
+    "end": -44,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·元帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongguang",
+    "name": "永光",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liushi",
+    "era_name": "永光",
+    "start": -43,
+    "end": -39,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·元帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianzhao",
+    "name": "建昭",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liushi",
+    "era_name": "建昭",
+    "start": -38,
+    "end": -34,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·元帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jingning",
+    "name": "竟宁",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liushi",
+    "era_name": "竟宁",
+    "start": -33,
+    "end": -33,
+    "note": "昭君出塞、郅支单于授首在是年",
+    "sources": [
+      {
+        "title": "汉书·元帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianshi",
+    "name": "建始",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuao",
+    "era_name": "建始",
+    "start": -32,
+    "end": -28,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.heping-chengdi",
+    "name": "河平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuao",
+    "era_name": "河平",
+    "start": -28,
+    "end": -25,
+    "note": "slug 加 -chengdi 以别于桓帝和平",
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yangshuo",
+    "name": "阳朔",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuao",
+    "era_name": "阳朔",
+    "start": -24,
+    "end": -21,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.hongjia",
+    "name": "鸿嘉",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuao",
+    "era_name": "鸿嘉",
+    "start": -20,
+    "end": -17,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongshi",
+    "name": "永始",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuao",
+    "era_name": "永始",
+    "start": -16,
+    "end": -13,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanyan",
+    "name": "元延",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuao",
+    "era_name": "元延",
+    "start": -12,
+    "end": -9,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.suihe",
+    "name": "绥和",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuao",
+    "era_name": "绥和",
+    "start": -8,
+    "end": -7,
+    "note": "",
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianping",
+    "name": "建平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxin",
+    "era_name": "建平",
+    "start": -6,
+    "end": -3,
+    "note": "建平二年六月曾改元太初元将，八月复称建平",
+    "sources": [
+      {
+        "title": "汉书·哀帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanshou-aide",
+    "name": "元寿",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxin",
+    "era_name": "元寿",
+    "start": -2,
+    "end": -1,
+    "note": "slug 加 -aide 以别于武帝元狩",
+    "sources": [
+      {
+        "title": "汉书·哀帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanshi",
+    "name": "元始",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liukan",
+    "era_name": "元始",
+    "start": 1,
+    "end": 5,
+    "note": "「元始」元年恰为公元元年",
+    "sources": [
+      {
+        "title": "汉书·平帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jushe",
+    "name": "居摄",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.ruzi-ying",
+    "era_name": "居摄",
+    "start": 6,
+    "end": 8,
+    "note": "王莽居摄践祚之号",
+    "sources": [
+      {
+        "title": "汉书·王莽传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.chushi",
+    "name": "初始",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.ruzi-ying",
+    "era_name": "初始",
+    "start": 8,
+    "end": 8,
+    "note": "十一月王莽改元初始，十二月即真",
+    "sources": [
+      {
+        "title": "汉书·王莽传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.gengshi",
+    "name": "更始",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxuan",
+    "era_name": "更始",
+    "start": 23,
+    "end": 25,
+    "note": "玄汉政权年号",
+    "sources": [
+      {
+        "title": "后汉书·刘玄刘盆子列传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianwu",
+    "name": "建武",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxiu",
+    "era_name": "建武",
+    "start": 25,
+    "end": 56,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·光武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianwu-zhongyuan",
+    "name": "建武中元",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxiu",
+    "era_name": "建武中元",
+    "start": 56,
+    "end": 57,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·光武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongping",
+    "name": "永平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhuang",
+    "era_name": "永平",
+    "start": 58,
+    "end": 75,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·显宗孝明帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianchu",
+    "name": "建初",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuda",
+    "era_name": "建初",
+    "start": 76,
+    "end": 84,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·肃宗孝章帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanhe",
+    "name": "元和",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuda",
+    "era_name": "元和",
+    "start": 84,
+    "end": 87,
+    "note": "元和",
+    "sources": [
+      {
+        "title": "后汉书·肃宗孝章帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.zhanghe",
+    "name": "章和",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuda",
+    "era_name": "章和",
+    "start": 87,
+    "end": 88,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·肃宗孝章帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongyuan",
+    "name": "永元",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhao",
+    "era_name": "永元",
+    "start": 89,
+    "end": 105,
+    "note": "「永元之隆」",
+    "sources": [
+      {
+        "title": "后汉书·孝和孝殇帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanxing",
+    "name": "元兴",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhao",
+    "era_name": "元兴",
+    "start": 105,
+    "end": 105,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝和孝殇帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yanping",
+    "name": "延平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liulong",
+    "era_name": "延平",
+    "start": 106,
+    "end": 106,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝和孝殇帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongchu",
+    "name": "永初",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhu",
+    "era_name": "永初",
+    "start": 107,
+    "end": 113,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝安帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanchu",
+    "name": "元初",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhu",
+    "era_name": "元初",
+    "start": 114,
+    "end": 120,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝安帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongning",
+    "name": "永宁",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhu",
+    "era_name": "永宁",
+    "start": 120,
+    "end": 121,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝安帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianguang",
+    "name": "建光",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhu",
+    "era_name": "建光",
+    "start": 121,
+    "end": 122,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝安帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yanguang",
+    "name": "延光",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhu",
+    "era_name": "延光",
+    "start": 122,
+    "end": 125,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝安帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongjian",
+    "name": "永建",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liubao",
+    "era_name": "永建",
+    "start": 126,
+    "end": 132,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yangjia",
+    "name": "阳嘉",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liubao",
+    "era_name": "阳嘉",
+    "start": 132,
+    "end": 135,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yonghe",
+    "name": "永和",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liubao",
+    "era_name": "永和",
+    "start": 136,
+    "end": 141,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.hanan",
+    "name": "汉安",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liubao",
+    "era_name": "汉安",
+    "start": 142,
+    "end": 144,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jiankang",
+    "name": "建康",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liubao",
+    "era_name": "建康",
+    "start": 144,
+    "end": 144,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongxi",
+    "name": "永憙",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liubing",
+    "era_name": "永憙",
+    "start": 145,
+    "end": 145,
+    "note": "亦作永嘉（非晋永嘉）",
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.benchu",
+    "name": "本初",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzuan",
+    "era_name": "本初",
+    "start": 146,
+    "end": 146,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianhe",
+    "name": "建和",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhi",
+    "era_name": "建和",
+    "start": 147,
+    "end": 149,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.heping-huandi",
+    "name": "和平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhi",
+    "era_name": "和平",
+    "start": 150,
+    "end": 150,
+    "note": "slug 加 -huandi 以别于成帝河平",
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yuanjia",
+    "name": "元嘉",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhi",
+    "era_name": "元嘉",
+    "start": 151,
+    "end": 153,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongxing",
+    "name": "永兴",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhi",
+    "era_name": "永兴",
+    "start": 153,
+    "end": 154,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongshou",
+    "name": "永寿",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhi",
+    "era_name": "永寿",
+    "start": 155,
+    "end": 158,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yanxi",
+    "name": "延熹",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhi",
+    "era_name": "延熹",
+    "start": 158,
+    "end": 167,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yongkang",
+    "name": "永康",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuzhi",
+    "era_name": "永康",
+    "start": 167,
+    "end": 167,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianning",
+    "name": "建宁",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhong-lingdi",
+    "era_name": "建宁",
+    "start": 168,
+    "end": 172,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝灵帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.xiping",
+    "name": "熹平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhong-lingdi",
+    "era_name": "熹平",
+    "start": 172,
+    "end": 178,
+    "note": "熹平石经刊刻于此间",
+    "sources": [
+      {
+        "title": "后汉书·孝灵帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.guanghe",
+    "name": "光和",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhong-lingdi",
+    "era_name": "光和",
+    "start": 178,
+    "end": 184,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝灵帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.zhongping",
+    "name": "中平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuhong-lingdi",
+    "era_name": "中平",
+    "start": 184,
+    "end": 189,
+    "note": "黄巾起义后改元",
+    "sources": [
+      {
+        "title": "后汉书·孝灵帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.chuping",
+    "name": "初平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxie",
+    "era_name": "初平",
+    "start": 190,
+    "end": 193,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝献帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.xingping",
+    "name": "兴平",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxie",
+    "era_name": "兴平",
+    "start": 194,
+    "end": 195,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝献帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.jianan",
+    "name": "建安",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxie",
+    "era_name": "建安",
+    "start": 196,
+    "end": 220,
+    "note": "",
+    "sources": [
+      {
+        "title": "后汉书·孝献帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.han.yankang",
+    "name": "延康",
+    "dynasty": "dynasty.han",
+    "emperor": "person.han.liuxie",
+    "era_name": "延康",
+    "start": 220,
+    "end": 220,
+    "note": "十月曹丕受禅，改元黄初",
+    "sources": [
+      {
+        "title": "后汉书·孝献帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,37 @@
+# chinese-history
+
+> Open structured database of Chinese history: persons, events, artifacts, dynasties, era names, places, museums. JSON distribution, clone-and-use. Inspired by chinese-poetry.
+
+## Repo layout
+
+- `persons/{dynasty}/person.{dynasty}.{n}.json` — persons, ≤1000 records per shard
+- `events/{dynasty}/event.{dynasty}.{n}.json` — events
+- `artifacts/{dynasty}/artifact.{dynasty}.{n}.json` — artifacts (museum-held Chinese cultural relics)
+- `dynasties/dynasties.json` — dynasty base table (id, name, start/end year, capital)
+- `reign_eras/{dynasty}.json` — era-name → Gregorian year mapping table
+- `places/places.json` — historical place → modern name + coordinates
+- `museums/museums.json` — holding institutions + their open-data license status
+- `schema/*.schema.json` — human-readable JSON Schema contracts
+- `tools/validate.py` — zero-dependency validator (stdlib only): JSON parse, required fields, id rules, mandatory sources, referential integrity, artifact image license rules
+
+## Entity id conventions
+
+- Format: `entity.domain.slug`, lowercase, e.g. `person.qin.yingzheng`, `dynasty.han`, `event.qin.shaqiu-bian`
+- Ids are frozen once published and never reused
+- Cross-references: `person.events[]`, `event.participants[].person`, `artifact.current_holder.museum`, `person.predecessor/successor`
+
+## Time representation (dual-track)
+
+- `year` / `start` / `end`: integer Gregorian year; **negative = BC** (`-221` = 221 BC)
+- `original`: original Chinese historical notation (e.g. "秦始皇三十七年七月丙寅")
+- `circa: true` = approximate; `disputed[]` = competing scholarly values, each with its own source
+
+## Licensing
+
+- Code: MIT. Facts: CC0. Original descriptive text: CC BY-SA 4.0. Artifact images: per-record `images[].license`; non-CC0 images are `link`-only, never hotlinked.
+
+## Data status & contributing
+
+- Most records are `ai-pipeline` generated (`_meta.created_by`), pending human verification (`_meta.verified_by`)
+- Corrections must cite sources; run `python3 tools/validate.py` before submitting
+- Contributing guide: `CONTRIBUTING.md` (Chinese)

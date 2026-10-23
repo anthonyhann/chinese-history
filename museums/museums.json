@@ -1,0 +1,74 @@
+[
+  {
+    "id": "museum.qinshihuang-mausoleum",
+    "name": "秦始皇帝陵博物院",
+    "name_traditional": "秦始皇帝陵博物院",
+    "name_en": "Emperor Qinshihuang's Mausoleum Site Museum",
+    "city": "西安",
+    "country": "中国",
+    "website": "https://www.bmy.com.cn",
+    "open_data": {"license": "copyrighted", "url": null, "note": "无开放数据许可，仅可引用公开事实信息，图片不得抓取"},
+    "sources": [{"title": "秦始皇帝陵博物院官网", "type": "institutional", "url": "https://www.bmy.com.cn"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  },
+  {
+    "id": "museum.met",
+    "name": "大都会艺术博物馆",
+    "name_traditional": "大都會藝術博物館",
+    "name_en": "The Metropolitan Museum of Art",
+    "city": "纽约",
+    "country": "美国",
+    "website": "https://www.metmuseum.org",
+    "open_data": {"license": "CC0", "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access", "note": "Open Access + 公开 API，中国藏品约 1.4 万件，图片可直接使用"},
+    "sources": [{"title": "Met Open Access", "type": "institutional", "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  },
+  {
+    "id": "museum.npm-taipei",
+    "name": "国立故宫博物院（台北）",
+    "name_traditional": "國立故宮博物院（台北）",
+    "name_en": "National Palace Museum, Taipei",
+    "city": "台北",
+    "country": "中国台湾",
+    "website": "https://www.npm.gov.tw",
+    "open_data": {"license": "CC BY 4.0", "url": "https://data.gov.tw", "note": "Open Data 平台需署名"},
+    "sources": [{"title": "國立故宮博物院 Open Data", "type": "institutional", "url": "https://www.npm.gov.tw"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  },
+  {
+    "id": "museum.british-museum",
+    "name": "大英博物馆",
+    "name_traditional": "大英博物館",
+    "name_en": "The British Museum",
+    "city": "伦敦",
+    "country": "英国",
+    "website": "https://www.britishmuseum.org",
+    "open_data": {"license": "CC BY-NC-SA 4.0", "url": "https://www.britishmuseum.org/collection", "note": "图片禁止商用，本项目只放 link 不放 url"},
+    "sources": [{"title": "British Museum Collection Online", "type": "institutional", "url": "https://www.britishmuseum.org/collection"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  },
+  {
+    "id": "museum.freer-sackler",
+    "name": "史密森尼国立亚洲艺术博物馆",
+    "name_traditional": "史密森尼國立亞洲藝術博物館",
+    "name_en": "Smithsonian's National Museum of Asian Art (Freer Gallery of Art & Arthur M. Sackler Gallery)",
+    "city": "华盛顿",
+    "country": "美国",
+    "website": "https://asia.si.edu",
+    "open_data": {"license": "CC0", "url": "https://www.si.edu/openaccess", "note": "Smithsonian Open Access，中国青铜器玉器重镇"},
+    "sources": [{"title": "Smithsonian Open Access", "type": "institutional", "url": "https://www.si.edu/openaccess"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  },
+  {
+    "id": "museum.palace-beijing",
+    "name": "故宫博物院（北京）",
+    "name_traditional": "故宮博物院（北京）",
+    "name_en": "The Palace Museum, Beijing",
+    "city": "北京",
+    "country": "中国",
+    "website": "https://www.dpm.org.cn",
+    "open_data": {"license": "copyrighted", "url": null, "note": "无开放许可，仅记录公开事实信息"},
+    "sources": [{"title": "故宫博物院官网", "type": "institutional", "url": "https://www.dpm.org.cn"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  }
+]

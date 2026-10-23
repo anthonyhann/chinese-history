@@ -1,0 +1,1828 @@
+[
+  {
+    "id": "person.han.liubang",
+    "uuid": "d337ce3d-ed74-4039-8310-51ec023f935a",
+    "name": "刘邦",
+    "name_traditional": "劉邦",
+    "titles": [
+      "汉高祖",
+      "太祖高皇帝",
+      "沛公",
+      "汉王"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -256,
+      "circa": true,
+      "original": "沛丰邑中阳里人",
+      "disputed": [
+        {
+          "year": -247,
+          "source": "史记集解引皇甫谧等说"
+        }
+      ]
+    },
+    "death": {
+      "year": -195,
+      "circa": false,
+      "original": "汉十二年四月甲辰，崩于长乐宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -206,
+      "end": -195,
+      "note": "前206年受封汉王，前202年垓下灭项羽后于定陶即皇帝位"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liuying",
+        "person.han.liuheng"
+      ]
+    },
+    "predecessor": null,
+    "successor": "person.han.liuying",
+    "bio": "汉朝开国皇帝。出身泗水亭长，秦末起兵于沛，称沛公。前206年率先入关受子婴之降，约法三章；经四年楚汉战争击败项羽，建立汉朝，定都长安。在位期间削平异姓诸侯王，休养生息，开两汉四百年基业。",
+    "events": [
+      "event.qin.ruguan",
+      "event.han.chuhan",
+      "event.han.baideng"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·高祖本纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "汉书·高帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "seed-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuying",
+    "uuid": "548af99d-713f-45a4-8592-007afa658a3f",
+    "name": "刘盈",
+    "name_traditional": "劉盈",
+    "titles": [
+      "汉惠帝",
+      "孝惠皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -210,
+      "circa": false,
+      "original": "汉高祖二年立为太子（生年据卒年十七岁倒推）",
+      "disputed": []
+    },
+    "death": {
+      "year": -188,
+      "circa": false,
+      "original": "惠帝七年秋八月戊寅，崩于未央宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -195,
+      "end": -188,
+      "note": "性格仁弱，朝政渐归吕太后"
+    },
+    "family": {
+      "father": "person.han.liubang",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liugong",
+        "person.han.liuhong"
+      ]
+    },
+    "predecessor": "person.han.liubang",
+    "successor": "person.han.liugong",
+    "bio": "高祖嫡长子，母吕后。为人仁弱，目睹吕后残戚姬为「人彘」后恸哭失政，曰「此非人所为」。在位期间萧规曹随，轻徭薄赋，废除挟书律，社会经济继续恢复。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·吕太后本纪",
+        "type": "primary",
+        "ref": "卷九"
+      },
+      {
+        "title": "汉书·惠帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liugong",
+    "uuid": "4eaa24cc-4c26-41db-9e50-c53795c702f4",
+    "name": "刘恭",
+    "name_traditional": "劉恭",
+    "titles": [
+      "前少帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -184,
+      "circa": false,
+      "original": "高后四年，被吕后幽杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": -188,
+      "end": -184,
+      "note": "吕后临朝称制，少帝为傀儡；史载为惠帝子（一说实非亲生）"
+    },
+    "family": {
+      "father": "person.han.liuying",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuying",
+    "successor": "person.han.liuhong",
+    "bio": "西汉第三位皇帝，史称前少帝。惠帝死后由吕后立为帝，实为吕后称制的傀儡。后自知身世（言其生母为吕后所杀）出怨言，被吕后幽禁废杀。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·吕太后本纪",
+        "type": "primary",
+        "ref": "卷九"
+      },
+      {
+        "title": "汉书·高后纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuhong",
+    "uuid": "f2145946-59a3-43cf-8dde-c99c9814edec",
+    "name": "刘弘",
+    "name_traditional": "劉弘",
+    "titles": [
+      "后少帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -180,
+      "circa": false,
+      "original": "高后八年，吕后死后被朝臣以「非孝惠子」废杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": -184,
+      "end": -180,
+      "note": "吕后所立，原名刘义，改名刘弘"
+    },
+    "family": {
+      "father": "person.han.liuying",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liugong",
+    "successor": "person.han.liuheng",
+    "bio": "西汉第四位皇帝，史称后少帝。吕后称制期间所立的傀儡。周勃、陈平诛诸吕后，朝臣宣称其非惠帝亲生，废黜处死，迎立代王刘恒。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·吕太后本纪",
+        "type": "primary",
+        "ref": "卷九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuheng",
+    "uuid": "6a947df1-1135-4b2e-8b05-e8c82c946887",
+    "name": "刘恒",
+    "name_traditional": "劉恆",
+    "titles": [
+      "汉文帝",
+      "太宗孝文皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -203,
+      "circa": false,
+      "original": "高祖子，母薄姬",
+      "disputed": []
+    },
+    "death": {
+      "year": -157,
+      "circa": false,
+      "original": "后元七年六月己亥，崩于未央宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -180,
+      "end": -157,
+      "note": "由代王入继大统"
+    },
+    "family": {
+      "father": "person.han.liubang",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liuqi"
+      ]
+    },
+    "predecessor": "person.han.liuhong",
+    "successor": "person.han.liuqi",
+    "bio": "高祖第四子，初封代王。诸吕之乱平定后被大臣迎立。在位期间休养生息、轻徭薄赋、废除肉刑，与景帝朝合称「文景之治」。以节俭著称，遗诏薄葬霸陵。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·孝文本纪",
+        "type": "primary",
+        "ref": "卷十"
+      },
+      {
+        "title": "汉书·文帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuqi",
+    "uuid": "224bbcac-5f35-4dbb-88bd-3b28b5f1b832",
+    "name": "刘启",
+    "name_traditional": "劉啟",
+    "titles": [
+      "汉景帝",
+      "孝景皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -188,
+      "circa": false,
+      "original": "文帝之子",
+      "disputed": []
+    },
+    "death": {
+      "year": -141,
+      "circa": false,
+      "original": "后元三年正月甲子，崩于未央宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -157,
+      "end": -141
+    },
+    "family": {
+      "father": "person.han.liuheng",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liuche"
+      ]
+    },
+    "predecessor": "person.han.liuheng",
+    "successor": "person.han.liuche",
+    "bio": "文帝之子。在位期间平定吴楚七国之乱，采纳晁错削藩策，中央集权显著加强；继续与民休息，仓廪丰实，「京师之钱累巨万，贯朽而不可校」。",
+    "events": [
+      "event.han.qiguo"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·孝景本纪",
+        "type": "primary",
+        "ref": "卷十一"
+      },
+      {
+        "title": "汉书·景帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuche",
+    "uuid": "a5e060ec-f328-44a3-b555-60b3cdb7d2ba",
+    "name": "刘彻",
+    "name_traditional": "劉徹",
+    "titles": [
+      "汉武帝",
+      "世宗孝武皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -156,
+      "circa": false,
+      "original": "景帝之子",
+      "disputed": []
+    },
+    "death": {
+      "year": -87,
+      "circa": false,
+      "original": "后元二年二月丁卯，崩于五柞宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -141,
+      "end": -87,
+      "note": "在位五十四年，首创年号纪年"
+    },
+    "family": {
+      "father": "person.han.liuqi",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liufuling"
+      ]
+    },
+    "predecessor": "person.han.liuqi",
+    "successor": "person.han.liufuling",
+    "bio": "在位五十四年，西汉极盛之主。内推恩削藩、罢黜百家独尊儒术、设刺史盐铁专营；外遣卫青霍去病北击匈奴，通西域、开丝路、平两越朝鲜。首创年号（建元）。晚年巫蛊之祸族灭太子家，下轮台罪己诏息兵养民。",
+    "events": [
+      "event.han.rujiao",
+      "event.han.zhangqian",
+      "event.han.mobei",
+      "event.han.tuien",
+      "event.han.wugu"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·孝武本纪",
+        "type": "primary",
+        "ref": "卷十二"
+      },
+      {
+        "title": "汉书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liufuling",
+    "uuid": "842d45c2-6af3-4b70-afc0-d7da5bbfdf9e",
+    "name": "刘弗陵",
+    "name_traditional": "劉弗陵",
+    "titles": [
+      "汉昭帝",
+      "孝昭皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -94,
+      "circa": false,
+      "original": "武帝少子，母钩弋夫人",
+      "disputed": []
+    },
+    "death": {
+      "year": -74,
+      "circa": false,
+      "original": "元平元年四月癸未，崩于未央宫，年二十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": -87,
+      "end": -74,
+      "note": "八岁即位，霍光辅政"
+    },
+    "family": {
+      "father": "person.han.liuche",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuche",
+    "successor": "person.han.liuhe",
+    "bio": "武帝少子，八岁即位，由霍光、金日磾、上官桀辅政。在位期间召开盐铁会议辩论国策，轻徭薄赋，武帝末年的动荡得以平复，史称「昭宣中兴」之端。无子而崩。",
+    "events": [
+      "event.han.yantie"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·昭帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuhe",
+    "uuid": "3cf1aa33-4692-4192-9153-e00f4b15523b",
+    "name": "刘贺",
+    "name_traditional": "劉賀",
+    "titles": [
+      "汉废帝",
+      "昌邑王",
+      "海昏侯"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -59,
+      "circa": false,
+      "original": "神爵三年薨于海昏",
+      "disputed": []
+    },
+    "reign": {
+      "start": -74,
+      "end": -74,
+      "note": "在位仅二十七日，被霍光以「行淫乱」废黜"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liufuling",
+    "successor": "person.han.liuxun",
+    "bio": "武帝之孙，昌邑哀王刘髆之子。昭帝崩后无嗣，被霍光迎立为帝，二十七日内「行淫乱」凡千余事（霍光所奏），被废归故国，后贬为海昏侯徙豫章。2011 年起其墓（南昌海昏侯墓）发掘，出土文物震惊世人。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·霍光金日磾传",
+        "type": "primary"
+      },
+      {
+        "title": "汉书·武五子传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuxun",
+    "uuid": "831ca5ec-f72e-420d-84d6-f61fc380174e",
+    "name": "刘询",
+    "name_traditional": "劉詢",
+    "titles": [
+      "汉宣帝",
+      "中宗孝宣皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -91,
+      "circa": false,
+      "original": "征和二年，巫蛊之祸中生数月即系狱",
+      "disputed": []
+    },
+    "death": {
+      "year": -48,
+      "circa": false,
+      "original": "黄龙元年十二月甲戌，崩于未央宫",
+      "disputed": [
+        {
+          "year": -49,
+          "source": "按黄龙元年未跨年计的说法"
+        }
+      ]
+    },
+    "reign": {
+      "start": -74,
+      "end": -48,
+      "note": "原名刘病已，戾太子刘据之孙，自民间入继"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liushi"
+      ]
+    },
+    "predecessor": "person.han.liuhe",
+    "successor": "person.han.liushi",
+    "bio": "武帝曾孙，巫蛊之祸中襁褓系狱，长于民间，深知吏治得失。刘贺被废后由霍光迎立。亲政后综核名实、信赏必罚，置常平仓，降匈奴、设西域都护，孝宣之治为西汉最后的盛世。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·宣帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liushi",
+    "uuid": "ad61b353-6a37-4cbb-9983-5b7610aff0e9",
+    "name": "刘奭",
+    "name_traditional": "劉奭",
+    "titles": [
+      "汉元帝",
+      "高宗孝元皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -75,
+      "circa": false,
+      "original": "宣帝之子",
+      "disputed": []
+    },
+    "death": {
+      "year": -33,
+      "circa": false,
+      "original": "竟宁元年五月壬辰，崩于未央宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -48,
+      "end": -33
+    },
+    "family": {
+      "father": "person.han.liuxun",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liuao"
+      ]
+    },
+    "predecessor": "person.han.liuxun",
+    "successor": "person.han.liuao",
+    "bio": "柔仁好儒，为太子时曾谏宣帝「持刑太深，宜用儒生」。在位期间儒生全面参政，然优柔寡断，宦官石显专权，外戚史氏高氏并用，西汉由盛转衰。竟宁元年昭君出塞和亲匈奴。",
+    "events": [
+      "event.han.zhaojun"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·元帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuao",
+    "uuid": "5899ddb2-095d-4a61-a920-f95f24f82f35",
+    "name": "刘骜",
+    "name_traditional": "劉驁",
+    "titles": [
+      "汉成帝",
+      "统宗孝成皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -51,
+      "circa": false,
+      "original": "元帝之子，母王政君",
+      "disputed": []
+    },
+    "death": {
+      "year": -7,
+      "circa": false,
+      "original": "绥和二年三月丙戌，暴崩于未央宫",
+      "disputed": []
+    },
+    "reign": {
+      "start": -33,
+      "end": -7
+    },
+    "family": {
+      "father": "person.han.liushi",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liushi",
+    "successor": "person.han.liuxin",
+    "bio": "湛于酒色，宠赵飞燕、赵合德姐妹。外戚王氏（王凤、王音、王商、王根、王莽）相继秉政，「五侯」同日受封，外戚之祸为西汉亡因之一。在位二十六年无子而崩。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·成帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuxin",
+    "uuid": "146d5b92-ffa0-4256-9174-1541966bf1a3",
+    "name": "刘欣",
+    "name_traditional": "劉欣",
+    "titles": [
+      "汉哀帝",
+      "孝哀皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -25,
+      "circa": false,
+      "original": "定陶恭王刘康之子",
+      "disputed": []
+    },
+    "death": {
+      "year": -1,
+      "circa": false,
+      "original": "元寿二年六月戊午，崩于未央宫，年二十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": -7,
+      "end": -1
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuao",
+    "successor": "person.han.liukan",
+    "bio": "成帝之侄，以定陶王入继。欲振朝纲而抑外戚，然宠信董贤至欲禅让（「断袖之癖」典出此），朝政益乱。在位六年崩，王氏随即复起，王莽秉政。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·哀帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liukan",
+    "uuid": "daef3f36-7505-4e8d-9a52-8027702a47c3",
+    "name": "刘衎",
+    "name_traditional": "劉衎",
+    "titles": [
+      "汉平帝",
+      "元宗孝平皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -9,
+      "circa": false,
+      "original": "中山孝王刘兴之子，原名刘箕子",
+      "disputed": []
+    },
+    "death": {
+      "year": 6,
+      "circa": false,
+      "original": "元始五年十二月丙午崩，年十四；一说为王莽鸩杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": -1,
+      "end": 6,
+      "note": "九岁即位，太皇太后王氏临朝，王莽秉政"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuxin",
+    "successor": "person.han.ruzi-ying",
+    "bio": "元帝之孙，九岁被王莽迎立，朝政尽归安汉公王莽，隔绝其母卫氏家族。元始五年崩，年仅十四，《汉书》记为病死，后世多传为王莽鸩杀。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·平帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.ruzi-ying",
+    "uuid": "d2f44b77-325a-4e43-ae66-abd59531d795",
+    "name": "刘婴",
+    "name_traditional": "劉嬰",
+    "titles": [
+      "孺子婴"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "monarch"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 5,
+      "circa": false,
+      "original": "元始五年生，宣帝玄孙",
+      "disputed": []
+    },
+    "death": {
+      "year": 25,
+      "circa": false,
+      "original": "更始三年，为方望等拥立，旋被更始部将李松击杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": 6,
+      "end": 8,
+      "note": "王莽居摄践祚，立其为皇太子（号孺子），未正式即帝位"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liukan",
+    "successor": "person.han.liuxuan",
+    "bio": "宣帝玄孙，广戚侯刘显之子。王莽篡位前立其为皇太子而不予帝位，自为「假皇帝」居摄。公元 9 年王莽即真，封其为定安公，终身幽禁不令识六畜。更始年间被方望拥立起事，兵败被杀。",
+    "events": [
+      "event.han.wangmang-cuan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·王莽传",
+        "type": "primary"
+      },
+      {
+        "title": "后汉书·隗嚣公孙述列传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuxuan",
+    "uuid": "c7c7c02d-4b93-428b-8649-0a79170e5cf8",
+    "name": "刘玄",
+    "name_traditional": "劉玄",
+    "titles": [
+      "更始帝",
+      "淮阳王"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "monarch"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": 25,
+      "circa": false,
+      "original": "更始三年，降赤眉军后被缢杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": 23,
+      "end": 25,
+      "note": "绿林军所立，年号更始，政权史称玄汉"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.ruzi-ying",
+    "successor": "person.han.liupenzi",
+    "bio": "光武帝族兄。新莽末年投身绿林军，被诸将拥立为帝，年号更始。昆阳之战后灭王莽入长安，旋即沉湎酒色、政出多门，诛杀申屠建等功臣。赤眉军入关后降赤眉，被封畏威侯，旋被缢杀。",
+    "events": [
+      "event.han.lulin-chimei",
+      "event.han.kunyang"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·刘玄刘盆子列传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liupenzi",
+    "uuid": "0d58dd74-c80b-48dd-9045-3fcd7421b588",
+    "name": "刘盆子",
+    "name_traditional": "劉盆子",
+    "titles": [
+      "建世帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "monarch"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 10,
+      "circa": true,
+      "original": "赤眉立帝时年十五（据此倒推）",
+      "disputed": []
+    },
+    "death": null,
+    "reign": {
+      "start": 25,
+      "end": 27,
+      "note": "赤眉军所立，年号建世"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuxuan",
+    "successor": null,
+    "bio": "城阳景王刘章后裔，式侯刘萌之子，在赤眉军中为牛吏（放牛娃）。赤眉军以抽签方式立其为帝，年号建世。赤眉入长安杀更始帝，后兵败降刘秀。光武厚待之，以寿终。",
+    "events": [
+      "event.han.lulin-chimei"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·刘玄刘盆子列传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuxiu",
+    "uuid": "e27b6ed1-c7b1-46de-8cf8-57295238fc78",
+    "name": "刘秀",
+    "name_traditional": "劉秀",
+    "titles": [
+      "汉光武帝",
+      "世祖光武皇帝"
+    ],
+    "courtesy_name": "文叔",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -5,
+      "circa": false,
+      "original": "建平元年十二月甲子夜生，有赤光照室之异",
+      "disputed": []
+    },
+    "death": {
+      "year": 57,
+      "circa": false,
+      "original": "建武中元二年二月戊戌，崩于南宫前殿，年六十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 25,
+      "end": 57,
+      "note": "公元25年于鄗城称帝，沿用汉号，史称东汉"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liuzhuang"
+      ]
+    },
+    "predecessor": null,
+    "successor": "person.han.liuzhuang",
+    "bio": "高祖九世孙，南阳舂陵人。新莽末年随兄刘縯起兵，昆阳之战以少胜多大破莽军主力。更始帝杀刘縯后，秀忍辱负重，北徇河北收揽人心，公元25年称帝。历十二年削平群雄，重建汉室。在位期间柔道治国、释放奴婢、度田核赋，史称「光武中兴」。",
+    "events": [
+      "event.han.kunyang",
+      "event.han.donghan-jian"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·光武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuzhuang",
+    "uuid": "67080e63-e66d-46a1-a99b-c917cf170b84",
+    "name": "刘庄",
+    "name_traditional": "劉莊",
+    "titles": [
+      "汉明帝",
+      "显宗孝明皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 28,
+      "circa": false,
+      "original": "建武四年生，初名刘阳",
+      "disputed": []
+    },
+    "death": {
+      "year": 75,
+      "circa": false,
+      "original": "永平十八年八月壬子，崩于东宫前殿",
+      "disputed": []
+    },
+    "reign": {
+      "start": 57,
+      "end": 75
+    },
+    "family": {
+      "father": "person.han.liuxiu",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liuda"
+      ]
+    },
+    "predecessor": "person.han.liuxiu",
+    "successor": "person.han.liuda",
+    "bio": "光武帝第四子，母阴丽华。严明吏治、法令分明，重儒学，亲自讲学。在位期间遣窦固北击匈奴、班超经营西域，佛教亦传于此时入华（永平求法传说）。与章帝朝合称「明章之治」。",
+    "events": [
+      "event.han.banchao"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·显宗孝明帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuda",
+    "uuid": "63f41603-8423-4ca6-b457-b102b169876f",
+    "name": "刘炟",
+    "name_traditional": "劉炟",
+    "titles": [
+      "汉章帝",
+      "肃宗孝章皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 57,
+      "circa": false,
+      "original": "中元二年生，明帝第五子",
+      "disputed": []
+    },
+    "death": {
+      "year": 88,
+      "circa": false,
+      "original": "章和二年二月壬辰，崩于章德前殿",
+      "disputed": []
+    },
+    "reign": {
+      "start": 75,
+      "end": 88
+    },
+    "family": {
+      "father": "person.han.liuzhuang",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liuzhao"
+      ]
+    },
+    "predecessor": "person.han.liuzhuang",
+    "successor": "person.han.liuzhao",
+    "bio": "宽厚长者，政刑宽简。建初四年召开白虎观会议，论五经异同，班固奉旨撰《白虎通义》，儒学国家意识形态至此定型。然宠信外戚窦氏，开东汉外戚专政之渐。",
+    "events": [
+      "event.han.banchao"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·肃宗孝章帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuzhao",
+    "uuid": "2f54ce80-d703-4c41-af82-874eb71d37a5",
+    "name": "刘肇",
+    "name_traditional": "劉肇",
+    "titles": [
+      "汉和帝",
+      "穆宗孝和皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 79,
+      "circa": false,
+      "original": "建初四年生，章帝第四子",
+      "disputed": []
+    },
+    "death": {
+      "year": 106,
+      "circa": false,
+      "original": "元兴元年十二月辛未，崩于章德前殿，年二十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 88,
+      "end": 106,
+      "note": "十岁即位，窦太后临朝，十四岁与宦官郑众密谋诛窦宪"
+    },
+    "family": {
+      "father": "person.han.liuda",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liulong"
+      ]
+    },
+    "predecessor": "person.han.liuda",
+    "successor": "person.han.liulong",
+    "bio": "十岁即位，初为窦氏傀儡。十四岁联合宦官郑众诛灭大将军窦宪，夺回皇权，亦由此开宦官封侯参政之例。在位期间窦宪燕然勒石、班超定西域，东汉国势极盛，史称「永元之隆」。",
+    "events": [
+      "event.han.yanran"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝和孝殇帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liulong",
+    "uuid": "3d3a99d1-58bd-4ebb-b819-ecb0f9821b35",
+    "name": "刘隆",
+    "name_traditional": "劉隆",
+    "titles": [
+      "汉殇帝",
+      "孝殇皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 105,
+      "circa": false,
+      "original": "元兴元年生，和帝少子",
+      "disputed": []
+    },
+    "death": {
+      "year": 106,
+      "circa": false,
+      "original": "延平元年八月辛亥崩，即位时生百余日，为史上最幼皇帝",
+      "disputed": []
+    },
+    "reign": {
+      "start": 106,
+      "end": 106,
+      "note": "襁褓中即位，邓太后临朝"
+    },
+    "family": {
+      "father": "person.han.liuzhao",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuzhao",
+    "successor": "person.han.liuhu",
+    "bio": "和帝少子，出生百余日即被邓太后立为帝，是中国历史上即位年龄最小的皇帝。在位八个月夭亡，年仅二岁（虚岁）。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝和孝殇帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuhu",
+    "uuid": "4175b7f5-f71b-4d15-ac34-9fcd01472254",
+    "name": "刘祜",
+    "name_traditional": "劉祜",
+    "titles": [
+      "汉安帝",
+      "恭宗孝安皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 94,
+      "circa": false,
+      "original": "永元六年生，清河孝王刘庆之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 125,
+      "circa": false,
+      "original": "延光四年三月丁卯，崩于南巡途中（叶县）",
+      "disputed": []
+    },
+    "reign": {
+      "start": 106,
+      "end": 125,
+      "note": "邓太后临朝十五年后始亲政"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liubao"
+      ]
+    },
+    "predecessor": "person.han.liulong",
+    "successor": "person.han.liuyi",
+    "bio": "章帝之孙。殇帝夭亡后由邓太后迎立，在位十九年，前十五年邓太后称制。邓氏死后亲政，与乳母王圣、宦官江京等逼死邓氏宗族，宠信宦官，朝政日浊。西域渐失，羌乱大起。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝安帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuyi",
+    "uuid": "88b776e2-13c4-49f5-afbb-b80f61c7e291",
+    "name": "刘懿",
+    "name_traditional": "劉懿",
+    "titles": [
+      "北乡侯"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "monarch"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": 125,
+      "circa": false,
+      "original": "延光四年十月辛亥薨，在位二百余日",
+      "disputed": []
+    },
+    "reign": {
+      "start": 125,
+      "end": 125,
+      "note": "阎太后与阎显所立，史称少帝/北乡侯，正统性历来存疑"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuhu",
+    "successor": "person.han.liubao",
+    "bio": "章帝曾孙，济北惠王刘寿之子。安帝死于南巡途中，阎皇后秘不发丧，立其为帝以图久专国政。在位二百余日而薨，宦官孙程等旋即发动政变诛阎显，迎立废太子刘保。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      },
+      {
+        "title": "后汉书·宦者列传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liubao",
+    "uuid": "1970d1b8-2951-47ac-be36-5add394915c5",
+    "name": "刘保",
+    "name_traditional": "劉保",
+    "titles": [
+      "汉顺帝",
+      "敬宗孝顺皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 115,
+      "circa": false,
+      "original": "元初二年生，安帝之子，母宫人李氏",
+      "disputed": []
+    },
+    "death": {
+      "year": 144,
+      "circa": false,
+      "original": "建康元年八月庚午，崩于玉堂前殿，年三十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 125,
+      "end": 144,
+      "note": "先被废为济阴王，宦官孙程等政变拥立复位"
+    },
+    "family": {
+      "father": "person.han.liuhu",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liubing"
+      ]
+    },
+    "predecessor": "person.han.liuyi",
+    "successor": "person.han.liubing",
+    "bio": "安帝独子，先立为太子，后被阎皇后谮废。安帝死后宦官孙程等十九人政变拥立其复位，十九侯宦官由此势盛。在位期间外戚梁商、梁冀相继秉政，梁氏之祸由此深植。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liubing",
+    "uuid": "3ba17f7c-6298-4a9f-8bf6-8310a19ae0aa",
+    "name": "刘炳",
+    "name_traditional": "劉炳",
+    "titles": [
+      "汉冲帝",
+      "孝冲皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 143,
+      "circa": false,
+      "original": "汉安二年生，顺帝之子，母虞贵人",
+      "disputed": []
+    },
+    "death": {
+      "year": 145,
+      "circa": false,
+      "original": "永憙元年正月戊戌崩，年三岁",
+      "disputed": []
+    },
+    "reign": {
+      "start": 144,
+      "end": 145,
+      "note": "二岁即位，梁太后临朝，梁冀秉政"
+    },
+    "family": {
+      "father": "person.han.liubao",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liubao",
+    "successor": "person.han.liuzuan",
+    "bio": "顺帝之子，二岁即位，梁太后临朝，大将军梁冀专权。在位不足半年夭亡，年仅三岁。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuzuan",
+    "uuid": "2d298109-807d-4271-abc2-5d35db4a59b6",
+    "name": "刘缵",
+    "name_traditional": "劉纘",
+    "titles": [
+      "汉质帝",
+      "孝质皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 138,
+      "circa": false,
+      "original": "永和三年生，勃海孝王刘鸿之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 146,
+      "circa": false,
+      "original": "本初元年闰六月甲申，被梁冀鸩杀，年九岁",
+      "disputed": []
+    },
+    "reign": {
+      "start": 145,
+      "end": 146
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liubing",
+    "successor": "person.han.liuzhi",
+    "bio": "章帝玄孙，八岁被梁冀迎立。幼而聪慧，朝会时目梁冀曰「此跋扈将军也」，梁冀恶之，令人进鸩于煮饼中毒杀，年九岁。「跋扈将军」典故由此而来。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝顺孝冲孝质帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuzhi",
+    "uuid": "419dc238-da73-4116-a263-5fd059621ea2",
+    "name": "刘志",
+    "name_traditional": "劉志",
+    "titles": [
+      "汉桓帝",
+      "威宗孝桓皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 132,
+      "circa": false,
+      "original": "阳嘉元年生，蠡吾侯刘翼之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 168,
+      "circa": false,
+      "original": "永康元年十二月丁丑，崩于德阳前殿，年三十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 146,
+      "end": 168,
+      "note": "十五岁由梁冀迎立，二十八岁与宦官单超等合谋诛梁冀"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuzuan",
+    "successor": "person.han.liuhong-lingdi",
+    "bio": "章帝曾孙。质帝被鸩杀后由梁冀拥立，前十三年为梁氏傀儡。延熹二年与宦官单超等五人密谋，一日之间族灭梁冀，五宦官同日封侯。此后宦官专政，第一次党锢之祸起，太学生清议遭镇压，东汉由是衰乱。",
+    "events": [
+      "event.han.danggu"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝桓帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuhong-lingdi",
+    "uuid": "4e46b4f6-9f1e-4bdd-829f-099139f198a6",
+    "name": "刘宏",
+    "name_traditional": "劉宏",
+    "titles": [
+      "汉灵帝",
+      "孝灵皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 156,
+      "circa": false,
+      "original": "永寿二年生，解渎亭侯刘苌之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 189,
+      "circa": false,
+      "original": "中平六年四月丙辰，崩于南宫嘉德殿，年三十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 168,
+      "end": 189
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.han.liubian",
+        "person.han.liuxie"
+      ]
+    },
+    "predecessor": "person.han.liuzhi",
+    "successor": "person.han.liubian",
+    "bio": "章帝玄孙，桓帝死后无子，由窦太后与窦武迎立。在位期间第二次党锢之祸大兴，卖官鬻爵明码标价（西园卖官），建鸿都门学。光和七年黄巾起义爆发，改元中平，州牧坐大，汉室名存实亡之局由此而定。",
+    "events": [
+      "event.han.danggu",
+      "event.han.huangjin"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝灵帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liubian",
+    "uuid": "cb08ce11-2576-44bd-9f84-ec56833492eb",
+    "name": "刘辩",
+    "name_traditional": "劉辯",
+    "titles": [
+      "弘农王",
+      "后少帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 176,
+      "circa": true,
+      "original": "灵帝之子，母何皇后",
+      "disputed": [
+        {
+          "year": 173,
+          "source": "部分文献推算"
+        }
+      ]
+    },
+    "death": {
+      "year": 190,
+      "circa": false,
+      "original": "初平元年正月，被董卓鸩杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": 189,
+      "end": 189,
+      "note": "四月至九月在位，董卓入京后废为弘农王"
+    },
+    "family": {
+      "father": "person.han.liuhong-lingdi",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liuhong-lingdi",
+    "successor": "person.han.liuxie",
+    "bio": "灵帝长子，何皇后所生。灵帝死后即位，外戚何进与宦官火并，董卓率凉州军入京，废其为弘农王，立其弟刘协。次年被董卓鸩杀，年仅十五。",
+    "events": [
+      "event.han.dongzhuo"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·皇后纪 / 董卓列传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liuxie",
+    "uuid": "b494c314-cb17-4c07-9a0d-0aa676130d2f",
+    "name": "刘协",
+    "name_traditional": "劉協",
+    "titles": [
+      "汉献帝",
+      "孝献皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 181,
+      "circa": false,
+      "original": "光和四年生，灵帝少子，母王美人",
+      "disputed": []
+    },
+    "death": {
+      "year": 234,
+      "circa": false,
+      "original": "魏青龙二年三月庚寅薨，年五十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 189,
+      "end": 220,
+      "note": "在位三十一年，历董卓、李傕、曹操、曹丕四度为傀儡，建安二十五年禅位于曹丕"
+    },
+    "family": {
+      "father": "person.han.liuhong-lingdi",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.han.liubian",
+    "successor": null,
+    "bio": "东汉末代皇帝。九岁被董卓拥立，一生为人傀儡：董卓之乱、李傕郭汜交兵、东归洛阳、曹操「挟天子以令诸侯」。衣带诏事发，伏皇后被弑，曹氏三女入宫。220 年禅位于曹丕，封山阳公，又十四年以寿终，魏明帝以汉天子礼葬之。",
+    "events": [
+      "event.han.dongzhuo"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·孝献帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "han-v1",
+      "version": 1
+    }
+  }
+]

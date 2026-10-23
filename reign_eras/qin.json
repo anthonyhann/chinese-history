@@ -1,0 +1,38 @@
+[
+  {
+    "id": "era.qin.zheng",
+    "name": "秦王政／秦始皇纪年",
+    "dynasty": "dynasty.qin",
+    "emperor": "person.qin.yingzheng",
+    "era_name": null,
+    "start": -246,
+    "end": -210,
+    "note": "秦代无年号，以君主在位年数纪年。前246年嬴政即位为秦王（秦王政元年），前221年统一起改称始皇帝，仍连续纪年（二十六年统一，三十七年崩）",
+    "sources": [{"title": "史记·秦始皇本纪", "type": "primary", "ref": "卷六"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  },
+  {
+    "id": "era.qin.ershi",
+    "name": "秦二世纪年",
+    "dynasty": "dynasty.qin",
+    "emperor": "person.qin.huhai",
+    "era_name": null,
+    "start": -209,
+    "end": -207,
+    "note": "秦代无年号。二世元年为前209年，三年（前207年）八月胡亥被逼自杀",
+    "sources": [{"title": "史记·秦始皇本纪", "type": "primary", "ref": "卷六"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  },
+  {
+    "id": "era.qin.ziying",
+    "name": "秦王子婴纪年",
+    "dynasty": "dynasty.qin",
+    "emperor": "person.qin.ziying",
+    "era_name": null,
+    "start": -207,
+    "end": -206,
+    "note": "子婴即位时赵高已去帝号，改称秦王；在位仅四十六日",
+    "sources": [{"title": "史记·秦始皇本纪", "type": "primary", "ref": "卷六"}],
+    "_meta": {"created_by": "ai-pipeline", "version": 1}
+  }
+]
