@@ -1,0 +1,84 @@
+[
+  {
+    "id": "event.ssong.shaoxing-heyi",
+    "uuid": "5d4260c9-f352-4f3c-add2-4f8348e43d75",
+    "name": "绍兴和议与岳飞之死",
+    "name_traditional": "紹興和議與岳飛之死",
+    "category": ["diplomacy", "persecution"],
+    "time": {"start": 1141, "end": 1142, "original": "绍兴十一年至十二年", "precision": "year"},
+    "place": ["place.linan"],
+    "participants": [
+      {"person": "person.ssong.zhaogou", "role": "decision-maker"},
+      {"person": "person.jin-jurchen.wanyandan", "role": "counterpart"}
+    ],
+    "related_events": ["event.nsong.jingkang"],
+    "description": "岳飞北伐收复郑州、洛阳，郾城、颍昌大破金兀术主力，进军朱仙镇，距开封仅四十五里。高宗、秦桧以十二道金牌班师，收其兵权，诬以「莫须有」谋反。绍兴十一年十二月二十九日，岳飞被害于大理寺风波亭，年三十九。同年宋金订绍兴和议：宋称臣纳贡（岁币银绢各二十五万），划淮河为界。和议成而恢复无望，「青山有幸埋忠骨，白铁无辜铸佞臣」。",
+    "outcome": "宋金对峙固化，北伐终结，岳飞冤死",
+    "sources": [{"title": "宋史·岳飞传", "type": "primary", "ref": "卷三百六十五"}, {"title": "宋史·高宗本纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.ssong.kaixi-beifa",
+    "uuid": "7676622f-ba89-49ca-a422-a4c5f04448c1",
+    "name": "开禧北伐",
+    "name_traditional": "開禧北伐",
+    "category": ["war"],
+    "time": {"start": 1205, "end": 1207, "original": "开禧元年至三年", "precision": "year"},
+    "place": [],
+    "participants": [{"person": "person.ssong.zhaokuo", "role": "decision-maker"}],
+    "related_events": ["event.ssong.shaoxing-heyi"],
+    "description": "韩侂胄为立盖世功名以自重，追封岳飞为鄂王、削夺秦桧王爵，改元开禧，大举北伐。然准备不足、将帅非人，各路皆败，四川宣抚副使吴曦叛降金。史弥远与杨皇后合谋，开禧三年十一月杀韩侂胄于玉津园，函其首送金乞和，订嘉定和议，岁币增至三十万。",
+    "outcome": "北伐惨败，韩侂胄被诛，南宋国威扫地",
+    "sources": [{"title": "宋史·宁宗本纪", "type": "primary", "ref": "卷三十八"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.ssong.lianmeng-miejin",
+    "uuid": "7b01252c-bf4b-4b27-8c06-ce3938cacd43",
+    "name": "联蒙灭金",
+    "name_traditional": "聯蒙滅金",
+    "category": ["war", "diplomacy"],
+    "time": {"start": 1232, "end": 1234, "original": "绍定五年至端平元年", "precision": "year"},
+    "place": [],
+    "participants": [
+      {"person": "person.ssong.zhaoyun", "role": "decision-maker"},
+      {"person": "person.jin-jurchen.wanyanshouxu", "role": "victim"},
+      {"person": "person.jin-jurchen.wanyanchenglin", "role": "victim"}
+    ],
+    "related_events": ["event.ssong.yashan"],
+    "description": "蒙古三峰山之战歼金军主力后，遣使约宋夹攻金朝，许灭金后以河南地归宋。理宗君臣以「靖康之耻」百年积怨，忘唇亡齿寒之戒，遣孟珙率二万精兵、三十万石粮北上，与蒙军合围蔡州。端平元年正月，蔡州城破，金哀宗自缢、末帝战死，立国一百二十年的金朝灭亡。南宋随即端平入洛收复三京，惨遭蒙军伏击，宋蒙战争自此全面爆发。",
+    "outcome": "金亡；南宋唇亡齿寒，直面蒙古",
+    "sources": [{"title": "宋史·理宗本纪", "type": "primary", "ref": "卷四十一至卷四十二"}, {"title": "金史·哀宗本纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.ssong.xiangfan",
+    "uuid": "3a474150-5d28-45c0-ac61-eb912b1d3551",
+    "name": "襄樊之战",
+    "name_traditional": "襄樊之戰",
+    "category": ["war"],
+    "time": {"start": 1267, "end": 1273, "original": "咸淳三年至九年", "precision": "year"},
+    "place": [],
+    "participants": [{"person": "person.ssong.zhaoqi", "role": "monarch"}],
+    "related_events": ["event.ssong.lianmeng-miejin", "event.ssong.yashan"],
+    "description": "蒙古忽必烈采纳刘整「攻宋方略，宜先从事襄阳」之策，筑城堡、练水军，围困襄阳、樊城六年。宋军多次驰援皆败，城中粮尽援绝，「鬻骸而食」。咸淳九年樊城陷落，守将吕文焕举襄阳降元。长江中游门户洞开，南宋灭亡已成定局。",
+    "outcome": "南宋长江防线崩溃",
+    "sources": [{"title": "宋史·度宗本纪", "type": "primary", "ref": "卷四十六"}, {"title": "元史·世祖本纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.ssong.yashan",
+    "uuid": "435094db-e698-471e-ad13-42ba09ae346d",
+    "name": "崖山海战",
+    "name_traditional": "崖山海戰",
+    "category": ["war", "regime-change"],
+    "time": {"start": 1279, "end": 1279, "original": "祥兴二年二月六日", "precision": "day"},
+    "place": ["place.yashan"],
+    "participants": [{"person": "person.ssong.zhaobing", "role": "victim"}],
+    "related_events": ["event.ssong.xiangfan"],
+    "description": "临安陷落后，文天祥、陆秀夫、张世杰拥二王辗转海上，最后退守崖山。张弘范率元军水陆合围，宋军千艘战船以绳连结为寨。元军断其汲水、火攻不成，决战之日宋军溃败，陆秀夫先驱妻子入海，背负八岁幼帝赵昺蹈海殉国，后宫及诸臣从死者十余万，浮尸蔽海。南宋一百五十二年亡。文天祥被押经崖山，作「人生自古谁无死，留取丹心照汗青」。",
+    "outcome": "南宋灭亡，中国首次整体沦于异族政权",
+    "sources": [{"title": "宋史·二王纪", "type": "primary", "ref": "卷四十七"}, {"title": "宋史·文天祥传", "type": "primary", "ref": "卷四百一十八"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "id": "era.jin-jurchen.shouguo",
+    "name": "收国",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanaguda",
+    "era_name": "收国",
+    "start": 1115,
+    "end": 1116,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.tianfu-jin",
+    "name": "天辅",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanaguda",
+    "era_name": "天辅",
+    "start": 1117,
+    "end": 1123,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.tianhui",
+    "name": "天会",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyansheng",
+    "era_name": "天会",
+    "start": 1123,
+    "end": 1135,
+    "note": "灭辽灭北宋",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.tianjuan",
+    "name": "天眷",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyandan",
+    "era_name": "天眷",
+    "start": 1138,
+    "end": 1140,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.huangtong",
+    "name": "皇统",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyandan",
+    "era_name": "皇统",
+    "start": 1141,
+    "end": 1149,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.tiande",
+    "name": "天德",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanliang",
+    "era_name": "天德",
+    "start": 1149,
+    "end": 1153,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.zhenyuan-jin",
+    "name": "贞元",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanliang",
+    "era_name": "贞元",
+    "start": 1153,
+    "end": 1156,
+    "note": "迁都燕京",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.zhenglong",
+    "name": "正隆",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanliang",
+    "era_name": "正隆",
+    "start": 1156,
+    "end": 1161,
+    "note": "南侵败亡",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.dading",
+    "name": "大定",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanyong",
+    "era_name": "大定",
+    "start": 1161,
+    "end": 1189,
+    "note": "大定之治",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.mingchang",
+    "name": "明昌",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanjing",
+    "era_name": "明昌",
+    "start": 1190,
+    "end": 1196,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.chengan",
+    "name": "承安",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanjing",
+    "era_name": "承安",
+    "start": 1196,
+    "end": 1200,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.taihe-jin",
+    "name": "泰和",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanjing",
+    "era_name": "泰和",
+    "start": 1201,
+    "end": 1208,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.daan-jin",
+    "name": "大安",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanyongji",
+    "era_name": "大安",
+    "start": 1209,
+    "end": 1211,
+    "note": "野狐岭之败",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.chongqing",
+    "name": "崇庆",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanyongji",
+    "era_name": "崇庆",
+    "start": 1212,
+    "end": 1213,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.zhining",
+    "name": "至宁",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanyongji",
+    "era_name": "至宁",
+    "start": 1213,
+    "end": 1213,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.zhenyou",
+    "name": "贞祐",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanxun",
+    "era_name": "贞祐",
+    "start": 1213,
+    "end": 1217,
+    "note": "贞祐南迁",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.xingding",
+    "name": "兴定",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanxun",
+    "era_name": "兴定",
+    "start": 1217,
+    "end": 1222,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.yuanguang",
+    "name": "元光",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanxun",
+    "era_name": "元光",
+    "start": 1222,
+    "end": 1223,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.zhengda",
+    "name": "正大",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanshouxu",
+    "era_name": "正大",
+    "start": 1224,
+    "end": 1232,
+    "note": "三峰山之败",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.kaixing",
+    "name": "开兴",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanshouxu",
+    "era_name": "开兴",
+    "start": 1232,
+    "end": 1232,
+    "note": "",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin-jurchen.tianxing",
+    "name": "天兴",
+    "dynasty": "dynasty.jin-jurchen",
+    "emperor": "person.jin-jurchen.wanyanshouxu",
+    "era_name": "天兴",
+    "start": 1232,
+    "end": 1234,
+    "note": "蔡州自缢",
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  }
+]

@@ -738,5 +738,49 @@
       "prompt_version": "suitang-v1",
       "version": 1
     }
+  },
+  {
+    "id": "dynasty.northern-song",
+    "name": "北宋",
+    "name_traditional": "北宋",
+    "start": 960,
+    "end": 1127,
+    "circa": false,
+    "capital": "开封",
+    "note": "赵匡胤陈桥兵变建立，1127年亡于金",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.southern-song",
+    "name": "南宋",
+    "name_traditional": "南宋",
+    "start": 1127,
+    "end": 1279,
+    "circa": false,
+    "capital": "临安",
+    "note": "赵构南渡重建，1279年崖山海战亡于元",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   }
 ]

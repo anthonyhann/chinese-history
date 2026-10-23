@@ -1,0 +1,772 @@
+[
+  {
+    "id": "era.nsong.jianlong",
+    "name": "建隆",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaokuangyin",
+    "era_name": "建隆",
+    "start": 960,
+    "end": 963,
+    "note": "陈桥兵变后建元",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.qiande",
+    "name": "乾德",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaokuangyin",
+    "era_name": "乾德",
+    "start": 963,
+    "end": 968,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.kaibao",
+    "name": "开宝",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaokuangyin",
+    "era_name": "开宝",
+    "start": 968,
+    "end": 976,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.taiping-xingguo",
+    "name": "太平兴国",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoguangyi",
+    "era_name": "太平兴国",
+    "start": 976,
+    "end": 984,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.yongxi",
+    "name": "雍熙",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoguangyi",
+    "era_name": "雍熙",
+    "start": 984,
+    "end": 987,
+    "note": "雍熙北伐惨败",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.duangong",
+    "name": "端拱",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoguangyi",
+    "era_name": "端拱",
+    "start": 988,
+    "end": 989,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.chunhua",
+    "name": "淳化",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoguangyi",
+    "era_name": "淳化",
+    "start": 990,
+    "end": 994,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.zhidao",
+    "name": "至道",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoguangyi",
+    "era_name": "至道",
+    "start": 995,
+    "end": 997,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.xianping",
+    "name": "咸平",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoheng",
+    "era_name": "咸平",
+    "start": 998,
+    "end": 1003,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.jingde",
+    "name": "景德",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoheng",
+    "era_name": "景德",
+    "start": 1004,
+    "end": 1007,
+    "note": "澶渊之盟在景德元年",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.dazhong-xiangfu",
+    "name": "大中祥符",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoheng",
+    "era_name": "大中祥符",
+    "start": 1008,
+    "end": 1016,
+    "note": "天书封禅",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.tianxi-nsong",
+    "name": "天禧",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoheng",
+    "era_name": "天禧",
+    "start": 1017,
+    "end": 1021,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.qianxing",
+    "name": "乾兴",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoheng",
+    "era_name": "乾兴",
+    "start": 1022,
+    "end": 1022,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.tiansheng",
+    "name": "天圣",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "天圣",
+    "start": 1023,
+    "end": 1032,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.mingdao",
+    "name": "明道",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "明道",
+    "start": 1032,
+    "end": 1033,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.jingyou",
+    "name": "景祐",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "景祐",
+    "start": 1034,
+    "end": 1038,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.baoyuan",
+    "name": "宝元",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "宝元",
+    "start": 1038,
+    "end": 1040,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.kangding",
+    "name": "康定",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "康定",
+    "start": 1040,
+    "end": 1041,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.qingli",
+    "name": "庆历",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "庆历",
+    "start": 1041,
+    "end": 1048,
+    "note": "庆历新政",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.huangyou",
+    "name": "皇祐",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "皇祐",
+    "start": 1049,
+    "end": 1054,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.zhihe",
+    "name": "至和",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "至和",
+    "start": 1054,
+    "end": 1056,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.jiayou",
+    "name": "嘉祐",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaozhen",
+    "era_name": "嘉祐",
+    "start": 1056,
+    "end": 1063,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.zhiping",
+    "name": "治平",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoshu",
+    "era_name": "治平",
+    "start": 1064,
+    "end": 1067,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.xining",
+    "name": "熙宁",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoxu",
+    "era_name": "熙宁",
+    "start": 1068,
+    "end": 1077,
+    "note": "王安石变法",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.yuanfeng",
+    "name": "元丰",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoxu",
+    "era_name": "元丰",
+    "start": 1078,
+    "end": 1085,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.yuanyou",
+    "name": "元祐",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoxu-zhe",
+    "era_name": "元祐",
+    "start": 1086,
+    "end": 1094,
+    "note": "元祐更化",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.shaosheng",
+    "name": "绍圣",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoxu-zhe",
+    "era_name": "绍圣",
+    "start": 1094,
+    "end": 1098,
+    "note": "绍述新政",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.yuanfu",
+    "name": "元符",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoxu-zhe",
+    "era_name": "元符",
+    "start": 1098,
+    "end": 1100,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.jianzhong-jingguo",
+    "name": "建中靖国",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoji",
+    "era_name": "建中靖国",
+    "start": 1101,
+    "end": 1101,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.chongning",
+    "name": "崇宁",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoji",
+    "era_name": "崇宁",
+    "start": 1102,
+    "end": 1106,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.daguan",
+    "name": "大观",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoji",
+    "era_name": "大观",
+    "start": 1107,
+    "end": 1110,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.zhenghe-nsong",
+    "name": "政和",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoji",
+    "era_name": "政和",
+    "start": 1111,
+    "end": 1118,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.chonghe",
+    "name": "重和",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoji",
+    "era_name": "重和",
+    "start": 1118,
+    "end": 1119,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.xuanhe",
+    "name": "宣和",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaoji",
+    "era_name": "宣和",
+    "start": 1119,
+    "end": 1125,
+    "note": "宣和画谱、花石纲",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nsong.jingkang",
+    "name": "靖康",
+    "dynasty": "dynasty.northern-song",
+    "emperor": "person.nsong.zhaohuan",
+    "era_name": "靖康",
+    "start": 1126,
+    "end": 1127,
+    "note": "靖康之变",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  }
+]

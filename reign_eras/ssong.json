@@ -1,0 +1,486 @@
+[
+  {
+    "id": "era.ssong.jianyan",
+    "name": "建炎",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaogou",
+    "era_name": "建炎",
+    "start": 1127,
+    "end": 1130,
+    "note": "南渡",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.shaoxing",
+    "name": "绍兴",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaogou",
+    "era_name": "绍兴",
+    "start": 1131,
+    "end": 1162,
+    "note": "绍兴和议",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.longxing",
+    "name": "隆兴",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoshen",
+    "era_name": "隆兴",
+    "start": 1163,
+    "end": 1164,
+    "note": "隆兴北伐",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.qiandao",
+    "name": "乾道",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoshen",
+    "era_name": "乾道",
+    "start": 1165,
+    "end": 1173,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.chunxi",
+    "name": "淳熙",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoshen",
+    "era_name": "淳熙",
+    "start": 1174,
+    "end": 1189,
+    "note": "乾淳之治",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.shaoxi",
+    "name": "绍熙",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaodun",
+    "era_name": "绍熙",
+    "start": 1190,
+    "end": 1194,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.qingyuan",
+    "name": "庆元",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaokuo",
+    "era_name": "庆元",
+    "start": 1195,
+    "end": 1200,
+    "note": "庆元党禁",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.jiatai",
+    "name": "嘉泰",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaokuo",
+    "era_name": "嘉泰",
+    "start": 1201,
+    "end": 1204,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.kaixi",
+    "name": "开禧",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaokuo",
+    "era_name": "开禧",
+    "start": 1205,
+    "end": 1207,
+    "note": "开禧北伐",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.jiading",
+    "name": "嘉定",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaokuo",
+    "era_name": "嘉定",
+    "start": 1208,
+    "end": 1224,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.baoqing",
+    "name": "宝庆",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "宝庆",
+    "start": 1225,
+    "end": 1227,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.shaoding",
+    "name": "绍定",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "绍定",
+    "start": 1228,
+    "end": 1233,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.duanping",
+    "name": "端平",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "端平",
+    "start": 1234,
+    "end": 1236,
+    "note": "联蒙灭金、端平入洛",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.jiaxi",
+    "name": "嘉熙",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "嘉熙",
+    "start": 1237,
+    "end": 1240,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.chunyou",
+    "name": "淳祐",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "淳祐",
+    "start": 1241,
+    "end": 1252,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.baoyou",
+    "name": "宝祐",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "宝祐",
+    "start": 1253,
+    "end": 1258,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.kaiqing",
+    "name": "开庆",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "开庆",
+    "start": 1259,
+    "end": 1259,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.jingding",
+    "name": "景定",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoyun",
+    "era_name": "景定",
+    "start": 1260,
+    "end": 1264,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.xianchun",
+    "name": "咸淳",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoqi",
+    "era_name": "咸淳",
+    "start": 1265,
+    "end": 1274,
+    "note": "襄阳陷落",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.deyou",
+    "name": "德祐",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoxian",
+    "era_name": "德祐",
+    "start": 1275,
+    "end": 1276,
+    "note": "临安降元",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.jingyan",
+    "name": "景炎",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaoshi",
+    "era_name": "景炎",
+    "start": 1276,
+    "end": 1278,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ssong.xiangxing",
+    "name": "祥兴",
+    "dynasty": "dynasty.southern-song",
+    "emperor": "person.ssong.zhaobing",
+    "era_name": "祥兴",
+    "start": 1278,
+    "end": 1279,
+    "note": "崖山海战",
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  }
+]

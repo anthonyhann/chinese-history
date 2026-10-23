@@ -584,5 +584,105 @@
       "prompt_version": "suitang-v1",
       "version": 1
     }
+  },
+  {
+    "id": "place.kaifeng",
+    "name": "开封",
+    "name_traditional": "開封",
+    "type": "city",
+    "modern_name": "河南省开封市",
+    "coordinates": {
+      "lat": 34.8,
+      "lng": 114.35,
+      "circa": true
+    },
+    "note": "北宋东京，当时世界最大都市",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.linan",
+    "name": "临安",
+    "name_traditional": "臨安",
+    "type": "city",
+    "modern_name": "浙江省杭州市",
+    "coordinates": {
+      "lat": 30.25,
+      "lng": 120.16,
+      "circa": true
+    },
+    "note": "南宋行在（实际都城）",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.chanyuan",
+    "name": "澶州（澶渊）",
+    "name_traditional": "澶州（澶淵）",
+    "type": "city",
+    "modern_name": "河南省濮阳市",
+    "coordinates": {
+      "lat": 35.76,
+      "lng": 115.03,
+      "circa": true
+    },
+    "note": "1004年澶渊之盟签订地",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.yashan",
+    "name": "崖山",
+    "name_traditional": "崖山",
+    "type": "site",
+    "modern_name": "广东省江门市新会区南",
+    "coordinates": {
+      "lat": 22.23,
+      "lng": 113.1,
+      "circa": true
+    },
+    "note": "1279年南宋灭亡的崖山海战发生地",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   }
 ]

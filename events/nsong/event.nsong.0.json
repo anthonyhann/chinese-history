@@ -1,0 +1,123 @@
+[
+  {
+    "id": "event.nsong.chenqiao",
+    "uuid": "e04b7460-be6a-46de-ad2c-2fb347d2eaa2",
+    "name": "陈桥兵变",
+    "name_traditional": "陳橋兵變",
+    "category": ["coup", "regime-change"],
+    "time": {"start": 960, "end": 960, "original": "后周显德七年正月", "precision": "month"},
+    "place": [],
+    "participants": [
+      {"person": "person.nsong.zhaokuangyin", "role": "beneficiary"},
+      {"person": "person.later-zhou.chaizongxun", "role": "subject"}
+    ],
+    "related_events": ["event.nsong.beijiu"],
+    "description": "显德七年正月，镇、定二州谎报契丹与北汉联兵南下，后周宰相范质仓促遣殿前都点检赵匡胤率军北上御敌。行至陈桥驿，将士哗变，以黄袍加于太祖之身，回师开封，七岁的恭帝禅位。兵不血刃、市不易肆，为历代改朝换代中最平和的一次。",
+    "outcome": "北宋建立，五代结束",
+    "sources": [{"title": "宋史·太祖本纪", "type": "primary", "ref": "卷一"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.nsong.beijiu",
+    "uuid": "8d685a4b-0d99-49dc-8efa-e31bd1ab08d8",
+    "name": "杯酒释兵权",
+    "name_traditional": "杯酒釋兵權",
+    "category": ["policy", "politics"],
+    "time": {"start": 961, "end": 961, "original": "建隆二年七月", "precision": "month"},
+    "place": ["place.kaifeng"],
+    "participants": [{"person": "person.nsong.zhaokuangyin", "role": "decision-maker"}],
+    "related_events": ["event.nsong.chenqiao"],
+    "description": "太祖以宴饮为名，召石守信、高怀德等禁军宿将入宫，席间从容道破「天子谁不欲为」的隐忧，劝其释去兵权、多积金帛田宅以遗子孙、君臣两不相疑。次日诸将皆称病请辞，太祖厚加赏赐，以文臣知州、转运使制地方，自此藩镇之患绝，强干弱枝之制成，亦开两宋重文抑武、武功不振之局。",
+    "outcome": "中央集权空前强化，藩镇割据终结",
+    "sources": [{"title": "宋史·太祖本纪", "type": "primary", "ref": "卷一"}, {"title": "续资治通鉴长编", "type": "primary", "ref": "卷二"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.nsong.zhuying-fusheng",
+    "uuid": "e839da3e-7f5a-4643-901c-57768015b914",
+    "name": "烛影斧声（太祖之死）",
+    "name_traditional": "燭影斧聲（太祖之死）",
+    "category": ["politics", "mystery"],
+    "time": {"start": 976, "end": 976, "original": "开宝九年十月壬子", "precision": "day"},
+    "place": ["place.kaifeng"],
+    "participants": [
+      {"person": "person.nsong.zhaokuangyin", "role": "victim"},
+      {"person": "person.nsong.zhaoguangyi", "role": "beneficiary"}
+    ],
+    "related_events": [],
+    "description": "开宝九年十月十九日夜，太祖召晋王赵光义入宫对饮，宦者遥见烛影下太宗时或避席，又闻太祖引柱斧戳地，大声曰「好为之」。次日凌晨太祖暴崩，太宗即位于灵柩前。传位合法性千古存疑，「金匮之盟」真伪难辨，为宋史第一大疑案。",
+    "outcome": "宋太宗继位，太祖一脉子孙冷落",
+    "sources": [{"title": "续资治通鉴长编", "type": "primary", "ref": "卷十七"}, {"title": "宋史·太祖本纪", "type": "primary", "ref": "卷三"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.nsong.chanyuan",
+    "uuid": "7026a819-a305-400c-8e1d-4f24127ee37c",
+    "name": "澶渊之盟",
+    "name_traditional": "澶淵之盟",
+    "category": ["diplomacy"],
+    "time": {"start": 1004, "end": 1005, "original": "景德元年十一月至二年正月", "precision": "month"},
+    "place": ["place.chanyuan"],
+    "participants": [
+      {"person": "person.nsong.zhaoheng", "role": "monarch"},
+      {"person": "person.liao.yelulongxu", "role": "monarch"}
+    ],
+    "related_events": [],
+    "description": "辽圣宗与萧太后率二十万大军深入宋境，直抵澶州北城。宰相寇准力排迁都之议，请真宗御驾亲征，宋军士气大振，射杀辽军主将萧挞览。双方议和：宋岁输银十万两、绢二十万匹，辽宋约为兄弟之国，沿边不得招纳降附。自此宋辽百年无大战，是中国历史上最成功的以金钱换和平案例。",
+    "outcome": "宋辽百年和平，岁币外交成定制",
+    "sources": [{"title": "宋史·真宗本纪", "type": "primary", "ref": "卷七"}, {"title": "辽史·圣宗本纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.nsong.qingli",
+    "uuid": "8dffab50-bd0f-454b-a3a8-d9f949b14d5f",
+    "name": "庆历新政",
+    "name_traditional": "慶曆新政",
+    "category": ["reform"],
+    "time": {"start": 1043, "end": 1045, "original": "庆历三年至五年", "precision": "year"},
+    "place": ["place.kaifeng"],
+    "participants": [{"person": "person.nsong.zhaozhen", "role": "decision-maker"}],
+    "related_events": ["event.nsong.wanganshi"],
+    "description": "仁宗以范仲淹为参知政事，上《答手诏条陈十事》：明黜陟、抑侥幸、精贡举、择官长、均公田、厚农桑、修武备、减徭役、覃恩信、重命令。新政触及官僚特权，反对派以「朋党」攻之，范仲淹、富弼、欧阳修相继被逐。新政一年余即废，然为王安石变法先声。",
+    "outcome": "改革失败，新旧党争开端",
+    "sources": [{"title": "宋史·仁宗本纪", "type": "primary", "ref": "卷十一"}, {"title": "续资治通鉴长编", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.nsong.wanganshi",
+    "uuid": "c918a464-a4a5-44e6-94a2-032f8860981d",
+    "name": "王安石变法（熙宁变法）",
+    "name_traditional": "王安石變法（熙寧變法）",
+    "category": ["reform"],
+    "time": {"start": 1069, "end": 1085, "original": "熙宁二年至元丰八年", "precision": "year"},
+    "place": ["place.kaifeng"],
+    "participants": [
+      {"person": "person.nsong.zhaoxu", "role": "decision-maker"},
+      {"person": "person.nsong.zhaoxu-zhe", "role": "subject"}
+    ],
+    "related_events": ["event.nsong.qingli"],
+    "description": "神宗为改变积贫积弱，起用王安石为参知政事，全面推行新法：青苗、免役、市易、均输以理财，保甲、保马、将兵法以强兵，贡举改革以取士。新法与司马光、苏轼等旧党冲突激烈，两罢两起，神宗死后高太后尽废新法（元祐更化），哲宗亲政又恢复之（绍圣绍述），新旧党争贯穿北宋后半期，直至亡国。",
+    "outcome": "中国历史上影响最深远的改革实验；党争贻害北宋",
+    "sources": [{"title": "宋史·王安石传", "type": "primary", "ref": "卷三百二十七"}, {"title": "续资治通鉴长编", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  },
+  {
+    "id": "event.nsong.jingkang",
+    "uuid": "89d49421-78cd-46f6-b4f9-faf7c84cdb33",
+    "name": "靖康之变",
+    "name_traditional": "靖康之變",
+    "category": ["war", "regime-change"],
+    "time": {"start": 1126, "end": 1127, "original": "靖康元年正月至二年四月", "precision": "month"},
+    "place": ["place.kaifeng"],
+    "participants": [
+      {"person": "person.nsong.zhaoji", "role": "victim"},
+      {"person": "person.nsong.zhaohuan", "role": "victim"},
+      {"person": "person.jin-jurchen.wanyansheng", "role": "instigator"}
+    ],
+    "related_events": [],
+    "description": "金灭辽后两路南下。徽宗禅位钦宗。李纲固守开封，金军一度退去；钦宗旋罢李纲，自毁长城。靖康元年闰十一月金军再围开封，城陷。二年四月，金人掳徽、钦二帝及后妃宗室三千余人、府库文物图籍北去，北宋亡。史称「靖康之耻」，为中国历史上皇室受辱最深的一次。",
+    "outcome": "北宋灭亡，宋室南渡",
+    "sources": [{"title": "宋史·钦宗本纪", "type": "primary", "ref": "卷二十三"}, {"title": "靖康稗史", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+  }
+]
