@@ -1,0 +1,354 @@
+[
+  {
+    "id": "era.yuan.zhongtong",
+    "name": "中统",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.hubilie",
+    "era_name": "中统",
+    "start": 1260,
+    "end": 1264,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.zhiyuan",
+    "name": "至元",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.hubilie",
+    "era_name": "至元",
+    "start": 1264,
+    "end": 1294,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.yuanzhen",
+    "name": "元贞",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.tiemuer",
+    "era_name": "元贞",
+    "start": 1295,
+    "end": 1297,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.dade",
+    "name": "大德",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.tiemuer",
+    "era_name": "大德",
+    "start": 1297,
+    "end": 1307,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.zhida",
+    "name": "至大",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.haishan",
+    "era_name": "至大",
+    "start": 1308,
+    "end": 1311,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.huangqing",
+    "name": "皇庆",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.aiyulibalibada",
+    "era_name": "皇庆",
+    "start": 1312,
+    "end": 1313,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.yanyou",
+    "name": "延祐",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.aiyulibalibada",
+    "era_name": "延祐",
+    "start": 1314,
+    "end": 1320,
+    "note": "延祐复科",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.zhizhi",
+    "name": "至治",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.shuodebala",
+    "era_name": "至治",
+    "start": 1321,
+    "end": 1323,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.taiding",
+    "name": "泰定",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.yesuntiemuer",
+    "era_name": "泰定",
+    "start": 1324,
+    "end": 1328,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.zhihe",
+    "name": "致和",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.yesuntiemuer",
+    "era_name": "致和",
+    "start": 1328,
+    "end": 1328,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.tianshun-yuan",
+    "name": "天顺",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.asujiba",
+    "era_name": "天顺",
+    "start": 1328,
+    "end": 1328,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.tianli",
+    "name": "天历",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.tutiemuer",
+    "era_name": "天历",
+    "start": 1328,
+    "end": 1330,
+    "note": "两都之战",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.zhishun",
+    "name": "至顺",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.tutiemuer",
+    "era_name": "至顺",
+    "start": 1330,
+    "end": 1333,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.yuantong",
+    "name": "元统",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.tuohuantiemuer",
+    "era_name": "元统",
+    "start": 1333,
+    "end": 1335,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.zhiyuan-hui",
+    "name": "（后）至元",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.tuohuantiemuer",
+    "era_name": "（后）至元",
+    "start": 1335,
+    "end": 1340,
+    "note": "顺帝朝，与世祖至元重号",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yuan.zhizheng",
+    "name": "至正",
+    "dynasty": "dynasty.yuan",
+    "emperor": "person.yuan.tuohuantiemuer",
+    "era_name": "至正",
+    "start": 1341,
+    "end": 1368,
+    "note": "",
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  }
+]

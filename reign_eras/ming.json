@@ -1,0 +1,376 @@
+[
+  {
+    "id": "era.ming.hongwu",
+    "name": "洪武",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuyuanzhang",
+    "era_name": "洪武",
+    "start": 1368,
+    "end": 1398,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.jianwen",
+    "name": "建文",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuyunwen",
+    "era_name": "建文",
+    "start": 1399,
+    "end": 1402,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.yongle",
+    "name": "永乐",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhudi",
+    "era_name": "永乐",
+    "start": 1403,
+    "end": 1424,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.hongxi",
+    "name": "洪熙",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhugaochi",
+    "era_name": "洪熙",
+    "start": 1425,
+    "end": 1425,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.xuande",
+    "name": "宣德",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuzhanji",
+    "era_name": "宣德",
+    "start": 1426,
+    "end": 1435,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.zhengtong",
+    "name": "正统",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuqizhen",
+    "era_name": "正统",
+    "start": 1436,
+    "end": 1449,
+    "note": "土木堡之变",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.jingtai",
+    "name": "景泰",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuqiyu",
+    "era_name": "景泰",
+    "start": 1450,
+    "end": 1457,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.tianshun-ming",
+    "name": "天顺",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuqizhen",
+    "era_name": "天顺",
+    "start": 1457,
+    "end": 1464,
+    "note": "夺门之变复位",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.chenghua",
+    "name": "成化",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhujianshen",
+    "era_name": "成化",
+    "start": 1465,
+    "end": 1487,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.hongzhi",
+    "name": "弘治",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuyoutang",
+    "era_name": "弘治",
+    "start": 1488,
+    "end": 1505,
+    "note": "弘治中兴",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.zhengde",
+    "name": "正德",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuhouzhao",
+    "era_name": "正德",
+    "start": 1506,
+    "end": 1521,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.jiajing",
+    "name": "嘉靖",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuhoucong",
+    "era_name": "嘉靖",
+    "start": 1522,
+    "end": 1566,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.longqing",
+    "name": "隆庆",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuzaihou",
+    "era_name": "隆庆",
+    "start": 1567,
+    "end": 1572,
+    "note": "隆庆开关",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.wanli",
+    "name": "万历",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuyijun",
+    "era_name": "万历",
+    "start": 1573,
+    "end": 1620,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.taichang",
+    "name": "泰昌",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuchangluo",
+    "era_name": "泰昌",
+    "start": 1620,
+    "end": 1620,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.tianqi",
+    "name": "天启",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuyouxiao",
+    "era_name": "天启",
+    "start": 1621,
+    "end": 1627,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ming.chongzhen",
+    "name": "崇祯",
+    "dynasty": "dynasty.ming",
+    "emperor": "person.ming.zhuyoujian",
+    "era_name": "崇祯",
+    "start": 1628,
+    "end": 1644,
+    "note": "",
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  }
+]

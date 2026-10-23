@@ -1,0 +1,122 @@
+[
+  {
+    "id": "event.ming.jianli",
+    "uuid": "b24af1a6-a30f-4672-a329-9c074397f89a",
+    "name": "明朝建立",
+    "name_traditional": "明朝建立",
+    "category": ["regime-change"],
+    "time": {"start": 1368, "end": 1368, "original": "洪武元年正月四日", "precision": "day"},
+    "place": ["place.nanjing"],
+    "participants": [{"person": "person.ming.zhuyuanzhang", "role": "protagonist"}],
+    "related_events": ["event.yuan.hongjin"],
+    "description": "朱元璋在削平陈友谅、张士诚后，于应天府（南京）即皇帝位，国号大明，建元洪武。同年徐达、常遇春北伐，八月攻克大都，元顺帝北遁上都，元朝对中原的统治终结。明朝是中国历史上最后一个由汉族建立的大一统王朝。",
+    "outcome": "明朝建立，元朝在中原的统治终结",
+    "sources": [{"title": "明史·太祖本纪", "type": "primary", "ref": "卷三"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.ming.jingnan",
+    "uuid": "52b4dde7-9517-436a-91ae-f234ec75c021",
+    "name": "靖难之役",
+    "name_traditional": "靖難之役",
+    "category": ["war", "civil-war"],
+    "time": {"start": 1399, "end": 1402, "original": "建文元年七月至四年六月", "precision": "year"},
+    "place": ["place.beijing", "place.nanjing"],
+    "participants": [
+      {"person": "person.ming.zhuyunwen", "role": "victim"},
+      {"person": "person.ming.zhudi", "role": "instigator"}
+    ],
+    "related_events": ["event.ming.jianli"],
+    "description": "建文帝力行削藩，燕王朱棣以「清君侧，靖国难」为名起兵。四年内战，朱棣采纳姚广孝直捣南京之策，绕过山东坚城，长驱渡江。李景隆开金川门迎降，宫中火起，建文帝下落不明。朱棣即位，诛方孝孺十族、瓜蔓抄建文旧臣，迁都北京，改元永乐。",
+    "outcome": "朱棣夺位，明朝政治中心北移",
+    "sources": [{"title": "明史·成祖本纪", "type": "primary", "ref": "卷五"}, {"title": "明史·恭闵帝纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.ming.zhenghe",
+    "uuid": "ccc70182-2915-4c1f-9d9c-f032cac1ca64",
+    "name": "郑和下西洋",
+    "name_traditional": "鄭和下西洋",
+    "category": ["exploration", "diplomacy"],
+    "time": {"start": 1405, "end": 1433, "original": "永乐三年至宣德八年", "precision": "year"},
+    "place": [],
+    "participants": [
+      {"person": "person.ming.zhudi", "role": "decision-maker"},
+      {"person": "person.ming.zhuzhanji", "role": "decision-maker"}
+    ],
+    "related_events": [],
+    "description": "太监郑和七率庞大船队远航西洋（今南海以西至印度洋），船队最多时二百余艘、二万七千余人，宝船长四十四丈（约125米），远至东非、红海。携回麒麟（长颈鹿）、珍宝与各国使节，为古代世界规模最大的航海壮举。宣德八年郑和病逝于归途，此后明朝转向海禁，航海档案后来被毁，中国大航海时代戛然而止。",
+    "outcome": "中国古代航海巅峰；此后海禁渐严",
+    "sources": [{"title": "明史·郑和传", "type": "primary", "ref": "卷三百四"}, {"title": "瀛涯胜览（马欢）", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.ming.tumubao",
+    "uuid": "1d5b2484-352b-4137-8bad-2fc7a01e2ad2",
+    "name": "土木堡之变",
+    "name_traditional": "土木堡之變",
+    "category": ["war", "coup"],
+    "time": {"start": 1449, "end": 1449, "original": "正统十四年八月壬戌", "precision": "day"},
+    "place": [],
+    "participants": [
+      {"person": "person.ming.zhuqizhen", "role": "victim"},
+      {"person": "person.ming.zhuqiyu", "role": "beneficiary"}
+    ],
+    "related_events": ["event.ming.duomen"],
+    "description": "瓦剌也先大举入寇，宦官王振怂恿英宗率五十万大军亲征，行军无备、粮道不继。回师途中王振欲邀帝驾幸其蔚州故里炫耀，又中途改道，致大军被围于土木堡，水源被断，全军覆没，英国公张辅等数十文武大臣战死，英宗被俘。也先挟英宗直抵北京，于谦拥立景泰帝、打赢北京保卫战，明朝免于南渡之祸。",
+    "outcome": "明朝由盛转衰的转折点；北京保卫战胜利",
+    "sources": [{"title": "明史·英宗前纪", "type": "primary", "ref": "卷十"}, {"title": "明史·于谦传", "type": "primary", "ref": "卷一百七十"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.ming.duomen",
+    "uuid": "b2189ff3-6fec-4a99-82d7-57a066901a10",
+    "name": "夺门之变（南宫复辟）",
+    "name_traditional": "奪門之變（南宮復辟）",
+    "category": ["coup"],
+    "time": {"start": 1457, "end": 1457, "original": "景泰八年正月壬午", "precision": "day"},
+    "place": ["place.beijing"],
+    "participants": [
+      {"person": "person.ming.zhuqizhen", "role": "instigator"},
+      {"person": "person.ming.zhuqiyu", "role": "victim"}
+    ],
+    "related_events": ["event.ming.tumubao"],
+    "description": "景泰帝病重且无嗣，武清侯石亨、文臣徐有贞、太监曹吉祥趁夜率兵破南宫，迎太上皇朱祁镇入奉天殿复位，改元天顺。兵部尚书于谦、大学士王文被诬谋逆处死。于谦「粉身碎骨浑不怕，要留清白在人间」，千古奇冤。",
+    "outcome": "英宗复辟，于谦冤死",
+    "sources": [{"title": "明史·英宗后纪", "type": "primary", "ref": "卷十二"}, {"title": "明史·于谦传", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.ming.zhangjuzheng",
+    "uuid": "5686f349-e527-4cc5-8dd4-64b1791c11ae",
+    "name": "张居正改革",
+    "name_traditional": "張居正改革",
+    "category": ["reform"],
+    "time": {"start": 1572, "end": 1582, "original": "隆庆六年至万历十年", "precision": "year"},
+    "place": ["place.beijing"],
+    "participants": [{"person": "person.ming.zhuyijun", "role": "subject"}],
+    "related_events": [],
+    "description": "万历帝十岁即位，内阁首辅张居正受两宫皇太后托付，代行皇权十年：考成法严核官吏，一条鞭法统一赋役折银，清丈田亩，整顿边防（戚继光、李成梁），国库由空虚至粟可支十年。张居正死后即遭反攻倒算，抄家夺谥，改革人亡政息，明朝失去最后一次自救机会。",
+    "outcome": "万历初年短暂中兴；死后改革尽废",
+    "sources": [{"title": "明史·张居正传", "type": "primary", "ref": "卷二百一十三"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.ming.qingjun-ruguan",
+    "uuid": "93742d44-3019-45c7-aa91-cbba6179c855",
+    "name": "清军入关",
+    "name_traditional": "清軍入關",
+    "category": ["war", "regime-change"],
+    "time": {"start": 1644, "end": 1644, "original": "崇祯十七年/顺治元年四月至五月", "precision": "month"},
+    "place": ["place.beijing"],
+    "participants": [
+      {"person": "person.ming.zhuyoujian", "role": "victim"},
+      {"person": "person.qing.fulin", "role": "beneficiary"}
+    ],
+    "related_events": ["event.ming.jianli"],
+    "description": "三月十九日李自成大顺军破北京，崇祯帝自缢煤山。四月，明山海关总兵吴三桂开关引清摄政王多尔衮兵，一片石之战大败李自成。五月二日清军入北京，以「为尔等复君父仇」为号召，为崇祯帝发丧，安抚明臣。十月顺治帝迁都北京，清朝开始统治中原。随后二十年平定南明与大顺、大西余部。",
+    "outcome": "明亡清兴，中国进入清朝统治",
+    "sources": [{"title": "清世祖实录", "type": "primary"}, {"title": "明史·庄烈帝纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  }
+]

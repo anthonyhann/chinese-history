@@ -1,0 +1,288 @@
+[
+  {
+    "id": "era.qing.tianming",
+    "name": "天命",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.nurhaci",
+    "era_name": "天命",
+    "start": 1616,
+    "end": 1626,
+    "note": "后金",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.tiancong",
+    "name": "天聪",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.huangtaiji",
+    "era_name": "天聪",
+    "start": 1627,
+    "end": 1636,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.chongde",
+    "name": "崇德",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.huangtaiji",
+    "era_name": "崇德",
+    "start": 1636,
+    "end": 1643,
+    "note": "改国号大清",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.shunzhi",
+    "name": "顺治",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.fulin",
+    "era_name": "顺治",
+    "start": 1644,
+    "end": 1661,
+    "note": "入关定鼎",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.kangxi",
+    "name": "康熙",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.xuanye",
+    "era_name": "康熙",
+    "start": 1662,
+    "end": 1722,
+    "note": "中国历史上使用最久的年号",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.yongzheng",
+    "name": "雍正",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.yinzhen",
+    "era_name": "雍正",
+    "start": 1723,
+    "end": 1735,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.qianlong",
+    "name": "乾隆",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.hongli",
+    "era_name": "乾隆",
+    "start": 1736,
+    "end": 1795,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.jiaqing",
+    "name": "嘉庆",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.yongyan",
+    "era_name": "嘉庆",
+    "start": 1796,
+    "end": 1820,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.daoguang",
+    "name": "道光",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.minning",
+    "era_name": "道光",
+    "start": 1821,
+    "end": 1850,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.xianfeng",
+    "name": "咸丰",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.yizhu",
+    "era_name": "咸丰",
+    "start": 1851,
+    "end": 1861,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.tongzhi",
+    "name": "同治",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.zaichun",
+    "era_name": "同治",
+    "start": 1862,
+    "end": 1874,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.guangxu",
+    "name": "光绪",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.zaitian",
+    "era_name": "光绪",
+    "start": 1875,
+    "end": 1908,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.qing.xuantong",
+    "name": "宣统",
+    "dynasty": "dynasty.qing",
+    "emperor": "person.qing.puyi",
+    "era_name": "宣统",
+    "start": 1909,
+    "end": 1912,
+    "note": "",
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  }
+]

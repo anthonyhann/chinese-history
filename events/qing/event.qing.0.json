@@ -1,0 +1,69 @@
+[
+  {
+    "id": "event.qing.kangqian",
+    "uuid": "08f1095f-b58d-4f61-97ae-3e8b05c376af",
+    "name": "康乾盛世",
+    "name_traditional": "康乾盛世",
+    "category": ["governance", "golden-age"],
+    "time": {"start": 1681, "end": 1796, "original": "康熙二十年至嘉庆元年", "precision": "year"},
+    "place": ["place.beijing"],
+    "participants": [
+      {"person": "person.qing.xuanye", "role": "decision-maker"},
+      {"person": "person.qing.yinzhen", "role": "decision-maker"},
+      {"person": "person.qing.hongli", "role": "decision-maker"}
+    ],
+    "related_events": [],
+    "description": "康熙、雍正、乾隆三朝一百三十余年：平三藩、收台湾、征准噶尔、定西藏，疆域达到历史极盛（约1300万平方公里）；摊丁入亩、火耗归公，人口从一亿增至三亿；编《康熙字典》《四库全书》。然文字狱禁锢思想、闭关锁国、科技停滞，盛世之下已伏近代落后之因。为帝制中国最后的盛世。",
+    "outcome": "清朝国力巅峰；亦埋下近代落后伏笔",
+    "sources": [{"title": "清史稿·圣祖/世宗/高宗本纪", "type": "secondary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.qing.yapian",
+    "uuid": "8c2f1321-9fc7-4f00-873f-d9357dd3ec92",
+    "name": "鸦片战争与《南京条约》",
+    "name_traditional": "鴉片戰爭與《南京條約》",
+    "category": ["war", "diplomacy"],
+    "time": {"start": 1840, "end": 1842, "original": "道光二十年至二十二年", "precision": "year"},
+    "place": [],
+    "participants": [{"person": "person.qing.minning", "role": "monarch"}],
+    "related_events": [],
+    "description": "林则徐虎门销烟后，英国以通商受阻为由发动战争。清军八旗绿营在英国坚船利炮前溃不成军，英军溯长江切断漕运，直抵南京下关江面。1842年签订《南京条约》：割香港岛、赔款二千一百万银元、五口通商、协定关税。中国近代史自此开端，天朝上国体系开始崩塌。",
+    "outcome": "中国近代史开端，不平等条约体系开始",
+    "sources": [{"title": "清史稿·宣宗本纪", "type": "secondary"}, {"title": "筹办夷务始末", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.qing.taiping",
+    "uuid": "1526f193-6e3e-4255-b022-49ae46852a1f",
+    "name": "太平天国运动",
+    "name_traditional": "太平天國運動",
+    "category": ["uprising", "war"],
+    "time": {"start": 1851, "end": 1864, "original": "咸丰元年金田起义至同治三年天京陷落", "precision": "year"},
+    "place": ["place.nanjing"],
+    "participants": [
+      {"person": "person.qing.yizhu", "role": "monarch"},
+      {"person": "person.qing.zaichun", "role": "monarch"}
+    ],
+    "related_events": ["event.qing.yapian"],
+    "description": "洪秀全创拜上帝教，1851年金田起义，1853年攻克南京改称天京，建国号太平天国，颁布《天朝田亩制度》。清廷八旗绿营不堪一战，曾国藩、李鸿章以湘军、淮军地方团练崛起。1864年曾国荃攻陷天京，运动失败。十四年战乱致数千万人死伤，江南凋敝，亦使汉人地方势力崛起，中央权威衰落。",
+    "outcome": "清政权受重创，地方督抚势力崛起",
+    "sources": [{"title": "清史稿·文宗本纪", "type": "secondary"}, {"title": "太平天国史料丛编", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.qing.xinhai",
+    "uuid": "fe543048-5520-4d28-83b4-1659791bcc67",
+    "name": "辛亥革命",
+    "name_traditional": "辛亥革命",
+    "category": ["revolution", "regime-change"],
+    "time": {"start": 1911, "end": 1912, "original": "宣统三年八月十九日武昌起义至1912年2月12日退位", "precision": "month"},
+    "place": [],
+    "participants": [{"person": "person.qing.puyi", "role": "subject"}],
+    "related_events": ["event.qing.yapian", "event.qing.taiping"],
+    "description": "1911年10月10日武昌新军起义，两月内十五省相继独立。孙中山自海外归国，1912年1月1日在南京就任中华民国临时大总统。袁世凯以北洋军压境，与革命党议和，以清室优待条件换取宣统帝退位。2月12日隆裕太后携六岁溥仪颁布《退位诏书》。中国两千一百三十二年的帝制自此终结。",
+    "outcome": "清朝灭亡，帝制终结，中华民国建立",
+    "sources": [{"title": "清史稿·宣统皇帝本纪", "type": "secondary"}, {"title": "辛亥革命回忆录", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  }
+]

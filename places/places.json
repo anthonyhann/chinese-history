@@ -684,5 +684,80 @@
       "prompt_version": "songliaojin-v1",
       "version": 1
     }
+  },
+  {
+    "id": "place.diaoyucheng",
+    "name": "钓鱼城",
+    "name_traditional": "釣魚城",
+    "type": "site",
+    "modern_name": "重庆市合川区",
+    "coordinates": {
+      "lat": 30.0,
+      "lng": 106.31,
+      "circa": true
+    },
+    "note": "1259年蒙哥汗攻城重伤而死处，「上帝折鞭处」",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.nanjing",
+    "name": "南京（应天府）",
+    "name_traditional": "南京（應天府）",
+    "type": "city",
+    "modern_name": "江苏省南京市",
+    "coordinates": {
+      "lat": 32.06,
+      "lng": 118.79,
+      "circa": true
+    },
+    "note": "明初都城；六朝古都",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.beijing",
+    "name": "北京",
+    "name_traditional": "北京",
+    "type": "city",
+    "modern_name": "北京市",
+    "coordinates": {
+      "lat": 39.9,
+      "lng": 116.4,
+      "circa": true
+    },
+    "note": "元大都、明清京师",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   }
 ]

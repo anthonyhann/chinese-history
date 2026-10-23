@@ -1,0 +1,69 @@
+[
+  {
+    "id": "event.yuan.menggu-xizheng",
+    "uuid": "61fa1340-a72c-4732-957f-24408cfb0a38",
+    "name": "蒙古西征",
+    "name_traditional": "蒙古西征",
+    "category": ["war", "expansion"],
+    "time": {"start": 1219, "end": 1259, "original": "成吉思汗十四年至蒙哥汗九年", "precision": "year"},
+    "place": [],
+    "participants": [
+      {"person": "person.yuan.tiemuzhen", "role": "commander"},
+      {"person": "person.yuan.wokuotai", "role": "monarch"},
+      {"person": "person.yuan.mengge", "role": "monarch"}
+    ],
+    "related_events": ["event.yuan.diaoyucheng"],
+    "description": "三次大规模西征：成吉思汗亲征花剌子模（1219-1225），兵抵里海；窝阔台汗拔都率长子西征（1236-1242），灭钦察、基辅罗斯，前锋抵多瑙河，震撼欧洲；蒙哥汗旭烈兀西征（1253-1259），灭木剌夷与阿拔斯王朝，巴格达陷落。蒙古铁骑建立了人类历史上疆域最大的连续陆上帝国，欧亚大陆的交通、贸易与疾病传播从此改写。",
+    "outcome": "横跨欧亚的蒙古帝国形成",
+    "sources": [{"title": "元史·太祖本纪", "type": "primary", "ref": "卷一"}, {"title": "蒙古秘史", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.yuan.diaoyucheng",
+    "uuid": "0756caec-cf4f-48e3-957a-c6a989cb23e9",
+    "name": "钓鱼城之战",
+    "name_traditional": "釣魚城之戰",
+    "category": ["war"],
+    "time": {"start": 1259, "end": 1259, "original": "南宋开庆元年二月至七月", "precision": "month"},
+    "place": ["place.diaoyucheng"],
+    "participants": [{"person": "person.yuan.mengge", "role": "commander"}],
+    "related_events": ["event.yuan.menggu-xizheng"],
+    "description": "蒙哥汗亲率大军入蜀，南宋合州守将王坚、张珏凭钓鱼山城坚守。蒙军顿兵坚城之下五个月，先锋汪德臣被炮石击死，七月蒙哥本人亦死于城下（重伤或染疫，诸说不一）。蒙古西征大军与南征诸军闻讯纷纷回师争位，埃及马穆鲁克因此得以在艾因贾鲁特挡住旭烈兀西征军。欧洲人称之为「上帝折鞭处」。钓鱼城此后坚守至1279年南宋灭亡之后，以不可杀城中一人为条件才降。",
+    "outcome": "蒙哥汗死，蒙古帝国分裂，南宋续命二十年",
+    "sources": [{"title": "元史·宪宗本纪", "type": "primary", "ref": "卷三"}, {"title": "宋史·理宗本纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.yuan.miesong",
+    "uuid": "cc214915-89ea-406c-9cd3-0ca785552c10",
+    "name": "元灭南宋",
+    "name_traditional": "元滅南宋",
+    "category": ["war", "regime-change"],
+    "time": {"start": 1271, "end": 1279, "original": "元至元八年至十六年", "precision": "year"},
+    "place": ["place.linan", "place.yashan"],
+    "participants": [{"person": "person.yuan.hubilie", "role": "decision-maker"}],
+    "related_events": ["event.ssong.xiangfan", "event.ssong.yashan"],
+    "description": "忽必烈建国号大元后，以伯颜为帅，1273年破襄樊，1276年陷临安，俘宋恭帝与谢太后北去。文天祥、陆秀夫、张世杰拥二王继续抵抗，1279年崖山海战宋军覆灭，陆秀夫负帝投海。中国历史第一次全境沦陷于北方游牧民族政权，元朝统一中国。",
+    "outcome": "元朝统一中国，南宋灭亡",
+    "sources": [{"title": "元史·世祖本纪", "type": "primary"}, {"title": "宋史·二王纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.yuan.hongjin",
+    "uuid": "26e706fd-34ac-4dae-975a-765de3075923",
+    "name": "红巾起义",
+    "name_traditional": "紅巾起義",
+    "category": ["uprising"],
+    "time": {"start": 1351, "end": 1367, "original": "元至正十一年至二十七年", "precision": "year"},
+    "place": [],
+    "participants": [
+      {"person": "person.yuan.tuohuantiemuer", "role": "monarch"},
+      {"person": "person.ming.zhuyuanzhang", "role": "leader"}
+    ],
+    "related_events": ["event.ming.jianli"],
+    "description": "至正十一年，元廷强征十五万民夫修黄河，白莲教首领韩山童、刘福通以「莫道石人一只眼，挑动黄河天下反」为号起义，义军头裹红巾，史称红巾军。北方红巾军三路北伐一度攻至上都，南方朱元璋、陈友谅、张士诚等崛起。起义动摇了元朝统治根基，朱元璋最终削平群雄，于1368年建立明朝。",
+    "outcome": "元朝统治崩溃，明朝兴起",
+    "sources": [{"title": "元史·顺帝本纪", "type": "primary"}, {"title": "明史·太祖本纪", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  }
+]
