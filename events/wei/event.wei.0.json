@@ -1,0 +1,51 @@
+[
+  {
+    "id": "event.wei.guandu",
+    "uuid": "8ea2a648-d018-4a31-a517-2e6fe5ff1498",
+    "name": "官渡之战",
+    "name_traditional": "官渡之戰",
+    "category": ["war"],
+    "time": {"start": 200, "end": 200, "original": "建安五年", "precision": "year"},
+    "place": ["place.guandu"],
+    "participants": [{"person": "person.wei.caocao", "role": "commander"}],
+    "related_events": ["event.wei.chibi"],
+    "description": "袁绍率十万大军南下，曹操以两万兵相拒于官渡。相持半年，曹操用许攸之计，亲率五千步骑夜袭乌巢，尽焚袁军粮草。袁军崩溃，曹操坑杀降卒七万（一说数万）。此战为三国鼎立奠基的第一战，曹操由此统一北方。",
+    "outcome": "曹操奠定北方霸权",
+    "sources": [{"title": "三国志·魏书·武帝纪", "type": "primary", "ref": "卷一"}, {"title": "后汉书·袁绍刘表列传", "type": "primary"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  },
+  {
+    "id": "event.wei.chibi",
+    "uuid": "9a1ca5b1-1baa-4570-bcb8-3fc4f8414c72",
+    "name": "赤壁之战",
+    "name_traditional": "赤壁之戰",
+    "category": ["war"],
+    "time": {"start": 208, "end": 208, "original": "建安十三年冬", "precision": "month"},
+    "place": ["place.chibi"],
+    "participants": [
+      {"person": "person.wei.caocao", "role": "commander"},
+      {"person": "person.wu.sunquan", "role": "commander"},
+      {"person": "person.shuhan.liubei", "role": "commander"}
+    ],
+    "related_events": ["event.wei.guandu", "event.shuhan.yiling"],
+    "description": "曹操下荆州，得降卒数十万，顺江东下。孙权用周瑜、鲁肃之议联刘抗曹。周瑜率三万水军与曹军遇于赤壁，初战不利；曹军北兵不习水战、疫疾流行，以船首尾相连。黄盖诈降，以蒙冲斗舰十艘载薪荻灌油火攻，曹军水寨尽焚，人马烧溺死者甚众，遂引军北还。三国鼎立之势成。",
+    "outcome": "三国鼎立局面形成",
+    "sources": [{"title": "三国志·吴书·周瑜鲁肃吕蒙传", "type": "primary", "ref": "卷五十四"}, {"title": "资治通鉴", "type": "primary", "ref": "卷六十五"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  },
+  {
+    "id": "event.wei.gaopingling",
+    "uuid": "7eb495a1-055e-4f39-a24e-aa2d2a4cb72a",
+    "name": "高平陵之变",
+    "name_traditional": "高平陵之變",
+    "category": ["coup"],
+    "time": {"start": 249, "end": 249, "original": "正始十年正月甲午", "precision": "day"},
+    "place": ["place.luoyang"],
+    "participants": [{"person": "person.wei.caofang", "role": "puppet-monarch"}],
+    "related_events": [],
+    "description": "曹爽专权十年，司马懿称病不出以骄其志。正始十年正月，曹爽兄弟陪魏帝曹芳拜谒高平陵（明帝陵），司马懿闭洛阳城门发动政变，占武库、据洛水浮桥，以皇太后令劾曹爽。曹爽交出兵权后被以谋反罪族诛。自此政归司马氏，「三马食槽」终成事实。",
+    "outcome": "司马氏独揽魏政，魏晋禅代之路开启",
+    "sources": [{"title": "晋书·宣帝纪", "type": "primary", "ref": "卷一"}, {"title": "三国志·魏书·诸夏侯曹传", "type": "primary", "ref": "卷九"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

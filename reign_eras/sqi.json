@@ -1,0 +1,178 @@
+[
+  {
+    "id": "era.sqi.jianyuan-sqi",
+    "name": "建元",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaodaocheng",
+    "era_name": "建元",
+    "start": 479,
+    "end": 482,
+    "note": "",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sqi.yongming",
+    "name": "永明",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaoze",
+    "era_name": "永明",
+    "start": 483,
+    "end": 493,
+    "note": "永明之治",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sqi.longchang",
+    "name": "隆昌",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaozhaoye",
+    "era_name": "隆昌",
+    "start": 494,
+    "end": 494,
+    "note": "",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sqi.yanxing-sqi",
+    "name": "延兴",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaozhaowen",
+    "era_name": "延兴",
+    "start": 494,
+    "end": 494,
+    "note": "",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sqi.jianwu-sqi",
+    "name": "建武",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaoluan",
+    "era_name": "建武",
+    "start": 494,
+    "end": 498,
+    "note": "",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sqi.yongtai",
+    "name": "永泰",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaoluan",
+    "era_name": "永泰",
+    "start": 498,
+    "end": 498,
+    "note": "",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sqi.yongyuan-sqi",
+    "name": "永元",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaobaojuan",
+    "era_name": "永元",
+    "start": 499,
+    "end": 501,
+    "note": "",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.sqi.zhongxing",
+    "name": "中兴",
+    "dynasty": "dynasty.southern-qi",
+    "emperor": "person.sqi.xiaobaorong",
+    "era_name": "中兴",
+    "start": 501,
+    "end": 502,
+    "note": "",
+    "sources": [
+      {
+        "title": "南齐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "era.wei.huangchu",
+    "name": "黄初",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caopi",
+    "era_name": "黄初",
+    "start": 220,
+    "end": 226,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.taihe",
+    "name": "太和",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caorui",
+    "era_name": "太和",
+    "start": 227,
+    "end": 233,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.qinglong",
+    "name": "青龙",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caorui",
+    "era_name": "青龙",
+    "start": 233,
+    "end": 237,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.jingchu",
+    "name": "景初",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caorui",
+    "era_name": "景初",
+    "start": 237,
+    "end": 239,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.zhengshi",
+    "name": "正始",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caofang",
+    "era_name": "正始",
+    "start": 240,
+    "end": 249,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.jiaping",
+    "name": "嘉平",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caofang",
+    "era_name": "嘉平",
+    "start": 249,
+    "end": 254,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.zhengyuan",
+    "name": "正元",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caomao",
+    "era_name": "正元",
+    "start": 254,
+    "end": 256,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.ganlu-wei",
+    "name": "甘露",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caomao",
+    "era_name": "甘露",
+    "start": 256,
+    "end": 260,
+    "note": "slug 加 -wei 以别于吴之甘露",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.jingyuan",
+    "name": "景元",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caohuan",
+    "era_name": "景元",
+    "start": 260,
+    "end": 264,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wei.xianxi",
+    "name": "咸熙",
+    "dynasty": "dynasty.wei",
+    "emperor": "person.wei.caohuan",
+    "era_name": "咸熙",
+    "start": 264,
+    "end": 265,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "event.chen.miechen",
+    "uuid": "fe5eddc0-a939-4c27-a69c-352c1125e6dc",
+    "name": "隋灭陈",
+    "name_traditional": "隋滅陳",
+    "category": ["war", "unification"],
+    "time": {"start": 588, "end": 589, "original": "隋开皇八年十月至九年正月", "precision": "month"},
+    "place": ["place.jiankang"],
+    "participants": [{"person": "person.chen.chenshubao", "role": "victim"}],
+    "related_events": ["event.nzhou.mieqi"],
+    "description": "隋文帝以晋王杨广为行军元帅，发五十一万八千大军八路伐陈。陈后主恃长江天堑，奏伎纵酒如常，谓群臣「齐兵三来、周师再至，无不摧败而去」。开皇九年正月，贺若弼自广陵渡江、韩擒虎夜渡采石，两路夹击建康。陈后主与张丽华、孔贵嫔躲入景阳宫胭脂井中被俘。陈亡，自永嘉之乱以来近三百年分裂局面终结，中国复归一统。",
+    "outcome": "陈朝灭亡，隋朝统一中国，南北朝时代终结",
+    "sources": [{"title": "隋书·高祖纪", "type": "primary"}, {"title": "陈书·后主本纪", "type": "primary", "ref": "卷六"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

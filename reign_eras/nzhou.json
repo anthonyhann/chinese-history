@@ -1,0 +1,178 @@
+[
+  {
+    "id": "era.nzhou.wucheng",
+    "name": "武成",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenyu",
+    "era_name": "武成",
+    "start": 559,
+    "end": 560,
+    "note": "",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nzhou.baoding-nzhou",
+    "name": "保定",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenyong",
+    "era_name": "保定",
+    "start": 561,
+    "end": 565,
+    "note": "",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nzhou.tianhe",
+    "name": "天和",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenyong",
+    "era_name": "天和",
+    "start": 566,
+    "end": 572,
+    "note": "",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nzhou.jiande",
+    "name": "建德",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenyong",
+    "era_name": "建德",
+    "start": 572,
+    "end": 578,
+    "note": "灭佛与灭齐均在建德年间",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nzhou.xuanzheng",
+    "name": "宣政",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenyong",
+    "era_name": "宣政",
+    "start": 578,
+    "end": 578,
+    "note": "",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nzhou.dacheng",
+    "name": "大成",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenyun",
+    "era_name": "大成",
+    "start": 579,
+    "end": 579,
+    "note": "",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nzhou.daxiang",
+    "name": "大象",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenchan",
+    "era_name": "大象",
+    "start": 579,
+    "end": 580,
+    "note": "宣帝传位后沿用",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nzhou.dading",
+    "name": "大定",
+    "dynasty": "dynasty.northern-zhou",
+    "emperor": "person.nzhou.yuwenchan",
+    "era_name": "大定",
+    "start": 581,
+    "end": 581,
+    "note": "",
+    "sources": [
+      {
+        "title": "周书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

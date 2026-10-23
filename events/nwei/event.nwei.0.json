@@ -1,0 +1,17 @@
+[
+  {
+    "id": "event.nwei.xiaowen-reform",
+    "uuid": "9a3088b3-e69a-4ba2-a6d5-1bbb4c0be1f1",
+    "name": "北魏孝文帝改革（迁都与汉化）",
+    "name_traditional": "北魏孝文帝改革（遷都與漢化）",
+    "category": ["reform"],
+    "time": {"start": 484, "end": 499, "original": "太和八年至太和二十三年", "precision": "year"},
+    "place": ["place.pingcheng", "place.luoyang"],
+    "participants": [{"person": "person.nwei.yuanhong", "role": "decision-maker"}],
+    "related_events": [],
+    "description": "孝文帝亲政后推行全面汉化：太和八年班禄制惩贪；九年行均田制；十年立三长制、改租调制；十七年以南伐为名迁都洛阳；十八年禁胡服断北语；二十年改鲜卑姓为汉姓（拓跋氏改元氏），定族姓门第。改革促成北方民族大融合，亦因全面门阀化、冷落六镇武人而埋下六镇之乱与北魏分裂的伏笔。",
+    "outcome": "北方民族大融合；北魏由盛转衰的隐患亦由此伏",
+    "sources": [{"title": "魏书·高祖纪", "type": "primary", "ref": "卷七"}, {"title": "资治通鉴", "type": "primary", "ref": "卷一百三十六至一百四十"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

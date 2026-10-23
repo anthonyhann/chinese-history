@@ -1,0 +1,794 @@
+[
+  {
+    "id": "era.nwei.dengguo",
+    "name": "登国",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobagui",
+    "era_name": "登国",
+    "start": 386,
+    "end": 396,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.huangshi-nwei",
+    "name": "皇始",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobagui",
+    "era_name": "皇始",
+    "start": 396,
+    "end": 398,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.tianxing",
+    "name": "天兴",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobagui",
+    "era_name": "天兴",
+    "start": 398,
+    "end": 404,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.tianci",
+    "name": "天赐",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobagui",
+    "era_name": "天赐",
+    "start": 404,
+    "end": 409,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yongxing-nwei",
+    "name": "永兴",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobasi",
+    "era_name": "永兴",
+    "start": 409,
+    "end": 413,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.shenrui",
+    "name": "神瑞",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobasi",
+    "era_name": "神瑞",
+    "start": 414,
+    "end": 416,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.taichang",
+    "name": "泰常",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobasi",
+    "era_name": "泰常",
+    "start": 416,
+    "end": 423,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.shiguang",
+    "name": "始光",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobatao",
+    "era_name": "始光",
+    "start": 424,
+    "end": 428,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.shenjia",
+    "name": "神䴥",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobatao",
+    "era_name": "神䴥",
+    "start": 428,
+    "end": 431,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yanhe",
+    "name": "延和",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobatao",
+    "era_name": "延和",
+    "start": 432,
+    "end": 434,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.taiyan",
+    "name": "太延",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobatao",
+    "era_name": "太延",
+    "start": 435,
+    "end": 440,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.taiping-zhenjun",
+    "name": "太平真君",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobatao",
+    "era_name": "太平真君",
+    "start": 440,
+    "end": 451,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.zhengping",
+    "name": "正平",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobatao",
+    "era_name": "正平",
+    "start": 451,
+    "end": 452,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.xingan",
+    "name": "兴安",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobajun",
+    "era_name": "兴安",
+    "start": 452,
+    "end": 454,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.xingguang",
+    "name": "兴光",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobajun",
+    "era_name": "兴光",
+    "start": 454,
+    "end": 455,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.taian-nwei",
+    "name": "太安",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobajun",
+    "era_name": "太安",
+    "start": 455,
+    "end": 459,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.heping-nwei",
+    "name": "和平",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobajun",
+    "era_name": "和平",
+    "start": 460,
+    "end": 465,
+    "note": "云冈石窟始凿于和平年间",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.tianan",
+    "name": "天安",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobahong",
+    "era_name": "天安",
+    "start": 466,
+    "end": 467,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.huangxing",
+    "name": "皇兴",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.tuobahong",
+    "era_name": "皇兴",
+    "start": 467,
+    "end": 471,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yanxing-nwei",
+    "name": "延兴",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanhong",
+    "era_name": "延兴",
+    "start": 471,
+    "end": 476,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.chengming",
+    "name": "承明",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanhong",
+    "era_name": "承明",
+    "start": 476,
+    "end": 476,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.taihe-nwei",
+    "name": "太和",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanhong",
+    "era_name": "太和",
+    "start": 477,
+    "end": 499,
+    "note": "孝文帝汉化改革",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.jingming",
+    "name": "景明",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanke",
+    "era_name": "景明",
+    "start": 500,
+    "end": 503,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.zhengshi-nwei",
+    "name": "正始",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanke",
+    "era_name": "正始",
+    "start": 504,
+    "end": 508,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yongping-nwei",
+    "name": "永平",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanke",
+    "era_name": "永平",
+    "start": 508,
+    "end": 512,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yanchang",
+    "name": "延昌",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanke",
+    "era_name": "延昌",
+    "start": 512,
+    "end": 515,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.xiping-nwei",
+    "name": "熙平",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxu",
+    "era_name": "熙平",
+    "start": 516,
+    "end": 518,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.shengui",
+    "name": "神龟",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxu",
+    "era_name": "神龟",
+    "start": 518,
+    "end": 520,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.zhengguang",
+    "name": "正光",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxu",
+    "era_name": "正光",
+    "start": 520,
+    "end": 525,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.xiaochang",
+    "name": "孝昌",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxu",
+    "era_name": "孝昌",
+    "start": 525,
+    "end": 527,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.wutai",
+    "name": "武泰",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxu",
+    "era_name": "武泰",
+    "start": 528,
+    "end": 528,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.jianyi",
+    "name": "建义",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanziyou",
+    "era_name": "建义",
+    "start": 528,
+    "end": 528,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yongan-nwei",
+    "name": "永安",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanziyou",
+    "era_name": "永安",
+    "start": 528,
+    "end": 530,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.taichang-xiu",
+    "name": "太昌",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxiu",
+    "era_name": "太昌",
+    "start": 532,
+    "end": 532,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yongxing-xiu",
+    "name": "永兴",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxiu",
+    "era_name": "永兴",
+    "start": 532,
+    "end": 532,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nwei.yongxi-nwei",
+    "name": "永熙",
+    "dynasty": "dynasty.northern-wei",
+    "emperor": "person.nwei.yuanxiu",
+    "era_name": "永熙",
+    "start": 532,
+    "end": 534,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

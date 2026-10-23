@@ -1,0 +1,24 @@
+[
+  {
+    "id": "person.ewei.yuanshanjian",
+    "uuid": "c9c7aab8-7563-4212-b854-7d1bc0e80801",
+    "name": "元善见",
+    "name_traditional": "元善見",
+    "titles": ["东魏孝静帝", "中山王"],
+    "courtesy_name": null,
+    "category": ["emperor"],
+    "dynasty": "dynasty.eastern-wei",
+    "birth": {"year": 524, "circa": false, "original": "正光五年生，清河文宣王元亶之子", "disputed": []},
+    "death": {"year": 552, "circa": false, "original": "北齐天保三年十二月，被高洋鸩杀，年二十八", "disputed": []},
+    "reign": {"start": 534, "end": 550, "note": "高欢所立，始终为傀儡"},
+    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "predecessor": null,
+    "successor": null,
+    "bio": "东魏唯一皇帝。孝武帝西奔后由高欢立之于邺城，在位十七年，政令尽出高氏父子。尝被高澄怒骂「朕，朕，狗脚朕」，并被崔季舒殴三拳。武定八年禅位于高洋，封中山王，次年被鸩杀。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [{"title": "魏书·孝静纪", "type": "primary", "ref": "卷十二"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

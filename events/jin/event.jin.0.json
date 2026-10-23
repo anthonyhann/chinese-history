@@ -1,0 +1,68 @@
+[
+  {
+    "id": "event.jin.miewu",
+    "uuid": "28f7ad8a-4158-42e7-807c-d5a227c92dbe",
+    "name": "晋灭吴",
+    "name_traditional": "晉滅吳",
+    "category": ["war", "unification"],
+    "time": {"start": 280, "end": 280, "original": "咸宁五年十一月至太康元年三月", "precision": "month"},
+    "place": ["place.jiankang"],
+    "participants": [
+      {"person": "person.jin.simayan", "role": "decision-maker"},
+      {"person": "person.wu.sunhao", "role": "surrenderer"}
+    ],
+    "related_events": ["event.wei.gaopingling"],
+    "description": "晋武帝纳羊祜遗策，发六路大军伐吴：王濬楼船自巴蜀顺流而下，王浑出寿春，杜预取江陵。吴人于江中置铁锁横断、铁锥暗埋，王濬作大筏火炬破之，直抵建业。孙皓面缚舆榇出降，吴亡。「千寻铁锁沉江底，一片降幡出石头」即咏其事。自汉末分裂九十年，天下复归一统。",
+    "outcome": "三国归晋，中国再统一",
+    "sources": [{"title": "晋书·武帝纪", "type": "primary", "ref": "卷三"}, {"title": "资治通鉴", "type": "primary", "ref": "卷八十至八十一"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  },
+  {
+    "id": "event.jin.bawang",
+    "uuid": "ee664aa4-dcda-4dbe-be84-027f5311496a",
+    "name": "八王之乱",
+    "name_traditional": "八王之亂",
+    "category": ["war", "civil-war"],
+    "time": {"start": 291, "end": 306, "original": "元康元年至光熙元年", "precision": "year"},
+    "place": ["place.luoyang"],
+    "participants": [{"person": "person.jin.simazhong", "role": "puppet-monarch"}],
+    "related_events": ["event.jin.yongjia"],
+    "description": "惠帝昏愚，贾南风乱政。汝南王亮、楚王玮、赵王伦、齐王冏、长沙王乂、成都王颖、河间王颙、东海王越八位宗王为争权柄互相攻伐十六年，战场遍于关中、关东、河南，洛阳数度易手，诸王死者相继。大乱耗尽西晋国力，匈奴、羯、氐、羌、鲜卑乘虚而入，直接引发永嘉之乱与五胡建国。",
+    "outcome": "西晋国力耗尽，为五胡乱华之直接前因",
+    "sources": [{"title": "晋书·惠帝纪", "type": "primary", "ref": "卷四"}, {"title": "资治通鉴", "type": "primary", "ref": "卷八十二至八十六"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  },
+  {
+    "id": "event.jin.yongjia",
+    "uuid": "8a817c0e-6d35-4cab-8197-4708977fe767",
+    "name": "永嘉之乱",
+    "name_traditional": "永嘉之亂",
+    "category": ["war", "regime-change"],
+    "time": {"start": 311, "end": 311, "original": "永嘉五年六月", "precision": "month"},
+    "place": ["place.luoyang"],
+    "participants": [{"person": "person.jin.simachi", "role": "victim"}],
+    "related_events": ["event.jin.bawang"],
+    "description": "匈奴汉赵刘聪遣刘曜、王弥、石勒攻破洛阳，纵兵大掠，焚宫庙、辱后妃，杀王公士民三万余人，执晋怀帝北去。中原士族百姓相率南渡，史称「衣冠南渡」。洛阳化为废墟，西晋名存实亡，北方进入五胡十六国时期。",
+    "outcome": "洛阳陷落，中原板荡，衣冠南渡",
+    "sources": [{"title": "晋书·孝怀帝纪", "type": "primary", "ref": "卷五"}, {"title": "资治通鉴", "type": "primary", "ref": "卷八十七"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  },
+  {
+    "id": "event.jin.feishui",
+    "uuid": "0f38316a-981c-4e7e-bcf6-f7f0a451bb24",
+    "name": "淝水之战",
+    "name_traditional": "淝水之戰",
+    "category": ["war"],
+    "time": {"start": 383, "end": 383, "original": "太元八年十一月", "precision": "month"},
+    "place": ["place.feishui"],
+    "participants": [
+      {"person": "person.jin.simayao", "role": "monarch"},
+      {"person": "person.sixteen.fujian-xuanzhao", "role": "commander"}
+    ],
+    "related_events": [],
+    "description": "前秦苻坚统一北方后，发戎卒六十余万、骑二十七万南侵东晋。谢安为征讨大都督，谢石、谢玄率北府兵八万拒之。秦军于淝水西岸列阵，晋军请秦军稍退以决战，秦军一退不可复止，朱序阵后大呼「秦兵败矣」，秦军大溃，风声鹤唳、草木皆兵。苻坚中流矢逃归，两年后被姚苌所杀，北方再度分裂。",
+    "outcome": "东晋以少胜多，前秦土崩瓦解，南北对峙格局延续",
+    "sources": [{"title": "晋书·谢玄传", "type": "primary"}, {"title": "资治通鉴", "type": "primary", "ref": "卷一百五"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

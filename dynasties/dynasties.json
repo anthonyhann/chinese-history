@@ -8,8 +8,17 @@
     "circa": true,
     "capital": "阳城（今河南登封，传统说法）",
     "note": "传统文献记载的第一个世袭王朝，考古对应存争议",
-    "sources": [{"title": "史记·夏本纪", "type": "primary", "ref": "卷二"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "史记·夏本纪",
+        "type": "primary",
+        "ref": "卷二"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.shang",
@@ -20,8 +29,17 @@
     "circa": true,
     "capital": "殷（今河南安阳）",
     "note": "甲骨文证实；起讫年依传统纪年，武王克商之年有多说",
-    "sources": [{"title": "史记·殷本纪", "type": "primary", "ref": "卷三"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "史记·殷本纪",
+        "type": "primary",
+        "ref": "卷三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.zhou",
@@ -32,8 +50,17 @@
     "circa": false,
     "capital": "镐京、洛邑",
     "note": "分西周（前1046–前771）与东周（前770–前256），东周含春秋战国",
-    "sources": [{"title": "史记·周本纪", "type": "primary", "ref": "卷四"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "史记·周本纪",
+        "type": "primary",
+        "ref": "卷四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.qin",
@@ -44,8 +71,17 @@
     "circa": false,
     "capital": "咸阳",
     "note": "前221年嬴政称始皇帝建秦朝；前206年子婴降刘邦，秦亡。秦国历史可上溯至前770年秦襄公封诸侯",
-    "sources": [{"title": "史记·秦本纪 / 秦始皇本纪", "type": "primary", "ref": "卷五、卷六"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "史记·秦本纪 / 秦始皇本纪",
+        "type": "primary",
+        "ref": "卷五、卷六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.han",
@@ -56,8 +92,16 @@
     "circa": false,
     "capital": "长安、洛阳",
     "note": "分西汉（前202–9）与东汉（25–220），中间有王莽新朝（9–23）",
-    "sources": [{"title": "史记·高祖本纪 / 汉书", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "史记·高祖本纪 / 汉书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.three-kingdoms",
@@ -68,8 +112,16 @@
     "circa": false,
     "capital": "洛阳、成都、建业",
     "note": "魏、蜀、吴并立",
-    "sources": [{"title": "三国志", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "三国志",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.jin",
@@ -80,8 +132,16 @@
     "circa": false,
     "capital": "洛阳、建康",
     "note": "分西晋（266–316）与东晋（317–420）",
-    "sources": [{"title": "晋书", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.northern-southern",
@@ -92,8 +152,16 @@
     "circa": false,
     "capital": "多都并立",
     "note": "南朝宋齐梁陈与北朝北魏、东西魏、北齐北周并立时期",
-    "sources": [{"title": "南史 / 北史", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "南史 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.sui",
@@ -104,8 +172,16 @@
     "circa": false,
     "capital": "大兴城（长安）、洛阳",
     "note": "",
-    "sources": [{"title": "隋书", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "隋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.tang",
@@ -116,8 +192,16 @@
     "circa": false,
     "capital": "长安、洛阳",
     "note": "中含武周（690–705）",
-    "sources": [{"title": "旧唐书 / 新唐书", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "旧唐书 / 新唐书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.five-dynasties",
@@ -128,8 +212,16 @@
     "circa": false,
     "capital": "开封等",
     "note": "中原后梁后唐后晋后汉后周五代更迭，十国并立",
-    "sources": [{"title": "旧五代史 / 新五代史", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "旧五代史 / 新五代史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.song",
@@ -140,8 +232,16 @@
     "circa": false,
     "capital": "开封、临安",
     "note": "分北宋（960–1127）与南宋（1127–1279），与辽、金、西夏并立",
-    "sources": [{"title": "宋史", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "宋史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.liao",
@@ -152,8 +252,16 @@
     "circa": false,
     "capital": "上京临潢府",
     "note": "契丹建立",
-    "sources": [{"title": "辽史", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "辽史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.jin-jurchen",
@@ -164,8 +272,16 @@
     "circa": false,
     "capital": "中都（今北京）、开封",
     "note": "女真建立；slug 用 jin-jurchen 以区别于司马氏晋朝",
-    "sources": [{"title": "金史", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.yuan",
@@ -176,8 +292,16 @@
     "circa": false,
     "capital": "大都（今北京）",
     "note": "蒙古建立；1271 年定国号大元，此前为大蒙古国",
-    "sources": [{"title": "元史", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "元史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.ming",
@@ -188,8 +312,16 @@
     "circa": false,
     "capital": "南京、北京",
     "note": "1644 年李自成入北京，其后南明延续至 1662 年",
-    "sources": [{"title": "明史", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "明史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "dynasty.qing",
@@ -200,7 +332,301 @@
     "circa": false,
     "capital": "北京",
     "note": "1636 年皇太极改国号大清，1644 年入关",
-    "sources": [{"title": "清史稿", "type": "secondary"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "sources": [
+      {
+        "title": "清史稿",
+        "type": "secondary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.wei",
+    "name": "魏（曹魏）",
+    "name_traditional": "魏",
+    "start": 220,
+    "end": 266,
+    "circa": false,
+    "capital": "洛阳",
+    "note": "曹丕受汉禅建立，265年（咸熙二年十二月，公历266年2月）禅于晋",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.shu-han",
+    "name": "蜀汉",
+    "name_traditional": "蜀漢",
+    "start": 221,
+    "end": 263,
+    "circa": false,
+    "capital": "成都",
+    "note": "刘备称帝延续汉祚，263年亡于魏",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.wu",
+    "name": "吴（孙吴）",
+    "name_traditional": "吳",
+    "start": 229,
+    "end": 280,
+    "circa": false,
+    "capital": "建业",
+    "note": "孙权229年称帝，280年亡于晋",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.sixteen-kingdoms",
+    "name": "十六国",
+    "name_traditional": "十六國",
+    "start": 304,
+    "end": 439,
+    "circa": false,
+    "capital": "多政权并立",
+    "note": "成汉、汉赵、后赵、前凉、前燕、前秦、后燕、后秦、西秦、后凉、南凉、北凉、南燕、西凉、胡夏、北燕等政权并立时期",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.northern-wei",
+    "name": "北魏",
+    "name_traditional": "北魏",
+    "start": 386,
+    "end": 534,
+    "circa": false,
+    "capital": "平城、洛阳",
+    "note": "拓跋鲜卑建立；493年孝文帝迁都洛阳并汉化改姓元",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.eastern-wei",
+    "name": "东魏",
+    "name_traditional": "東魏",
+    "start": 534,
+    "end": 550,
+    "circa": false,
+    "capital": "邺",
+    "note": "高欢立元善见为帝，550年禅于北齐",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.western-wei",
+    "name": "西魏",
+    "name_traditional": "西魏",
+    "start": 535,
+    "end": 557,
+    "circa": false,
+    "capital": "长安",
+    "note": "宇文泰立元宝炬为帝，557年禅于北周",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.northern-qi",
+    "name": "北齐",
+    "name_traditional": "北齊",
+    "start": 550,
+    "end": 577,
+    "circa": false,
+    "capital": "邺",
+    "note": "高洋受东魏禅，577年亡于北周",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.northern-zhou",
+    "name": "北周",
+    "name_traditional": "北周",
+    "start": 557,
+    "end": 581,
+    "circa": false,
+    "capital": "长安",
+    "note": "宇文觉受西魏禅，581年禅于隋",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.liu-song",
+    "name": "南朝宋（刘宋）",
+    "name_traditional": "南朝宋（劉宋）",
+    "start": 420,
+    "end": 479,
+    "circa": false,
+    "capital": "建康",
+    "note": "刘裕受晋禅建立，479年禅于南齐",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.southern-qi",
+    "name": "南齐（萧齐）",
+    "name_traditional": "南齊（蕭齊）",
+    "start": 479,
+    "end": 502,
+    "circa": false,
+    "capital": "建康",
+    "note": "萧道成受宋禅建立，502年禅于梁",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.liang",
+    "name": "梁（萧梁）",
+    "name_traditional": "梁（蕭梁）",
+    "start": 502,
+    "end": 557,
+    "circa": false,
+    "capital": "建康",
+    "note": "萧衍受齐禅建立，557年禅于陈",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.chen",
+    "name": "陈",
+    "name_traditional": "陳",
+    "start": 557,
+    "end": 589,
+    "circa": false,
+    "capital": "建康",
+    "note": "陈霸先受梁禅建立，589年亡于隋",
+    "sources": [
+      {
+        "title": "资治通鉴及相关正史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

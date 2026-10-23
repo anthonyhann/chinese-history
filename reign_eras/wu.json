@@ -1,0 +1,398 @@
+[
+  {
+    "id": "era.wu.huangwu",
+    "name": "黄武",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunquan",
+    "era_name": "黄武",
+    "start": 222,
+    "end": 229,
+    "note": "称吴王时建元",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.huanglong-wu",
+    "name": "黄龙",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunquan",
+    "era_name": "黄龙",
+    "start": 229,
+    "end": 231,
+    "note": "因黄龙见于夏口而称帝改元",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.jiahe",
+    "name": "嘉禾",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunquan",
+    "era_name": "嘉禾",
+    "start": 232,
+    "end": 238,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.chiwu",
+    "name": "赤乌",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunquan",
+    "era_name": "赤乌",
+    "start": 238,
+    "end": 251,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.taiyuan-wu",
+    "name": "太元",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunquan",
+    "era_name": "太元",
+    "start": 251,
+    "end": 252,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.shenfeng",
+    "name": "神凤",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunquan",
+    "era_name": "神凤",
+    "start": 252,
+    "end": 252,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.jianxing-wu",
+    "name": "建兴",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunliang",
+    "era_name": "建兴",
+    "start": 252,
+    "end": 253,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.wufeng-wu",
+    "name": "五凤",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunliang",
+    "era_name": "五凤",
+    "start": 254,
+    "end": 256,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.taiping-wu",
+    "name": "太平",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunliang",
+    "era_name": "太平",
+    "start": 256,
+    "end": 258,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.yongan-wu",
+    "name": "永安",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunxiu",
+    "era_name": "永安",
+    "start": 258,
+    "end": 264,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.yuanxing-wu",
+    "name": "元兴",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "元兴",
+    "start": 264,
+    "end": 265,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.ganlu-wu",
+    "name": "甘露",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "甘露",
+    "start": 265,
+    "end": 266,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.baoding",
+    "name": "宝鼎",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "宝鼎",
+    "start": 266,
+    "end": 269,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.jianheng",
+    "name": "建衡",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "建衡",
+    "start": 269,
+    "end": 271,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.fenghuang-wu",
+    "name": "凤凰",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "凤凰",
+    "start": 272,
+    "end": 274,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.tiance",
+    "name": "天册",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "天册",
+    "start": 275,
+    "end": 276,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.tianxi",
+    "name": "天玺",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "天玺",
+    "start": 276,
+    "end": 276,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.wu.tianji",
+    "name": "天纪",
+    "dynasty": "dynasty.wu",
+    "emperor": "person.wu.sunhao",
+    "era_name": "天纪",
+    "start": 277,
+    "end": 280,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·吴书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

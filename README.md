@@ -4,12 +4,12 @@
 
 ### 人物 · 事件 · 文物：中华历史的开源结构化数据库
 
-49 位历史人物 · 39 个历史事件 · 77 个年号 · 17 个朝代——全部 JSON 分发，clone 即用
+135 位历史人物 · 51 个历史事件 · 259 个年号 · 30 个朝代/政权——全部 JSON 分发，clone 即用
 
 [![代码许可: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![事实数据: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![描述文本: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![实体记录: 179](https://img.shields.io/badge/entities-203-red.svg)](#-数据集)
+[![实体记录: 179](https://img.shields.io/badge/entities-503-red.svg)](#-数据集)
 [![数据校验: 通过](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
 
 [🚀 快速开始](#-快速开始) · [📦 数据集](#-数据集) · [📐 Schema](schema/) · [🤝 贡献](CONTRIBUTING.md) · [English](README.en.md) · [llms.txt](llms.txt)
@@ -48,7 +48,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① 拿数据
 cd chinese-history
-python3 tools/validate.py                                     # ② 验证数据完整性（203 条）
+python3 tools/validate.py                                     # ② 验证数据完整性（503 条）
 jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（或任何语言的 JSON 库）
 ```
 
@@ -64,12 +64,14 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 |---|---:|---|
 | [人物 · 秦](persons/qin/) | 18 | ✅ M1 种子 |
 | [人物 · 汉](persons/han/) | 31 | ✅ M2 已放量（两汉全部帝系） |
+| [人物 · 魏晋南北朝](persons/) | 86 | ✅ v0.2.0 新增（魏/蜀/吴/两晋/十六国/南北朝） |
 | [事件 · 秦](events/qin/) | 20 | ✅ M1 种子 |
 | [事件 · 汉](events/han/) | 19 | ✅ M2 新增 |
+| [事件 · 魏晋南北朝](events/) | 12 | ✅ v0.2.0 新增（官渡/赤壁/淝水/侯景等） |
 | [文物](artifacts/qin/) | 1 | 🔬 Schema 验证样例，M3 放量 |
-| [朝代](dynasties/) | 17 | ✅ 基础表 |
-| [年号纪年](reign_eras/) | 77（秦 3 + 汉 74） | ✅ 秦含"无年号"记录 |
-| [地名](places/) | 14 | ✅ 含今地名与坐标 |
+| [朝代/政权](dynasties/) | 30 | ✅ 基础表 |
+| [年号纪年](reign_eras/) | 259 | ✅ 秦汉魏晋南北朝全覆盖 |
+| [地名](places/) | 21 | ✅ 含今地名与坐标 |
 | [博物馆](museums/) | 6 | ✅ 含各馆开放数据许可状态 |
 
 ## 📐 三个设计决策（与诗词库的关键差异）
@@ -88,7 +90,8 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 
 - ✅ **M0 基建**：Schema / CI 校验器 / 朝代·年号·地名·博物馆基础表
 - ✅ **M1 秦朝冷启动**：3 帝 + 15 关联人物 + 20 事件
-- ✅ **M2 汉代放量**：两汉 31 帝系 + 74 年号 + 19 个重大事件（当前）
+- ✅ **M2 汉代放量**：两汉 31 帝系 + 74 年号 + 19 个重大事件
+- ✅ **M2.5 魏晋南北朝**：86 帝王 + 182 年号 + 12 重大事件（当前）
 - 🔜 **M3 文物**：Met / Smithsonian 等 CC0 开放馆藏中华文物清洗导入
 - 🔜 **M3+**：SQLite 构建器已可用（`python3 tools/build_sqlite.py`），release 自动化见 `.github/workflows/release.yml`
 - 🔜 **M4**：历代皇帝全量、案例展示
@@ -99,6 +102,7 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 
 ## 📝 更新日志
 
+- **2026-10-23** v0.2.0：魏晋南北朝放量——86 位帝王、182 个年号、12 个重大事件，实体总数 503
 - **2026-10-23** M2 补：汉代 19 个重大事件 + SQLite 构建器，实体总数 203
 - **2026-10-23** M2：汉代 31 帝系人物 + 74 个年号入库，实体总数 179
 - **2026-10-23** M0+M1：仓库骨架、CI 校验器、秦朝 18 人物 + 20 事件种子数据

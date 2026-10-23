@@ -1,0 +1,244 @@
+[
+  {
+    "id": "era.liang.tianjian",
+    "name": "天监",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyan",
+    "era_name": "天监",
+    "start": 502,
+    "end": 519,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.putong",
+    "name": "普通",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyan",
+    "era_name": "普通",
+    "start": 520,
+    "end": 527,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.datong-liang",
+    "name": "大通",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyan",
+    "era_name": "大通",
+    "start": 527,
+    "end": 529,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.zhongdatong",
+    "name": "中大通",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyan",
+    "era_name": "中大通",
+    "start": 529,
+    "end": 534,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.datong-liang2",
+    "name": "大同",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyan",
+    "era_name": "大同",
+    "start": 535,
+    "end": 546,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.zhongdatong2",
+    "name": "中大同",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyan",
+    "era_name": "中大同",
+    "start": 546,
+    "end": 547,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.taiqing",
+    "name": "太清",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyan",
+    "era_name": "太清",
+    "start": 547,
+    "end": 549,
+    "note": "侯景之乱在太清二年",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.dabao",
+    "name": "大宝",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaogang",
+    "era_name": "大宝",
+    "start": 550,
+    "end": 551,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.chengsheng",
+    "name": "承圣",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaoyi",
+    "era_name": "承圣",
+    "start": 552,
+    "end": 555,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.shaotai",
+    "name": "绍泰",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaofangzhi",
+    "era_name": "绍泰",
+    "start": 555,
+    "end": 556,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liang.taiping-liang",
+    "name": "太平",
+    "dynasty": "dynasty.liang",
+    "emperor": "person.liang.xiaofangzhi",
+    "era_name": "太平",
+    "start": 556,
+    "end": 557,
+    "note": "",
+    "sources": [
+      {
+        "title": "梁书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

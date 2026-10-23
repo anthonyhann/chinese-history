@@ -334,5 +334,180 @@
       "prompt_version": "han-events-v1",
       "version": 1
     }
+  },
+  {
+    "id": "place.guandu",
+    "name": "官渡",
+    "name_traditional": "官渡",
+    "type": "site",
+    "modern_name": "河南省郑州市中牟县一带",
+    "coordinates": {
+      "lat": 34.72,
+      "lng": 113.97,
+      "circa": true
+    },
+    "note": "公元200年曹操大破袁绍处",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.chibi",
+    "name": "赤壁",
+    "name_traditional": "赤壁",
+    "type": "site",
+    "modern_name": "湖北省赤壁市西北",
+    "coordinates": {
+      "lat": 29.87,
+      "lng": 113.62,
+      "circa": true
+    },
+    "note": "公元208年孙刘联军大破曹操处",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.yiling",
+    "name": "夷陵（猇亭）",
+    "name_traditional": "夷陵（猇亭）",
+    "type": "site",
+    "modern_name": "湖北省宜昌市东",
+    "coordinates": {
+      "lat": 30.69,
+      "lng": 111.29,
+      "circa": true
+    },
+    "note": "222年陆逊火烧连营破刘备处",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.jiankang",
+    "name": "建康",
+    "name_traditional": "建康",
+    "type": "city",
+    "modern_name": "江苏省南京市",
+    "coordinates": {
+      "lat": 32.06,
+      "lng": 118.8,
+      "circa": true
+    },
+    "note": "东晋及南朝宋齐梁陈都城",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.feishui",
+    "name": "淝水",
+    "name_traditional": "肥水",
+    "type": "site",
+    "modern_name": "安徽省淮南市寿县一带",
+    "coordinates": {
+      "lat": 32.58,
+      "lng": 116.78,
+      "circa": true
+    },
+    "note": "383年东晋大破前秦处",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.jiangling",
+    "name": "江陵",
+    "name_traditional": "江陵",
+    "type": "city",
+    "modern_name": "湖北省荆州市",
+    "coordinates": {
+      "lat": 30.33,
+      "lng": 112.24,
+      "circa": true
+    },
+    "note": "南朝梁元帝都城，554年陷于西魏",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "place.pingcheng",
+    "name": "平城",
+    "name_traditional": "平城",
+    "type": "city",
+    "modern_name": "山西省大同市",
+    "coordinates": {
+      "lat": 40.08,
+      "lng": 113.3,
+      "circa": true
+    },
+    "note": "北魏早期都城，493年迁洛阳",
+    "sources": [
+      {
+        "title": "中国历史地图集（谭其骧主编）",
+        "type": "reference"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

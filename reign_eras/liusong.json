@@ -1,0 +1,244 @@
+[
+  {
+    "id": "era.liusong.yongchu",
+    "name": "永初",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuyu",
+    "era_name": "永初",
+    "start": 420,
+    "end": 422,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.jingping",
+    "name": "景平",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuyifu",
+    "era_name": "景平",
+    "start": 423,
+    "end": 424,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.yuanjia",
+    "name": "元嘉",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuyilong",
+    "era_name": "元嘉",
+    "start": 424,
+    "end": 453,
+    "note": "元嘉之治",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.xiaojian",
+    "name": "孝建",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liujun",
+    "era_name": "孝建",
+    "start": 454,
+    "end": 456,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.daming",
+    "name": "大明",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liujun",
+    "era_name": "大明",
+    "start": 457,
+    "end": 464,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.yongguang",
+    "name": "永光",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuziye",
+    "era_name": "永光",
+    "start": 465,
+    "end": 465,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.jinghe",
+    "name": "景和",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuziye",
+    "era_name": "景和",
+    "start": 465,
+    "end": 465,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.taishi-song",
+    "name": "泰始",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuyu-ming",
+    "era_name": "泰始",
+    "start": 465,
+    "end": 471,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.taiyu",
+    "name": "泰豫",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuyu-ming",
+    "era_name": "泰豫",
+    "start": 472,
+    "end": 472,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.yuanhui",
+    "name": "元徽",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuyu-houfei",
+    "era_name": "元徽",
+    "start": 473,
+    "end": 477,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.liusong.shengming",
+    "name": "升明",
+    "dynasty": "dynasty.liu-song",
+    "emperor": "person.liusong.liuzhun",
+    "era_name": "升明",
+    "start": 477,
+    "end": 479,
+    "note": "",
+    "sources": [
+      {
+        "title": "宋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

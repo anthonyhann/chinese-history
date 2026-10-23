@@ -1,0 +1,21 @@
+[
+  {
+    "id": "event.liang.houjing",
+    "uuid": "45887977-5c29-4ede-8e2a-678ef9bdb45d",
+    "name": "侯景之乱",
+    "name_traditional": "侯景之亂",
+    "category": ["war", "rebellion"],
+    "time": {"start": 548, "end": 552, "original": "太清二年至承圣元年", "precision": "year"},
+    "place": ["place.jiankang"],
+    "participants": [
+      {"person": "person.liang.xiaoyan", "role": "victim"},
+      {"person": "person.liang.xiaogang", "role": "victim"},
+      {"person": "person.liang.xiaoyi", "role": "commander"}
+    ],
+    "related_events": [],
+    "description": "东魏叛将侯景以河南之地降梁，梁武帝接纳而与东魏约和，侯景惧，于寿阳起兵八千反。渡江围台城一百三十日，城中饿死者十七八，武帝以八十六岁高龄饿死。侯景立简文帝为傀儡，旋废杀自立，国号汉。湘东王萧绎遣王僧辩、陈霸先东下讨平之。江南千里绝烟、户口骤减，南朝由此一蹶不振。",
+    "outcome": "南朝国力崩溃，梁室名存实亡",
+    "sources": [{"title": "梁书·侯景传", "type": "primary", "ref": "卷五十六"}, {"title": "资治通鉴", "type": "primary", "ref": "卷一百六十至一百六十四"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

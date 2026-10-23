@@ -1,0 +1,20 @@
+[
+  {
+    "id": "event.shuhan.yiling",
+    "uuid": "c2f60345-f794-454d-ac7b-149b46c73433",
+    "name": "夷陵之战（猇亭之战）",
+    "name_traditional": "夷陵之戰（猇亭之戰）",
+    "category": ["war"],
+    "time": {"start": 221, "end": 222, "original": "章武元年至二年", "precision": "year"},
+    "place": ["place.yiling"],
+    "participants": [
+      {"person": "person.shuhan.liubei", "role": "commander"},
+      {"person": "person.wu.sunquan", "role": "decision-maker"}
+    ],
+    "related_events": ["event.wei.chibi"],
+    "description": "刘备为报关羽之仇、夺还荆州，称帝后倾国东征。孙权求和不成，任陆逊为大都督拒之。陆逊坚壁不战七八月，待蜀师疲弊，火烧连营四十余屯，蜀军土崩瓦解，死者数万。刘备夜遁入白帝城，惭恚而病，次年托孤诸葛亮而崩。",
+    "outcome": "蜀汉元气大伤，吴蜀重新结盟抗魏",
+    "sources": [{"title": "三国志·吴书·陆逊传", "type": "primary", "ref": "卷五十八"}, {"title": "三国志·蜀书·先主传", "type": "primary", "ref": "卷三十二"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

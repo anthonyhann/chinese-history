@@ -1,0 +1,156 @@
+[
+  {
+    "id": "era.chen.yongding",
+    "name": "永定",
+    "dynasty": "dynasty.chen",
+    "emperor": "person.chen.chenbaxian",
+    "era_name": "永定",
+    "start": 557,
+    "end": 559,
+    "note": "",
+    "sources": [
+      {
+        "title": "陈书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.chen.tianjia",
+    "name": "天嘉",
+    "dynasty": "dynasty.chen",
+    "emperor": "person.chen.chenqian",
+    "era_name": "天嘉",
+    "start": 560,
+    "end": 566,
+    "note": "天嘉之治",
+    "sources": [
+      {
+        "title": "陈书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.chen.tiankang",
+    "name": "天康",
+    "dynasty": "dynasty.chen",
+    "emperor": "person.chen.chenqian",
+    "era_name": "天康",
+    "start": 566,
+    "end": 566,
+    "note": "",
+    "sources": [
+      {
+        "title": "陈书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.chen.guangda",
+    "name": "光大",
+    "dynasty": "dynasty.chen",
+    "emperor": "person.chen.chenbozong",
+    "era_name": "光大",
+    "start": 567,
+    "end": 568,
+    "note": "",
+    "sources": [
+      {
+        "title": "陈书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.chen.taijian",
+    "name": "太建",
+    "dynasty": "dynasty.chen",
+    "emperor": "person.chen.chenxu",
+    "era_name": "太建",
+    "start": 569,
+    "end": 582,
+    "note": "太建北伐在其间",
+    "sources": [
+      {
+        "title": "陈书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.chen.zhide",
+    "name": "至德",
+    "dynasty": "dynasty.chen",
+    "emperor": "person.chen.chenshubao",
+    "era_name": "至德",
+    "start": 583,
+    "end": 586,
+    "note": "",
+    "sources": [
+      {
+        "title": "陈书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.chen.zhenming",
+    "name": "祯明",
+    "dynasty": "dynasty.chen",
+    "emperor": "person.chen.chenshubao",
+    "era_name": "祯明",
+    "start": 587,
+    "end": 589,
+    "note": "",
+    "sources": [
+      {
+        "title": "陈书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

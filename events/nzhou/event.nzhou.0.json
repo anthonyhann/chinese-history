@@ -1,0 +1,21 @@
+[
+  {
+    "id": "event.nzhou.mieqi",
+    "uuid": "38661196-c43b-414a-a8e0-ec34c7e71604",
+    "name": "北周灭北齐",
+    "name_traditional": "北周滅北齊",
+    "category": ["war", "unification"],
+    "time": {"start": 576, "end": 577, "original": "建德五年十月至六年正月", "precision": "month"},
+    "place": [],
+    "participants": [
+      {"person": "person.nzhou.yuwenyong", "role": "commander"},
+      {"person": "person.nqi.gaowei", "role": "victim"},
+      {"person": "person.nqi.gaoheng", "role": "victim"}
+    ],
+    "related_events": [],
+    "description": "周武帝亲率大军伐齐，克平阳、下晋阳，次年正月陷邺城。北齐后主高纬传位八岁幼主高恒，父子东逃青州，于南邓村被周将尉迟纲追获。北齐立国二十八年而亡。北方自永嘉之乱以来二百七十余年分裂，至此复归于一，为隋统一全国奠定了基础。",
+    "outcome": "北方统一，隋统一全国的前奏",
+    "sources": [{"title": "周书·武帝纪", "type": "primary", "ref": "卷六"}, {"title": "北齐书·后主纪", "type": "primary", "ref": "卷八"}],
+    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+  }
+]

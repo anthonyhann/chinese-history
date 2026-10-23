@@ -1,0 +1,772 @@
+[
+  {
+    "id": "era.jin.taishi-jin",
+    "name": "泰始",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayan",
+    "era_name": "泰始",
+    "start": 265,
+    "end": 274,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.xianning",
+    "name": "咸宁",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayan",
+    "era_name": "咸宁",
+    "start": 275,
+    "end": 280,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.taikang",
+    "name": "太康",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayan",
+    "era_name": "太康",
+    "start": 280,
+    "end": 289,
+    "note": "灭吴统一之年号",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.taixi",
+    "name": "太熙",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayan",
+    "era_name": "太熙",
+    "start": 290,
+    "end": 290,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongxi-jin",
+    "name": "永熙",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "永熙",
+    "start": 290,
+    "end": 291,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongping-jin",
+    "name": "永平",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "永平",
+    "start": 291,
+    "end": 291,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yuankang-jin",
+    "name": "元康",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "元康",
+    "start": 291,
+    "end": 299,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongkang-jin",
+    "name": "永康",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "永康",
+    "start": 300,
+    "end": 301,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongning",
+    "name": "永宁",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "永宁",
+    "start": 301,
+    "end": 302,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.taian",
+    "name": "太安",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "太安",
+    "start": 302,
+    "end": 303,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongan-jin",
+    "name": "永安",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "永安",
+    "start": 304,
+    "end": 304,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.jianwu-jin-hui",
+    "name": "建武",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "建武",
+    "start": 304,
+    "end": 304,
+    "note": "与元帝建武重名，slug 加 -jin-hui",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongxing-jin",
+    "name": "永兴",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "永兴",
+    "start": 304,
+    "end": 306,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.guangxi",
+    "name": "光熙",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simazhong",
+    "era_name": "光熙",
+    "start": 306,
+    "end": 306,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongjia",
+    "name": "永嘉",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simachi",
+    "era_name": "永嘉",
+    "start": 307,
+    "end": 313,
+    "note": "永嘉之乱在永嘉五年",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.jianxing-jin",
+    "name": "建兴",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simaye",
+    "era_name": "建兴",
+    "start": 313,
+    "end": 317,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.jianwu-yuandi",
+    "name": "建武",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simarui",
+    "era_name": "建武",
+    "start": 317,
+    "end": 318,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.taixing",
+    "name": "太兴",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simarui",
+    "era_name": "太兴",
+    "start": 318,
+    "end": 321,
+    "note": "亦作大兴",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yongchang",
+    "name": "永昌",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simarui",
+    "era_name": "永昌",
+    "start": 322,
+    "end": 323,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.taining",
+    "name": "太宁",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simashao",
+    "era_name": "太宁",
+    "start": 323,
+    "end": 326,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.xianhe",
+    "name": "咸和",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayan-cheng",
+    "era_name": "咸和",
+    "start": 326,
+    "end": 334,
+    "note": "苏峻之乱在其间",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.xiankang",
+    "name": "咸康",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayan-cheng",
+    "era_name": "咸康",
+    "start": 335,
+    "end": 342,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.jianyuan-jin",
+    "name": "建元",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayue",
+    "era_name": "建元",
+    "start": 343,
+    "end": 344,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yonghe-jin",
+    "name": "永和",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simadan",
+    "era_name": "永和",
+    "start": 345,
+    "end": 356,
+    "note": "兰亭雅集在永和九年",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.shengping",
+    "name": "升平",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simadan",
+    "era_name": "升平",
+    "start": 357,
+    "end": 361,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.longhe",
+    "name": "隆和",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simapi",
+    "era_name": "隆和",
+    "start": 362,
+    "end": 363,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.xingning",
+    "name": "兴宁",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simapi",
+    "era_name": "兴宁",
+    "start": 363,
+    "end": 365,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.taihe-jin",
+    "name": "太和",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayi",
+    "era_name": "太和",
+    "start": 366,
+    "end": 371,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.xianan",
+    "name": "咸安",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayu",
+    "era_name": "咸安",
+    "start": 371,
+    "end": 372,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.ningkang",
+    "name": "宁康",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayao",
+    "era_name": "宁康",
+    "start": 373,
+    "end": 375,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.taiyuan-jin",
+    "name": "太元",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simayao",
+    "era_name": "太元",
+    "start": 376,
+    "end": 396,
+    "note": "淝水之战在太元八年",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.longan",
+    "name": "隆安",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simadezong",
+    "era_name": "隆安",
+    "start": 397,
+    "end": 401,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yuanxing-jin",
+    "name": "元兴",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simadezong",
+    "era_name": "元兴",
+    "start": 402,
+    "end": 404,
+    "note": "桓玄篡位在其间",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yixi",
+    "name": "义熙",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simadezong",
+    "era_name": "义熙",
+    "start": 405,
+    "end": 418,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.jin.yuanxi-jin",
+    "name": "元熙",
+    "dynasty": "dynasty.jin",
+    "emperor": "person.jin.simadewen",
+    "era_name": "元熙",
+    "start": 419,
+    "end": 420,
+    "note": "",
+    "sources": [
+      {
+        "title": "晋书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

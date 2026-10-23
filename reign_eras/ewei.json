@@ -1,0 +1,90 @@
+[
+  {
+    "id": "era.ewei.tianping",
+    "name": "天平",
+    "dynasty": "dynasty.eastern-wei",
+    "emperor": "person.ewei.yuanshanjian",
+    "era_name": "天平",
+    "start": 534,
+    "end": 537,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ewei.yuanxiang",
+    "name": "元象",
+    "dynasty": "dynasty.eastern-wei",
+    "emperor": "person.ewei.yuanshanjian",
+    "era_name": "元象",
+    "start": 538,
+    "end": 539,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ewei.xinghe",
+    "name": "兴和",
+    "dynasty": "dynasty.eastern-wei",
+    "emperor": "person.ewei.yuanshanjian",
+    "era_name": "兴和",
+    "start": 539,
+    "end": 542,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.ewei.wuding",
+    "name": "武定",
+    "dynasty": "dynasty.eastern-wei",
+    "emperor": "person.ewei.yuanshanjian",
+    "era_name": "武定",
+    "start": 543,
+    "end": 550,
+    "note": "",
+    "sources": [
+      {
+        "title": "魏书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

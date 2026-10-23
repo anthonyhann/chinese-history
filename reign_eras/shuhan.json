@@ -1,0 +1,112 @@
+[
+  {
+    "id": "era.shuhan.zhangwu",
+    "name": "章武",
+    "dynasty": "dynasty.shu-han",
+    "emperor": "person.shuhan.liubei",
+    "era_name": "章武",
+    "start": 221,
+    "end": 223,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·蜀书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.shuhan.jianxing-shu",
+    "name": "建兴",
+    "dynasty": "dynasty.shu-han",
+    "emperor": "person.shuhan.liushan",
+    "era_name": "建兴",
+    "start": 223,
+    "end": 237,
+    "note": "slug 加 -shu 以别于愍帝建兴",
+    "sources": [
+      {
+        "title": "三国志·蜀书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.shuhan.yanxi-shu",
+    "name": "延熙",
+    "dynasty": "dynasty.shu-han",
+    "emperor": "person.shuhan.liushan",
+    "era_name": "延熙",
+    "start": 238,
+    "end": 257,
+    "note": "slug 加 -shu 以别于东汉延熹之异文",
+    "sources": [
+      {
+        "title": "三国志·蜀书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.shuhan.jingyao",
+    "name": "景耀",
+    "dynasty": "dynasty.shu-han",
+    "emperor": "person.shuhan.liushan",
+    "era_name": "景耀",
+    "start": 258,
+    "end": 263,
+    "note": "",
+    "sources": [
+      {
+        "title": "三国志·蜀书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.shuhan.yanxing",
+    "name": "炎兴",
+    "dynasty": "dynasty.shu-han",
+    "emperor": "person.shuhan.liushan",
+    "era_name": "炎兴",
+    "start": 263,
+    "end": 263,
+    "note": "八月改元，十一月蜀亡",
+    "sources": [
+      {
+        "title": "三国志·蜀书",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

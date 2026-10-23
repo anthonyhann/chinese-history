@@ -1,0 +1,24 @@
+[
+  {
+    "id": "era.wwei.datong-wwei",
+    "name": "大统",
+    "dynasty": "dynasty.western-wei",
+    "emperor": "person.wwei.yuanbaoju",
+    "era_name": "大统",
+    "start": 535,
+    "end": 551,
+    "note": "西魏唯一年号；废帝、恭帝无年号",
+    "sources": [
+      {
+        "title": "北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]

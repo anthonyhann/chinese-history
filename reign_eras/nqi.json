@@ -1,0 +1,200 @@
+[
+  {
+    "id": "era.nqi.tianbao",
+    "name": "天保",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaoyang",
+    "era_name": "天保",
+    "start": 550,
+    "end": 559,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.ganming",
+    "name": "乾明",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaoyin",
+    "era_name": "乾明",
+    "start": 560,
+    "end": 560,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.huangjian",
+    "name": "皇建",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaoyan",
+    "era_name": "皇建",
+    "start": 560,
+    "end": 561,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.taining-nqi",
+    "name": "太宁",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaozhan",
+    "era_name": "太宁",
+    "start": 561,
+    "end": 562,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.heqing",
+    "name": "河清",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaozhan",
+    "era_name": "河清",
+    "start": 562,
+    "end": 565,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.tiantong",
+    "name": "天统",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaowei",
+    "era_name": "天统",
+    "start": 565,
+    "end": 569,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.wuping",
+    "name": "武平",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaowei",
+    "era_name": "武平",
+    "start": 570,
+    "end": 576,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.longhua",
+    "name": "隆化",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaowei",
+    "era_name": "隆化",
+    "start": 576,
+    "end": 577,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.nqi.chengguang",
+    "name": "承光",
+    "dynasty": "dynasty.northern-qi",
+    "emperor": "person.nqi.gaoheng",
+    "era_name": "承光",
+    "start": 577,
+    "end": 577,
+    "note": "",
+    "sources": [
+      {
+        "title": "北齐书 / 北史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
+  }
+]
