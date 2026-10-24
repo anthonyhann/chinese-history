@@ -1,0 +1,309 @@
+[
+  {
+    "id": "event.ming.hulan-zhiyu",
+    "uuid": "915af729-0f90-4b9d-abff-dee4ae7d3941",
+    "name": "胡蓝之狱",
+    "name_traditional": "胡藍之獄",
+    "category": [
+      "persecution",
+      "politics"
+    ],
+    "time": {
+      "start": 1380,
+      "end": 1393,
+      "original": "洪武十三年至二十六年",
+      "precision": "year"
+    },
+    "place": [
+      "place.nanjing"
+    ],
+    "participants": [
+      {
+        "person": "person.ming.zhuyuanzhang",
+        "role": "instigator"
+      }
+    ],
+    "related_events": [],
+    "description": "洪武十三年以谋反罪诛丞相胡惟庸，顺势废中书省、罢丞相，皇权直达六部。此后十三年穷追胡党，李善长等三万余人被诛；二十六年又兴蓝玉案，一万五千人被族诛。开国功臣宿将几乎一网打尽",
+    "outcome": "丞相制度终结，皇权空前强化",
+    "sources": [
+      {
+        "title": "明史·太祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "明史·奸臣传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ming.qiandu-beijing",
+    "uuid": "c2bc4bb0-4016-469b-8b70-e1f22430ccbf",
+    "name": "永乐迁都北京",
+    "name_traditional": "永樂遷都北京",
+    "category": [
+      "policy",
+      "construction"
+    ],
+    "time": {
+      "start": 1421,
+      "end": 1421,
+      "original": "永乐十九年正月",
+      "precision": "month"
+    },
+    "place": [
+      "place.beijing"
+    ],
+    "participants": [
+      {
+        "person": "person.ming.zhudi",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "朱棣即位后即用其藩邸北平为北京，十八年间营建紫禁城、疏浚大运河。永乐十九年正月正式迁都，北京成为此后六百年中国政治中心。天子守国门，利弊互见",
+    "outcome": "北京成为全国政治中心至今",
+    "sources": [
+      {
+        "title": "明史·成祖本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ming.chenghao",
+    "uuid": "4a2dbece-f253-45e7-a636-4d4f30532644",
+    "name": "宁王宸濠之乱",
+    "name_traditional": "寧王宸濠之亂",
+    "category": [
+      "war",
+      "rebellion"
+    ],
+    "time": {
+      "start": 1519,
+      "end": 1519,
+      "original": "正德十四年六月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.ming.zhuhouzhao",
+        "role": "monarch"
+      },
+      {
+        "person": "person.ming.wangyangming",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "宁王朱宸濠久蓄异志，起兵十万反，攻下九江、南康，直取安庆。赣南巡抚王守仁以疑兵缓其师，四十三日即捣其南昌巢穴，鄱阳湖擒宸濠。武宗欲亲征「纵而归之复擒」，天下笑之",
+    "outcome": "一场被王阳明四十三天平定的亲王叛乱",
+    "sources": [
+      {
+        "title": "明史·王守仁传",
+        "type": "primary"
+      },
+      {
+        "title": "明史·宁王权传（附宸濠）",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ming.kangwo",
+    "uuid": "e8cb73d8-221a-4413-b8b7-e3ced0c78f8c",
+    "name": "戚继光抗倭",
+    "name_traditional": "戚繼光抗倭",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 1555,
+      "end": 1563,
+      "original": "嘉靖三十四年至四十二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.ming.qijiguang",
+        "role": "commander"
+      },
+      {
+        "person": "person.ming.zhuhoucong",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "嘉靖年间倭患最烈。戚继光募义乌矿工农民练戚家军，创鸳鸯阵，台州九战九捷，福建横屿、平海卫、仙游连破倭寇，与俞大猷合扫平东南百年倭患。隆庆开关后倭患自息",
+    "outcome": "东南倭患平定",
+    "sources": [
+      {
+        "title": "明史·戚继光传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ming.sanda-zheng",
+    "uuid": "83bbaead-cc82-49dd-bcdc-c3920a452996",
+    "name": "万历三大征",
+    "name_traditional": "萬曆三大徵",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 1592,
+      "end": 1600,
+      "original": "万历二十年至二十八年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.ming.zhuyijun",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "宁夏之役、朝鲜之役（抗倭援朝，露梁海战）、播州之役。三大征皆胜，然耗费帑银一千一百余万两，张居正改革积累耗尽，关外努尔哈赤乘隙而起",
+    "outcome": "明朝最后的武功，亦是国力透支的开始",
+    "sources": [
+      {
+        "title": "明史·神宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "明史·李如松传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ming.saerhu",
+    "uuid": "6bd6be7d-9dbc-402f-ab40-dee7c25ea002",
+    "name": "萨尔浒之战",
+    "name_traditional": "薩爾滸之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 1619,
+      "end": 1619,
+      "original": "万历四十七年三月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.ming.zhuyijun",
+        "role": "monarch"
+      },
+      {
+        "person": "person.qing.nurhaci",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "明廷以杨镐为经略，发兵十一万分四路合攻后金赫图阿拉。努尔哈赤「凭尔几路来，我只一路去」，集中兵力五日连破三路，杜松、马林战死，明军四万余人覆没。明清攻守之势从此逆转",
+    "outcome": "明朝辽东战略主动权尽失",
+    "sources": [
+      {
+        "title": "明史·杨镐传",
+        "type": "primary"
+      },
+      {
+        "title": "清太祖实录",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ming.lizicheng",
+    "uuid": "c6c31271-68b0-4d0b-a083-cb60d8fd5878",
+    "name": "李自成起义与明朝灭亡",
+    "name_traditional": "李自成起義與明朝滅亡",
+    "category": [
+      "uprising",
+      "regime-change"
+    ],
+    "time": {
+      "start": 1627,
+      "end": 1644,
+      "original": "崇祯元年至十七年",
+      "precision": "year"
+    },
+    "place": [
+      "place.beijing"
+    ],
+    "participants": [
+      {
+        "person": "person.ming.lizicheng",
+        "role": "instigator"
+      },
+      {
+        "person": "person.ming.zhuyoujian",
+        "role": "victim"
+      }
+    ],
+    "related_events": [
+      "event.ming.qingjun-ruguan"
+    ],
+    "description": "崇祯元年陕西大饥，王二、高迎祥、李自成、张献忠相继起兵。李自成提出「均田免赋」，民谣「迎闯王，不纳粮」。1644年正月西安建国大顺，三月十九日破北京，崇祯帝自缢煤山。大顺政权入京后迅速腐化，四十二天后弃城西走",
+    "outcome": "明朝灭亡；大顺旋兴旋灭",
+    "sources": [
+      {
+        "title": "明史·流贼传",
+        "type": "primary"
+      },
+      {
+        "title": "明史·庄烈帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "id": "person.tang.changsunwuji",
+    "uuid": "eeb035c6-2a08-4a9f-8f81-f996cfcb2c8e",
+    "name": "长孙无忌",
+    "name_traditional": "長孫無忌",
+    "titles": [
+      "赵国公",
+      "太尉"
+    ],
+    "courtesy_name": "辅机",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": null,
+    "death": {
+      "year": 659,
+      "circa": false,
+      "original": "显庆四年被诬谋反，自缢于黔州",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "凌烟阁二十四功臣之首，唐太宗长孙皇后之兄。玄武门之变主谋之一，贞观年间修《唐律疏议》。高宗朝为顾命大臣，因反对立武则天为后，被许敬宗构陷流放自缢",
+    "events": [
+      "event.tang.xuanwumen"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·长孙无忌传",
+        "type": "primary",
+        "ref": "卷六十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.lijing",
+    "uuid": "cadba9ed-0000-4243-bb9b-0bdffd4abb12",
+    "name": "李靖",
+    "name_traditional": "李靖",
+    "titles": [
+      "卫国公",
+      "景武公"
+    ],
+    "courtesy_name": "药师",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 571,
+      "circa": false,
+      "original": "北周大定元年生于雍州三原",
+      "disputed": []
+    },
+    "death": {
+      "year": 649,
+      "circa": false,
+      "original": "贞观二十三年四月卒，年七十九",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "大唐军神。平萧铣、灭辅公祏，贞观四年三千骑夜袭定襄灭东突厥，七十余岁远征吐谷浑。著《李卫公兵法》（已佚，辑本存）。功成身退，阖门自守，为唐代功臣善终的典范",
+    "events": [
+      "event.tang.dong-tujue"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·李靖传",
+        "type": "primary",
+        "ref": "卷六十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.xuanzang",
+    "uuid": "f8602a31-d4b7-4643-b7b8-308e6fa8dfab",
+    "name": "玄奘",
+    "name_traditional": "玄奘",
+    "titles": [
+      "三藏法师"
+    ],
+    "courtesy_name": "祎",
+    "category": [
+      "monk",
+      "translator"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 602,
+      "circa": false,
+      "original": "隋仁寿二年生于洛州缑氏",
+      "disputed": []
+    },
+    "death": {
+      "year": 664,
+      "circa": false,
+      "original": "唐麟德元年二月五日夜半圆寂于玉华寺，年六十三",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "西行取经的孤勇者。贞观三年偷越国境，五万里孤征十七年至天竺那烂陀寺，精通三藏，曲女城无遮大会十八日无人敢诘难。归国后译经七十五部一千三百三十五卷，口述《大唐西域记》。创立法相唯识宗",
+    "events": [
+      "event.tang.xuanzang"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "大慈恩寺三藏法师传",
+        "type": "primary",
+        "ref": "慧立、彦悰"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.baijuyi",
+    "uuid": "87f6681f-def0-4b4b-a668-58285fe23e9a",
+    "name": "白居易",
+    "name_traditional": "白居易",
+    "titles": [
+      "少傅",
+      "醉吟先生"
+    ],
+    "courtesy_name": "乐天",
+    "category": [
+      "poet",
+      "official"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 772,
+      "circa": false,
+      "original": "唐大历七年正月二十日生于新郑",
+      "disputed": []
+    },
+    "death": {
+      "year": 846,
+      "circa": false,
+      "original": "会昌六年八月卒于洛阳，年七十五",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "诗王、诗魔。新乐府运动领袖，「文章合为时而著，歌诗合为事而作」，《卖炭翁》《琵琶行》《长恨歌》老妪能解。与元稹并称元白，其诗东传日本，影响《源氏物语》。晚年隐居洛阳香山寺，号香山居士",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·白居易传",
+        "type": "primary",
+        "ref": "卷一百六十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.hanyu",
+    "uuid": "6c18bd5b-9a67-4d18-837b-f83c192d1515",
+    "name": "韩愈",
+    "name_traditional": "韓愈",
+    "titles": [
+      "昌黎先生",
+      "文公"
+    ],
+    "courtesy_name": "退之",
+    "category": [
+      "writer",
+      "official"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 768,
+      "circa": false,
+      "original": "唐大历三年生于河阳",
+      "disputed": []
+    },
+    "death": {
+      "year": 824,
+      "circa": false,
+      "original": "长庆四年十二月二日卒于长安，年五十七",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "文起八代之衰。古文运动领袖，唐宋八大家之首。谏迎佛骨，「一封朝奏九重天，夕贬潮州路八千」。驱鳄鱼、兴乡校，潮州山水为之改姓。苏轼称其「匹夫而为百世师，一言而为天下法」",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·韩愈传",
+        "type": "primary",
+        "ref": "卷一百六十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.liuzongyuan",
+    "uuid": "d1da05b2-4854-4d7a-96c2-905a25f3e22d",
+    "name": "柳宗元",
+    "name_traditional": "柳宗元",
+    "titles": [
+      "柳柳州",
+      "河东先生"
+    ],
+    "courtesy_name": "子厚",
+    "category": [
+      "writer",
+      "official"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 773,
+      "circa": false,
+      "original": "唐大历八年生于长安",
+      "disputed": []
+    },
+    "death": {
+      "year": 819,
+      "circa": false,
+      "original": "元和十四年十一月八日卒于柳州，年四十七",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "河东先生。永贞革新核心成员，改革失败贬永州司马、柳州刺史，「独钓寒江雪」的孤绝正是其心境外化。山水游记与寓言开一代文风，与韩愈并称韩柳。在柳州解放奴婢、凿井种树，死时两袖清风",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·柳宗元传",
+        "type": "primary",
+        "ref": "卷一百六十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.yangguifei",
+    "uuid": "0e7c66a9-7241-4315-bb78-7e0bfb491963",
+    "name": "杨贵妃",
+    "name_traditional": "楊貴妃",
+    "titles": [
+      "太真"
+    ],
+    "courtesy_name": "玉环",
+    "category": [
+      "imperial_consort"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 719,
+      "circa": false,
+      "original": "唐开元七年六月一日生于蜀州",
+      "disputed": []
+    },
+    "death": {
+      "year": 756,
+      "circa": false,
+      "original": "天宝十五载六月十四日缢死于马嵬驿佛堂，年三十八",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "中国古代四大美女之一。初为寿王妃，后度为女道士，册为贵妃，「回眸一笑百媚生，六宫粉黛无颜色」。善歌舞音律，与玄宗共创《霓裳羽衣曲》。安史之乱中，马嵬驿六军不发，被缢死于佛堂。白居易《长恨歌》使其成为千古爱情与红颜祸水双重叙事的焦点",
+    "events": [
+      "event.tang.anshi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·后妃传",
+        "type": "primary",
+        "ref": "卷五十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.anlushan",
+    "uuid": "b98e9917-af6f-4bae-af1d-63b9d66ef069",
+    "name": "安禄山",
+    "name_traditional": "安祿山",
+    "titles": [
+      "东平郡王"
+    ],
+    "courtesy_name": "轧荦山",
+    "category": [
+      "rebel",
+      "general"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 703,
+      "circa": true,
+      "original": "约生于武周长安三年，营州柳城杂胡",
+      "disputed": []
+    },
+    "death": {
+      "year": 757,
+      "circa": false,
+      "original": "至德二载正月被其子安庆绪与阉人李猪儿合谋杀死",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "安史之乱祸首。粟特-突厥混血，通九蕃语，以肥胖善舞得宠于玄宗、杨贵妃，身兼范阳、平卢、河东三镇节度使。天宝十四载起兵十五万反唐，称帝建大燕，旋即因疽发目盲被亲子所弑",
+    "events": [
+      "event.tang.anshi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·安禄山传",
+        "type": "primary",
+        "ref": "卷二百上"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

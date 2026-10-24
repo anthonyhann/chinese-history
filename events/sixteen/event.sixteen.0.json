@@ -1,0 +1,78 @@
+[
+  {
+    "id": "event.sixteen.shile-mieqianzhao",
+    "uuid": "dfed1d5c-505d-40b6-a1d9-315e78878936",
+    "name": "石勒灭前赵",
+    "name_traditional": "石勒滅前趙",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": 328,
+      "end": 329,
+      "original": "后赵太和元年至二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.sixteen.shile",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "石勒与汉赵刘曜决裂后，太和元年洛阳之战生擒刘曜，次年尽取关中，前赵亡。后赵统一北方大部，与东晋、成汉鼎立",
+    "outcome": "后赵统一北方，石勒称帝",
+    "sources": [
+      {
+        "title": "晋书·石勒载记",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.sixteen.wangmeng",
+    "uuid": "f34d011d-030e-4e00-9263-40ee10363e41",
+    "name": "王猛治秦",
+    "name_traditional": "王猛治秦",
+    "category": [
+      "reform",
+      "governance"
+    ],
+    "time": {
+      "start": 357,
+      "end": 375,
+      "original": "前秦永兴元年至建元十一年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.sixteen.fujian-xuanzhao",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "寒士王猛扪虱谈天下，苻坚一见如刘备之遇孔明。为中书令后诛豪强、整吏治、劝农桑、兴学校，前秦国富兵强。临终谏苻坚勿伐晋，不听，终有淝水之败",
+    "outcome": "前秦统一北方的内政基础奠定",
+    "sources": [
+      {
+        "title": "晋书·苻坚载记（附王猛）",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

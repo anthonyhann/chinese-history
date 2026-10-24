@@ -1,0 +1,132 @@
+[
+  {
+    "id": "event.five-dynasties.qidan-miejin",
+    "uuid": "c3c20846-012b-427e-b7af-fa7a027ad3b1",
+    "name": "契丹灭后晋",
+    "name_traditional": "契丹滅後晉",
+    "category": [
+      "war",
+      "regime-change"
+    ],
+    "time": {
+      "start": 946,
+      "end": 947,
+      "original": "开运三年至大同元年",
+      "precision": "year"
+    },
+    "place": [
+      "place.kaifeng"
+    ],
+    "participants": [
+      {
+        "person": "person.later-jin.shichonggui",
+        "role": "victim"
+      },
+      {
+        "person": "person.liao.yeludeguang",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "出帝向契丹称孙不称臣，耶律德光两次大举南侵。开运三年杜重威率二十万大军降辽，契丹兵不血刃入开封，掳出帝北去。耶律德光于崇元殿称帝，改国号大辽，然中原反抗蜂起，四月即北撤，死于杀胡林",
+    "outcome": "后晋亡；契丹入主中原失败",
+    "sources": [
+      {
+        "title": "旧五代史·晋书·少帝本纪",
+        "type": "primary"
+      },
+      {
+        "title": "辽史·太宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.five-dynasties.chanzhou",
+    "uuid": "cee3f1c4-8b50-4931-8ca7-21cb71eb8bfa",
+    "name": "澶州兵变",
+    "name_traditional": "澶州兵變",
+    "category": [
+      "coup"
+    ],
+    "time": {
+      "start": 951,
+      "end": 951,
+      "original": "广顺元年正月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.later-zhou.guowei",
+        "role": "beneficiary"
+      }
+    ],
+    "related_events": [],
+    "description": "隐帝诛戮大臣，郭威自邺都起兵入京。旋报契丹入寇，郭威率军北上，至澶州，将士裂黄旗被其身，山呼万岁，回师开封。太后下诰禅位，后周建立。赵匡胤陈桥兵变完全照抄此剧本",
+    "outcome": "后汉亡，后周立",
+    "sources": [
+      {
+        "title": "旧五代史·周书·太祖本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.five-dynasties.gaoping",
+    "uuid": "ef47aaab-8554-4fac-bca8-7db736b8eafd",
+    "name": "高平之战",
+    "name_traditional": "高平之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 954,
+      "end": 954,
+      "original": "显德元年三月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.later-zhou.chairong",
+        "role": "commander"
+      },
+      {
+        "person": "person.northern-han.liuchong",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "北汉刘崇乘郭威新丧，联契丹四万大军南下。周世宗柴荣率军亲征，战于高平，右军樊爱能、何徽临阵溃逃，世宗冒矢石跃马突围，赵匡胤等奋战，大破联军。战后斩樊、何等七十余人以肃军纪",
+    "outcome": "周世宗威震天下，柴荣改革与统一的起点",
+    "sources": [
+      {
+        "title": "旧五代史·周书·世宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "资治通鉴·后周纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "event.sqi.tangyuzhi",
+    "uuid": "9c87a48a-3200-4d5f-a04e-996ccdcafe22",
+    "name": "唐寓之起义",
+    "name_traditional": "唐寓之起義",
+    "category": [
+      "uprising"
+    ],
+    "time": {
+      "start": 485,
+      "end": 486,
+      "original": "永明三年至四年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.sqi.xiaoze",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "南齐武帝推行检籍，核查冒籍者充军，扰民甚酷。富阳人唐寓之起兵，陷富阳、钱塘称帝，众至数万。朝廷发禁军镇压，起义失败，检籍亦被迫停止",
+    "outcome": "南朝一次较大规模农民起义",
+    "sources": [
+      {
+        "title": "南齐书·武帝纪",
+        "type": "primary"
+      },
+      {
+        "title": "南史·齐本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

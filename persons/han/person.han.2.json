@@ -1,0 +1,404 @@
+[
+  {
+    "id": "person.han.chenping",
+    "uuid": "b28e9f24-a442-45dc-ac15-58fa7d677379",
+    "name": "陈平",
+    "name_traditional": "陳平",
+    "titles": [
+      "曲逆侯",
+      "丞相"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "chancellor",
+      "strategist"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -178,
+      "circa": false,
+      "original": "汉文帝前元二年卒",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "六出奇计的谋略家。离间项羽范增、解白登之围、伪游云梦擒韩信。诸吕之乱中与周勃合谋诛吕安刘，为文帝丞相。自评：我多阴谋，道家所禁，然吾世即废，亦已矣",
+    "events": [
+      "event.han.chuhan",
+      "event.han.baideng"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·陈丞相世家",
+        "type": "primary",
+        "ref": "卷五十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.zhoubo",
+    "uuid": "8ed18803-fb34-4a3f-8d6c-c14ea23df68d",
+    "name": "周勃",
+    "name_traditional": "周勃",
+    "titles": [
+      "绛侯",
+      "太尉"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -169,
+      "circa": false,
+      "original": "汉文帝前元十一年卒",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "织薄曲、吹箫为生的猛将。从刘邦起兵屡建大功，吕后死，以北军号令「为吕氏右袒，为刘氏左袒」，尽诛诸吕，迎立文帝，安刘定汉的第一功臣",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·绛侯周勃世家",
+        "type": "primary",
+        "ref": "卷五十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.liguang",
+    "uuid": "d14c20a8-72fc-4db7-a8ee-6edc578a5f83",
+    "name": "李广",
+    "name_traditional": "李廣",
+    "titles": [
+      "飞将军"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -119,
+      "circa": false,
+      "original": "元狩四年失道自刭",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "飞将军。一生与匈奴大小七十余战，匈奴畏之号曰飞将军。然数奇不遇，终未封侯。元狩四年随卫青出征失道误期，不愿对簿刀笔吏，自刭而死。桃李不言，下自成蹊",
+    "events": [
+      "event.han.mobei"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·李将军列传",
+        "type": "primary",
+        "ref": "卷一百九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.dongzhongshu",
+    "uuid": "c308ea25-1040-4b60-8daf-598f99c4a9fe",
+    "name": "董仲舒",
+    "name_traditional": "董仲舒",
+    "titles": [
+      "江都相"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "philosopher"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -179,
+      "circa": true,
+      "original": "约生于汉文帝前元元年",
+      "disputed": []
+    },
+    "death": {
+      "year": -104,
+      "circa": true,
+      "original": "约卒于元封元年",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "天人三策的作者，汉代儒学宗师。上天人三策，倡大一统、天人感应，武帝「罢黜百家，表章六经」即采其议。三年不窥园的苦学典型。其学使儒学成为此后两千年官方意识形态",
+    "events": [
+      "event.han.rujiao"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·董仲舒传",
+        "type": "primary",
+        "ref": "卷五十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.suwu",
+    "uuid": "37ffa602-4c27-40f2-b84b-d22e2074bb29",
+    "name": "苏武",
+    "name_traditional": "蘇武",
+    "titles": [
+      "关内侯"
+    ],
+    "courtesy_name": "子卿",
+    "category": [
+      "diplomat"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -60,
+      "circa": false,
+      "original": "汉宣帝神爵二年卒，年八十余",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "苏武牧羊。天汉元年以中郎将持节使匈奴被扣，拒卫律劝降，被囚北海牧羊十九年，渴饮雪、饥吞毡，汉节毛尽落。始元六年归汉，须发尽白。麒麟阁十一功臣之一，忠节的千古图腾",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·李广苏建传（附苏武）",
+        "type": "primary",
+        "ref": "卷五十四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.hoguang",
+    "uuid": "bb8e379c-9df9-4df3-b968-f1d18c96dc72",
+    "name": "霍光",
+    "name_traditional": "霍光",
+    "titles": [
+      "博陆侯",
+      "大司马大将军"
+    ],
+    "courtesy_name": "子孟",
+    "category": [
+      "chancellor",
+      "regent"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -68,
+      "circa": false,
+      "original": "汉宣帝地节二年卒",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "汉武帝临终托孤首席大臣，辅昭立宣，废昌邑王刘贺，行周公之事。掌权二十年，西汉中兴实赖其手。然权臣震主，死后三年霍氏以谋反族诛",
+    "events": [
+      "event.han.yantie"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "汉书·霍光金日磾传",
+        "type": "primary",
+        "ref": "卷六十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.cailun",
+    "uuid": "61406519-f951-4c67-8d1e-188a391ff843",
+    "name": "蔡伦",
+    "name_traditional": "蔡倫",
+    "titles": [
+      "龙亭侯"
+    ],
+    "courtesy_name": "敬仲",
+    "category": [
+      "eunuch",
+      "inventor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": 121,
+      "circa": false,
+      "original": "建光元年自杀",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "造纸术的集大成者。东汉宦官，元兴元年奏上蔡侯纸——以树皮、麻头、敝布、鱼网造纸，价廉易得，天下咸称蔡侯纸。造纸术为人类文明的里程碑发明，后经阿拉伯传入欧洲。卷入宫闱斗争，服毒自尽",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·宦者列传",
+        "type": "primary",
+        "ref": "卷七十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.zhangheng",
+    "uuid": "df54352d-9155-4b53-912c-dd08213345a4",
+    "name": "张衡",
+    "name_traditional": "張衡",
+    "titles": [
+      "河间相"
+    ],
+    "courtesy_name": "平子",
+    "category": [
+      "scientist",
+      "writer"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 78,
+      "circa": false,
+      "original": "东汉建初三年生于南阳西鄂",
+      "disputed": []
+    },
+    "death": {
+      "year": 139,
+      "circa": false,
+      "original": "永和四年卒，年六十二",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "科圣。创浑天仪演示天体运行，制候风地动仪测知陇西地震（人类第一台验震仪器），算著《算罔论》，文有《二京赋》《归田赋》。东汉全才，通五经贯六艺，致思于天文阴阳历算",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·张衡列传",
+        "type": "primary",
+        "ref": "卷五十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

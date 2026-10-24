@@ -1,0 +1,105 @@
+[
+  {
+    "id": "event.wu.sunce",
+    "uuid": "95f34184-00cf-4b5a-a850-b46e61cba78a",
+    "name": "孙策平定江东",
+    "name_traditional": "孫策平定江東",
+    "category": [
+      "war",
+      "expansion"
+    ],
+    "time": {
+      "start": 195,
+      "end": 200,
+      "original": "汉兴平二年至建安五年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [],
+    "related_events": [],
+    "description": "孙策以父旧部千余人为质于袁术，得兵渡江，六年之间破刘繇、王朗、严白虎，席卷江东六郡，为孙吴立国奠基。建安五年遇刺身亡，年二十六，弟孙权继领其众",
+    "outcome": "孙氏据有江东，三国鼎立的南方基础奠定",
+    "sources": [
+      {
+        "title": "三国志·吴书·孙破虏讨逆传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.wu.jingzhou",
+    "uuid": "b1b295cb-00cd-442a-9468-7628c7ee0b17",
+    "name": "吕蒙白衣渡江袭荆州",
+    "name_traditional": "呂蒙白衣渡江襲荊州",
+    "category": [
+      "war",
+      "coup"
+    ],
+    "time": {
+      "start": 219,
+      "end": 219,
+      "original": "建安二十四年十月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.shuhan.guanyu",
+        "role": "victim"
+      }
+    ],
+    "related_events": [],
+    "description": "关羽北伐樊城威震华夏，吕蒙称病回建业，陆逊骄其志。吕蒙使兵士白衣扮商贾，昼夜兼行袭取江陵，尽俘关羽将士家属而秋毫无犯。关羽军心瓦解，败走麦城，为孙权所擒斩",
+    "outcome": "荆州归吴，蜀吴联盟破裂，三国疆域定型",
+    "sources": [
+      {
+        "title": "三国志·吴书·吕蒙传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.wu.shiting",
+    "uuid": "e85e2536-2b3a-464d-987a-070c827ad664",
+    "name": "石亭之战",
+    "name_traditional": "石亭之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 228,
+      "end": 228,
+      "original": "吴黄武七年九月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [],
+    "related_events": [],
+    "description": "孙权诱曹休南下，陆逊为大都督，朱桓、全琮为左右督，大破曹休于石亭，斩俘万余，曹休惭恚而死。次年孙权遂称帝",
+    "outcome": "曹魏东线受重创，孙权称帝底气十足",
+    "sources": [
+      {
+        "title": "三国志·吴书·吴主传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

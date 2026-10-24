@@ -1,0 +1,273 @@
+[
+  {
+    "id": "person.qing.duoergun",
+    "uuid": "f03d4c7f-e7bd-4d30-abd2-e5ff030f86dd",
+    "name": "多尔衮",
+    "name_traditional": "多爾袞",
+    "titles": [
+      "睿亲王",
+      "皇父摄政王"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "regent",
+      "general"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1612,
+      "circa": false,
+      "original": "明万历四十年十月二十五日生于赫图阿拉，努尔哈赤第十四子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1650,
+      "circa": false,
+      "original": "清顺治七年十二月九日坠马卒于喀喇城，年三十九",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "清军入关的实际统帅。皇太极死后与豪格争位，折中立六岁福临，自为摄政王。一片石败李自成，定都北京，平定中原，剃发易服令亦出其手。权倾朝野，称皇父摄政王。暴卒后被顺治帝追罪削爵掘墓，乾隆四十三年平反",
+    "events": [
+      "event.ming.qingjun-ruguan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·诸王传",
+        "type": "primary",
+        "ref": "卷二百一十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qing.xiaozhuang",
+    "uuid": "c852d317-6f25-4c2d-bd92-26fe203aaf6e",
+    "name": "孝庄文皇后",
+    "name_traditional": "孝莊文皇后",
+    "titles": [
+      "昭圣太皇太后"
+    ],
+    "courtesy_name": "布木布泰",
+    "category": [
+      "empress_dowager"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1613,
+      "circa": false,
+      "original": "明万历四十一年二月八日生于蒙古科尔沁部",
+      "disputed": []
+    },
+    "death": {
+      "year": 1688,
+      "circa": false,
+      "original": "清康熙二十六年十二月二十五日崩于慈宁宫，年七十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "清初杰出的女政治家。皇太极妃，顺治生母，康熙祖母。历三朝、辅两帝：顺治初年周旋于多尔衮，康熙初年教导少年天子擒鳌拜、平三藩。终身未垂帘而一言安邦，与慈禧形成鲜明对照",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·后妃传",
+        "type": "primary",
+        "ref": "卷二百一十四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qing.heshen",
+    "uuid": "ee63ab46-c306-4520-a742-7052208528d2",
+    "name": "和珅",
+    "name_traditional": "和珅",
+    "titles": [
+      "一等忠襄公"
+    ],
+    "courtesy_name": "致斋",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1750,
+      "circa": false,
+      "original": "清乾隆十五年五月二十八日生于北京，满洲正红旗",
+      "disputed": []
+    },
+    "death": {
+      "year": 1799,
+      "circa": false,
+      "original": "嘉庆四年正月十八日赐自尽于狱中，年五十",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "史上第一巨贪。乾隆晚年第一宠臣，身兼军机大臣、内务府总管等数十要职，贪腐结党二十年。嘉庆四年乾隆崩五日即被拿下，抄没家产估值数亿两白银，相当于清廷十余年财政收入，「和珅跌倒，嘉庆吃饱」",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·和珅传",
+        "type": "primary",
+        "ref": "卷三百十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qing.zuozongtang",
+    "uuid": "707da77a-f11f-4398-850a-38cb583235d0",
+    "name": "左宗棠",
+    "name_traditional": "左宗棠",
+    "titles": [
+      "恪靖侯",
+      "文襄公"
+    ],
+    "courtesy_name": "季高",
+    "category": [
+      "general",
+      "official"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1812,
+      "circa": false,
+      "original": "清嘉庆十七年十月七日生于湖南湘阴",
+      "disputed": []
+    },
+    "death": {
+      "year": 1885,
+      "circa": false,
+      "original": "光绪十一年七月二十七日卒于福州，年七十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "收复新疆的民族英雄。三次会试不第，以举人身份佐曾国藩幕。平太平天国、剿捻、办福州船政局。1876年六十五岁抬棺西征，两年收复新疆一百六十万平方公里国土，促成新疆建省。「身无半亩，心忧天下」",
+    "events": [
+      "event.qing.yangwu"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·左宗棠传",
+        "type": "primary",
+        "ref": "卷四百一十二"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qing.zhangzhidong",
+    "uuid": "76d1dded-c766-4df6-be5a-8aea00181555",
+    "name": "张之洞",
+    "name_traditional": "張之洞",
+    "titles": [
+      "文襄公"
+    ],
+    "courtesy_name": "孝达",
+    "category": [
+      "official",
+      "reformer"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1837,
+      "circa": false,
+      "original": "清道光十七年八月三日生于贵州兴义",
+      "disputed": []
+    },
+    "death": {
+      "year": 1909,
+      "circa": false,
+      "original": "宣统元年八月二十一日卒于北京，年七十三",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "中体西用的殿军。洋务运动后期领袖：汉阳铁厂、湖北织布局、自强学堂（武汉大学前身）、芦汉铁路，湖北新政为全国模范。著《劝学篇》，主张「中学为体，西学为用」。清流领袖出身，晚年主政中枢，目睹清亡在即而无力回天",
+    "events": [
+      "event.qing.yangwu"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·张之洞传",
+        "type": "primary",
+        "ref": "卷四百三十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

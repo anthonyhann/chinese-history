@@ -1,0 +1,112 @@
+[
+  {
+    "id": "event.jin.yiguan-nandu",
+    "uuid": "0de77c34-16b5-480b-a4a6-335ca17cb0cd",
+    "name": "衣冠南渡与东晋建立",
+    "name_traditional": "衣冠南渡與東晉建立",
+    "category": [
+      "regime-change",
+      "migration"
+    ],
+    "time": {
+      "start": 311,
+      "end": 318,
+      "original": "永嘉五年至大兴元年",
+      "precision": "year"
+    },
+    "place": [
+      "place.jiankang"
+    ],
+    "participants": [
+      {
+        "person": "person.jin.simarui",
+        "role": "protagonist"
+      }
+    ],
+    "related_events": [
+      "event.jin.yongjia"
+    ],
+    "description": "永嘉之乱洛阳陷落后，中原士族百姓相率渡江，史称衣冠南渡。琅琊王司马睿在王导、王敦辅佐下镇建邺，317年称晋王，318年闻愍帝遇害后称帝，史称东晋",
+    "outcome": "东晋建立，华夏文化中心南移",
+    "sources": [
+      {
+        "title": "晋书·元帝纪",
+        "type": "primary"
+      },
+      {
+        "title": "资治通鉴",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.jin.huanwen",
+    "uuid": "6189d33e-26df-44a9-9644-b2caa3d5b3ef",
+    "name": "桓温北伐",
+    "name_traditional": "桓溫北伐",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 354,
+      "end": 369,
+      "original": "永和十年至太和四年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [],
+    "related_events": [],
+    "description": "桓温三次北伐：354年伐前秦至灞上，关中父老箪食壶浆；356年收复洛阳；369年伐前燕，粮道被断，枋头惨败而归。北伐无功而威权日盛，遂行废立以立威，加九锡之志未遂而卒",
+    "outcome": "北伐失败；桓氏权倾朝野",
+    "sources": [
+      {
+        "title": "晋书·桓温传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.jin.sunen-luxun",
+    "uuid": "ec1c149c-a8cb-4570-99cf-80118a30a715",
+    "name": "孙恩卢循之乱",
+    "name_traditional": "孫恩盧循之亂",
+    "category": [
+      "uprising"
+    ],
+    "time": {
+      "start": 399,
+      "end": 411,
+      "original": "隆安三年至义熙七年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [],
+    "related_events": [],
+    "description": "五斗米道首领孙恩乘晋室内乱起于海岛，三吴响应，众数十万，两度兵临建康。孙恩败死后，妹夫卢循继之，410年率水军直逼建康，刘裕千里回援火攻击破。卢循败死交州。大乱十余载，东晋元气尽丧，刘裕由此独掌大权",
+    "outcome": "东晋名存实亡，刘裕崛起",
+    "sources": [
+      {
+        "title": "晋书·孙恩卢循传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

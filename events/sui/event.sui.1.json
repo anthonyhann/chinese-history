@@ -1,0 +1,42 @@
+[
+  {
+    "id": "event.sui.kaihuang",
+    "uuid": "a089c760-9b61-4c47-8fdf-a0cbdd2c1796",
+    "name": "开皇之治",
+    "name_traditional": "開皇之治",
+    "category": [
+      "governance",
+      "golden-age"
+    ],
+    "time": {
+      "start": 581,
+      "end": 604,
+      "original": "开皇元年至仁寿四年",
+      "precision": "year"
+    },
+    "place": [
+      "place.changan"
+    ],
+    "participants": [
+      {
+        "person": "person.sui.yangjian",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "隋文帝代周建隋后，创三省六部制、《开皇律》、科举雏形，行均田、大索貌阅，户口由四百万增至近九百万户，仓储之丰历代罕见。灭陈统一，北服突厥称圣人可汗",
+    "outcome": "中国古代治理巅峰之一；制度遗产尽归大唐",
+    "sources": [
+      {
+        "title": "隋书·高祖纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "id": "event.nsong.tongyi",
+    "uuid": "f9e6cca5-63a3-45e9-ac83-2cbb9389ba1a",
+    "name": "北宋统一战争",
+    "name_traditional": "北宋統一戰爭",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": 963,
+      "end": 979,
+      "original": "建隆四年至太平兴国四年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nsong.zhaokuangyin",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.nsong.zhaoguangyi",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "太祖用「先南后北」之策，十七年间灭荆南、湖南、后蜀、南汉、南唐，太宗灭吴越、北汉，结束唐末以来七十年分裂，中原重归一统",
+    "outcome": "五代十国终结，北宋基本统一",
+    "sources": [
+      {
+        "title": "宋史·太祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "续资治通鉴长编",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.nsong.gaolianghe",
+    "uuid": "2f29215d-45e9-4ecf-8d64-457cf83f0e6b",
+    "name": "高梁河之战",
+    "name_traditional": "高梁河之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 979,
+      "end": 979,
+      "original": "太平兴国四年七月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nsong.zhaoguangyi",
+        "role": "commander"
+      },
+      {
+        "person": "person.liao.yeluxian",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "太宗灭北汉后乘胜直捣幽州，围辽南京十五日不下。辽援军至，耶律休哥、耶律斜轸三路合击于高梁河，宋军大溃，太宗股中两箭，乘驴车夜遁百里。此后雍熙北伐再败，北宋对辽转入守势",
+    "outcome": "北宋收复燕云的最好机会丧失",
+    "sources": [
+      {
+        "title": "宋史·太宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "辽史·景宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.nsong.qingli-heyi",
+    "uuid": "d57320e4-ef88-434c-bc93-3fb8f5d93220",
+    "name": "庆历和议（宋夏和议）",
+    "name_traditional": "慶曆和議（宋夏和議）",
+    "category": [
+      "diplomacy"
+    ],
+    "time": {
+      "start": 1044,
+      "end": 1044,
+      "original": "庆历四年十月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nsong.zhaozhen",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.xixia.liyuanhao",
+        "role": "counterpart"
+      }
+    ],
+    "related_events": [],
+    "description": "三川口、好水川、定川寨三战皆败后，宋夏媾和：西夏向宋称臣，宋岁赐绢十三万匹、银五万两、茶二万斤。以岁币换和平的澶渊模式再次复制，榷场贸易兴旺",
+    "outcome": "宋夏和平，岁币外交再添一例",
+    "sources": [
+      {
+        "title": "宋史·夏国传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.nsong.haishang-zhimeng",
+    "uuid": "67bb8bde-acea-4b68-8920-ebd8c796a12a",
+    "name": "海上之盟",
+    "name_traditional": "海上之盟",
+    "category": [
+      "diplomacy"
+    ],
+    "time": {
+      "start": 1120,
+      "end": 1120,
+      "original": "宣和二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nsong.zhaoji",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "北宋联金灭辽之策：遣马政自登州渡海赴金，约定夹击辽朝，燕云归宋、岁币归金。金人如约破辽，宋军攻燕云却屡战屡败，暴露虚实。引狼入室，靖康之祸由此而伏",
+    "outcome": "联金灭辽，北宋自掘坟墓",
+    "sources": [
+      {
+        "title": "宋史·徽宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "三朝北盟会编",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.nsong.fangla",
+    "uuid": "0d102ead-4789-402c-95f7-a314aa5d3c67",
+    "name": "方腊起义",
+    "name_traditional": "方臘起義",
+    "category": [
+      "uprising"
+    ],
+    "time": {
+      "start": 1120,
+      "end": 1121,
+      "original": "宣和二年十月至三年四月",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nsong.zhaoji",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "睦州青溪人方腊以摩尼教聚众，因花石纲之扰揭竿而起，号圣公，建元永乐，旬日聚众数十万，陷杭州等六州五十二县。徽宗罢花石纲，遣童贯率十五万禁军镇压，次年方腊被俘就义",
+    "outcome": "北宋统治根基动摇",
+    "sources": [
+      {
+        "title": "宋史·徽宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "方舆胜览",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "event.nwei.canhepi",
+    "uuid": "aac80a71-2239-4963-9d87-0eb2e7fe6faf",
+    "name": "参合陂之战",
+    "name_traditional": "參合陂之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 395,
+      "end": 395,
+      "original": "北魏登国十年十一月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nwei.tuobagui",
+        "role": "commander"
+      },
+      {
+        "person": "person.sixteen.murongchui",
+        "role": "subject"
+      }
+    ],
+    "related_events": [],
+    "description": "后燕太子慕容宝率八万大军伐魏，拓跋珪佯退诱敌，回师截击，燕军大溃，坑杀降卒四五万于参合陂。次年慕容垂亲征，过参合陂见积骸如山，惭愤呕血而卒",
+    "outcome": "后燕由盛转衰，北魏崛起",
+    "sources": [
+      {
+        "title": "魏书·太祖纪",
+        "type": "primary"
+      },
+      {
+        "title": "资治通鉴",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.nwei.taiwu-tongyi",
+    "uuid": "5e38b687-0b4e-4523-acee-247e936a8227",
+    "name": "北魏统一北方",
+    "name_traditional": "北魏統一北方",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": 424,
+      "end": 439,
+      "original": "始光元年至太延五年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nwei.tuobatao",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "太武帝拓跋焘亲征柔然大破之；神䴥四年破夏都统万；太延二年灭北燕；太延五年灭北凉。永嘉之乱以来一百二十余年北方分裂，至此统一于北魏，北朝开始",
+    "outcome": "北方统一，南北朝对峙格局形成",
+    "sources": [
+      {
+        "title": "魏书·世祖纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.nwei.liuzhen",
+    "uuid": "e41fde9e-2f63-4738-8822-3d4b42f01562",
+    "name": "六镇之乱",
+    "name_traditional": "六鎮之亂",
+    "category": [
+      "uprising"
+    ],
+    "time": {
+      "start": 523,
+      "end": 530,
+      "original": "正光四年至永安三年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nwei.yuanxu",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "孝文帝迁都洛阳后，北边六镇鲜卑武人地位骤降，正光四年沃野镇人破六韩拔陵起义，各镇群起响应。尔朱荣乘乱崛起。六镇武人（宇文泰、高欢、侯景皆出其门）直接孕育了北齐北周隋唐的统治集团",
+    "outcome": "北魏分裂的前奏；关陇集团崛起",
+    "sources": [
+      {
+        "title": "魏书·肃宗纪",
+        "type": "primary"
+      },
+      {
+        "title": "北史·魏本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.nwei.heyin",
+    "uuid": "d62700a3-06f6-428b-8130-3b0d614364da",
+    "name": "河阴之变",
+    "name_traditional": "河陰之變",
+    "category": [
+      "coup",
+      "massacre"
+    ],
+    "time": {
+      "start": 528,
+      "end": 528,
+      "original": "武泰元年四月庚子",
+      "precision": "day"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.nwei.yuanziyou",
+        "role": "beneficiary"
+      }
+    ],
+    "related_events": [],
+    "description": "尔朱荣以清君侧为名入洛，沉胡太后及幼主元钊于黄河，在河阴以围猎为名纵铁骑包围北魏文武百官两千余人尽数屠戮。此后尔朱荣专权，元氏皇权名存实亡",
+    "outcome": "北魏中枢被血洗，尔朱氏专权",
+    "sources": [
+      {
+        "title": "魏书·孝庄帝纪",
+        "type": "primary"
+      },
+      {
+        "title": "洛阳伽蓝记",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

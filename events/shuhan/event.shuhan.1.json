@@ -1,0 +1,75 @@
+[
+  {
+    "id": "event.shuhan.beifa",
+    "uuid": "cc92092a-69b7-4bd7-80ee-e1fec8e6281b",
+    "name": "诸葛亮北伐",
+    "name_traditional": "諸葛亮北伐",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 228,
+      "end": 234,
+      "original": "蜀建兴六年至十二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.shuhan.zhugeliang",
+        "role": "commander"
+      },
+      {
+        "person": "person.wei.simayi",
+        "role": "opponent"
+      }
+    ],
+    "related_events": [],
+    "description": "诸葛亮五次北伐：失街亭斩马谡、木门道射杀张郃。以弱蜀攻强魏，粮运不继，234年五丈原与司马懿相持百余日，呕心沥血而卒，年五十四。出师未捷身先死",
+    "outcome": "蜀汉战略进攻告终，三国平衡延续",
+    "sources": [
+      {
+        "title": "三国志·蜀书·诸葛亮传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.shuhan.jiangwei",
+    "uuid": "c07e5298-9e39-4466-9468-55989fadabe7",
+    "name": "姜维北伐",
+    "name_traditional": "姜維北伐",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 238,
+      "end": 262,
+      "original": "蜀延熙元年至景耀五年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [],
+    "related_events": [],
+    "description": "诸葛亮死后，姜维继其遗志九伐中原，互有胜负。费祎裁抑其兵员不过万人，谯周作《仇国论》讽之。景耀五年避黄皓之祸屯田沓中，次年魏灭蜀",
+    "outcome": "蜀汉国力耗竭，为魏所灭",
+    "sources": [
+      {
+        "title": "三国志·蜀书·蒋琬费祎姜维传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "person.ssong.liqingzhao",
+    "uuid": "977bf864-8fd9-44f3-912e-522059b3f400",
+    "name": "李清照",
+    "name_traditional": "李清照",
+    "titles": [
+      "易安居士"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "poet",
+      "writer"
+    ],
+    "dynasty": "dynasty.southern-song",
+    "birth": {
+      "year": 1084,
+      "circa": false,
+      "original": "宋元丰七年三月十三日生于济南章丘",
+      "disputed": []
+    },
+    "death": {
+      "year": 1155,
+      "circa": true,
+      "original": "约卒于绍兴二十五年，年七十余",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "千古第一才女。词压江南，文盖塞北。前期词清丽明快，靖康之变后南渡，夫死（赵明诚）物散，再嫁匪人又讼而离之，词风转为沉郁凄怆。「寻寻觅觅，冷冷清清，凄凄惨惨戚戚」。创词别是一家之说，婉约派宗主",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·文苑传（李格非传附）",
+        "type": "primary",
+        "ref": "卷四百四十四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ssong.luyou",
+    "uuid": "738c438a-242a-4a41-8957-8d9d7bf7f4ea",
+    "name": "陆游",
+    "name_traditional": "陸游",
+    "titles": [
+      "放翁"
+    ],
+    "courtesy_name": "务观",
+    "category": [
+      "poet",
+      "official"
+    ],
+    "dynasty": "dynasty.southern-song",
+    "birth": {
+      "year": 1125,
+      "circa": false,
+      "original": "北宋宣和七年十月十七日生于越州山阴",
+      "disputed": []
+    },
+    "death": {
+      "year": 1210,
+      "circa": false,
+      "original": "嘉定二年十二月二十九日卒，年八十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "南宋第一爱国诗人。六十年间万首诗，「王师北定中原日，家祭无忘告乃翁」。一生主战不得志，沈园与唐琬的悲剧爱情亦成千古绝唱。八十五岁临终《示儿》，至死不忘恢复",
+    "events": [
+      "event.ssong.kaixi-beifa"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·陆游传",
+        "type": "primary",
+        "ref": "卷三百九十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

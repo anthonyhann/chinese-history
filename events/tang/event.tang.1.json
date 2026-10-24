@@ -1,0 +1,210 @@
+[
+  {
+    "id": "event.tang.dong-tujue",
+    "uuid": "1613bd35-b72e-4933-9992-ade18091176c",
+    "name": "唐灭东突厥",
+    "name_traditional": "唐滅東突厥",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 629,
+      "end": 630,
+      "original": "贞观三年至四年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.tang.lishimin",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.tang.lijing",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "贞观三年，太宗乘突厥内乱，以李靖为定襄道行军总管，六路分道北伐。李靖三千精骑夜袭定襄，颉利可汗被擒送长安。东突厥亡，西北诸国尊太宗为「天可汗」",
+    "outcome": "北方威胁解除，天可汗体系建立",
+    "sources": [
+      {
+        "title": "旧唐书·突厥传",
+        "type": "primary"
+      },
+      {
+        "title": "资治通鉴·唐纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.tang.baijiangkou",
+    "uuid": "50b59d91-35ae-45e4-b8a3-b9128166d10f",
+    "name": "白江口之战",
+    "name_traditional": "白江口之戰",
+    "category": [
+      "war",
+      "naval"
+    ],
+    "time": {
+      "start": 663,
+      "end": 663,
+      "original": "龙朔三年八月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.tang.lizhi",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "倭国举全国之力四万二千人、战船千余艘援百济，唐将刘仁轨率水师于白江口四战四捷，焚倭船四百，「烟焰涨天，海水皆赤」。倭国震恐，此后九百年不敢窥伺朝鲜半岛",
+    "outcome": "东亚秩序重塑，日本遣唐使达到顶峰",
+    "sources": [
+      {
+        "title": "旧唐书·刘仁轨传",
+        "type": "primary"
+      },
+      {
+        "title": "日本书纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.tang.mie-gaogouli",
+    "uuid": "075e6d25-86bd-4250-9603-ffd3df4c8aae",
+    "name": "唐灭高句丽",
+    "name_traditional": "唐滅高句麗",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 666,
+      "end": 668,
+      "original": "乾封元年至总章元年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.tang.lizhi",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "高句丽权臣泉盖苏文死，诸子内争。李勣率大军围城，总章元年九月克平壤，高句丽王高藏投降。五部一百七十六城、六十九万户尽入唐，设安东都护府。隋唐四代七十年辽东战争终结",
+    "outcome": "高句丽灭亡，唐疆域东极",
+    "sources": [
+      {
+        "title": "旧唐书·高宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "资治通鉴·唐纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.tang.liangshui",
+    "uuid": "30dc4c5c-6f6a-4221-b245-0dfd1322b5a7",
+    "name": "两税法",
+    "name_traditional": "兩稅法",
+    "category": [
+      "reform"
+    ],
+    "time": {
+      "start": 780,
+      "end": 780,
+      "original": "建中元年正月",
+      "precision": "month"
+    },
+    "place": [
+      "place.changan"
+    ],
+    "participants": [
+      {
+        "person": "person.tang.likuo",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "宰相杨炎奏请废租庸调制，行两税法：量出制入、按资产土地征税、夏秋两收。中国赋税制度从以人丁为主转向以资产为主，影响八百年",
+    "outcome": "中唐财政重整，赋税制度大变革",
+    "sources": [
+      {
+        "title": "旧唐书·杨炎传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.tang.changqing-huimeng",
+    "uuid": "cb623ec5-499f-45dd-a255-6fb26618bcbe",
+    "name": "长庆会盟",
+    "name_traditional": "長慶會盟",
+    "category": [
+      "diplomacy"
+    ],
+    "time": {
+      "start": 821,
+      "end": 822,
+      "original": "长庆元年至二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.tang.liheng-mu",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "唐穆宗与吐蕃赞普赤祖德赞互派使者，先后在长安、拉萨会盟，立「唐蕃会盟碑」于拉萨大昭寺前（至今犹存）。唐蕃二百年战和至此终局",
+    "outcome": "唐蕃百年战和终结，会盟碑至今立于拉萨",
+    "sources": [
+      {
+        "title": "旧唐书·吐蕃传",
+        "type": "primary"
+      },
+      {
+        "title": "唐蕃会盟碑",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

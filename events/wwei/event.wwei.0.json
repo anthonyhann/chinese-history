@@ -1,0 +1,74 @@
+[
+  {
+    "id": "event.wwei.shayuan",
+    "uuid": "2a73ffe7-a264-4a03-9ced-f5b3cf7bf4dd",
+    "name": "沙苑之战",
+    "name_traditional": "沙苑之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 537,
+      "end": 537,
+      "original": "西魏大统三年十月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [],
+    "related_events": [],
+    "description": "高欢率二十万大军伐西魏，宇文泰以不足万人背水设伏于沙苑渭曲，伏兵齐出，高欢大败，丧甲士八万。东西魏实力对比由此扭转",
+    "outcome": "西魏转危为安，东西对峙确立",
+    "sources": [
+      {
+        "title": "周书·文帝纪",
+        "type": "primary"
+      },
+      {
+        "title": "资治通鉴",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.wwei.yubi",
+    "uuid": "a60112c0-0876-4331-9f7c-96d2791bd163",
+    "name": "玉璧之战",
+    "name_traditional": "玉璧之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 546,
+      "end": 546,
+      "original": "西魏大统十二年九月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [],
+    "related_events": [],
+    "description": "高欢率十余万众围攻西魏玉壁城五十余日，韦孝宽随机应变无所不克，高欢智力俱困，士卒死者七万，被迫退兵，夜唱《敕勒歌》以固军心。高欢惭愤发病，次年正月卒",
+    "outcome": "东西魏最后一次决战，高欢英雄迟暮",
+    "sources": [
+      {
+        "title": "北齐书·神武纪",
+        "type": "primary"
+      },
+      {
+        "title": "资治通鉴",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

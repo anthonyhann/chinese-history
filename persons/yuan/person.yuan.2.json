@@ -1,0 +1,109 @@
+[
+  {
+    "id": "person.yuan.guanhanqing",
+    "uuid": "2687f9b9-a3c1-4116-bd70-b5616666ed20",
+    "name": "关汉卿",
+    "name_traditional": "關漢卿",
+    "titles": [
+      "已斋叟"
+    ],
+    "courtesy_name": "汉卿",
+    "category": [
+      "playwright"
+    ],
+    "dynasty": "dynasty.yuan",
+    "birth": {
+      "year": 1225,
+      "circa": true,
+      "original": "约生于金末，大都人",
+      "disputed": []
+    },
+    "death": {
+      "year": 1302,
+      "circa": true,
+      "original": "约卒于元大德年间",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "元曲四大家之首，中国戏剧之父。一生不仕，混迹勾栏瓦舍，与艺人朱帘秀等合作。《窦娥冤》《救风尘》《单刀会》《拜月亭》，「感天动地窦娥冤」为中国悲剧之巅。自比「蒸不烂、煮不熟、捶不扁、炒不爆、响当当一粒铜豌豆」",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "录鬼簿",
+        "type": "primary",
+        "ref": "钟嗣成"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.yuan.zhaomengfu",
+    "uuid": "1fe2941a-b0a8-4988-8455-cf60d2f45bbc",
+    "name": "赵孟頫",
+    "name_traditional": "趙孟頫",
+    "titles": [
+      "松雪道人",
+      "魏国公",
+      "文敏公"
+    ],
+    "courtesy_name": "子昂",
+    "category": [
+      "artist",
+      "official"
+    ],
+    "dynasty": "dynasty.yuan",
+    "birth": {
+      "year": 1254,
+      "circa": false,
+      "original": "南宋宝祐二年九月十日生于湖州，宋太祖十一世孙",
+      "disputed": []
+    },
+    "death": {
+      "year": 1322,
+      "circa": false,
+      "original": "元至治二年六月十六日卒，年六十九",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "元人冠冕。宋室王孙仕元，备受争议而艺术不朽。书画双绝：楷书四家之赵体，画开元代文人画新风，「古意论」影响后世六百年。妻管道升亦为书画名家，一首《你侬我侬》传为婚姻佳话",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "元史·赵孟頫传",
+        "type": "primary",
+        "ref": "卷一百七十二"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

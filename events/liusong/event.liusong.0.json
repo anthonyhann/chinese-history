@@ -1,0 +1,80 @@
+[
+  {
+    "id": "event.liusong.liuyu-beifa",
+    "uuid": "15203091-0488-4239-b9ec-643b9caa1020",
+    "name": "刘裕北伐",
+    "name_traditional": "劉裕北伐",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 409,
+      "end": 417,
+      "original": "义熙五年至十三年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.liusong.liuyu",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "刘裕两次北伐：409年灭南燕收复山东；416-417年水陆并进灭后秦，克洛阳、入长安，百年之后汉家宫室重见汉人旌旗。然急于回师建康篡晋，关中旋失。「金戈铁马，气吞万里如虎」",
+    "outcome": "南方政权北伐的最高成就",
+    "sources": [
+      {
+        "title": "宋书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.liusong.yuanjia-beifa",
+    "uuid": "907ee5db-17c6-4008-bb63-895b99c1d840",
+    "name": "元嘉北伐",
+    "name_traditional": "元嘉北伐",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 430,
+      "end": 450,
+      "original": "元嘉七年至二十七年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.liusong.liuyilong",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "文帝好大喜功，三次北伐皆惨败：430年到彦之败于河南，450年王玄谟围滑台不下，魏太武帝乘势南下直抵瓜步，临江而还，建康震动。辛弃疾「元嘉草草，封狼居胥，赢得仓皇北顾」即咏此",
+    "outcome": "刘宋由盛转衰，淮北尽失",
+    "sources": [
+      {
+        "title": "宋书·文帝纪",
+        "type": "primary"
+      },
+      {
+        "title": "魏书·世祖纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

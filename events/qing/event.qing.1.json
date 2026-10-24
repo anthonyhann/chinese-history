@@ -1,0 +1,361 @@
+[
+  {
+    "id": "event.qing.ping-sanfan",
+    "uuid": "1accf475-37bb-4b1d-8fc6-981e7ab6b6ae",
+    "name": "平定三藩",
+    "name_traditional": "平定三藩",
+    "category": [
+      "war",
+      "civil-war"
+    ],
+    "time": {
+      "start": 1673,
+      "end": 1681,
+      "original": "康熙十二年至二十年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qing.xuanye",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "吴三桂、尚可喜、耿精忠三藩尾大不掉，康熙力排众议撤藩。吴三桂以「兴明讨虏」起兵，数月之间云贵川湘桂闽陕甘皆动。康熙八年苦战，二十年十月破昆明，吴世璠自杀",
+    "outcome": "清朝统治稳固；汉人藩王势力终结",
+    "sources": [
+      {
+        "title": "清史稿·圣祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "清史稿·吴三桂传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qing.shoufu-taiwan",
+    "uuid": "f8400203-26b6-429e-bb8c-252172f6d5bc",
+    "name": "收复台湾",
+    "name_traditional": "收復台灣",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": 1683,
+      "end": 1683,
+      "original": "康熙二十二年六月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qing.xuanye",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "康熙任施琅为福建水师提督，澎湖海战歼灭郑军主力刘国轩部，郑克塽奉表归降。台湾自1662年郑成功驱荷后历明郑三代二十二年，至此归入清朝版图，次年设台湾府隶福建省",
+    "outcome": "台湾正式纳入清朝版图",
+    "sources": [
+      {
+        "title": "清史稿·圣祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "清史稿·施琅传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qing.nibuchu",
+    "uuid": "fc9778ea-a2bd-4936-b81d-03c9d2e3e73f",
+    "name": "雅克萨之战与《尼布楚条约》",
+    "name_traditional": "雅克薩之戰與《尼布楚條約》",
+    "category": [
+      "war",
+      "diplomacy"
+    ],
+    "time": {
+      "start": 1685,
+      "end": 1689,
+      "original": "康熙二十四年至二十八年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qing.xuanye",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "俄军侵据雅克萨城三十余年。康熙两次围攻雅克萨，俄将乞降。1689年中俄签订《尼布楚条约》，以外兴安岭、额尔古纳河划界，为中国与欧洲国家签订的第一个平等条约",
+    "outcome": "中国近代边界条约体系的开端",
+    "sources": [
+      {
+        "title": "清史稿·圣祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "清史稿·邦交志",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qing.ping-zhungaer",
+    "uuid": "8d99da1e-84a4-475e-984a-116be629c0b6",
+    "name": "平定准噶尔",
+    "name_traditional": "平定準噶爾",
+    "category": [
+      "war",
+      "unification"
+    ],
+    "time": {
+      "start": 1690,
+      "end": 1757,
+      "original": "康熙二十九年至乾隆二十二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qing.xuanye",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qing.hongli",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "准噶尔汗噶尔丹东侵喀尔喀，康熙三征噶尔丹。噶尔丹死后，策妄阿拉布坦、噶尔丹策零相继扰边。乾隆二十年乘准部内乱，两路出师灭准噶尔汗国，平定大小和卓叛乱，设伊犁将军。清朝疆域达到极盛",
+    "outcome": "新疆纳入版图，清代疆域定型",
+    "sources": [
+      {
+        "title": "清史稿·圣祖/高宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qing.dierci-yapian",
+    "uuid": "d91b307a-74ae-45f8-892e-a2153d59df22",
+    "name": "第二次鸦片战争",
+    "name_traditional": "第二次鴉片戰爭",
+    "category": [
+      "war",
+      "diplomacy"
+    ],
+    "time": {
+      "start": 1856,
+      "end": 1860,
+      "original": "咸丰六年至十年",
+      "precision": "year"
+    },
+    "place": [
+      "place.beijing"
+    ],
+    "participants": [
+      {
+        "person": "person.qing.yizhu",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "英法以亚罗号、马神甫事件联军侵华。1858年陷大沽订《天津条约》，1860年联军入北京，火烧圆明园，咸丰北狩热河。《北京条约》增开天津、割九龙司，俄国趁火打劫割占东北百万平方公里",
+    "outcome": "半殖民地化大大加深；圆明园被焚",
+    "sources": [
+      {
+        "title": "清史稿·文宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "筹办夷务始末",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qing.yangwu",
+    "uuid": "5aefe954-9b86-4337-9096-afa40c41be09",
+    "name": "洋务运动",
+    "name_traditional": "洋務運動",
+    "category": [
+      "reform",
+      "modernization"
+    ],
+    "time": {
+      "start": 1861,
+      "end": 1895,
+      "original": "咸丰十一年至光绪二十一年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qing.zaichun",
+        "role": "monarch"
+      },
+      {
+        "person": "person.qing.zengguofan",
+        "role": "leader"
+      },
+      {
+        "person": "person.qing.lihongzhang",
+        "role": "leader"
+      },
+      {
+        "person": "person.qing.zuozongtang",
+        "role": "leader"
+      },
+      {
+        "person": "person.qing.zhangzhidong",
+        "role": "leader"
+      }
+    ],
+    "related_events": [],
+    "description": "两次鸦片战争与太平天国之后，奕訢、曾国藩、李鸿章、左宗棠、张之洞等以「自强」「求富」为号，创办江南制造局、福州船政局、轮船招商局，建新式海陆军、派幼童留美、设同文馆。甲午一战北洋水师全军覆没，器物层面的自救失败",
+    "outcome": "中国近代工业化的起点；甲午战败宣告其局限",
+    "sources": [
+      {
+        "title": "清史稿·穆宗/德宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "洋务运动档案",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qing.jiawu",
+    "uuid": "cfc955d7-8da8-40db-a806-b91da0aea650",
+    "name": "甲午战争与《马关条约》",
+    "name_traditional": "甲午戰爭與《馬關條約》",
+    "category": [
+      "war",
+      "diplomacy"
+    ],
+    "time": {
+      "start": 1894,
+      "end": 1895,
+      "original": "光绪二十年至二十一年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.qing.zaitian",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [],
+    "description": "朝鲜东学党起义引发中日同时出兵。清军陆战连败，北洋水师黄海大战失利后避战保船，威海卫被围全军覆没，丁汝昌、邓世昌殉国。1895年李鸿章赴马关签约：割台湾辽东、赔款二亿两。天朝败于蕞尔岛国，举国如丧考妣",
+    "outcome": "东亚秩序彻底改写；中华民族觉醒的起点",
+    "sources": [
+      {
+        "title": "清史稿·德宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "清光绪朝中日交涉史料",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qing.wuxu",
+    "uuid": "9c5e02c0-6d75-40b4-ae27-d2f3c89c2141",
+    "name": "戊戌变法（百日维新）",
+    "name_traditional": "戊戌變法（百日維新）",
+    "category": [
+      "reform"
+    ],
+    "time": {
+      "start": 1898,
+      "end": 1898,
+      "original": "光绪二十四年四月二十三日至八月六日",
+      "precision": "month"
+    },
+    "place": [
+      "place.beijing"
+    ],
+    "participants": [
+      {
+        "person": "person.qing.zaitian",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qing.kangyouwei",
+        "role": "leader"
+      }
+    ],
+    "related_events": [],
+    "description": "甲午战败后，康有为、梁启超推动光绪帝明定国是，一百零三天内下诏百余道：废八股、兴学堂、裁冗衙、练新军、奖实业。慈禧发动政变，囚光绪于瀛台，谭嗣同等六君子血溅菜市口，康梁流亡海外",
+    "outcome": "君主立宪的最后尝试失败，革命成为主流",
+    "sources": [
+      {
+        "title": "清史稿·德宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "戊戌政变记（梁启超）",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

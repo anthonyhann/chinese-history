@@ -1,0 +1,272 @@
+[
+  {
+    "id": "person.nsong.fanzhongyan",
+    "uuid": "9c6c30f5-3143-442e-ab7a-f32028103bf6",
+    "name": "范仲淹",
+    "name_traditional": "范仲淹",
+    "titles": [
+      "文正公"
+    ],
+    "courtesy_name": "希文",
+    "category": [
+      "chancellor",
+      "writer"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 989,
+      "circa": false,
+      "original": "宋端拱二年八月二日生于徐州",
+      "disputed": []
+    },
+    "death": {
+      "year": 1052,
+      "circa": false,
+      "original": "皇祐四年五月二十日卒于赴颍州途中，年六十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "先天下之忧而忧。两岁丧父，划粥断齑苦读。庆历新政领袖，主持明黜陟、抑侥幸等十事改革。戍边西北，「胸中自有数万甲兵」，西夏人称小范老子。《岳阳楼记》为千古士人精神标杆",
+    "events": [
+      "event.nsong.qingli"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·范仲淹传",
+        "type": "primary",
+        "ref": "卷三百一十四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.nsong.ouyangxiu",
+    "uuid": "f22d67d3-0db1-42d6-82d1-356ba4fd38e0",
+    "name": "欧阳修",
+    "name_traditional": "歐陽修",
+    "titles": [
+      "文忠公",
+      "六一居士"
+    ],
+    "courtesy_name": "永叔",
+    "category": [
+      "writer",
+      "historian"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 1007,
+      "circa": false,
+      "original": "宋景德四年六月二十一日生于绵州",
+      "disputed": []
+    },
+    "death": {
+      "year": 1072,
+      "circa": false,
+      "original": "熙宁五年闰七月二十三日卒于汝阴，年六十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "北宋文坛领袖。四岁丧父，画荻教子。主嘉祐二年科举，识拔苏轼、苏辙、曾巩、张载、程颢——千古第一龙虎榜。领导诗文革新运动，修《新唐书》《新五代史》。唐宋八大家之枢纽",
+    "events": [
+      "event.nsong.qingli"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·欧阳修传",
+        "type": "primary",
+        "ref": "卷三百一十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.nsong.baozheng",
+    "uuid": "038f64fa-3dd0-4483-be69-ef0bd1020c1f",
+    "name": "包拯",
+    "name_traditional": "包拯",
+    "titles": [
+      "孝肃公",
+      "包待制"
+    ],
+    "courtesy_name": "希仁",
+    "category": [
+      "official"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 999,
+      "circa": false,
+      "original": "宋咸平二年生于合肥",
+      "disputed": []
+    },
+    "death": {
+      "year": 1062,
+      "circa": false,
+      "original": "嘉祐七年五月卒，年六十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "包青天。知开封府，立牌允许百姓直接上堂控告，关节不到有阎罗包老。弹劾国丈张尧佐、贪官王逵，执法不避权贵。笑比黄河清。后世戏曲塑为黑脸月牙、日断阳夜断阴的神判，成为中国司法公正的永恒符号",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·包拯传",
+        "type": "primary",
+        "ref": "卷三百一十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.nsong.shenkuo",
+    "uuid": "786f137a-07d8-4513-9554-39469b0f15d6",
+    "name": "沈括",
+    "name_traditional": "沈括",
+    "titles": [
+      "梦溪丈人"
+    ],
+    "courtesy_name": "存中",
+    "category": [
+      "scientist",
+      "official"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 1031,
+      "circa": false,
+      "original": "宋天圣九年生于杭州钱塘",
+      "disputed": []
+    },
+    "death": {
+      "year": 1095,
+      "circa": false,
+      "original": "绍圣二年卒于润州，年六十五",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "中国科学史上最卓越的人物。《梦溪笔谈》记载活字印刷、隙积术、会圆术、磁偏角（比欧洲早四百年）、石油命名。出使辽国据理力争边界，治理沭水。李约瑟称其为「中国科学史上的坐标」",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·沈括传",
+        "type": "primary",
+        "ref": "卷三百三十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.nsong.zhuxi",
+    "uuid": "c93deec9-f588-4107-b464-d872f8a21e8d",
+    "name": "朱熹",
+    "name_traditional": "朱熹",
+    "titles": [
+      "晦庵",
+      "朱子"
+    ],
+    "courtesy_name": "元晦",
+    "category": [
+      "philosopher"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 1130,
+      "circa": false,
+      "original": "南宋建炎四年九月十五日生于福建尤溪",
+      "disputed": []
+    },
+    "death": {
+      "year": 1200,
+      "circa": false,
+      "original": "庆元六年三月九日卒于建阳考亭，年七十一",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "理学集大成者。集周敦颐、二程、张载之大成，建理气论、格物致知，《四书章句集注》为元明清科举定本，影响东亚七百年。庆元党禁中被斥为「伪学逆党」，死后理学成为官方哲学，配享孔庙",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·道学传",
+        "type": "primary",
+        "ref": "卷四百二十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

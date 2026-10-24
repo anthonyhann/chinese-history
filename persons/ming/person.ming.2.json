@@ -1,0 +1,324 @@
+[
+  {
+    "id": "person.ming.xuda",
+    "uuid": "51e5bb28-00ef-4217-85aa-5d71df850467",
+    "name": "徐达",
+    "name_traditional": "徐達",
+    "titles": [
+      "魏国公",
+      "中山王（追封）",
+      "武宁王"
+    ],
+    "courtesy_name": "天德",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1332,
+      "circa": false,
+      "original": "元至顺三年生于濠州钟离",
+      "disputed": []
+    },
+    "death": {
+      "year": 1385,
+      "circa": false,
+      "original": "洪武十八年二月卒于南京，年五十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "明朝开国第一功臣。与朱元璋布衣交，统兵北伐攻克大都、驱逐蒙元，「两京之王」。谨慎持重，功高不矜，洪武朝唯一善终的开国元勋（蒸鹅赐死为野史）。女为永乐皇后",
+    "events": [
+      "event.ming.jianli"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·徐达传",
+        "type": "primary",
+        "ref": "卷一百二十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.lishizhen",
+    "uuid": "94738778-5320-4fe6-87e5-9ab6748ee5a9",
+    "name": "李时珍",
+    "name_traditional": "李時珍",
+    "titles": [
+      "濒湖山人"
+    ],
+    "courtesy_name": "东璧",
+    "category": [
+      "scientist"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1518,
+      "circa": false,
+      "original": "明正德十三年生于蕲州",
+      "disputed": []
+    },
+    "death": {
+      "year": 1593,
+      "circa": false,
+      "original": "万历二十一年卒，年七十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "药圣。三次乡试不第，弃儒从医。历时二十七年，三易其稿，参考八百余种典籍，亲尝百草，成《本草纲目》一百九十余万字，收药一千八百九十二种、附方一万一千余首，达尔文称其为「中国古代的百科全书」",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·方伎传",
+        "type": "primary",
+        "ref": "卷二百九十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.xuguangqi",
+    "uuid": "09432f85-11be-4713-93ac-4dcf0bf81e7c",
+    "name": "徐光启",
+    "name_traditional": "徐光啟",
+    "titles": [
+      "文定公"
+    ],
+    "courtesy_name": "子先",
+    "category": [
+      "scientist",
+      "chancellor"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1562,
+      "circa": false,
+      "original": "明嘉靖四十一年四月二十四日生于上海",
+      "disputed": []
+    },
+    "death": {
+      "year": 1633,
+      "circa": false,
+      "original": "崇祯六年十月七日卒于北京，年七十二",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "中国近代科学启蒙先驱。与利玛窦合译《几何原本》前六卷，「几何」一词即其定名。著《农政全书》，主编《崇祯历书》引进西洋历算。官至文渊阁大学士，为明末中西文化交流第一人",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·徐光启传",
+        "type": "primary",
+        "ref": "卷二百五十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.weizhongxian",
+    "uuid": "8ddc8df2-c1f4-48d8-abc7-fea42988bf35",
+    "name": "魏忠贤",
+    "name_traditional": "魏忠賢",
+    "titles": [
+      "九千岁"
+    ],
+    "courtesy_name": "完吾",
+    "category": [
+      "eunuch"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1568,
+      "circa": false,
+      "original": "明隆庆二年正月三十日生于河间肃宁",
+      "disputed": []
+    },
+    "death": {
+      "year": 1627,
+      "circa": false,
+      "original": "天启七年十一月六日自缢于阜城南关驿",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "阉党之魁。自宫入宫，与熹宗乳母客氏勾结，秉笔批红，人称九千岁，各地督抚争建生祠。兴诏狱杀东林党人杨涟、左光斗，罗织《东林点将录》。崇祯即位三月即贬谪，途中自缢，戮尸凌迟",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·宦官传",
+        "type": "primary",
+        "ref": "卷三百五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.lizicheng",
+    "uuid": "07340c01-6aa0-4917-87da-af0f4179aa42",
+    "name": "李自成",
+    "name_traditional": "李自成",
+    "titles": [
+      "闯王",
+      "大顺皇帝"
+    ],
+    "courtesy_name": "鸿基",
+    "category": [
+      "rebel"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1606,
+      "circa": false,
+      "original": "明万历三十四年八月二十一日生于陕西米脂",
+      "disputed": []
+    },
+    "death": {
+      "year": 1645,
+      "circa": false,
+      "original": "清顺治二年五月在湖北九宫山被杀（一说为僧），年四十",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "大顺皇帝。驿卒出身，崇祯二年投起义军，继称闯王。提出「均田免赋」，民歌「迎闯王，不纳粮」。1644年正月西安建大顺，三月十九日破北京，崇祯自缢。山海关败于吴三桂与清军，撤离北京后一路溃败，九宫山遇害。其兴也勃，其亡也忽",
+    "events": [
+      "event.ming.lizicheng",
+      "event.ming.qingjun-ruguan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·流贼传",
+        "type": "primary",
+        "ref": "卷三百九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.zheng-chenggong",
+    "uuid": "a553db43-d8b7-4766-b53f-5aa39572ca05",
+    "name": "郑成功",
+    "name_traditional": "鄭成功",
+    "titles": [
+      "延平王",
+      "国姓爷"
+    ],
+    "courtesy_name": "大木",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1624,
+      "circa": false,
+      "original": "明天启四年七月十四日生于日本平户",
+      "disputed": []
+    },
+    "death": {
+      "year": 1662,
+      "circa": false,
+      "original": "清康熙元年五月八日卒于台湾承天府，年三十九",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "民族英雄。本名郑森，隆武帝赐国姓。父郑芝龙降清，成功裂衣起兵，以金门厦门为基地抗清。1659年兵临南京城下功败垂成。1661年率两万五千人横渡海峡，1662年二月驱荷兰人收复台湾，开辟明郑政权。五个月后英年早逝",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·郑成功传",
+        "type": "primary",
+        "ref": "卷二百二十四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

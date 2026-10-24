@@ -1,0 +1,780 @@
+[
+  {
+    "id": "artifact.smithsonian.f1909-326",
+    "uuid": "d8c6a85a-427f-48ce-bdba-b51f946de8ff",
+    "name": "陶麒麟镇墓兽",
+    "name_traditional": "陶麒麟镇墓兽",
+    "name_en": "Tomb figure of a seated qilin",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 700,
+      "end": 750,
+      "original": "early 8th century",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "明器"
+    ],
+    "material": [
+      "Earthenware with copper-green lead-silicate glaze"
+    ],
+    "dimensions": null,
+    "description": "唐代彩绘釉陶镇墓兽，麒麟踞坐、昂首怒目，为盛唐墓葬镇墓兽的典型样式。1917年出土于河南北部，弗里尔1919年购入。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charles Lang Freer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-7368_27",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1909.326",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1909.326"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1929-15",
+    "uuid": "86141c14-04a9-4659-9f9c-374adda1b304",
+    "name": "陶狮镇墓兽",
+    "name_traditional": "陶狮镇墓兽",
+    "name_en": "Tomb figure of a lion",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 700,
+      "end": 750,
+      "original": "first half of 8th century",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "明器"
+    ],
+    "material": [
+      "Earthenware with lead-silicate glazes tinted with iron, copper, and cobalt"
+    ],
+    "dimensions": null,
+    "description": "唐代铅釉陶狮形镇墓兽，蹲踞张口，釉色斑驳。狮子自丝路入华，唐时已成为镇墓辟邪的固定图像。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Purchase — Charles Lang Freer Endowment",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-7735_05",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1929.15",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1929.15"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1952-12",
+    "uuid": "df2167b2-e010-4281-b6cc-906c5002bc68",
+    "name": "彩绘陶骑马男俑",
+    "name_traditional": "彩绘陶骑马男俑",
+    "name_en": "Tomb figure of a man on horseback",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 700,
+      "end": 750,
+      "original": "ca. 700-750",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "陶俑"
+    ],
+    "material": [
+      "Earthenware with lead-silicate glazes and painted details"
+    ],
+    "dimensions": null,
+    "description": "盛唐彩绘骑马男俑，骑手控缰立马，人马比例精准，为唐三彩之外盛唐陶俑的写实主义代表。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Purchase — Charles Lang Freer Endowment",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1952.12_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1952.12",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1952.12"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1952-13",
+    "uuid": "36e9cb4e-b5bf-462d-93aa-2512ce68c470",
+    "name": "彩绘陶骑马女俑",
+    "name_traditional": "彩绘陶骑马女俑",
+    "name_en": "Tomb figure of a woman on horseback",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 700,
+      "end": 750,
+      "original": "ca. 700-750",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "陶俑"
+    ],
+    "material": [
+      "Earthenware with lead-silicate glazes and painted details"
+    ],
+    "dimensions": null,
+    "description": "盛唐彩绘骑马女俑，女扮男装、英姿勃发，与Met藏骑马女俑互为印证，是唐代女性社会地位与开放风尚的实物见证。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Purchase — Charles Lang Freer Endowment",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1952.13_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1952.13",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1952.13"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1894-17",
+    "uuid": "20217b12-23bb-4aff-bf58-7d9ace319bb3",
+    "name": "青铜簋",
+    "name_traditional": "青铜簋",
+    "name_en": "Ritual grain server (gui)",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1200,
+      "end": -1050,
+      "original": "ca. 1200-1050 BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "礼器"
+    ],
+    "material": [
+      "Bronze"
+    ],
+    "dimensions": null,
+    "description": "商代晚期青铜簋，盛放黍稷的食器，饕餮纹庄严神秘。簋与鼎配套使用，是商周礼制「列鼎而食」的核心器物。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charles Lang Freer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-8148_04",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1894.17",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1894.17"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1907-37",
+    "uuid": "bde374b3-edbb-40e6-b4fb-a80ffd382358",
+    "name": "饕餮纹青铜斝",
+    "name_traditional": "饕餮纹青铜斝",
+    "name_en": "Ritual wine warmer (jia) with taotie and birds",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1400,
+      "end": -1250,
+      "original": "ca. 1400-1250 BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "礼器"
+    ],
+    "material": [
+      "Bronze"
+    ],
+    "dimensions": null,
+    "description": "商代中期青铜斝，温酒之器，三足中空便于加热，腹部饕餮纹狞厉威严，为商代青铜铸造的成熟之作。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charles Lang Freer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-7877_01",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1907.37",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1907.37"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1961-33a-b",
+    "uuid": "a6559b5b-5621-48ee-a57e-76a7da0b070b",
+    "name": "青铜觥",
+    "name_traditional": "青铜觥",
+    "name_en": "Ritual wine ewer (gong) with masks (taotie), dragons, and real animals",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1100,
+      "end": -1050,
+      "original": "ca. 1100-1050 BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "礼器"
+    ],
+    "material": [
+      "Bronze"
+    ],
+    "dimensions": null,
+    "description": "商代晚期青铜觥，兽形盖、兽面纹，酒器中造型最奇诡的一类，体现商人「率民以事神」的巫觋文化。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Eugene and Agnes E. Meyer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1961.33a-b_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1961.33a-b",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1961.33a-b"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1930-26a-b",
+    "uuid": "539d0b3b-fb9a-4a2b-8284-07f16d2acc0d",
+    "name": "龙纹青铜卣",
+    "name_traditional": "龙纹青铜卣",
+    "name_en": "Ritual wine container (you) with dragons, birds, and bovine heads",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -1050,
+      "end": -950,
+      "original": "ca. 1050 BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "礼器"
+    ],
+    "material": [
+      "Bronze"
+    ],
+    "dimensions": null,
+    "description": "西周早期青铜卣，盛鬯酒之器，龙纹婉转灵动，较商代饕餮纹已见人文气息，为商周青铜风格嬗变的标本。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Purchase — Charles Lang Freer Endowment",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1930.26a-b_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1930.26a-b",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1930.26a-b"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1949-5a-b",
+    "uuid": "62caff6f-78d0-47e5-9ebf-b8d10fcf7c8c",
+    "name": "饕餮纹青铜壶",
+    "name_traditional": "饕餮纹青铜壶",
+    "name_en": "Lidded ritual wine container (hu) with masks and dragons",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1300,
+      "end": -1200,
+      "original": "ca. 13th century BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "礼器"
+    ],
+    "material": [
+      "Bronze"
+    ],
+    "dimensions": null,
+    "description": "商代中期青铜壶，带盖，饕餮纹与弦纹相间，为目前已知较早的青铜壶实物之一。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Purchase — Charles Lang Freer Endowment",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-7359_15",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1949.5a-b",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1949.5a-b"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1917-74",
+    "uuid": "0ec4dfaa-942a-4262-85e6-7edf1c3d84ea",
+    "name": "玉琮",
+    "name_traditional": "玉琮",
+    "name_en": "Tube (cong 琮)",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1600,
+      "end": -771,
+      "original": "ca. 1600-ca. 771 BCE",
+      "circa": true
+    },
+    "category": [
+      "玉器",
+      "礼器"
+    ],
+    "material": [
+      "Jade (?)"
+    ],
+    "dimensions": null,
+    "description": "外方内圆的玉琮，《周礼》所谓「以黄琮礼地」。此琮为商周时期制作，承载着自良渚以来的玉礼制传统。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charles Lang Freer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.74_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1917.74",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1917.74"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1916-148",
+    "uuid": "3229f709-b272-44e9-8bdd-2ba79da7449d",
+    "name": "玉祖牌（祖先牌位形玉饰）",
+    "name_traditional": "玉祖牌（祖先牌位形玉饰）",
+    "name_en": "Ancestor tablet",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -1050,
+      "end": -950,
+      "original": "ca. 1050-ca. 950 BCE",
+      "circa": true
+    },
+    "category": [
+      "玉器"
+    ],
+    "material": [
+      "Jade (nephrite)"
+    ],
+    "dimensions": null,
+    "description": "西周玉饰，作祖先牌位形，为西周宗法礼制的玉器实物。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charles Lang Freer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1916.148_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1916.148",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1916.148"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1979-36",
+    "uuid": "f2dc6129-a995-47e7-8099-2b286679a565",
+    "name": "虎形玉佩",
+    "name_traditional": "虎形玉佩",
+    "name_en": "Pendant in the form of a tiger",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -600,
+      "end": -476,
+      "original": "ca. 600-476 BCE",
+      "circa": true
+    },
+    "category": [
+      "玉器",
+      "佩饰"
+    ],
+    "material": [
+      "Jade (nephrite)"
+    ],
+    "dimensions": null,
+    "description": "春秋时期虎形玉佩，虎身曲伏、张口露齿，谷纹精细，为春秋玉佩饰的代表。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Purchase — Charles Lang Freer Endowment",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1979.36_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1979.36",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1979.36"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1930-43",
+    "uuid": "971c5f33-d2df-4b65-850a-0f24e9ae0267",
+    "name": "舞女形玉佩",
+    "name_traditional": "舞女形玉佩",
+    "name_en": "Pendant in the form of a female dancer, fragment",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -475,
+      "end": -221,
+      "original": "475-221 BCE",
+      "circa": true
+    },
+    "category": [
+      "玉器",
+      "佩饰"
+    ],
+    "material": [
+      "Jade (nephrite)"
+    ],
+    "dimensions": null,
+    "description": "战国时期舞女形玉佩残件，长袖善舞之姿，为战国人物题材玉雕的稀有实物。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Purchase — Charles Lang Freer Endowment",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1930.43_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1930.43",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1930.43"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1917-356",
+    "uuid": "8e5f5384-edce-47b9-a341-bdfad249d1b5",
+    "name": "谷纹玉璧",
+    "name_traditional": "谷纹玉璧",
+    "name_en": "Disk (bi) with raised uniform curls arranged in a grid",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -475,
+      "end": -100,
+      "original": "475-100 BCE",
+      "circa": true
+    },
+    "category": [
+      "玉器",
+      "礼器"
+    ],
+    "material": [
+      "Jade (nephrite)"
+    ],
+    "dimensions": null,
+    "description": "战国至汉谷纹玉璧，谷粒纹排列严整，「苍璧礼天」，为战国玉璧的标准器。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charles Lang Freer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-F1917.356_001",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1917.356",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1917.356"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.smithsonian.f1909-276a-b",
+    "uuid": "01b3f448-b02a-4293-a82e-e85e2cfeec83",
+    "name": "四山纹铜镜",
+    "name_traditional": "四山纹铜镜",
+    "name_en": "Mirror",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -300,
+      "end": -221,
+      "original": "3rd century BCE",
+      "circa": true
+    },
+    "category": [
+      "铜器"
+    ],
+    "material": [
+      "Bronze"
+    ],
+    "dimensions": null,
+    "description": "战国晚期铜镜，背饰山字纹，为战国铜镜最经典的纹样之一，映照出两千三百年前的容颜。",
+    "current_holder": {
+      "museum": "museum.freer-sackler",
+      "city": "华盛顿",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charles Lang Freer",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=FS-5992_12",
+        "license": "CC0",
+        "source": "Smithsonian Open Access (National Museum of Asian Art)"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Smithsonian's National Museum of Asian Art, accession F1909.276a-b",
+        "type": "institutional",
+        "url": "https://asia.si.edu/object/F1909.276a-b"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "smithsonian-import-v1",
+      "version": 1
+    }
+  }
+]

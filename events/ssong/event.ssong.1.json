@@ -1,0 +1,80 @@
+[
+  {
+    "id": "event.ssong.caishi",
+    "uuid": "2710b904-9320-4e8a-ba55-faac834d8d7d",
+    "name": "采石之战",
+    "name_traditional": "采石之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 1161,
+      "end": 1161,
+      "original": "绍兴三十一年十一月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.jin-jurchen.wanyanliang",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "海陵王完颜亮倾国六十万南侵，文臣虞允文于采石矶收拢一万八千溃兵，以神臂弩、霹雳炮大破金军渡江前锋。金兵厌战，完颜亮强令渡江，被部将弑于瓜洲。南宋转危为安",
+    "outcome": "海陵王南侵失败，南宋再续百年",
+    "sources": [
+      {
+        "title": "宋史·虞允文传",
+        "type": "primary"
+      },
+      {
+        "title": "金史·海陵本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ssong.longxing-beifa",
+    "uuid": "6d01527a-313f-4c50-bdc9-18ea85ae5f18",
+    "name": "隆兴北伐",
+    "name_traditional": "隆興北伐",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 1163,
+      "end": 1163,
+      "original": "隆兴元年四月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.ssong.zhaoshen",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "孝宗即位锐意恢复，为岳飞平反，起用张浚督师北伐。李显忠、邵宏渊两路初胜，克灵璧、虹县，然将帅不和，溃于符离。次年隆兴和议：宋金世为叔侄之国，岁币减为二十万",
+    "outcome": "南宋最后一次大规模北伐失败",
+    "sources": [
+      {
+        "title": "宋史·孝宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

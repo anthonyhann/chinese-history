@@ -4,12 +4,12 @@
 
 ### 人物 · 事件 · 文物：中华历史的开源结构化数据库
 
-329 位历史人物 · 93 个历史事件 · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
+370 位历史人物 · 154 个历史事件 · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
 
 [![代码许可: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![事实数据: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![描述文本: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![实体记录: 179](https://img.shields.io/badge/entities-1084-red.svg)](#-数据集)
+[![实体记录: 179](https://img.shields.io/badge/entities-1201-red.svg)](#-数据集)
 [![数据校验: 通过](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
 
 [🚀 快速开始](#-快速开始) · [📦 数据集](#-数据集) · [📐 Schema](schema/) · [🤝 贡献](CONTRIBUTING.md) · [English](README.en.md) · [llms.txt](llms.txt)
@@ -48,7 +48,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① 拿数据
 cd chinese-history
-python3 tools/validate.py                                     # ② 验证数据完整性（1084 条）
+python3 tools/validate.py                                     # ② 验证数据完整性（1201 条）
 jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（或任何语言的 JSON 库）
 ```
 
@@ -69,15 +69,17 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 | [人物 · 宋辽金](persons/) | 37 | ✅ v0.4.0（北宋 9/南宋 9/辽 9/金 10） |
 | [人物 · 元明清](persons/) | 43 | ✅ v1.0.0（帝系贯通至 1912） |
 | [人物 · 十国/西夏/大理](persons/) | 34 | ✅ v1.1.0（帝系拼图补齐） |
-| [人物 · 名臣将相](persons/) | 41 | ✅ v1.1.0（卫青/诸葛亮/李白/王安石/王阳明/林则徐等） |
+| [人物 · 名臣将相](persons/) | 82 | ✅ 两批（商鞅/白起/诸葛亮/魏征/李白/王安石/苏轼/岳飞/于谦/王阳明/曾国藩/林则徐等） |
 | [事件 · 秦](events/qin/) | 20 | ✅ M1 种子 |
 | [事件 · 汉](events/han/) | 19 | ✅ M2 新增 |
 | [事件 · 魏晋南北朝](events/) | 12 | ✅ v0.2.0（官渡/赤壁/淝水/侯景等） |
 | [事件 · 隋唐](events/) | 15 | ✅ v0.3.0（大运河/玄武门/贞观/安史之乱等） |
 | [事件 · 宋辽金](events/) | 12 | ✅ v0.4.0（陈桥兵变/澶渊之盟/靖康之变/崖山等） |
 | [事件 · 元明清](events/) | 15 | ✅ v1.0.0（蒙古西征/郑和下西洋/鸦片战争/辛亥革命） |
+| [事件 · 各朝加密](events/) | 61 | ✅ v1.2.0（参合陂/高平/白江口/胡蓝之狱/萨尔浒/洋务运动等） |
 | [文物 · 秦陵博物院](artifacts/qin/) | 1 | 🔬 Schema 样例 |
-| [文物 · 大都会博物馆](artifacts/met/) | 24 | ✅ v1.1.0（Met Open Access，CC0 图片直连） |
+| [文物 · 大都会博物馆](artifacts/met/) | 24 | ✅ v1.1.0（CC0 图片直连） |
+| [文物 · 史密森尼亚洲艺术馆](artifacts/smithsonian/) | 15 | ✅ v1.2.0（商周青铜/玉器/唐俑，CC0） |
 | [朝代/政权](dynasties/) | 49 | ✅ 基础表 |
 | [年号纪年](reign_eras/) | 551 | ✅ 秦汉至明清 + 十国西夏（建元 → 宣统） |
 | [地名](places/) | 31 | ✅ 含今地名与坐标 |
@@ -104,7 +106,8 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 - ✅ **M2.6 隋唐五代**：39 帝王 + 95 年号 + 15 重大事件
 - ✅ **M2.7 宋辽金**：37 帝王 + 100 年号 + 12 重大事件
 - ✅ **v1.0.0 元明清**：43 帝王 + 46 年号 + 15 重大事件——帝系全程贯通（前221年–1912年）
-- ✅ **v1.1.0 补全**：十国/西夏/大理 34 帝 + 名臣将相 41 人 + Met CC0 文物 24 件（当前）
+- ✅ **v1.1.0 补全**：十国/西夏/大理 34 帝 + 名臣将相 41 人 + Met CC0 文物 24 件
+- ✅ **v1.2.0 加密**：名臣第二批 41 人 + 事件加密 61 个 + Smithsonian CC0 文物 15 件（当前）
 - 🔜 **M3 文物**：Met / Smithsonian 等 CC0 开放馆藏中华文物清洗导入
 - 🔜 **M3+**：SQLite 构建器已可用（`python3 tools/build_sqlite.py`），release 自动化见 `.github/workflows/release.yml`
 - 🔜 **M4**：历代皇帝全量、案例展示
@@ -115,6 +118,7 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 
 ## 📝 更新日志
 
+- **2026-10-24** v1.2.0：名臣第二批 41 + 事件加密 61 + Smithsonian 文物 15，实体总数 1201
 - **2026-10-24** v1.1.0：十国/西夏/大理 34 帝 + 名臣将相 41 人 + Met 文物 24 件，实体总数 1084
 - **2026-10-24** v1.0.0：元明清放量，实体总数 922，帝系全程贯通至 1912 年
 - **2026-10-23** v0.4.0：宋辽金放量——37 位帝王、100 个年号、12 个重大事件，实体总数 815

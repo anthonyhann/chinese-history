@@ -1,0 +1,43 @@
+[
+  {
+    "id": "event.chen.taijian-beifa",
+    "uuid": "d5357768-ae29-41f7-9f08-7d5e7e91b2e6",
+    "name": "太建北伐",
+    "name_traditional": "太建北伐",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 573,
+      "end": 577,
+      "original": "太建五年至九年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.chen.chenxu",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "陈宣帝乘北齐衰乱，遣吴明彻北伐，克寿春、擒王琳，尽复淮南。北周灭齐后转攻陈，太建九年吕梁之战吴明彻全军覆没被擒，陈军精锐尽失",
+    "outcome": "陈朝最后的战略主动归于失败",
+    "sources": [
+      {
+        "title": "陈书·高宗纪",
+        "type": "primary"
+      },
+      {
+        "title": "周书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

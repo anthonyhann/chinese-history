@@ -1,0 +1,127 @@
+[
+  {
+    "id": "event.liao.jianguo",
+    "uuid": "43083675-3963-485e-9112-76c89fc0de55",
+    "name": "契丹建国",
+    "name_traditional": "契丹建國",
+    "category": [
+      "regime-change",
+      "unification"
+    ],
+    "time": {
+      "start": 907,
+      "end": 916,
+      "original": "唐天祐四年至后梁贞明二年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.liao.yeluaboji",
+        "role": "protagonist"
+      }
+    ],
+    "related_events": [],
+    "description": "耶律阿保机于907年即可汗位，平诸弟之乱，916年称帝建元神册，国号契丹。筑都城、造文字、定律令，契丹由部落联盟跃升为二元制大帝国，雄踞北疆二百余年",
+    "outcome": "契丹立国，北亚历史新纪元",
+    "sources": [
+      {
+        "title": "辽史·太祖本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.liao.yanyun",
+    "uuid": "cfad18b0-7c93-4f52-be2b-308e28a76b8b",
+    "name": "援立石晋，得燕云十六州",
+    "name_traditional": "援立石晉，得燕雲十六州",
+    "category": [
+      "diplomacy",
+      "war"
+    ],
+    "time": {
+      "start": 936,
+      "end": 938,
+      "original": "天显十一年至会同元年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.liao.yeludeguang",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.later-jin.shijingtang",
+        "role": "subject"
+      }
+    ],
+    "related_events": [],
+    "description": "后唐李从珂猜忌石敬瑭，敬瑭向契丹称臣称子求援，许割燕云十六州。耶律德光率军南下，灭后唐，立石敬瑭为后晋皇帝。燕云十六州自此入辽，中原门户洞开",
+    "outcome": "契丹获得战略要地，宋辽强弱之势定",
+    "sources": [
+      {
+        "title": "辽史·太宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "旧五代史·晋书·高祖本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.liao.miehoujin",
+    "uuid": "cdf25979-4edf-49f5-a840-aaf1387ab911",
+    "name": "辽灭后晋入汴",
+    "name_traditional": "遼滅後晉入汴",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 947,
+      "end": 947,
+      "original": "大同元年正月",
+      "precision": "month"
+    },
+    "place": [
+      "place.kaifeng"
+    ],
+    "participants": [
+      {
+        "person": "person.liao.yeludeguang",
+        "role": "commander"
+      }
+    ],
+    "related_events": [
+      "event.five-dynasties.qidan-miejin"
+    ],
+    "description": "耶律德光入开封，改国号为大辽，着汉家法服受百官朝贺。然纵兵掳掠，州县反抗蜂起，刘知远据太原称帝。德光叹「不知中国之人难制如此」，四月北撤，崩于杀胡林",
+    "outcome": "契丹入主中原的尝试失败",
+    "sources": [
+      {
+        "title": "辽史·太宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

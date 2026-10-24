@@ -1,0 +1,171 @@
+[
+  {
+    "id": "event.jin-jurchen.fanliao",
+    "uuid": "33c8aeda-120f-4dde-8dde-e5728e63f57e",
+    "name": "阿骨打起兵反辽",
+    "name_traditional": "阿骨打起兵反遼",
+    "category": [
+      "war",
+      "uprising"
+    ],
+    "time": {
+      "start": 1114,
+      "end": 1115,
+      "original": "辽天庆四年至收国元年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.jin-jurchen.wanyanaguda",
+        "role": "commander"
+      },
+      {
+        "person": "person.liao.yeluyanxi",
+        "role": "subject"
+      }
+    ],
+    "related_events": [],
+    "description": "完颜阿骨打以辽人长期欺压女真起兵，宁江州首战以二千五百人破辽军，出河店再捷。1115年正月称帝，国号大金，随即破黄龙府",
+    "outcome": "女真崛起，辽亡金兴的序幕",
+    "sources": [
+      {
+        "title": "金史·太祖本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.jin-jurchen.mieliao",
+    "uuid": "cf1ec9b2-56f7-4f5d-96d5-5b8aa634b081",
+    "name": "金灭辽",
+    "name_traditional": "金滅遼",
+    "category": [
+      "war",
+      "regime-change"
+    ],
+    "time": {
+      "start": 1122,
+      "end": 1125,
+      "original": "天辅六年至保大五年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.jin-jurchen.wanyansheng",
+        "role": "commander"
+      },
+      {
+        "person": "person.liao.yeluyanxi",
+        "role": "victim"
+      }
+    ],
+    "related_events": [],
+    "description": "金军连破辽五京，天祚帝西逃夹山。宋金海上之盟夹击，宋军攻燕京屡败，金军代为攻克。保大五年，完颜娄室追擒天祚帝于应州，辽亡。耶律大石西奔中亚建西辽",
+    "outcome": "辽亡，金据北方，北宋直面强金",
+    "sources": [
+      {
+        "title": "金史·太祖/太宗本纪",
+        "type": "primary"
+      },
+      {
+        "title": "辽史·天祚皇帝本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.jin-jurchen.hailing-nanqin",
+    "uuid": "fdf3a97e-7a95-4585-834f-dfbc1396de20",
+    "name": "海陵王南侵",
+    "name_traditional": "海陵王南侵",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 1161,
+      "end": 1161,
+      "original": "正隆六年九月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.jin-jurchen.wanyanliang",
+        "role": "commander"
+      }
+    ],
+    "related_events": [
+      "event.ssong.caishi"
+    ],
+    "description": "完颜亮以「立马吴山第一峰」之志，倾国六十万南侵，欲一举灭宋。采石矶渡江失败，后方金世宗于辽阳即位，完颜亮军令严酷致众叛亲离，被部将弑于瓜洲",
+    "outcome": "金军南侵的最大规模失败",
+    "sources": [
+      {
+        "title": "金史·海陵本纪",
+        "type": "primary"
+      },
+      {
+        "title": "宋史·高宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.jin-jurchen.dading",
+    "uuid": "86ad51c0-29da-47aa-adc6-cd0972c10257",
+    "name": "大定之治",
+    "name_traditional": "大定之治",
+    "category": [
+      "governance",
+      "golden-age"
+    ],
+    "time": {
+      "start": 1161,
+      "end": 1189,
+      "original": "大定元年至二十九年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.jin-jurchen.wanyanyong",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "金世宗拨乱反正，与宋议和（隆兴和议），四十年南北无大战。躬行节俭、慎刑恤狱、任贤纳谏、劝课农桑，国库充盈，时人称「小尧舜」",
+    "outcome": "金朝国力极盛",
+    "sources": [
+      {
+        "title": "金史·世宗本纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

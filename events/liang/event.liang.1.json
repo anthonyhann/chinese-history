@@ -1,0 +1,42 @@
+[
+  {
+    "id": "event.liang.chongfo",
+    "uuid": "b23c7ceb-e1dd-48c8-97b6-cac15ad298d6",
+    "name": "梁武帝崇佛",
+    "name_traditional": "梁武帝崇佛",
+    "category": [
+      "cultural",
+      "policy"
+    ],
+    "time": {
+      "start": 502,
+      "end": 549,
+      "original": "天监元年至太清三年",
+      "precision": "year"
+    },
+    "place": [
+      "place.jiankang"
+    ],
+    "participants": [
+      {
+        "person": "person.liang.xiaoyan",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "梁武帝以佛教为国教，四次舍身入同泰寺为奴，群臣每次以亿万钱赎归。建寺七百余所，断酒肉、倡素食，汉传佛教素食传统自此定。达摩东渡面壁亦在其时",
+    "outcome": "佛教中国化高峰；梁室因此元气大伤",
+    "sources": [
+      {
+        "title": "梁书·武帝纪",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]

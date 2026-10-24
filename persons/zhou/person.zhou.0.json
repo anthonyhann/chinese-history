@@ -1,0 +1,239 @@
+[
+  {
+    "id": "person.zhou.shangyang",
+    "uuid": "cbb15d18-3748-4e11-a981-b2dff9dc52f2",
+    "name": "商鞅",
+    "name_traditional": "商鞅",
+    "titles": [
+      "商君",
+      "大良造"
+    ],
+    "courtesy_name": "公孙鞅",
+    "category": [
+      "reformer"
+    ],
+    "dynasty": "dynasty.zhou",
+    "birth": {
+      "year": -390,
+      "circa": true,
+      "original": "卫国人，公孙氏",
+      "disputed": []
+    },
+    "death": {
+      "year": -338,
+      "circa": false,
+      "original": "秦孝公死后被车裂于咸阳",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "战国时期最彻底的改革家。两次变法：废井田开阡陌、奖励军功、什伍连坐、迁都咸阳、废分封行县制，使秦国一跃而为战国首强。作法自毙，秦惠王车裂之，然秦法未改，为秦统一六国奠定制度根基",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·商君列传",
+        "type": "primary",
+        "ref": "卷六十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.zhou.baiqi",
+    "uuid": "ccb84a61-3a9f-4188-b790-3c7e5612600a",
+    "name": "白起",
+    "name_traditional": "白起",
+    "titles": [
+      "武安君"
+    ],
+    "courtesy_name": "公孙起",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.zhou",
+    "birth": null,
+    "death": {
+      "year": -257,
+      "circa": false,
+      "original": "秦昭襄王五十年被赐死于杜邮",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "战国四大名将之首，人屠。伊阙之战斩韩魏联军二十四万，鄢郢之战水灌楚都，长平之战坑杀赵卒四十万，一生七十余战未尝一败。因拒带兵攻邯郸，触怒昭王，赐剑自裁。死前长叹：我坑赵卒四十万，足以死",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·白起王翦列传",
+        "type": "primary",
+        "ref": "卷七十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.zhou.lianpo",
+    "uuid": "9c208474-0361-4cdf-b455-6dc7a72e37f1",
+    "name": "廉颇",
+    "name_traditional": "廉頗",
+    "titles": [
+      "信平君"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.zhou",
+    "birth": null,
+    "death": null,
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "战国四大名将之一。负荆请罪与蔺相如将相和，长平之战坚壁拒秦三年。赵括代将致长平惨败后，复破燕军。晚年奔魏依楚，「廉颇老矣，尚能饭否」终成遗恨",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·廉颇蔺相如列传",
+        "type": "primary",
+        "ref": "卷八十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.zhou.linxiangru",
+    "uuid": "2f2784f9-b28f-448b-ad1a-41af4a72feba",
+    "name": "蔺相如",
+    "name_traditional": "藺相如",
+    "titles": [
+      "上卿"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "diplomat"
+    ],
+    "dynasty": "dynasty.zhou",
+    "birth": null,
+    "death": null,
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "完璧归赵、渑池之会的主人公。以口舌之利屈秦王于渑池，以国家之急先后私仇而退让廉颇，将相和成千古佳话。赵国外交的胜利者与战略家",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·廉颇蔺相如列传",
+        "type": "primary",
+        "ref": "卷八十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.zhou.quyuan",
+    "uuid": "9e522daf-c345-4bfd-ae92-99860601b730",
+    "name": "屈原",
+    "name_traditional": "屈原",
+    "titles": [
+      "三闾大夫"
+    ],
+    "courtesy_name": "平",
+    "category": [
+      "poet",
+      "official"
+    ],
+    "dynasty": "dynasty.zhou",
+    "birth": {
+      "year": -340,
+      "circa": true,
+      "original": "生于楚国丹阳秭归",
+      "disputed": []
+    },
+    "death": {
+      "year": -278,
+      "circa": false,
+      "original": "顷襄王二十一年五月初五投汨罗江",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "中国第一位伟大诗人。主张联齐抗秦、举贤授能，遭上官大夫谗毁，两遭流放。秦将白起拔郢都，悲愤交加，怀石自沉汨罗。《离骚》《天问》《九歌》开楚辞之宗，端午节即源于纪念他",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·屈原贾生列传",
+        "type": "primary",
+        "ref": "卷八十四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v2",
+      "version": 1
+    }
+  }
+]

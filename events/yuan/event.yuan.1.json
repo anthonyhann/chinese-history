@@ -1,0 +1,89 @@
+[
+  {
+    "id": "event.yuan.miedali",
+    "uuid": "c0845783-2468-471e-89c5-5d7136934185",
+    "name": "忽必烈灭大理",
+    "name_traditional": "忽必烈滅大理",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": 1253,
+      "end": 1253,
+      "original": "蒙古宪宗三年九月至十二月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.yuan.hubilie",
+        "role": "commander"
+      },
+      {
+        "person": "person.dali.duanxingzhi",
+        "role": "victim"
+      }
+    ],
+    "related_events": [],
+    "description": "忽必烈采纳迂回攻宋之策，率大军自六盘山南下，跨大渡河、行无人之地二千余里，乘革囊渡金沙江，十二月至大理城下，段兴智出逃被擒。蒙古得云南，对南宋形成战略大包抄",
+    "outcome": "大理国亡，蒙古完成对南宋的战略包围",
+    "sources": [
+      {
+        "title": "元史·世祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "元史·兀良合台传",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.yuan.ri-ben",
+    "uuid": "43d2654f-8a3b-4831-b3a3-63879a10ae74",
+    "name": "元日战争（两征日本）",
+    "name_traditional": "元日戰爭（兩征日本）",
+    "category": [
+      "war",
+      "naval"
+    ],
+    "time": {
+      "start": 1274,
+      "end": 1281,
+      "original": "至元十一年至十八年",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.yuan.hubilie",
+        "role": "decision-maker"
+      }
+    ],
+    "related_events": [],
+    "description": "忽必烈两次遣大军东征日本：1274年三万余众战于博多湾，夜遭台风而退；1281年十四万大军分两路再征，八月台风大作，战船尽覆，溺死者十数万。日本称「神风」，镰仓幕府因此得保",
+    "outcome": "元朝对外扩张的极限；日本神国观念强化",
+    "sources": [
+      {
+        "title": "元史·日本传",
+        "type": "primary"
+      },
+      {
+        "title": "高丽史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "events-v2",
+      "version": 1
+    }
+  }
+]
