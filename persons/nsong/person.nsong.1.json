@@ -1,0 +1,226 @@
+[
+  {
+    "id": "person.nsong.kouzhun",
+    "uuid": "3683ee5f-7f60-4a3a-a909-123584758298",
+    "name": "寇准",
+    "name_traditional": "寇準",
+    "titles": [
+      "莱国公",
+      "忠愍公"
+    ],
+    "courtesy_name": "平仲",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 961,
+      "circa": false,
+      "original": "宋建隆二年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 1023,
+      "circa": false,
+      "original": "乾兴元年卒于雷州贬所，年六十三",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "澶渊之盟的首功之臣。十九岁中进士，刚直敢谏，太宗比之魏征。辽军压境时力排南逃之议，挟持真宗御驾亲征至澶州，城上一笑而辽师气夺。晚年卷入宫廷斗争，贬死岭南",
+    "events": [
+      "event.nsong.chanyuan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·寇准传",
+        "type": "primary",
+        "ref": "卷二百八十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.nsong.wanganshi",
+    "uuid": "80fb51ea-16c8-4b0c-8622-1d8ab794d2a8",
+    "name": "王安石",
+    "name_traditional": "王安石",
+    "titles": [
+      "荆国公",
+      "文公"
+    ],
+    "courtesy_name": "介甫",
+    "category": [
+      "chancellor",
+      "reformer"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 1021,
+      "circa": false,
+      "original": "宋天禧五年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 1086,
+      "circa": false,
+      "original": "元祐元年四月卒于江宁，年六十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "中国十一世纪的改革家。熙宁变法总设计师：青苗、免役、市易、保甲诸法雷厉风行，与司马光论战朝堂。「天变不足畏，祖宗不足法，人言不足恤」。两度罢相，退居江宁半山园。文章为唐宋八大家之一",
+    "events": [
+      "event.nsong.wanganshi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·王安石传",
+        "type": "primary",
+        "ref": "卷三百二十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.nsong.simguang",
+    "uuid": "92d2bb4f-e4cc-4813-bfe0-a5dcd6b4b3de",
+    "name": "司马光",
+    "name_traditional": "司馬光",
+    "titles": [
+      "温国公",
+      "文正公"
+    ],
+    "courtesy_name": "君实",
+    "category": [
+      "chancellor",
+      "historian"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 1019,
+      "circa": false,
+      "original": "宋天禧三年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 1086,
+      "circa": false,
+      "original": "元祐元年九月卒，年六十八",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "旧党领袖，《资治通鉴》主编。砸缸救友的神童，历仕四朝。王安石变法的头号反对者，元祐更化尽废新法。呕心沥血十九年修成《资治通鉴》二百九十四卷，与《史记》并称史学双璧",
+    "events": [
+      "event.nsong.wanganshi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·司马光传",
+        "type": "primary",
+        "ref": "卷三百三十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.nsong.sushi",
+    "uuid": "6e0a0089-94fd-4a1b-af9c-a611bf00761c",
+    "name": "苏轼",
+    "name_traditional": "蘇軾",
+    "titles": [
+      "文忠公",
+      "东坡居士"
+    ],
+    "courtesy_name": "子瞻",
+    "category": [
+      "writer",
+      "poet",
+      "official"
+    ],
+    "dynasty": "dynasty.northern-song",
+    "birth": {
+      "year": 1037,
+      "circa": false,
+      "original": "宋景祐三年十二月十九日生于眉山",
+      "disputed": []
+    },
+    "death": {
+      "year": 1101,
+      "circa": false,
+      "original": "建中靖国元年七月卒于常州，年六十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "千古第一全才。诗词文赋书画无一不精，唐宋八大家之一。因乌台诗案几死，一生三贬：黄州（作《赤壁赋》《寒食帖》）、惠州（日啖荔枝三百颗）、儋州（天涯海角办学堂）。新旧党争中两头不讨好，却活成了中国人精神世界的明月",
+    "events": [
+      "event.nsong.wanganshi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·苏轼传",
+        "type": "primary",
+        "ref": "卷三百三十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

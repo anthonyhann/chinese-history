@@ -1,0 +1,331 @@
+[
+  {
+    "id": "person.tang.weizheng",
+    "uuid": "6a3dde63-bf40-41ac-85c5-071aa36dd53e",
+    "name": "魏征",
+    "name_traditional": "魏徵",
+    "titles": [
+      "郑国公",
+      "文贞公"
+    ],
+    "courtesy_name": "玄成",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 580,
+      "circa": false,
+      "original": "北周大象二年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 643,
+      "circa": false,
+      "original": "贞观十七年正月卒，年六十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "人镜。先为太子建成谋士，玄武门后事太宗，先后进谏二百余事，犯颜直谏不避斧钺。「以铜为镜可以正衣冠，以人为镜可以明得失」。死后太宗亲制碑文，旋又仆碑，君臣之际令人唏嘘",
+    "events": [
+      "event.tang.zhenguan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·魏征传",
+        "type": "primary",
+        "ref": "卷七十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.fangxuanling",
+    "uuid": "719b9545-76ca-417d-8185-1a051d26847c",
+    "name": "房玄龄",
+    "name_traditional": "房玄齡",
+    "titles": [
+      "梁国公",
+      "文昭公"
+    ],
+    "courtesy_name": "乔",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 579,
+      "circa": false,
+      "original": "北周大象元年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 648,
+      "circa": false,
+      "original": "贞观二十二年卒，年七十",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "房谋杜断。秦王府十八学士之首，玄武门之变主要策划者，贞观年间为相近二十年，与杜如晦并称贤相。主持修《晋书》，制定律令格式",
+    "events": [
+      "event.tang.xuanwumen",
+      "event.tang.zhenguan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·房玄龄传",
+        "type": "primary",
+        "ref": "卷六十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.direnjie",
+    "uuid": "5c540adf-461e-4f7c-b84e-f6b724ed75ff",
+    "name": "狄仁杰",
+    "name_traditional": "狄仁傑",
+    "titles": [
+      "梁国公",
+      "文惠公"
+    ],
+    "courtesy_name": "怀英",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 630,
+      "circa": false,
+      "original": "唐贞观四年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 700,
+      "circa": false,
+      "original": "久视元年九月卒，年七十一",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "武周第一名臣。断案如神，一年断滞狱一万七千无一冤诉。武则天尊为「国老」而不名。周旋于酷吏与女主之间保全李唐，力主复立庐陵王为太子，荐张柬之为相，为神龙政变复唐埋下伏笔",
+    "events": [
+      "event.tang.wuzhou"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·狄仁杰传",
+        "type": "primary",
+        "ref": "卷八十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.guoziyi",
+    "uuid": "28364c86-dd7b-412c-ab61-acda51d33bdf",
+    "name": "郭子仪",
+    "name_traditional": "郭子儀",
+    "titles": [
+      "汾阳郡王",
+      "尚父"
+    ],
+    "courtesy_name": "子仪",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 697,
+      "circa": false,
+      "original": "武周万岁通天元年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 781,
+      "circa": false,
+      "original": "唐建中二年六月卒，年八十五",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "再造唐室的完人。安史之乱中收复两京，平定仆固怀恩之乱，单骑退回纥。功盖天下而主不疑，位极人臣而众不嫉，八子七婿皆显贵，八十五岁善终，富贵寿考集于一身",
+    "events": [
+      "event.tang.anshi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·郭子仪传",
+        "type": "primary",
+        "ref": "卷一百二十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.libai",
+    "uuid": "d28122f0-1057-4e5d-96fc-fdb7b72c2a69",
+    "name": "李白",
+    "name_traditional": "李白",
+    "titles": [
+      "青莲居士",
+      "谪仙人"
+    ],
+    "courtesy_name": "太白",
+    "category": [
+      "poet"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 701,
+      "circa": false,
+      "original": "武周长安元年生（一说生于碎叶城）",
+      "disputed": []
+    },
+    "death": {
+      "year": 762,
+      "circa": false,
+      "original": "唐宝应元年卒于当涂，年六十二",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "诗仙。五岁诵六甲，十岁观百家，仗剑去国辞亲远游。供奉翰林三年赐金放还。安史乱中从永王璘获罪流放夜郎，中途遇赦。「天生我材必有用」「飞流直下三千尺」，与杜甫并称李杜，为中国诗歌的巅峰双子星",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·文苑传",
+        "type": "primary",
+        "ref": "卷一百九十下"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.tang.dufu",
+    "uuid": "b2a3cddb-4feb-4823-95e1-a9a8d5e960e3",
+    "name": "杜甫",
+    "name_traditional": "杜甫",
+    "titles": [
+      "杜工部",
+      "诗圣"
+    ],
+    "courtesy_name": "子美",
+    "category": [
+      "poet"
+    ],
+    "dynasty": "dynasty.tang",
+    "birth": {
+      "year": 712,
+      "circa": false,
+      "original": "唐先天元年生于河南巩县",
+      "disputed": []
+    },
+    "death": {
+      "year": 770,
+      "circa": false,
+      "original": "大历五年冬卒于潭岳间舟中，年五十九",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "诗圣。一生穷愁潦倒，「致君尧舜上，再使风俗淳」而终不得志。安史之乱中陷贼、逃难、拾遗、弃官、入蜀，《三吏》《三别》《茅屋为秋风所破歌》写尽民间疾苦，「朱门酒肉臭，路有冻死骨」。其诗称诗史",
+    "events": [
+      "event.tang.anshi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "旧唐书·文苑传",
+        "type": "primary",
+        "ref": "卷一百九十下"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

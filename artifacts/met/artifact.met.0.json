@@ -1,0 +1,1231 @@
+[
+  {
+    "id": "artifact.met.61220",
+    "uuid": "afabcf41-f23d-43cb-8ebc-ee164435ef81",
+    "name": "青铜铙（乐器）",
+    "name_traditional": "青铜铙（乐器）",
+    "name_en": "Upright bell (nao)",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1250,
+      "end": -1046,
+      "original": "13th century BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "乐器"
+    ],
+    "material": [
+      "Bronze"
+    ],
+    "dimensions": "H. 11 1/2 in. (29.2 cm); W. 7 5/16 in. (18.5 cm); L. 11 1/4 in. (28.6 cm); W. at shoulder 6 11/16 in. (17 cm); L. at shoulder 8 1/4 in. (21 cm)",
+    "description": "商代青铜击乐器，口向上置座击奏，用于军旅与祭祀。此铙形制巨大、纹饰狞厉，为商代青铜文明鼎盛期的代表。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Rogers Fund, 1943",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP155228.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #61220",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/61220"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.60698",
+    "uuid": "c659d3d4-5023-44fe-b639-4448fe3a816a",
+    "name": "青铜虎形饰",
+    "name_traditional": "青铜虎形饰",
+    "name_en": "Tiger",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1250,
+      "end": -1046,
+      "original": "13th–11th century BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "雕塑"
+    ],
+    "material": [
+      "Bone"
+    ],
+    "dimensions": "H. 7/16 in. (1.1 cm); L. 1 11/16 in. (4.3 cm)",
+    "description": "商代青铜虎形饰件，卷尾伏身，纹饰神秘威严，应为大型器物附件，体现商人崇虎之风。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Ernest Erickson Foundation, 1985",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22993-002.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #60698",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/60698"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42331",
+    "uuid": "ff999af4-9e19-49ec-b9d9-c14d073e6ee4",
+    "name": "彩陶/青铜罐（罐）",
+    "name_traditional": "彩陶/青铜罐（罐）",
+    "name_en": "Jar (Guan)",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -400,
+      "end": -250,
+      "original": "4th–3rd century BCE",
+      "circa": true
+    },
+    "category": [
+      "陶器"
+    ],
+    "material": [
+      "Stoneware with impressed and carved decoration"
+    ],
+    "dimensions": "H. 7 1/4 in. (18.4 cm); Diam. 10 in. (25.4 cm)",
+    "description": "战国时期的罐，器型浑圆，为研究战国日常生活器用的实物。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Harris Brisbane Dick Fund, 1950",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14610-063.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42331",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42331"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42950",
+    "uuid": "29571aa5-c168-4154-b297-2d2887883785",
+    "name": "陶卧猪",
+    "name_traditional": "陶卧猪",
+    "name_en": "Pig in Recumbent Position",
+    "dynasty": "dynasty.han",
+    "date": {
+      "start": 25,
+      "end": 220,
+      "original": "1st–2nd century",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "明器"
+    ],
+    "material": [
+      "Jade (nephrite)"
+    ],
+    "dimensions": "H. 1 1/4 in. (3.2 cm); L. 4 1/4 in. (10.8 cm)",
+    "description": "东汉墓葬明器，伏卧状，憨态可掬。猪为汉代财富象征，多置于墓中，反映汉代『事死如事生』的丧葬观。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of George Coe Graves, 1930",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/LC-30_120_129_001.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42950",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42950"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.49534",
+    "uuid": "f337ed79-db69-4790-8dd4-b799d20f30cf",
+    "name": "青瓷虎子",
+    "name_traditional": "青瓷虎子",
+    "name_en": "Vessel in the Shape of a Tiger (Huzi)",
+    "dynasty": "dynasty.jin",
+    "date": {
+      "start": 300,
+      "end": 400,
+      "original": "ca. 4th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Porcelain with green glaze"
+    ],
+    "dimensions": "H. 7 3/8 in. (18.7 cm); W. 5 1/16 in. (12.9 cm); L. 9 1/8 in. (23.2 cm)",
+    "description": "东晋青瓷溺器，作伏虎张口状。六朝青瓷由陶入瓷的过渡实物，釉色青中泛黄。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Stanley Herzman, 1985",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/237219.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #49534",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/49534"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.54028",
+    "uuid": "bf64500f-82c0-4733-be42-ac66616a3c31",
+    "name": "虎形柱座",
+    "name_traditional": "虎形柱座",
+    "name_en": "Pole base in the form of a tiger",
+    "dynasty": "dynasty.northern-wei",
+    "date": {
+      "start": 400,
+      "end": 500,
+      "original": "5th century",
+      "circa": true
+    },
+    "category": [
+      "金属器"
+    ],
+    "material": [
+      "Puddingstone"
+    ],
+    "dimensions": "H. 5 in. (12.7 cm); W. 9 3/8 in. (23.8 cm)",
+    "description": "北魏虎形柱座，猛虎盘踞，承柱之础，应为帐构或帷帐底座，为北魏金属工艺的精品。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Charlotte C. Weber, 2025",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-46065-001.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #54028",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/54028"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.64921",
+    "uuid": "895e0297-dbb1-4851-bb45-5e8afbe9fff8",
+    "name": "乐舞纹陶罐",
+    "name_traditional": "乐舞纹陶罐",
+    "name_en": "Jar with floral decorations and musicians",
+    "dynasty": "dynasty.northern-qi",
+    "date": {
+      "start": 550,
+      "end": 577,
+      "original": "late 6th century",
+      "circa": true
+    },
+    "category": [
+      "陶器"
+    ],
+    "material": [
+      "Stoneware with applied decoration under celadon glaze"
+    ],
+    "dimensions": "H. 7 1/8 in. (18.1 cm); Diam. 7 in. (17.8 cm)",
+    "description": "北齐陶罐，肩部饰胡人乐舞浮雕，为北齐胡汉交融、丝路乐舞东传的直接物证。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Mr. and Mrs. Walter Kaye, 2002",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14609-056.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #64921",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/64921"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.76733",
+    "uuid": "717fb0d2-1200-44f2-968e-76f60f6956ee",
+    "name": "青瓷瓶",
+    "name_traditional": "青瓷瓶",
+    "name_en": "Bottle",
+    "dynasty": "dynasty.sui",
+    "date": {
+      "start": 581,
+      "end": 618,
+      "original": "late 6th–early 7th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Stoneware with incised decoration under celadon glaze"
+    ],
+    "dimensions": "H. 11 1/4 in. (28.6 cm); Diam. 6 in. (15.2 cm); Diam. of rim 2 7/8 in. (7.3 cm); Diam. of foot 3 1/8 in. (7.9 cm)",
+    "description": "隋代青瓷瓶，造型挺拔秀逸，釉色青润，为隋代制瓷由六朝稚拙向唐代成熟过渡的标本。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Purchase, Barbara and William Karatz Gift, 2011",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14609-068.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #76733",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/76733"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.52098",
+    "uuid": "f94344ed-436e-42ea-870c-b543f28c1327",
+    "name": "团花纹织锦",
+    "name_traditional": "团花纹织锦",
+    "name_en": "Textile with floral medallions",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 700,
+      "end": 800,
+      "original": "8th century",
+      "circa": true
+    },
+    "category": [
+      "丝织品"
+    ],
+    "material": [
+      "Weft-faced compound silk twill"
+    ],
+    "dimensions": "7 3/8 × 7 7/8 in. (18.7 × 20 cm)",
+    "description": "唐代团花纹织锦残片，联珠团窠纹样受波斯萨珊风格影响，为盛唐丝路织锦东西交融的代表。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Seymour Fund, 1965",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/65_213_2_O.JPG",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #52098",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/52098"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42124",
+    "uuid": "1221bf74-dd39-4e8b-9730-85b955a2ee66",
+    "name": "彩绘陶骑马女俑",
+    "name_traditional": "彩绘陶骑马女俑",
+    "name_en": "Horse and female rider",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 650,
+      "end": 750,
+      "original": "7th century",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "陶俑"
+    ],
+    "material": [
+      "Unfired clay with pigment"
+    ],
+    "dimensions": "H. 14 1/4 in. (36.2 cm); L. 11 1/2 in. (29.2 cm)",
+    "description": "唐代彩绘陶俑，女骑手头戴帷帽、身着男装，英姿飒爽，为唐代女性开放风尚的生动写照。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Fletcher Fund, 1951",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DT11858.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42124",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42124"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42393",
+    "uuid": "c3c6999a-171f-46fc-88ac-ac8f148bb14c",
+    "name": "白瓷罐",
+    "name_traditional": "白瓷罐",
+    "name_en": "Jar",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 800,
+      "end": 900,
+      "original": "9th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Porcelain with transparent glaze"
+    ],
+    "dimensions": "H. 7 in. (17.8 cm); Diam. 7 3/4 in. (19.7 cm)",
+    "description": "晚唐白瓷罐，胎质坚致、釉色莹白，邢窑系产品，体现『南青北白』格局下北方白瓷的工艺水平。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Mrs. Richard E. Linburn, 1977",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/212932.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42393",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42393"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.39731",
+    "uuid": "64e2cb48-247b-4e23-bb59-e88356be74de",
+    "name": "缂丝花鸟纹经卷封套",
+    "name_traditional": "缂丝花鸟纹经卷封套",
+    "name_en": "Scroll Cover with Animals, Birds, and Flowers",
+    "dynasty": "dynasty.song",
+    "date": {
+      "start": 1050,
+      "end": 1200,
+      "original": "11th–12th century",
+      "circa": true
+    },
+    "category": [
+      "丝织品"
+    ],
+    "material": [
+      "Silk tapestry (kesi)"
+    ],
+    "dimensions": "Overall: 14 1/4 x 12 1/2in. (36.2 x 31.8cm)",
+    "description": "宋代缂丝封套，织出花鸟瑞兽，缂丝『通经断纬』工艺繁复，为宋代丝织工艺巅峰之作。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of John M. Crawford Jr., 1983",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DT7473.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #39731",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/39731"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42482",
+    "uuid": "3b1e8f03-1a8d-4251-bc46-58f855b15198",
+    "name": "白瓷卧女形枕",
+    "name_traditional": "白瓷卧女形枕",
+    "name_en": "Pillow in Shape of Reclining Woman",
+    "dynasty": "dynasty.southern-song",
+    "date": {
+      "start": 1127,
+      "end": 1279,
+      "original": "12th–13th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Porcelain with incised and carved decoration under celadon glaze (Jingdezhen Qingbai ware)"
+    ],
+    "dimensions": "H. 4 3/8 in. (11.1 cm); L. 9 in. (22.9 cm)",
+    "description": "南宋白瓷枕，塑作侧卧女子形，神态安详，衣纹流畅，为宋瓷雕塑与生活美学结合的典范。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Mrs. Samuel T. Peters, 1926",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DT258463.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42482",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42482"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42476",
+    "uuid": "2577e972-d3a6-48a1-bbe1-1632f297cd0e",
+    "name": "青龙纹陶仓（魂瓶）",
+    "name_traditional": "青龙纹陶仓（魂瓶）",
+    "name_en": "Funerary jar with dragon",
+    "dynasty": "dynasty.southern-song",
+    "date": {
+      "start": 1127,
+      "end": 1279,
+      "original": "12th–13th century",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "明器"
+    ],
+    "material": [
+      "Porcelain with carved and appliquéd decoration under celadon glaze"
+    ],
+    "dimensions": "H. with cover: 10 in. (25.4 cm)",
+    "description": "南宋堆塑魂瓶，肩部塑龙纹与楼阁人物，为江南丧葬习俗中贮粮安魂之器。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Rogers Fund, 1918",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP342271.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42476",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42476"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.52031",
+    "uuid": "d715ff6e-3aba-4197-a7d9-9bf35676a8db",
+    "name": "牡丹纹瓷碗",
+    "name_traditional": "牡丹纹瓷碗",
+    "name_en": "Bowl with Peonies",
+    "dynasty": "dynasty.jin-jurchen",
+    "date": {
+      "start": 1150,
+      "end": 1250,
+      "original": "12th–13th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Porcelain with mold-impressed decoration under ivory glaze (Ding ware)"
+    ],
+    "dimensions": "Diam. 8 in. (20.3 cm)",
+    "description": "金代白地黑花（磁州窑系）牡丹纹碗，笔法豪放，为金代北方民窑的代表。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Bequest of Benjamin Altman, 1913",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP342645.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #52031",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/52031"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42435",
+    "uuid": "1be4b13b-67aa-4a99-b311-1a36713619a6",
+    "name": "婴戏纹瓷枕",
+    "name_traditional": "婴戏纹瓷枕",
+    "name_en": "Pillow with boy on hobbyhorse",
+    "dynasty": "dynasty.jin-jurchen",
+    "date": {
+      "start": 1150,
+      "end": 1250,
+      "original": "12th–13th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Stoneware painted with brown and black pigment over white slip under clear glaze (Cizhou ware)"
+    ],
+    "dimensions": "H. 4 in. (10.2 cm); W. 7 1/4 in. (18.4 cm); L. 11 1/4 in. (28.6 cm)",
+    "description": "金代磁州窑系瓷枕，绘童子骑竹马嬉戏图，民间生活气息浓郁，婴戏纹为金代瓷器流行题材。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Harris Brisbane Dick Fund, 1960",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14610-066.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42435",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42435"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.73805",
+    "uuid": "928cce59-78b1-41cc-8fd7-62836291fb33",
+    "name": "月梅纹碗",
+    "name_traditional": "月梅纹碗",
+    "name_en": "Bowl with plum blossom and crescent moon",
+    "dynasty": "dynasty.yuan",
+    "date": {
+      "start": 1279,
+      "end": 1320,
+      "original": "late 13th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Porcelain with incised decoration under celadon glaze (Longquan ware)"
+    ],
+    "dimensions": "H. 2 in. (5.1 cm)\r\nDiam. of rim: 4 7/8 in. (12.4 cm)\r\nDiam. of foot: 1 1/8 in. (2.9 cm)",
+    "description": "元代瓷碗，绘月下梅花，疏影横斜、月轮高悬，为元瓷由宋人工整向写意转变的实物。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Purchase, Gift of Elizabeth V. Cockcroft and Rogers Fund, by exchange, 2007",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14609-065.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #73805",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/73805"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.61658",
+    "uuid": "3e13b56a-7444-4436-9ff7-c99a33c9ddc2",
+    "name": "观音菩萨立像",
+    "name_traditional": "观音菩萨立像",
+    "name_en": "Bodhisattva Avalokiteshvara (Guanyin)",
+    "dynasty": "dynasty.yuan",
+    "date": {
+      "start": 1282,
+      "end": 1282,
+      "original": "dated 1282",
+      "circa": true
+    },
+    "category": [
+      "雕塑"
+    ],
+    "material": [
+      "Wood (wiillow) with traces of pigment"
+    ],
+    "dimensions": "a) Guanyin: 39 1/4 in. (99.7 cm)\r\nb) Inscribed block: H. 6 1/2 in. (16.5 cm); W. 2 1/4 in. (5.7 cm); D. 1 in. (2.5 cm)",
+    "description": "元代至元十九年（1282年）纪年观音菩萨像，面容丰润、衣带当风，为元初佛教造像的纪年标准器。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Purchase, Joseph Pulitzer Bequest, 1934",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP223478.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #61658",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/61658"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.781809",
+    "uuid": "d05a0094-f495-44a3-aba4-e5d72eaca02e",
+    "name": "苍龙教子图（龙攀岩石）",
+    "name_traditional": "苍龙教子图（龙攀岩石）",
+    "name_en": "Dragon climbing a rock",
+    "dynasty": "dynasty.yuan",
+    "date": {
+      "start": 1300,
+      "end": 1368,
+      "original": "14th century",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Amber"
+    ],
+    "dimensions": "H. 5 in. (12.7 cm); W. 3 in. (7.6 cm); D. 1 1/8 in. (2.9 cm)",
+    "description": "元代绘画，苍龙攀岩而上，笔墨雄浑，龙纹为元代皇权与民间信仰共用的意象。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Purchase, Friends of Asian Art Gifts, 2018",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP-16215-073.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #781809",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/781809"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.42505",
+    "uuid": "9cac2923-7816-49e7-af27-65af5ba9f3e6",
+    "name": "青花扁壶",
+    "name_traditional": "青花扁壶",
+    "name_en": "Flask with Medallion",
+    "dynasty": "dynasty.ming",
+    "date": {
+      "start": 1400,
+      "end": 1450,
+      "original": "early 15th century",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Porcelain painted with cobalt blue under transparent glaze (Jingdezhen ware)"
+    ],
+    "dimensions": "H. 12 1/4 in. (31.1 cm)",
+    "description": "明永乐-宣德年间青花扁壶，器型仿伊斯兰金属器，青花发色浓艳有铁锈斑，为郑和下西洋时代中外交流的物证。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Stanley Herzman, in memory of Adele Herzman, 1991",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP342648.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #42505",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/42505"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.36103",
+    "uuid": "85c643ef-b380-4f9e-a19f-0e4492e40023",
+    "name": "潇湘八景图册",
+    "name_traditional": "潇湘八景图册",
+    "name_en": "Eight Songs of the Xiao and Xiang Rivers",
+    "dynasty": "dynasty.ming",
+    "date": {
+      "start": 1500,
+      "end": 1650,
+      "original": "16th or 17th century",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Album of eight leaves"
+    ],
+    "dimensions": "8 1/4 x 7 3/4 in. (21.0 x 19.7 cm) (8 paintings with facing leaves of calligraphy)\r\n8 1/4 x 16 7/8 in. (21.0 x 42.9 cm) (frontispiece of 2 double leaves)",
+    "description": "明代《潇湘八景》题材册页，潇湘夜雨、洞庭秋月等八景为宋元以来文人画经典母题，东传日本影响深远。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Mr. and Mrs. Earl Morse, 1972",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP161037_crd.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #36103",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/36103"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.49156",
+    "uuid": "1639630a-388e-49a5-8776-44ce10e0cc0a",
+    "name": "康熙南巡图（卷）",
+    "name_traditional": "康熙南巡图（卷）",
+    "name_en": "The Kangxi Emperor's Southern Inspection Tour, Scroll Three: Ji'nan to Mount Tai",
+    "dynasty": "dynasty.qing",
+    "date": {
+      "start": 1698,
+      "end": 1698,
+      "original": "datable to 1698",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Handscroll"
+    ],
+    "dimensions": "Image: 26 3/4 in. x 45 ft. 8 3/4 in. (67.9 x 1393.8 cm)",
+    "description": "康熙帝第二次南巡（1689年）纪实长卷的摹绘段落，市井百态、舟船往来，为清初盛世的图像史诗。王翚等主持绘制。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Purchase, The Dillon Fund Gift, 1979",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP105303_CRD.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #49156",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/49156"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.36105",
+    "uuid": "d60af430-96b4-4101-8277-2f6b2369ae2c",
+    "name": "鹤桃月季图",
+    "name_traditional": "鹤桃月季图",
+    "name_en": "Cranes, peach tree, and China rose",
+    "dynasty": "dynasty.qing",
+    "date": {
+      "start": 1700,
+      "end": 1799,
+      "original": "18th century",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Hanging scroll"
+    ],
+    "dimensions": "Image: 78 1/4 x 39 3/4 in. (198.8 x 101 cm)\r\nOverall with mounting: 97 3/4 x 48 1/8 in. (248.3 x 122.2 cm)\r\nOverall with knobs: 97 3/4 x 51 1/8 in. (248.3 x 129.9 cm)",
+    "description": "清代工笔重彩，仙鹤、寿桃、月季，寓意长寿富贵，为清代宫廷祝寿题材的典型样式。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP277568.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #36105",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/36105"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.met.41888",
+    "uuid": "42867b84-bb55-455e-83c2-f4820ebb5f75",
+    "name": "玉兰花式杯",
+    "name_traditional": "玉兰花式杯",
+    "name_en": "Cup in the shape of a magnolia blossom",
+    "dynasty": "dynasty.qing",
+    "date": {
+      "start": 1700,
+      "end": 1799,
+      "original": "18th century",
+      "circa": true
+    },
+    "category": [
+      "玉器"
+    ],
+    "material": [
+      "Rhinoceros horn"
+    ],
+    "dimensions": "H. incl. base 11 in. (27.9 cm); W. 5 3/4 in. (14.6 cm); Diam. 6 5/8 in. (16.8 cm)",
+    "description": "清代玉雕杯，整器作绽放玉兰花形，瓣尖翻卷、玲珑剔透，为清代乾隆工玉雕的精巧代表。",
+    "current_holder": {
+      "museum": "museum.met",
+      "city": "纽约",
+      "country": "美国"
+    },
+    "provenance": "Gift of Cutler Bonestell through his wife, Elizabeth Bonestell, 1937",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP318349.jpg",
+        "license": "CC0",
+        "source": "Metropolitan Museum Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Metropolitan Museum of Art, Object #41888",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/art/collection/search/41888"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "met-import-v1",
+      "version": 1
+    }
+  }
+]

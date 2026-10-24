@@ -1,0 +1,46 @@
+[
+  {
+    "id": "era.northern-han.tianhui-nhan",
+    "name": "天会",
+    "dynasty": "dynasty.northern-han",
+    "emperor": "person.northern-han.liujun",
+    "era_name": "天会",
+    "start": 957,
+    "end": 968,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·东汉世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.northern-han.guangyun",
+    "name": "广运",
+    "dynasty": "dynasty.northern-han",
+    "emperor": "person.northern-han.liujiyuan",
+    "era_name": "广运",
+    "start": 974,
+    "end": 979,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·东汉世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
+]

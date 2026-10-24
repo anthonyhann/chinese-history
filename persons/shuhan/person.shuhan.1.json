@@ -1,0 +1,108 @@
+[
+  {
+    "id": "person.shuhan.zhugeliang",
+    "uuid": "5e7b7e3f-7514-41e1-8c45-b5499d1d5ac2",
+    "name": "诸葛亮",
+    "name_traditional": "諸葛亮",
+    "titles": [
+      "武乡侯",
+      "忠武侯"
+    ],
+    "courtesy_name": "孔明",
+    "category": [
+      "chancellor",
+      "strategist"
+    ],
+    "dynasty": "dynasty.shu-han",
+    "birth": {
+      "year": 181,
+      "circa": false,
+      "original": "东汉光和四年生于琅邪阳都",
+      "disputed": []
+    },
+    "death": {
+      "year": 234,
+      "circa": false,
+      "original": "建兴十二年八月卒于五丈原，年五十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "卧龙。隆中对定三分之策，联吴破曹于赤壁，辅刘备取荆益。白帝托孤后治蜀：立法施度、南征孟获、五伐中原，「鞠躬尽瘁，死而后已」。出师未捷身先死，长使英雄泪满襟",
+    "events": [
+      "event.wei.chibi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "三国志·蜀书·诸葛亮传",
+        "type": "primary",
+        "ref": "卷三十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.shuhan.guanyu",
+    "uuid": "8833c12c-8525-4d5b-b8ac-69a036254a7b",
+    "name": "关羽",
+    "name_traditional": "關羽",
+    "titles": [
+      "汉寿亭侯",
+      "壮缪侯"
+    ],
+    "courtesy_name": "云长",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.shu-han",
+    "birth": null,
+    "death": {
+      "year": 220,
+      "circa": false,
+      "original": "建安二十四年十二月被吴将擒斩",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "武圣。白马坡斩颜良，水淹七军擒于禁斩庞德，威震华夏，曹操几欲迁都以避。刚而自矜失荆州，败走麦城被擒杀。后世尊为武圣、关帝，与文圣孔子并祀，民间信仰极盛",
+    "events": [
+      "event.wei.chibi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "三国志·蜀书·关张马黄赵传",
+        "type": "primary",
+        "ref": "卷三十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

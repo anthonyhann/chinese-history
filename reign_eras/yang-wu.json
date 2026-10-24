@@ -1,0 +1,68 @@
+[
+  {
+    "id": "era.yang-wu.qianzhen",
+    "name": "乾贞",
+    "dynasty": "dynasty.yang-wu",
+    "emperor": "person.yang-wu.yangpu",
+    "era_name": "乾贞",
+    "start": 927,
+    "end": 929,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·吴世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yang-wu.dahe",
+    "name": "大和",
+    "dynasty": "dynasty.yang-wu",
+    "emperor": "person.yang-wu.yangpu",
+    "era_name": "大和",
+    "start": 929,
+    "end": 935,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·吴世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.yang-wu.tianzuo",
+    "name": "天祚",
+    "dynasty": "dynasty.yang-wu",
+    "emperor": "person.yang-wu.yangpu",
+    "era_name": "天祚",
+    "start": 935,
+    "end": 937,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·吴世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
+]

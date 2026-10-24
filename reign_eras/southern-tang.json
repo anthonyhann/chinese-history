@@ -1,0 +1,90 @@
+[
+  {
+    "id": "era.southern-tang.shengyuan",
+    "name": "升元",
+    "dynasty": "dynasty.southern-tang",
+    "emperor": "person.southern-tang.libian",
+    "era_name": "升元",
+    "start": 937,
+    "end": 943,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·南唐世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.southern-tang.baoda",
+    "name": "保大",
+    "dynasty": "dynasty.southern-tang",
+    "emperor": "person.southern-tang.lijing",
+    "era_name": "保大",
+    "start": 943,
+    "end": 957,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·南唐世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.southern-tang.zhongxing",
+    "name": "中兴",
+    "dynasty": "dynasty.southern-tang",
+    "emperor": "person.southern-tang.lijing",
+    "era_name": "中兴",
+    "start": 958,
+    "end": 958,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·南唐世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.southern-tang.jiaotai",
+    "name": "交泰",
+    "dynasty": "dynasty.southern-tang",
+    "emperor": "person.southern-tang.lijing",
+    "era_name": "交泰",
+    "start": 958,
+    "end": 958,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·南唐世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
+]

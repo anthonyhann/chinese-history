@@ -1,0 +1,46 @@
+[
+  {
+    "id": "era.min.longqi",
+    "name": "龙启",
+    "dynasty": "dynasty.min",
+    "emperor": "person.min.wangyanjun",
+    "era_name": "龙启",
+    "start": 933,
+    "end": 934,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·闽世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.min.yonghe-min",
+    "name": "永和",
+    "dynasty": "dynasty.min",
+    "emperor": "person.min.wangyanjun",
+    "era_name": "永和",
+    "start": 935,
+    "end": 936,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·闽世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
+]

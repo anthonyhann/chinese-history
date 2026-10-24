@@ -1,0 +1,223 @@
+[
+  {
+    "id": "person.ssong.yuefei",
+    "uuid": "08e90ab2-4606-4196-bcfe-0463603f454c",
+    "name": "岳飞",
+    "name_traditional": "岳飛",
+    "titles": [
+      "鄂王（追封）",
+      "忠武"
+    ],
+    "courtesy_name": "鹏举",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.southern-song",
+    "birth": {
+      "year": 1103,
+      "circa": false,
+      "original": "北宋崇宁二年二月十五日生于相州汤阴",
+      "disputed": []
+    },
+    "death": {
+      "year": 1142,
+      "circa": false,
+      "original": "绍兴十一年十二月二十九日被害于大理寺风波亭，年三十九",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "精忠报国的民族英雄。背刺「尽忠报国」，率岳家军纪律严明「冻死不拆屋，饿死不掳掠」，郾城、颍昌大破金军铁浮屠，进军朱仙镇。十二道金牌班师，「莫须有」冤死。宋孝宗时平反，秦桧夫妇跪像至今在墓前",
+    "events": [
+      "event.ssong.shaoxing-heyi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·岳飞传",
+        "type": "primary",
+        "ref": "卷三百六十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ssong.qinhui",
+    "uuid": "19de06dd-b19f-4db5-b4ab-5c78136a6fe0",
+    "name": "秦桧",
+    "name_traditional": "秦檜",
+    "titles": [
+      "申王（追赠，后夺）",
+      "缪丑（改谥）"
+    ],
+    "courtesy_name": "会之",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.southern-song",
+    "birth": {
+      "year": 1090,
+      "circa": false,
+      "original": "宋元祐五年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 1155,
+      "circa": false,
+      "original": "绍兴二十五年十月卒，年六十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "千古第一奸相。靖康中被掳北去，南归后力主和议，两居相位十九年，以「莫须有」构陷岳飞，贬逐忠良，文字狱大兴。死后追封申王，宁宗时改谥「缪丑」。杭州岳王庙前铁铸跪像，青山白铁之对千古",
+    "events": [
+      "event.ssong.shaoxing-heyi"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·奸臣传",
+        "type": "primary",
+        "ref": "卷四百七十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ssong.xinqiji",
+    "uuid": "c954b74b-d6af-4f0e-8d6d-0e9c51013211",
+    "name": "辛弃疾",
+    "name_traditional": "辛棄疾",
+    "titles": [
+      "忠敏"
+    ],
+    "courtesy_name": "幼安",
+    "category": [
+      "poet",
+      "general"
+    ],
+    "dynasty": "dynasty.southern-song",
+    "birth": {
+      "year": 1140,
+      "circa": false,
+      "original": "金天眷三年生于山东历城（沦陷区）",
+      "disputed": []
+    },
+    "death": {
+      "year": 1207,
+      "circa": false,
+      "original": "开禧三年九月卒于铅山，年六十八",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "词中之龙。二十二岁于沦陷区起义，率五十骑突入五万金营擒叛徒张安国南归。力主北伐而不为所用，闲居带湖二十年。「了却君王天下事，赢得生前身后名。可怜白发生」。词与苏轼并称苏辛，豪放派巅峰",
+    "events": [
+      "event.ssong.kaixi-beifa"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·辛弃疾传",
+        "type": "primary",
+        "ref": "卷四百一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ssong.wentianxiang",
+    "uuid": "70b4ced4-2511-4efd-b3e5-f80a9320ef00",
+    "name": "文天祥",
+    "name_traditional": "文天祥",
+    "titles": [
+      "信国公",
+      "忠烈公"
+    ],
+    "courtesy_name": "宋瑞",
+    "category": [
+      "chancellor",
+      "poet"
+    ],
+    "dynasty": "dynasty.southern-song",
+    "birth": {
+      "year": 1236,
+      "circa": false,
+      "original": "南宋端平三年五月二日生于吉州庐陵",
+      "disputed": []
+    },
+    "death": {
+      "year": 1283,
+      "circa": false,
+      "original": "元至元十九年十二月九日就义于大都柴市，年四十七",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "状元宰相，南宋气节的化身。临安陷落后起兵勤王，出使元营被拘，逃脱后转战闽粤，五坡岭被俘。囚大都三年，元世祖亲劝不降，从容就义。《正气歌》《过零丁洋》「人生自古谁无死，留取丹心照汗青」",
+    "events": [
+      "event.ssong.yashan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·文天祥传",
+        "type": "primary",
+        "ref": "卷四百一十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "era.later-shu.mingde",
+    "name": "明德",
+    "dynasty": "dynasty.later-shu",
+    "emperor": "person.later-shu.mengzhixiang",
+    "era_name": "明德",
+    "start": 934,
+    "end": 937,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·后蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.later-shu.guangzheng",
+    "name": "广政",
+    "dynasty": "dynasty.later-shu",
+    "emperor": "person.later-shu.mengchang",
+    "era_name": "广政",
+    "start": 938,
+    "end": 965,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·后蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
+]

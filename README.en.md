@@ -4,12 +4,12 @@
 
 ### Persons · Events · Artifacts: the open structured database of Chinese history
 
-254 historical figures · 93 events · 500 era names · 37 dynasties/regimes — all in JSON, clone and build
+329 historical figures · 93 events · 551 era names · 49 dynasties/regimes — all in JSON, clone and build
 
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![Facts: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![Texts: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![Entities: 179](https://img.shields.io/badge/entities-922-red.svg)](#-datasets)
+[![Entities: 179](https://img.shields.io/badge/entities-1084-red.svg)](#-datasets)
 [![Validation: passing](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
 
 [🚀 Quickstart](#-quickstart) · [📦 Datasets](#-datasets) · [📐 Schema](schema/) · [🤝 Contributing](CONTRIBUTING.md) · [中文](README.md) · [llms.txt](llms.txt)
@@ -48,7 +48,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① get the data
 cd chinese-history
-python3 tools/validate.py                                     # ② verify integrity (922 records)
+python3 tools/validate.py                                     # ② verify integrity (1084 records)
 jq '.[] | .name' persons/han/person.han.0.json                # ③ use it (or any JSON lib)
 ```
 
@@ -68,15 +68,18 @@ Every record must carry `sources` — records without provenance fail CI. That i
 | [Persons · Sui-Tang & Five Dynasties](persons/) | 39 | ✅ v0.3.0 (incl. Wu Zetian) |
 | [Persons · Song-Liao-Jin](persons/) | 37 | ✅ v0.4.0 |
 | [Persons · Yuan-Ming-Qing](persons/) | 43 | ✅ v1.0.0 (imperial line complete through 1912) |
+| [Persons · Ten Kingdoms/W. Xia/Dali](persons/) | 34 | ✅ v1.1.0 |
+| [Persons · Ministers & Generals](persons/) | 41 | ✅ v1.1.0 |
 | [Events · Qin](events/qin/) | 20 | ✅ M1 seed |
 | [Events · Han](events/han/) | 19 | ✅ M2 (new) |
 | [Events · Wei-Jin & N/S Dynasties](events/) | 12 | ✅ v0.2.0 (Guandu, Chibi, Feishui…) |
 | [Events · Sui-Tang](events/) | 15 | ✅ v0.3.0 (Grand Canal, Xuanwu Gate, An Lushan…) |
 | [Events · Song-Liao-Jin](events/) | 12 | ✅ v0.4.0 (Chenqiao, Chanyuan, Jingkang, Yashan…) |
 | [Events · Yuan-Ming-Qing](events/) | 15 | ✅ v1.0.0 (Mongol campaigns, Zheng He, Opium War, 1911 Revolution) |
-| [Artifacts](artifacts/qin/) | 1 | 🔬 schema sample; M3 scale-up |
-| [Dynasties/regimes](dynasties/) | 37 | ✅ base table |
-| [Era names](reign_eras/) | 500 | ✅ Han Jianyuan (140 BC) through Xuantong (1912) |
+| [Artifacts · Qin](artifacts/qin/) | 1 | 🔬 schema sample |
+| [Artifacts · Met](artifacts/met/) | 24 | ✅ v1.1.0 (Met Open Access, CC0 images) |
+| [Dynasties/regimes](dynasties/) | 49 | ✅ base table |
+| [Era names](reign_eras/) | 551 | ✅ incl. Ten Kingdoms & Western Xia |
 | [Places](places/) | 31 | ✅ with modern names & coordinates |
 | [Museums](museums/) | 6 | ✅ with open-data license status |
 
@@ -100,7 +103,8 @@ Every record must carry `sources` — records without provenance fail CI. That i
 - ✅ **M2.5 Wei-Jin & N/S Dynasties**: 86 rulers + 182 era names + 12 major events
 - ✅ **M2.6 Sui-Tang & Five Dynasties**: 39 rulers + 95 era names + 15 major events
 - ✅ **M2.7 Song-Liao-Jin**: 37 rulers + 100 era names + 12 major events
-- ✅ **v1.0.0 Yuan-Ming-Qing**: 43 rulers + 46 era names + 15 events — **imperial line complete, 221 BC – 1912** (current)
+- ✅ **v1.0.0 Yuan-Ming-Qing**: imperial line complete, 221 BC – 1912
+- ✅ **v1.1.0**: 34 Ten-Kingdoms/Xia/Dali rulers + 41 ministers & generals + 24 Met CC0 artifacts (current)
 - 🔜 **M3 Artifacts**: CC0 Chinese artifacts from Met / Smithsonian open collections
 - 🔜 **M3+**: SQLite builder is ready (`python3 tools/build_sqlite.py`); release automation in `.github/workflows/release.yml`
 - 🔜 **M4**: all dynasties' emperors, showcase gallery
@@ -111,7 +115,8 @@ Made an app (site / app / visualization / AI project)? Open an issue with a link
 
 ## 📝 Changelog
 
-- **2026-10-24** v1.0.0: Yuan-Ming-Qing — 43 rulers, 46 era names, 15 events; 922 entities. **Imperial line complete through 1912**
+- **2026-10-24** v1.1.0: 34 Ten-Kingdoms/Xia/Dali rulers + 41 ministers + 24 Met artifacts; 1084 entities
+- **2026-10-24** v1.0.0: Yuan-Ming-Qing; 922 entities; imperial line complete through 1912
 - **2026-10-23** v0.4.0: Song-Liao-Jin — 37 rulers, 100 era names, 12 events; 815 entities total
 - **2026-10-23** v0.3.0: Sui-Tang & Five Dynasties — 39 rulers, 95 era names, 15 events; 660 entities total
 - **2026-10-23** v0.2.0: Wei-Jin & N/S Dynasties — 86 rulers, 182 era names, 12 events; 503 entities total

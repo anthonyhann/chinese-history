@@ -1,0 +1,68 @@
+[
+  {
+    "id": "era.southern-han.qianheng-nanhan",
+    "name": "乾亨",
+    "dynasty": "dynasty.southern-han",
+    "emperor": "person.southern-han.liuyan",
+    "era_name": "乾亨",
+    "start": 917,
+    "end": 925,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·南汉世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.southern-han.dayou",
+    "name": "大有",
+    "dynasty": "dynasty.southern-han",
+    "emperor": "person.southern-han.liuyan",
+    "era_name": "大有",
+    "start": 928,
+    "end": 942,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·南汉世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.southern-han.dabao",
+    "name": "大宝",
+    "dynasty": "dynasty.southern-han",
+    "emperor": "person.southern-han.liuchang",
+    "era_name": "大宝",
+    "start": 958,
+    "end": 971,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·南汉世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
+]

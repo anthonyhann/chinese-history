@@ -782,5 +782,269 @@
       "prompt_version": "songliaojin-v1",
       "version": 1
     }
+  },
+  {
+    "id": "dynasty.former-shu",
+    "name": "前蜀",
+    "name_traditional": "前蜀",
+    "start": 907,
+    "end": 925,
+    "circa": false,
+    "capital": "成都",
+    "note": "王建建立，925年亡于后唐",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.later-shu",
+    "name": "后蜀",
+    "name_traditional": "後蜀",
+    "start": 934,
+    "end": 965,
+    "circa": false,
+    "capital": "成都",
+    "note": "孟知祥建立，965年亡于北宋",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.yang-wu",
+    "name": "杨吴",
+    "name_traditional": "楊吳",
+    "start": 902,
+    "end": 937,
+    "circa": false,
+    "capital": "扬州",
+    "note": "杨行密奠基，937年禅于南唐",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.southern-tang",
+    "name": "南唐",
+    "name_traditional": "南唐",
+    "start": 937,
+    "end": 975,
+    "circa": false,
+    "capital": "金陵",
+    "note": "李昪代杨吴，975年亡于北宋",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.wuyue",
+    "name": "吴越",
+    "name_traditional": "吳越",
+    "start": 907,
+    "end": 978,
+    "circa": false,
+    "capital": "杭州",
+    "note": "钱镠建立，978年钱俶纳土归宋",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.min",
+    "name": "闽",
+    "name_traditional": "閩",
+    "start": 909,
+    "end": 945,
+    "circa": false,
+    "capital": "福州",
+    "note": "王审知建立，945年亡于南唐",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.southern-han",
+    "name": "南汉",
+    "name_traditional": "南漢",
+    "start": 917,
+    "end": 971,
+    "circa": false,
+    "capital": "广州",
+    "note": "刘龑建立，971年亡于北宋",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.chu",
+    "name": "楚",
+    "name_traditional": "楚",
+    "start": 927,
+    "end": 951,
+    "circa": false,
+    "capital": "长沙",
+    "note": "马殷建立，951年亡于南唐",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.jingnan",
+    "name": "荆南（南平）",
+    "name_traditional": "荊南（南平）",
+    "start": 924,
+    "end": 963,
+    "circa": false,
+    "capital": "江陵",
+    "note": "高季兴建立，963年降于北宋",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.northern-han",
+    "name": "北汉",
+    "name_traditional": "北漢",
+    "start": 951,
+    "end": 979,
+    "circa": false,
+    "capital": "太原",
+    "note": "刘崇建立，979年亡于北宋，十国最后灭亡者",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.western-xia",
+    "name": "西夏",
+    "name_traditional": "西夏",
+    "start": 1038,
+    "end": 1227,
+    "circa": false,
+    "capital": "兴庆府（银川）",
+    "note": "党项李元昊称帝建立，1227年亡于蒙古",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "dynasty.dali",
+    "name": "大理",
+    "name_traditional": "大理",
+    "start": 937,
+    "end": 1253,
+    "circa": false,
+    "capital": "羊苴咩城（大理）",
+    "note": "段思平建立，1253年亡于蒙古",
+    "sources": [
+      {
+        "title": "新五代史 / 宋史 / 辽史 / 金史",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
   }
 ]

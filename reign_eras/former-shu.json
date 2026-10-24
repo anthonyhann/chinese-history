@@ -1,0 +1,156 @@
+[
+  {
+    "id": "era.former-shu.wucheng",
+    "name": "武成",
+    "dynasty": "dynasty.former-shu",
+    "emperor": "person.former-shu.wangjian",
+    "era_name": "武成",
+    "start": 908,
+    "end": 910,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·前蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.former-shu.yongping-shu",
+    "name": "永平",
+    "dynasty": "dynasty.former-shu",
+    "emperor": "person.former-shu.wangjian",
+    "era_name": "永平",
+    "start": 911,
+    "end": 915,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·前蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.former-shu.tongzheng",
+    "name": "通正",
+    "dynasty": "dynasty.former-shu",
+    "emperor": "person.former-shu.wangjian",
+    "era_name": "通正",
+    "start": 916,
+    "end": 916,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·前蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.former-shu.tianhan",
+    "name": "天汉",
+    "dynasty": "dynasty.former-shu",
+    "emperor": "person.former-shu.wangjian",
+    "era_name": "天汉",
+    "start": 917,
+    "end": 917,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·前蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.former-shu.guangtian",
+    "name": "光天",
+    "dynasty": "dynasty.former-shu",
+    "emperor": "person.former-shu.wangjian",
+    "era_name": "光天",
+    "start": 918,
+    "end": 918,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·前蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.former-shu.qiande-shu",
+    "name": "乾德",
+    "dynasty": "dynasty.former-shu",
+    "emperor": "person.former-shu.wangzongyan",
+    "era_name": "乾德",
+    "start": 919,
+    "end": 924,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·前蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "era.former-shu.xiankang",
+    "name": "咸康",
+    "dynasty": "dynasty.former-shu",
+    "emperor": "person.former-shu.wangzongyan",
+    "era_name": "咸康",
+    "start": 925,
+    "end": 925,
+    "note": "",
+    "sources": [
+      {
+        "title": "新五代史·前蜀世家",
+        "type": "primary"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
+]

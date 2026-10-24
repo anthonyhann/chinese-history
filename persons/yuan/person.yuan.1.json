@@ -1,0 +1,57 @@
+[
+  {
+    "id": "person.yuan.yelvchucai",
+    "uuid": "ed574806-c0df-4a1b-b2a9-bc2d8c6f36d5",
+    "name": "耶律楚材",
+    "name_traditional": "耶律楚材",
+    "titles": [
+      "广宁王（追封）",
+      "文正公"
+    ],
+    "courtesy_name": "晋卿",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.yuan",
+    "birth": {
+      "year": 1190,
+      "circa": false,
+      "original": "金明昌元年生，辽太祖九世孙",
+      "disputed": []
+    },
+    "death": {
+      "year": 1244,
+      "circa": false,
+      "original": "蒙古乃马真后三年卒，年五十五",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "契丹皇族出身的蒙古帝国中书令。成吉思汗征西时随侍左右，窝阔台时任中书令，定赋税、立科举（戊戌选试）、劝阻屠城与「汉人无用不如尽杀之以为牧场」之议，中原文明赖以存续。身为契丹人而用夏变夷",
+    "events": [
+      "event.yuan.menggu-xizheng"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "元史·耶律楚材传",
+        "type": "primary",
+        "ref": "卷一百四十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "id": "person.ming.liuji",
+    "uuid": "7a648c76-59ba-4da3-bce7-ff29897e85ca",
+    "name": "刘基",
+    "name_traditional": "劉基",
+    "titles": [
+      "诚意伯",
+      "文成公"
+    ],
+    "courtesy_name": "伯温",
+    "category": [
+      "chancellor",
+      "strategist"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1311,
+      "circa": false,
+      "original": "元至大四年生于青田",
+      "disputed": []
+    },
+    "death": {
+      "year": 1375,
+      "circa": false,
+      "original": "明洪武八年卒（一说被胡惟庸毒死），年六十五",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "三分天下诸葛亮，一统江山刘伯温。佐朱元璋定天下：先陈后张、北伐中原的战略皆出其手。明初立法修律多出其谋。为胡惟庸所忌，忧愤而卒。民间神化为前知五百年后知五百年的半仙",
+    "events": [
+      "event.ming.jianli"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·刘基传",
+        "type": "primary",
+        "ref": "卷一百二十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.yuqian",
+    "uuid": "2b2d036c-7c4c-4f7b-ba72-acb668aa8303",
+    "name": "于谦",
+    "name_traditional": "于謙",
+    "titles": [
+      "少保",
+      "忠肃公"
+    ],
+    "courtesy_name": "廷益",
+    "category": [
+      "chancellor",
+      "general"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1398,
+      "circa": false,
+      "original": "明洪武三十一年生于钱塘",
+      "disputed": []
+    },
+    "death": {
+      "year": 1457,
+      "circa": false,
+      "original": "天顺元年正月被冤杀于北京崇文门外，年六十",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "救时宰相。土木之变后力排南迁之议，拥立景泰帝，组织北京保卫战击退也先，社稷赖以保全。夺门之变后以「谋逆」冤杀，抄家时家无余财，仅景帝所赐蟒衣剑器。「粉身碎骨浑不怕，要留清白在人间」",
+    "events": [
+      "event.ming.tumubao",
+      "event.ming.duomen"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·于谦传",
+        "type": "primary",
+        "ref": "卷一百七十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.wangyangming",
+    "uuid": "96b2fd9d-dfdb-4cea-a2fe-58e0da2a2011",
+    "name": "王阳明",
+    "name_traditional": "王陽明",
+    "titles": [
+      "新建侯",
+      "文成公"
+    ],
+    "courtesy_name": "伯安",
+    "category": [
+      "philosopher",
+      "general"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1472,
+      "circa": false,
+      "original": "明成化八年九月三十日生于余姚",
+      "disputed": []
+    },
+    "death": {
+      "year": 1529,
+      "circa": false,
+      "original": "嘉靖七年十一月二十九日卒于南安舟中，年五十七",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "心学集大成者，五百年来第一完人。龙场悟道倡「知行合一」「致良知」，真三不朽：立德（龙场悟道）、立功（四十三天平宁王之乱、破南赣数十年巨寇）、立言（《传习录》）。其学东传日本，影响明治维新",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·王守仁传",
+        "type": "primary",
+        "ref": "卷一百九十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.zhangjuzheng",
+    "uuid": "dc7c146a-5268-4f45-bc57-77e5fe51eb06",
+    "name": "张居正",
+    "name_traditional": "張居正",
+    "titles": [
+      "太师",
+      "文忠公"
+    ],
+    "courtesy_name": "叔大",
+    "category": [
+      "chancellor",
+      "reformer"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1525,
+      "circa": false,
+      "original": "明嘉靖四年五月五日生于江陵",
+      "disputed": []
+    },
+    "death": {
+      "year": 1582,
+      "circa": false,
+      "original": "万历十年六月二十日卒，年五十八",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "明代第一首辅。万历初年代行皇权十年：考成法核名实，一条鞭法并赋役，清丈田亩，用戚继光李成良固边防，国库充盈。然权倾朝野遭忌，死后被万历帝抄家夺谥，长子敬修自杀。「世间已无张居正」",
+    "events": [
+      "event.ming.zhangjuzheng"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·张居正传",
+        "type": "primary",
+        "ref": "卷二百一十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.qijiguang",
+    "uuid": "9f873d4c-d053-4499-b689-fd2354270e67",
+    "name": "戚继光",
+    "name_traditional": "戚繼光",
+    "titles": [
+      "少保",
+      "武毅公"
+    ],
+    "courtesy_name": "元敬",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1528,
+      "circa": false,
+      "original": "明嘉靖七年闰十月生于登州",
+      "disputed": []
+    },
+    "death": {
+      "year": 1588,
+      "circa": false,
+      "original": "万历十五年十二月卒于蓟镇，年六十一",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "抗倭名将。召募义乌矿工农丁练戚家军，创鸳鸯阵，大小百余战未尝败绩，扫平东南倭患。后镇蓟州十六年，修长城、练车营，蒙古不敢犯。著《纪效新书》《练兵实纪》，为明代兵学双璧",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·戚继光传",
+        "type": "primary",
+        "ref": "卷二百一十二"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.hairui",
+    "uuid": "8a3b9af2-bffa-437e-aabf-c691652c3649",
+    "name": "海瑞",
+    "name_traditional": "海瑞",
+    "titles": [
+      "忠介公"
+    ],
+    "courtesy_name": "汝贤",
+    "category": [
+      "official"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1514,
+      "circa": false,
+      "original": "明正德九年正月生于琼山",
+      "disputed": []
+    },
+    "death": {
+      "year": 1587,
+      "circa": false,
+      "original": "万历十五年十月卒于南京任上，年七十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "海青天。明代第一清官，一生刚直不阿。嘉靖四十五年备棺上《治安疏》，直斥「嘉靖者，言家家皆净而无财用也」，下狱论死。巡抚应天时勒令徐阶退田，百姓号为「海青天」。死时仅余俸银十余两，南京市民罢市送葬",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·海瑞传",
+        "type": "primary",
+        "ref": "卷二百二十六"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.zhenghe",
+    "uuid": "16eeb1b8-2712-49bf-bcfb-a2d5b664b98c",
+    "name": "郑和",
+    "name_traditional": "鄭和",
+    "titles": [
+      "三宝太监"
+    ],
+    "courtesy_name": "马和",
+    "category": [
+      "explorer",
+      "eunuch"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1371,
+      "circa": false,
+      "original": "明洪武四年生于云南昆阳，原名马和",
+      "disputed": []
+    },
+    "death": {
+      "year": 1433,
+      "circa": false,
+      "original": "宣德八年第七次下西洋归途中卒于印度古里，年六十三",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "世界大航海时代的先驱。本姓马，云南回族人，靖难之役有功赐姓郑。七下西洋，率两百余艘巨舰、两万七千人，历三十余国，远抵东非红海。其宝船之大、航迹之远，领先达伽马近一个世纪",
+    "events": [
+      "event.ming.zhenghe"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·郑和传",
+        "type": "primary",
+        "ref": "卷三百四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.xuxiake",
+    "uuid": "9acef74e-2c38-44de-b587-21e19d98d0ce",
+    "name": "徐霞客",
+    "name_traditional": "徐霞客",
+    "titles": [
+      "游圣"
+    ],
+    "courtesy_name": "弘祖",
+    "category": [
+      "explorer",
+      "writer"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1587,
+      "circa": false,
+      "original": "明万历十四年十一月二十七日生于江阴",
+      "disputed": []
+    },
+    "death": {
+      "year": 1641,
+      "circa": false,
+      "original": "崇祯十四年正月卒于江阴，年五十五",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "千古游圣。不应科举，二十二岁起孤身游历三十余年，足迹遍十六省，探金沙江为长江正源、辨溶洞成因早于欧洲百余年。《徐霞客游记》六十万字，为地理学与文学双重经典",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "徐霞客游记",
+        "type": "primary",
+        "ref": "乾隆刻本"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.ming.yuanchonghuan",
+    "uuid": "dc0957f2-d79b-476d-94a3-79aa59005e0d",
+    "name": "袁崇焕",
+    "name_traditional": "袁崇煥",
+    "titles": [
+      "蓟辽督师"
+    ],
+    "courtesy_name": "元素",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.ming",
+    "birth": {
+      "year": 1584,
+      "circa": false,
+      "original": "明万历十二年四月二十八日生于广东东莞",
+      "disputed": []
+    },
+    "death": {
+      "year": 1630,
+      "circa": false,
+      "original": "崇祯三年八月十六日被凌迟于北京西市，年四十七",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "明末长城。宁远之战红衣大炮击退努尔哈赤，宁锦大捷再败皇太极。崇祯二年皇太极绕蒙古入关，崇焕千里驰援京师，反中反间计，被崇祯以「谋款通敌」凌迟处死，京城百姓争食其肉。乾隆年间《清实录》公布反间计细节，沉冤始雪",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "明史·袁崇焕传",
+        "type": "primary",
+        "ref": "卷二百五十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

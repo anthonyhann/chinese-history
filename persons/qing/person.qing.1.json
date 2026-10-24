@@ -1,0 +1,222 @@
+[
+  {
+    "id": "person.qing.linzexu",
+    "uuid": "8d1381f6-2e0b-4da3-ac6b-ece84d6f184b",
+    "name": "林则徐",
+    "name_traditional": "林則徐",
+    "titles": [
+      "文忠公"
+    ],
+    "courtesy_name": "元抚",
+    "category": [
+      "official",
+      "reformer"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1785,
+      "circa": false,
+      "original": "清乾隆五十年七月二十六日生于福州",
+      "disputed": []
+    },
+    "death": {
+      "year": 1850,
+      "circa": false,
+      "original": "道光三十年十月十九日卒于广东普宁，年六十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "虎门销烟的民族英雄。道光十九年以钦差大臣赴粤禁烟，缴鸦片两万余箱于虎门海滩销毁。鸦片战争起后被革职充军伊犁，垦荒勘地。「苟利国家生死以，岂因祸福避趋之」。开眼看世界第一人，主持编译《四洲志》",
+    "events": [
+      "event.qing.yapian"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·林则徐传",
+        "type": "primary",
+        "ref": "卷三百六十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qing.zengguofan",
+    "uuid": "e2746a7c-9554-4247-98ee-514ee43fc48a",
+    "name": "曾国藩",
+    "name_traditional": "曾國藩",
+    "titles": [
+      "一等毅勇侯",
+      "文正公"
+    ],
+    "courtesy_name": "涤生",
+    "category": [
+      "general",
+      "official"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1811,
+      "circa": false,
+      "original": "清嘉庆十六年十月十一日生于湖南湘乡",
+      "disputed": []
+    },
+    "death": {
+      "year": 1872,
+      "circa": false,
+      "original": "同治十一年二月四日卒于南京，年六十二",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "中兴第一名臣。以在籍侍郎办团练起湘军，屡败屡战，十年攻克安庆，同治三年破天京灭太平天国。倡导洋务，办安庆内军械所，遣第一批留美幼童。《曾国藩家书》为传统家训集大成者。天津教案的处理使其「中兴名臣」形象蒙尘",
+    "events": [
+      "event.qing.taiping"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·曾国藩传",
+        "type": "primary",
+        "ref": "卷四百五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qing.lihongzhang",
+    "uuid": "f782e1ef-cb51-4c56-9431-d920095047af",
+    "name": "李鸿章",
+    "name_traditional": "李鴻章",
+    "titles": [
+      "一等肃毅伯",
+      "文忠公"
+    ],
+    "courtesy_name": "少荃",
+    "category": [
+      "official",
+      "diplomat"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1823,
+      "circa": false,
+      "original": "清道光三年正月十五日生于安徽合肥",
+      "disputed": []
+    },
+    "death": {
+      "year": 1901,
+      "circa": false,
+      "original": "光绪二十七年九月二十七日卒于北京，年七十九",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "裱糊匠。曾国藩门生，创淮军平太平天国、捻军。洋务运动领袖：江南制造局、轮船招商局、北洋水师皆出其手。甲午战败后代表清廷签订《马关条约》《辛丑条约》，一生签订不平等条约三十余个，「卖国者秦桧，误国者李鸿章」的骂名与「东方俾斯麦」的称誉并存",
+    "events": [
+      "event.qing.taiping"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·李鸿章传",
+        "type": "primary",
+        "ref": "卷四百一十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.qing.kangyouwei",
+    "uuid": "ad213622-b366-4273-975f-f536c829499f",
+    "name": "康有为",
+    "name_traditional": "康有為",
+    "titles": [
+      "南海先生"
+    ],
+    "courtesy_name": "广厦",
+    "category": [
+      "reformer",
+      "writer"
+    ],
+    "dynasty": "dynasty.qing",
+    "birth": {
+      "year": 1858,
+      "circa": false,
+      "original": "清咸丰八年二月五日生于广东南海",
+      "disputed": []
+    },
+    "death": {
+      "year": 1927,
+      "circa": false,
+      "original": "1927年3月31日卒于青岛，年七十",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "戊戌变法的领袖。七次上书光绪帝，发动公车上书。1898年百日维新期间为总设计师：废八股、兴学堂、设制度局。政变后流亡海外十六年，组保皇会。民国后坚持君主立宪，1917年参与张勋复辟，晚年为清廷遗老，由变法先驱沦为时代落伍者",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "清史稿·康有为传",
+        "type": "primary",
+        "ref": "卷四百七十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "person.han.xiaohe",
+    "uuid": "0cd8b771-eef4-4ba0-aa78-22a5df974906",
+    "name": "萧何",
+    "name_traditional": "蕭何",
+    "titles": [
+      "酂侯",
+      "相国"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -193,
+      "circa": false,
+      "original": "汉惠帝二年七月卒",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "汉初三杰之首，刘邦的「后勤部长」。收秦律令图书，月下追韩信，镇抚关中转漕给军。定律令九章，「萧规曹随」",
+    "events": [
+      "event.han.chuhan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·萧相国世家",
+        "type": "primary",
+        "ref": "卷五十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.zhangliang",
+    "uuid": "60d3e318-e99f-4a82-a594-9f5e031256c8",
+    "name": "张良",
+    "name_traditional": "張良",
+    "titles": [
+      "留侯",
+      "文成侯"
+    ],
+    "courtesy_name": "子房",
+    "category": [
+      "strategist"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -186,
+      "circa": true,
+      "original": "约卒于汉高后二年",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "汉初三杰，韩国贵族之后。博浪沙刺秦未果，后辅刘邦：鸿门宴救主、烧栈道、运筹决胜。功成身退，从赤松子游，汉初功臣中难得的善终者",
+    "events": [
+      "event.han.chuhan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·留侯世家",
+        "type": "primary",
+        "ref": "卷五十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.hanxin",
+    "uuid": "3c3ffdc9-1f33-4d87-95a2-eca43adff5c2",
+    "name": "韩信",
+    "name_traditional": "韓信",
+    "titles": [
+      "淮阴侯",
+      "楚王"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -196,
+      "circa": false,
+      "original": "汉高祖十一年被吕后诱杀于长乐钟室",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "汉初三杰，兵仙。受胯下之辱，登坛拜将：明修栈道暗度陈仓、背水一战破赵、十面埋伏困项羽。功高震主，被贬淮阴侯，终被吕后萧何合谋诛杀，「成也萧何，败也萧何」",
+    "events": [
+      "event.han.chuhan"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·淮阴侯列传",
+        "type": "primary",
+        "ref": "卷九十二"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.weiqing",
+    "uuid": "a1dab440-4daf-4cf9-b3d9-3b0994a5f5f2",
+    "name": "卫青",
+    "name_traditional": "衛青",
+    "titles": [
+      "长平侯",
+      "大将军"
+    ],
+    "courtesy_name": "仲卿",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -106,
+      "circa": false,
+      "original": "元封五年卒",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "七击匈奴无败绩的帝国双璧之一。骑奴出身，收复河南地、漠南，官拜大将军。谦和退让，不养士不招权，功高而主不疑",
+    "events": [
+      "event.han.mobei"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·卫将军骠骑列传",
+        "type": "primary",
+        "ref": "卷一百一十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.huoqubing",
+    "uuid": "b99cad3a-e4be-4f21-b490-bebf63183238",
+    "name": "霍去病",
+    "name_traditional": "霍去病",
+    "titles": [
+      "冠军侯",
+      "骠骑将军"
+    ],
+    "courtesy_name": "无",
+    "category": [
+      "general"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -140,
+      "circa": false,
+      "original": "生于元光元年",
+      "disputed": []
+    },
+    "death": {
+      "year": -117,
+      "circa": false,
+      "original": "元狩六年卒，年二十四",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "帝国双璧之一，卫青外甥。十八岁率八百骑深入大漠，两征河西（「匈奴未灭，无以家为」），漠北之战封狼居胥。二十四岁暴卒，汉武帝为发甲士送葬，墓如祁连山",
+    "events": [
+      "event.han.mobei"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·卫将军骠骑列传",
+        "type": "primary",
+        "ref": "卷一百一十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.zhangqian",
+    "uuid": "e0f54524-9678-4f24-ace5-3c6307114025",
+    "name": "张骞",
+    "name_traditional": "張騫",
+    "titles": [
+      "博望侯"
+    ],
+    "courtesy_name": "子文",
+    "category": [
+      "explorer",
+      "diplomat"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": null,
+    "death": {
+      "year": -114,
+      "circa": true,
+      "original": "约卒于元鼎年间",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "凿空西域第一人。两次出使：第一次被匈奴扣留十三年仍持汉节不失，历大宛、康居、大月氏、大夏；第二次通乌孙，副使遍至西域诸国。丝绸之路由此开通",
+    "events": [
+      "event.han.zhangqian"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·大宛列传",
+        "type": "primary",
+        "ref": "卷一百二十三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.simaqian",
+    "uuid": "f34b2a9e-3b23-4250-9b6b-8adb3448eec7",
+    "name": "司马迁",
+    "name_traditional": "司馬遷",
+    "titles": [
+      "太史令"
+    ],
+    "courtesy_name": "子长",
+    "category": [
+      "historian"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": -145,
+      "circa": true,
+      "original": "约生于汉景帝中五年",
+      "disputed": []
+    },
+    "death": null,
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "《史记》作者。承父司马谈遗志修史，因李陵之祸受宫刑，忍辱负重完成「究天人之际，通古今之变，成一家之言」的五十二万言，开创纪传体通史，鲁迅誉为「史家之绝唱，无韵之离骚」",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "史记·太史公自序",
+        "type": "primary",
+        "ref": "卷一百三十"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.han.banchao",
+    "uuid": "5aa0a8f6-e76d-4bec-865c-8798a6886002",
+    "name": "班超",
+    "name_traditional": "班超",
+    "titles": [
+      "定远侯",
+      "西域都护"
+    ],
+    "courtesy_name": "仲升",
+    "category": [
+      "general",
+      "diplomat"
+    ],
+    "dynasty": "dynasty.han",
+    "birth": {
+      "year": 32,
+      "circa": false,
+      "original": "东汉建武八年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 102,
+      "circa": false,
+      "original": "永元十四年九月卒，年七十一",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "投笔从戎，以三十六人定西域。「不入虎穴，焉得虎子」夜袭匈奴使团降鄯善，经营西域三十一年，五十余国悉皆纳质内属。七十一岁乞归：「臣不敢望到酒泉郡，但愿生入玉门关」",
+    "events": [
+      "event.han.banchao"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "后汉书·班超传",
+        "type": "primary",
+        "ref": "卷四十七"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

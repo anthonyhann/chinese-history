@@ -1,0 +1,57 @@
+[
+  {
+    "id": "person.jin.xiean",
+    "uuid": "cd6ab342-5747-41d5-8228-79148d0dadae",
+    "name": "谢安",
+    "name_traditional": "謝安",
+    "titles": [
+      "太傅",
+      "庐陵郡公"
+    ],
+    "courtesy_name": "安石",
+    "category": [
+      "chancellor"
+    ],
+    "dynasty": "dynasty.jin",
+    "birth": {
+      "year": 320,
+      "circa": false,
+      "original": "东晋太兴三年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 385,
+      "circa": false,
+      "original": "太元十年卒，年六十六",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "东山再起的名士领袖。隐居会稽东山二十年，四十余岁方出仕。淝水之战为征讨大都督，围棋赌墅、谈笑却秦，捷报至而色不变。「旧时王谢堂前燕」之谢氏即其家族",
+    "events": [
+      "event.jin.feishui"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "晋书·谢安传",
+        "type": "primary",
+        "ref": "卷七十九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]

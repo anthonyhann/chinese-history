@@ -1,0 +1,57 @@
+[
+  {
+    "id": "person.wei.simayi",
+    "uuid": "755feb45-9809-4ac2-b50f-a7531cd88a1b",
+    "name": "司马懿",
+    "name_traditional": "司馬懿",
+    "titles": [
+      "宣王（晋追尊宣皇帝）"
+    ],
+    "courtesy_name": "仲达",
+    "category": [
+      "chancellor",
+      "strategist"
+    ],
+    "dynasty": "dynasty.wei",
+    "birth": {
+      "year": 179,
+      "circa": false,
+      "original": "东汉光和二年生",
+      "disputed": []
+    },
+    "death": {
+      "year": 251,
+      "circa": false,
+      "original": "魏嘉平三年卒，年七十三",
+      "disputed": []
+    },
+    "reign": null,
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "鹰视狼顾。辅佐曹魏四世，拒诸葛于五丈原，平辽东公孙渊。高平陵之变一举夺权，为晋代魏奠基。「三马食槽」终应其验。其孙司马炎代魏建晋，追尊宣皇帝",
+    "events": [
+      "event.wei.gaopingling"
+    ],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "晋书·宣帝纪",
+        "type": "primary",
+        "ref": "卷一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "ministers-v1",
+      "version": 1
+    }
+  }
+]
