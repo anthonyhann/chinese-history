@@ -128,7 +128,7 @@
       "event.qin.dazexiang"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7196",
     "sources": [
       {
         "title": "史记·秦始皇本纪",
@@ -139,6 +139,11 @@
         "title": "史记·李斯列传",
         "type": "primary",
         "ref": "卷八十七"
+      },
+      {
+        "title": "Wikidata Q7196",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7196"
       }
     ],
     "_meta": {
@@ -187,7 +192,7 @@
       "event.qin.ruguan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7203",
     "sources": [
       {
         "title": "史记·秦始皇本纪",
@@ -198,6 +203,11 @@
         "title": "史记·高祖本纪",
         "type": "primary",
         "ref": "卷八"
+      },
+      {
+        "title": "Wikidata Q7203",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7203"
       }
     ],
     "_meta": {
@@ -253,7 +263,7 @@
     "bio": "秦始皇之父，本名异人，秦昭襄王之孙，早年为质于邯郸。商人吕不韦视为「奇货可居」，出资游说华阳夫人收其为嗣，改名子楚。秦孝文王（安国君）死后继位，在位三年，灭东周国，以吕不韦为相邦。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1327607",
     "sources": [
       {
         "title": "史记·秦本纪",
@@ -264,6 +274,11 @@
         "title": "史记·吕不韦列传",
         "type": "primary",
         "ref": "卷八十五"
+      },
+      {
+        "title": "Wikidata Q1327607",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1327607"
       }
     ],
     "_meta": {
@@ -309,7 +324,7 @@
     "bio": "秦始皇生母，本为吕不韦姬妾，后归子楚。子楚死后被尊为太后，与嫪毐私通生二子，嫪毐之乱平定后被迁于雍地萯阳宫，后经茅焦劝谏复归咸阳。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q28413635",
     "sources": [
       {
         "title": "史记·吕不韦列传",
@@ -320,6 +335,11 @@
         "title": "史记·秦始皇本纪",
         "type": "primary",
         "ref": "卷六"
+      },
+      {
+        "title": "Wikidata Q28413635",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q28413635"
       }
     ],
     "_meta": {
@@ -363,12 +383,17 @@
     "bio": "卫国濮阳人，大商人。以「奇货可居」投资在赵为质的异人（子楚），助其继位为秦庄襄王，自任相邦，封文信侯，食邑十万户。庄襄王死后辅年幼的秦王政，称仲父，权倾一时；召集门客编撰《吕氏春秋》，悬金求瑕。后因嫪毐之乱受牵连被罢相流放蜀地，途中饮鸩自尽。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q366120",
     "sources": [
       {
         "title": "史记·吕不韦列传",
         "type": "primary",
         "ref": "卷八十五"
+      },
+      {
+        "title": "Wikidata Q366120",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q366120"
       }
     ],
     "_meta": {
@@ -420,12 +445,17 @@
       "event.qin.shaqiu-bian"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q152919",
     "sources": [
       {
         "title": "史记·李斯列传",
         "type": "primary",
         "ref": "卷八十七"
+      },
+      {
+        "title": "Wikidata Q152919",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q152919"
       }
     ],
     "_meta": {
@@ -471,7 +501,7 @@
       "event.qin.zhilu-weima"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q197436",
     "sources": [
       {
         "title": "史记·秦始皇本纪",
@@ -487,6 +517,11 @@
         "title": "史记·蒙恬列传",
         "type": "primary",
         "ref": "卷八十八"
+      },
+      {
+        "title": "Wikidata Q197436",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q197436"
       }
     ],
     "_meta": {
@@ -531,7 +566,7 @@
       "event.qin.shaqiu-bian"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1268605",
     "sources": [
       {
         "title": "史记·秦始皇本纪",
@@ -547,6 +582,11 @@
         "title": "史记·陈涉世家",
         "type": "primary",
         "ref": "卷四十八"
+      },
+      {
+        "title": "Wikidata Q1268605",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1268605"
       }
     ],
     "_meta": {
@@ -592,12 +632,17 @@
       "event.qin.shaqiu-bian"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1151702",
     "sources": [
       {
         "title": "史记·蒙恬列传",
         "type": "primary",
         "ref": "卷八十八"
+      },
+      {
+        "title": "Wikidata Q1151702",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1151702"
       }
     ],
     "_meta": {
@@ -639,12 +684,17 @@
     "bio": "蒙恬之弟，始皇近臣，位至上卿，出则参乘、入则御前。曾依法判处赵高死罪，始皇赦之，由此与赵高结怨。沙丘之变后被赵高构陷，囚于代地杀害。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q768230",
     "sources": [
       {
         "title": "史记·蒙恬列传",
         "type": "primary",
         "ref": "卷八十八"
+      },
+      {
+        "title": "Wikidata Q768230",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q768230"
       }
     ],
     "_meta": {
@@ -687,12 +737,17 @@
       "event.qin.mie-chu"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q706855",
     "sources": [
       {
         "title": "史记·白起王翦列传",
         "type": "primary",
         "ref": "卷七十三"
+      },
+      {
+        "title": "Wikidata Q706855",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q706855"
       }
     ],
     "_meta": {
@@ -828,7 +883,7 @@
       "event.qin.xinan-kengsha"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1336683",
     "sources": [
       {
         "title": "史记·项羽本纪",
@@ -839,6 +894,11 @@
         "title": "史记·秦始皇本纪",
         "type": "primary",
         "ref": "卷六"
+      },
+      {
+        "title": "Wikidata Q1336683",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1336683"
       }
     ],
     "_meta": {
@@ -883,12 +943,17 @@
       "event.qin.dazexiang"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q699882",
     "sources": [
       {
         "title": "史记·陈涉世家",
         "type": "primary",
         "ref": "卷四十八"
+      },
+      {
+        "title": "Wikidata Q699882",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q699882"
       }
     ],
     "_meta": {
@@ -932,12 +997,17 @@
       "event.qin.dazexiang"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q706634",
     "sources": [
       {
         "title": "史记·陈涉世家",
         "type": "primary",
         "ref": "卷四十八"
+      },
+      {
+        "title": "Wikidata Q706634",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q706634"
       }
     ],
     "_meta": {
@@ -989,12 +1059,17 @@
       "event.han.chuhan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q182266",
     "sources": [
       {
         "title": "史记·项羽本纪",
         "type": "primary",
         "ref": "卷七"
+      },
+      {
+        "title": "Wikidata Q182266",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q182266"
       }
     ],
     "_meta": {

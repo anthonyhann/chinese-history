@@ -39,12 +39,17 @@
       "event.nsong.chanyuan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q3274619",
     "sources": [
       {
         "title": "宋史·寇准传",
         "type": "primary",
         "ref": "卷二百八十一"
+      },
+      {
+        "title": "Wikidata Q3274619",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q3274619"
       }
     ],
     "_meta": {
@@ -95,12 +100,17 @@
       "event.nsong.wanganshi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q319618",
     "sources": [
       {
         "title": "宋史·王安石传",
         "type": "primary",
         "ref": "卷三百二十七"
+      },
+      {
+        "title": "Wikidata Q319618",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q319618"
       }
     ],
     "_meta": {
@@ -208,12 +218,17 @@
       "event.nsong.wanganshi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q334323",
     "sources": [
       {
         "title": "宋史·苏轼传",
         "type": "primary",
         "ref": "卷三百三十八"
+      },
+      {
+        "title": "Wikidata Q334323",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q334323"
       }
     ],
     "_meta": {

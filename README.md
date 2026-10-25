@@ -4,12 +4,12 @@
 
 ### 人物 · 事件 · 文物：中华历史的开源结构化数据库
 
-370 位历史人物 · 154 个历史事件 · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
+370 位历史人物（94% 已对齐 Wikidata QID） · 154 个历史事件 · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
 
 [![代码许可: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![事实数据: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![描述文本: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![实体记录: 179](https://img.shields.io/badge/entities-1201-red.svg)](#-数据集)
+[![实体记录: 179](https://img.shields.io/badge/entities-1204-red.svg)](#-数据集)
 [![数据校验: 通过](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
 
 [🚀 快速开始](#-快速开始) · [📦 数据集](#-数据集) · [📐 Schema](schema/) · [🤝 贡献](CONTRIBUTING.md) · [English](README.en.md) · [llms.txt](llms.txt)
@@ -48,7 +48,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① 拿数据
 cd chinese-history
-python3 tools/validate.py                                     # ② 验证数据完整性（1201 条）
+python3 tools/validate.py                                     # ② 验证数据完整性（1204 条）
 jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（或任何语言的 JSON 库）
 ```
 
@@ -80,6 +80,7 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 | [文物 · 秦陵博物院](artifacts/qin/) | 1 | 🔬 Schema 样例 |
 | [文物 · 大都会博物馆](artifacts/met/) | 24 | ✅ v1.1.0（CC0 图片直连） |
 | [文物 · 史密森尼亚洲艺术馆](artifacts/smithsonian/) | 15 | ✅ v1.2.0（商周青铜/玉器/唐俑，CC0） |
+| [文物 · 大英博物馆](artifacts/british-museum/) | 3 | ✅ v1.3.0（女史箴图/大维德瓶/敦煌绢画，NC 许可仅链接） |
 | [朝代/政权](dynasties/) | 49 | ✅ 基础表 |
 | [年号纪年](reign_eras/) | 551 | ✅ 秦汉至明清 + 十国西夏（建元 → 宣统） |
 | [地名](places/) | 31 | ✅ 含今地名与坐标 |
@@ -107,7 +108,8 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 - ✅ **M2.7 宋辽金**：37 帝王 + 100 年号 + 12 重大事件
 - ✅ **v1.0.0 元明清**：43 帝王 + 46 年号 + 15 重大事件——帝系全程贯通（前221年–1912年）
 - ✅ **v1.1.0 补全**：十国/西夏/大理 34 帝 + 名臣将相 41 人 + Met CC0 文物 24 件
-- ✅ **v1.2.0 加密**：名臣第二批 41 人 + 事件加密 61 个 + Smithsonian CC0 文物 15 件（当前）
+- ✅ **v1.2.0 加密**：名臣第二批 41 人 + 事件加密 61 个 + Smithsonian CC0 文物 15 件
+- ✅ **v1.3.0 对齐**：348/370 人物挂上 Wikidata QID + 大英博物馆文物 3 件（当前）
 - 🔜 **M3 文物**：Met / Smithsonian 等 CC0 开放馆藏中华文物清洗导入
 - 🔜 **M3+**：SQLite 构建器已可用（`python3 tools/build_sqlite.py`），release 自动化见 `.github/workflows/release.yml`
 - 🔜 **M4**：历代皇帝全量、案例展示
@@ -118,6 +120,7 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 
 ## 📝 更新日志
 
+- **2026-10-25** v1.3.0：Wikidata 对齐 94% + 大英博物馆文物 3 件，实体总数 1204
 - **2026-10-24** v1.2.0：名臣第二批 41 + 事件加密 61 + Smithsonian 文物 15，实体总数 1201
 - **2026-10-24** v1.1.0：十国/西夏/大理 34 帝 + 名臣将相 41 人 + Met 文物 24 件，实体总数 1084
 - **2026-10-24** v1.0.0：元明清放量，实体总数 922，帝系全程贯通至 1912 年

@@ -55,7 +55,7 @@
       "event.han.baideng"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7210",
     "sources": [
       {
         "title": "史记·高祖本纪",
@@ -65,6 +65,11 @@
       {
         "title": "汉书·高帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7210",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7210"
       }
     ],
     "_meta": {
@@ -119,7 +124,7 @@
     "bio": "高祖嫡长子，母吕后。为人仁弱，目睹吕后残戚姬为「人彘」后恸哭失政，曰「此非人所为」。在位期间萧规曹随，轻徭薄赋，废除挟书律，社会经济继续恢复。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q48934469",
     "sources": [
       {
         "title": "史记·吕太后本纪",
@@ -129,6 +134,11 @@
       {
         "title": "汉书·惠帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q48934469",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q48934469"
       }
     ],
     "_meta": {
@@ -229,12 +239,17 @@
     "bio": "西汉第四位皇帝，史称后少帝。吕后称制期间所立的傀儡。周勃、陈平诛诸吕后，朝臣宣称其非惠帝亲生，废黜处死，迎立代王刘恒。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q28414177",
     "sources": [
       {
         "title": "史记·吕太后本纪",
         "type": "primary",
         "ref": "卷九"
+      },
+      {
+        "title": "Wikidata Q28414177",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q28414177"
       }
     ],
     "_meta": {
@@ -352,7 +367,7 @@
       "event.han.qiguo"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7224",
     "sources": [
       {
         "title": "史记·孝景本纪",
@@ -362,6 +377,11 @@
       {
         "title": "汉书·景帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7224",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7224"
       }
     ],
     "_meta": {
@@ -421,7 +441,7 @@
       "event.han.wugu"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7225",
     "sources": [
       {
         "title": "史记·孝武本纪",
@@ -431,6 +451,11 @@
       {
         "title": "汉书·武帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7225",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7225"
       }
     ],
     "_meta": {
@@ -536,7 +561,7 @@
     "bio": "武帝之孙，昌邑哀王刘髆之子。昭帝崩后无嗣，被霍光迎立为帝，二十七日内「行淫乱」凡千余事（霍光所奏），被废归故国，后贬为海昏侯徙豫章。2011 年起其墓（南昌海昏侯墓）发掘，出土文物震惊世人。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7228",
     "sources": [
       {
         "title": "汉书·霍光金日磾传",
@@ -545,6 +570,11 @@
       {
         "title": "汉书·武五子传",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7228",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7228"
       }
     ],
     "_meta": {
@@ -603,11 +633,16 @@
     "bio": "武帝曾孙，巫蛊之祸中襁褓系狱，长于民间，深知吏治得失。刘贺被废后由霍光迎立。亲政后综核名实、信赏必罚，置常平仓，降匈奴、设西域都护，孝宣之治为西汉最后的盛世。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7230",
     "sources": [
       {
         "title": "汉书·宣帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7230",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7230"
       }
     ],
     "_meta": {
@@ -662,11 +697,16 @@
       "event.han.zhaojun"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7232",
     "sources": [
       {
         "title": "汉书·元帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7232",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7232"
       }
     ],
     "_meta": {
@@ -717,11 +757,16 @@
     "bio": "湛于酒色，宠赵飞燕、赵合德姐妹。外戚王氏（王凤、王音、王商、王根、王莽）相继秉政，「五侯」同日受封，外戚之祸为西汉亡因之一。在位二十六年无子而崩。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7234",
     "sources": [
       {
         "title": "汉书·成帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7234",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7234"
       }
     ],
     "_meta": {
@@ -772,11 +817,16 @@
     "bio": "成帝之侄，以定陶王入继。欲振朝纲而抑外戚，然宠信董贤至欲禅让（「断袖之癖」典出此），朝政益乱。在位六年崩，王氏随即复起，王莽秉政。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7237",
     "sources": [
       {
         "title": "汉书·哀帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7237",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7237"
       }
     ],
     "_meta": {
@@ -828,11 +878,16 @@
     "bio": "元帝之孙，九岁被王莽迎立，朝政尽归安汉公王莽，隔绝其母卫氏家族。元始五年崩，年仅十四，《汉书》记为病死，后世多传为王莽鸩杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7244",
     "sources": [
       {
         "title": "汉书·平帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7244",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7244"
       }
     ],
     "_meta": {
@@ -885,7 +940,7 @@
       "event.han.wangmang-cuan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7247",
     "sources": [
       {
         "title": "汉书·王莽传",
@@ -894,6 +949,11 @@
       {
         "title": "后汉书·隗嚣公孙述列传",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7247",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7247"
       }
     ],
     "_meta": {
@@ -943,11 +1003,16 @@
       "event.han.kunyang"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q8014901",
     "sources": [
       {
         "title": "后汉书·刘玄刘盆子列传",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q8014901",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q8014901"
       }
     ],
     "_meta": {
@@ -995,11 +1060,16 @@
       "event.han.lulin-chimei"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7265",
     "sources": [
       {
         "title": "后汉书·刘玄刘盆子列传",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7265",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7265"
       }
     ],
     "_meta": {
@@ -1056,11 +1126,16 @@
       "event.han.donghan-jian"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7268",
     "sources": [
       {
         "title": "后汉书·光武帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7268",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7268"
       }
     ],
     "_meta": {
@@ -1115,11 +1190,16 @@
       "event.han.banchao"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q6653953",
     "sources": [
       {
         "title": "后汉书·显宗孝明帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q6653953",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q6653953"
       }
     ],
     "_meta": {
@@ -1174,11 +1254,16 @@
       "event.han.banchao"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7277",
     "sources": [
       {
         "title": "后汉书·肃宗孝章帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7277",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7277"
       }
     ],
     "_meta": {
@@ -1234,11 +1319,16 @@
       "event.han.yanran"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7280",
     "sources": [
       {
         "title": "后汉书·孝和孝殇帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7280",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7280"
       }
     ],
     "_meta": {
@@ -1290,11 +1380,16 @@
     "bio": "和帝少子，出生百余日即被邓太后立为帝，是中国历史上即位年龄最小的皇帝。在位八个月夭亡，年仅二岁（虚岁）。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7282",
     "sources": [
       {
         "title": "后汉书·孝和孝殇帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7282",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7282"
       }
     ],
     "_meta": {
@@ -1348,11 +1443,16 @@
     "bio": "章帝之孙。殇帝夭亡后由邓太后迎立，在位十九年，前十五年邓太后称制。邓氏死后亲政，与乳母王圣、宦官江京等逼死邓氏宗族，宠信宦官，朝政日浊。西域渐失，羌乱大起。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7285",
     "sources": [
       {
         "title": "后汉书·孝安帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7285",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7285"
       }
     ],
     "_meta": {
@@ -1398,7 +1498,7 @@
     "bio": "章帝曾孙，济北惠王刘寿之子。安帝死于南巡途中，阎皇后秘不发丧，立其为帝以图久专国政。在位二百余日而薨，宦官孙程等旋即发动政变诛阎显，迎立废太子刘保。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7288",
     "sources": [
       {
         "title": "后汉书·孝顺孝冲孝质帝纪",
@@ -1407,6 +1507,11 @@
       {
         "title": "后汉书·宦者列传",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7288",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7288"
       }
     ],
     "_meta": {
@@ -1460,11 +1565,16 @@
     "bio": "安帝独子，先立为太子，后被阎皇后谮废。安帝死后宦官孙程等十九人政变拥立其复位，十九侯宦官由此势盛。在位期间外戚梁商、梁冀相继秉政，梁氏之祸由此深植。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7289",
     "sources": [
       {
         "title": "后汉书·孝顺孝冲孝质帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7289",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7289"
       }
     ],
     "_meta": {
@@ -1516,11 +1626,16 @@
     "bio": "顺帝之子，二岁即位，梁太后临朝，大将军梁冀专权。在位不足半年夭亡，年仅三岁。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7292",
     "sources": [
       {
         "title": "后汉书·孝顺孝冲孝质帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7292",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7292"
       }
     ],
     "_meta": {
@@ -1571,11 +1686,16 @@
     "bio": "章帝玄孙，八岁被梁冀迎立。幼而聪慧，朝会时目梁冀曰「此跋扈将军也」，梁冀恶之，令人进鸩于煮饼中毒杀，年九岁。「跋扈将军」典故由此而来。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7293",
     "sources": [
       {
         "title": "后汉书·孝顺孝冲孝质帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7293",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7293"
       }
     ],
     "_meta": {
@@ -1629,11 +1749,16 @@
       "event.han.danggu"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q11398316",
     "sources": [
       {
         "title": "后汉书·孝桓帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q11398316",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q11398316"
       }
     ],
     "_meta": {
@@ -1690,11 +1815,16 @@
       "event.han.huangjin"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7299",
     "sources": [
       {
         "title": "后汉书·孝灵帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7299",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7299"
       }
     ],
     "_meta": {
@@ -1753,11 +1883,16 @@
       "event.han.dongzhuo"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7301",
     "sources": [
       {
         "title": "后汉书·皇后纪 / 董卓列传",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7301",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7301"
       }
     ],
     "_meta": {
@@ -1811,11 +1946,16 @@
       "event.han.dongzhuo"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7316",
     "sources": [
       {
         "title": "后汉书·孝献帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7316",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7316"
       }
     ],
     "_meta": {

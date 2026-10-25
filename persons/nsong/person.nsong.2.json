@@ -39,12 +39,17 @@
       "event.nsong.qingli"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q381822",
     "sources": [
       {
         "title": "宋史·范仲淹传",
         "type": "primary",
         "ref": "卷三百一十四"
+      },
+      {
+        "title": "Wikidata Q381822",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q381822"
       }
     ],
     "_meta": {
@@ -95,12 +100,17 @@
       "event.nsong.qingli"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q334323",
     "sources": [
       {
         "title": "宋史·欧阳修传",
         "type": "primary",
         "ref": "卷三百一十九"
+      },
+      {
+        "title": "Wikidata Q334323",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q334323"
       }
     ],
     "_meta": {
@@ -148,12 +158,17 @@
     "bio": "包青天。知开封府，立牌允许百姓直接上堂控告，关节不到有阎罗包老。弹劾国丈张尧佐、贪官王逵，执法不避权贵。笑比黄河清。后世戏曲塑为黑脸月牙、日断阳夜断阴的神判，成为中国司法公正的永恒符号",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q337805",
     "sources": [
       {
         "title": "宋史·包拯传",
         "type": "primary",
         "ref": "卷三百一十六"
+      },
+      {
+        "title": "Wikidata Q337805",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q337805"
       }
     ],
     "_meta": {
@@ -201,12 +216,17 @@
     "bio": "中国科学史上最卓越的人物。《梦溪笔谈》记载活字印刷、隙积术、会圆术、磁偏角（比欧洲早四百年）、石油命名。出使辽国据理力争边界，治理沭水。李约瑟称其为「中国科学史上的坐标」",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q270085",
     "sources": [
       {
         "title": "宋史·沈括传",
         "type": "primary",
         "ref": "卷三百三十一"
+      },
+      {
+        "title": "Wikidata Q270085",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q270085"
       }
     ],
     "_meta": {
@@ -254,12 +274,17 @@
     "bio": "理学集大成者。集周敦颐、二程、张载之大成，建理气论、格物致知，《四书章句集注》为元明清科举定本，影响东亚七百年。庆元党禁中被斥为「伪学逆党」，死后理学成为官方哲学，配享孔庙",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q9397",
     "sources": [
       {
         "title": "宋史·道学传",
         "type": "primary",
         "ref": "卷四百二十七"
+      },
+      {
+        "title": "Wikidata Q9397",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9397"
       }
     ],
     "_meta": {

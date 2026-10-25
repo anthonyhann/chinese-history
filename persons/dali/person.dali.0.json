@@ -1,34 +1,249 @@
 [
-  {"id": "person.dali.duansiping", "uuid": "e239930b-45dd-4ea6-9c39-70898f27592c", "name": "段思平", "name_traditional": "段思平", "titles": ["大理太祖", "圣神文武皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.dali",
-   "birth": {"year": 893, "circa": true, "original": "其先武威郡人，白蛮（一说汉族）", "disputed": []}, "death": {"year": 944, "circa": false, "original": "后晋天福九年卒", "disputed": []},
-   "reign": {"start": 937, "end": 944, "note": "937年灭大义宁国建大理"},
-   "family": {"father": null, "mother": null, "spouses": [], "children": []}, "predecessor": null, "successor": null,
-   "bio": "大理开国皇帝。先世为南诏清平官，遭大义宁国杨干贞迫害逃亡，联合滇东三十七蛮部起兵，灭杨氏建大理国。在位期间改革制度、轻徭薄赋，笃信佛教，「年年建寺、月月铸佛」，开启大理三百余年佛国传统。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "南诏野史", "type": "secondary"}, {"title": "宋史·外国传", "type": "primary"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.dali.duanzhengchun", "uuid": "53d9d3ac-f7dd-4a99-a903-3fdb718d3e7b", "name": "段正淳", "name_traditional": "段正淳", "titles": ["大理中宗", "文安皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.dali",
-   "birth": null, "death": {"year": 1110, "circa": true, "original": "禅位为僧后卒", "disputed": []},
-   "reign": {"start": 1096, "end": 1108, "note": "高升泰死后还政段氏，史称后理国；后禅位出家"},
-   "family": {"father": null, "mother": null, "spouses": [], "children": ["person.dali.duanzhengyan"]}, "predecessor": null, "successor": "person.dali.duanzhengyan",
-   "bio": "高升泰篡段氏两年后，其子高泰明遵父遗嘱还政于段氏，段正淳复国，史称后理国。然实权仍归高氏相国。晚年禅位为僧，大理二十二帝中十帝禅位为僧，此风其著。金庸《天龙八部》中段正淳多情形象即源于此。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "南诏野史", "type": "secondary"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.dali.duanzhengyan", "uuid": "1e1eb6c1-64e4-4b0f-a423-b0ca25b0161a", "name": "段正严", "name_traditional": "段正嚴", "titles": ["大理宪宗", "宣仁皇帝"], "courtesy_name": "和誉", "category": ["emperor"], "dynasty": "dynasty.dali",
-   "birth": {"year": 1083, "circa": true, "original": "段正淳之子", "disputed": []}, "death": {"year": 1176, "circa": false, "original": "禅位为僧后卒，年九十四", "disputed": []},
-   "reign": {"start": 1108, "end": 1147, "note": "在位三十九年后禅位出家"},
-   "family": {"father": "person.dali.duanzhengchun", "mother": null, "spouses": [], "children": []}, "predecessor": "person.dali.duanzhengchun", "successor": null,
-   "bio": "字和誉，即《天龙八部》中段誉的历史原型。在位三十九年，为大理国在位最久的皇帝。励精图治，遣使入宋朝贡，获宋册封为金紫光禄大夫、云南节度使、大理王。晚年高氏内争，禅位为僧，寿至九十四，为历代帝王中最高寿者之一。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "南诏野史", "type": "secondary"}, {"title": "宋史·外国传", "type": "primary"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.dali.duanxingzhi", "uuid": "a2d6454e-ace8-4187-9f97-4273bc473132", "name": "段兴智", "name_traditional": "段興智", "titles": ["大理末帝（天定贤王）"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.dali",
-   "birth": null, "death": {"year": 1260, "circa": true, "original": "入元后受命世袭大理总管，约1260年卒", "disputed": []},
-   "reign": {"start": 1251, "end": 1253, "note": "1253年蒙古忽必烈、兀良合台灭大理"},
-   "family": {"father": null, "mother": null, "spouses": [], "children": []}, "predecessor": null, "successor": null,
-   "bio": "大理末代皇帝。蒙古宪宗三年，忽必烈革囊渡江，兀良合台攻陷羊苴咩城，段兴智逃至昆泽被擒。蒙古不杀而降，反授其摩诃罗嵯（大王）名号，命为大理世袭总管。段氏总管延续至明初，比元朝还多活了几十年。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "元史·兀良合台传", "type": "primary"}, {"title": "南诏野史", "type": "secondary"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}}
+  {
+    "id": "person.dali.duansiping",
+    "uuid": "e239930b-45dd-4ea6-9c39-70898f27592c",
+    "name": "段思平",
+    "name_traditional": "段思平",
+    "titles": [
+      "大理太祖",
+      "圣神文武皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.dali",
+    "birth": {
+      "year": 893,
+      "circa": true,
+      "original": "其先武威郡人，白蛮（一说汉族）",
+      "disputed": []
+    },
+    "death": {
+      "year": 944,
+      "circa": false,
+      "original": "后晋天福九年卒",
+      "disputed": []
+    },
+    "reign": {
+      "start": 937,
+      "end": 944,
+      "note": "937年灭大义宁国建大理"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "大理开国皇帝。先世为南诏清平官，遭大义宁国杨干贞迫害逃亡，联合滇东三十七蛮部起兵，灭杨氏建大理国。在位期间改革制度、轻徭薄赋，笃信佛教，「年年建寺、月月铸佛」，开启大理三百余年佛国传统。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q3040470",
+    "sources": [
+      {
+        "title": "南诏野史",
+        "type": "secondary"
+      },
+      {
+        "title": "宋史·外国传",
+        "type": "primary"
+      },
+      {
+        "title": "Wikidata Q3040470",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q3040470"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.dali.duanzhengchun",
+    "uuid": "53d9d3ac-f7dd-4a99-a903-3fdb718d3e7b",
+    "name": "段正淳",
+    "name_traditional": "段正淳",
+    "titles": [
+      "大理中宗",
+      "文安皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.dali",
+    "birth": null,
+    "death": {
+      "year": 1110,
+      "circa": true,
+      "original": "禅位为僧后卒",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1096,
+      "end": 1108,
+      "note": "高升泰死后还政段氏，史称后理国；后禅位出家"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.dali.duanzhengyan"
+      ]
+    },
+    "predecessor": null,
+    "successor": "person.dali.duanzhengyan",
+    "bio": "高升泰篡段氏两年后，其子高泰明遵父遗嘱还政于段氏，段正淳复国，史称后理国。然实权仍归高氏相国。晚年禅位为僧，大理二十二帝中十帝禅位为僧，此风其著。金庸《天龙八部》中段正淳多情形象即源于此。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q832433",
+    "sources": [
+      {
+        "title": "南诏野史",
+        "type": "secondary"
+      },
+      {
+        "title": "Wikidata Q832433",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q832433"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.dali.duanzhengyan",
+    "uuid": "1e1eb6c1-64e4-4b0f-a423-b0ca25b0161a",
+    "name": "段正严",
+    "name_traditional": "段正嚴",
+    "titles": [
+      "大理宪宗",
+      "宣仁皇帝"
+    ],
+    "courtesy_name": "和誉",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.dali",
+    "birth": {
+      "year": 1083,
+      "circa": true,
+      "original": "段正淳之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1176,
+      "circa": false,
+      "original": "禅位为僧后卒，年九十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1108,
+      "end": 1147,
+      "note": "在位三十九年后禅位出家"
+    },
+    "family": {
+      "father": "person.dali.duanzhengchun",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.dali.duanzhengchun",
+    "successor": null,
+    "bio": "字和誉，即《天龙八部》中段誉的历史原型。在位三十九年，为大理国在位最久的皇帝。励精图治，遣使入宋朝贡，获宋册封为金紫光禄大夫、云南节度使、大理王。晚年高氏内争，禅位为僧，寿至九十四，为历代帝王中最高寿者之一。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q2213643",
+    "sources": [
+      {
+        "title": "南诏野史",
+        "type": "secondary"
+      },
+      {
+        "title": "宋史·外国传",
+        "type": "primary"
+      },
+      {
+        "title": "Wikidata Q2213643",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q2213643"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.dali.duanxingzhi",
+    "uuid": "a2d6454e-ace8-4187-9f97-4273bc473132",
+    "name": "段兴智",
+    "name_traditional": "段興智",
+    "titles": [
+      "大理末帝（天定贤王）"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.dali",
+    "birth": null,
+    "death": {
+      "year": 1260,
+      "circa": true,
+      "original": "入元后受命世袭大理总管，约1260年卒",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1251,
+      "end": 1253,
+      "note": "1253年蒙古忽必烈、兀良合台灭大理"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": null,
+    "successor": null,
+    "bio": "大理末代皇帝。蒙古宪宗三年，忽必烈革囊渡江，兀良合台攻陷羊苴咩城，段兴智逃至昆泽被擒。蒙古不杀而降，反授其摩诃罗嵯（大王）名号，命为大理世袭总管。段氏总管延续至明初，比元朝还多活了几十年。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q11125562",
+    "sources": [
+      {
+        "title": "元史·兀良合台传",
+        "type": "primary"
+      },
+      {
+        "title": "南诏野史",
+        "type": "secondary"
+      },
+      {
+        "title": "Wikidata Q11125562",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q11125562"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
 ]

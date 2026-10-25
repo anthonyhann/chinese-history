@@ -4,131 +4,377 @@
     "uuid": "5ff4f970-26b4-4bb5-b155-f4dc0d59a5c4",
     "name": "高洋",
     "name_traditional": "高洋",
-    "titles": ["北齐文宣帝", "显祖文宣皇帝"],
+    "titles": [
+      "北齐文宣帝",
+      "显祖文宣皇帝"
+    ],
     "courtesy_name": "子进",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-qi",
-    "birth": {"year": 526, "circa": false, "original": "高欢第二子", "disputed": []},
-    "death": {"year": 559, "circa": false, "original": "天保十年十月甲午，暴崩于晋阳宫德阳堂，年三十一", "disputed": []},
-    "reign": {"start": 550, "end": 559},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.nqi.gaoyin"]},
+    "birth": {
+      "year": 526,
+      "circa": false,
+      "original": "高欢第二子",
+      "disputed": []
+    },
+    "death": {
+      "year": 559,
+      "circa": false,
+      "original": "天保十年十月甲午，暴崩于晋阳宫德阳堂，年三十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 550,
+      "end": 559
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nqi.gaoyin"
+      ]
+    },
     "predecessor": null,
     "successor": "person.nqi.gaoyin",
     "bio": "高欢次子，北齐开国皇帝。初以外拙内明著称，受东魏禅后励精图治，北击柔然、契丹、突厥，南取淮南，突厥称之为「英雄天子」。在位后期酗酒狂暴，杀戮大臣宗室，以锯人、剜心为乐，终因酗酒暴崩。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北齐书·文宣帝纪", "type": "primary", "ref": "卷四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q712338",
+    "sources": [
+      {
+        "title": "北齐书·文宣帝纪",
+        "type": "primary",
+        "ref": "卷四"
+      },
+      {
+        "title": "Wikidata Q712338",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q712338"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nqi.gaoyin",
     "uuid": "b3d24946-1687-4ef4-842d-448c43df64e9",
     "name": "高殷",
     "name_traditional": "高殷",
-    "titles": ["北齐废帝", "济南王"],
+    "titles": [
+      "北齐废帝",
+      "济南王"
+    ],
     "courtesy_name": "正道",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-qi",
-    "birth": {"year": 545, "circa": false, "original": "天保元年生，文宣帝长子", "disputed": []},
-    "death": {"year": 561, "circa": false, "original": "皇建二年九月，被孝昭帝所杀，年十七", "disputed": []},
-    "reign": {"start": 559, "end": 560, "note": "被叔父高演、高湛废为济南王"},
-    "family": {"father": "person.nqi.gaoyang", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 545,
+      "circa": false,
+      "original": "天保元年生，文宣帝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 561,
+      "circa": false,
+      "original": "皇建二年九月，被孝昭帝所杀，年十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 559,
+      "end": 560,
+      "note": "被叔父高演、高湛废为济南王"
+    },
+    "family": {
+      "father": "person.nqi.gaoyang",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nqi.gaoyang",
     "successor": "person.nqi.gaoyan",
     "bio": "文宣帝长子，温和好学。文宣帝曾令其手刃囚徒以练胆，殷恻然不能，为父所鄙。即位后杨愔等辅政欲削二叔之权，事泄，高演、高湛政变夺权，被废为济南王，次年被杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北齐书·废帝纪", "type": "primary", "ref": "卷五"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q708368",
+    "sources": [
+      {
+        "title": "北齐书·废帝纪",
+        "type": "primary",
+        "ref": "卷五"
+      },
+      {
+        "title": "Wikidata Q708368",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q708368"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nqi.gaoyan",
     "uuid": "0e5db3bb-ac0d-4bd0-9d64-db180713d693",
     "name": "高演",
     "name_traditional": "高演",
-    "titles": ["北齐孝昭帝", "肃宗孝昭皇帝"],
+    "titles": [
+      "北齐孝昭帝",
+      "肃宗孝昭皇帝"
+    ],
     "courtesy_name": "延安",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-qi",
-    "birth": {"year": 535, "circa": false, "original": "高欢第六子", "disputed": []},
-    "death": {"year": 561, "circa": false, "original": "皇建二年十一月，坠马伤重而崩，年二十七", "disputed": []},
-    "reign": {"start": 560, "end": 561},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 535,
+      "circa": false,
+      "original": "高欢第六子",
+      "disputed": []
+    },
+    "death": {
+      "year": 561,
+      "circa": false,
+      "original": "皇建二年十一月，坠马伤重而崩，年二十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 560,
+      "end": 561
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nqi.gaoyin",
     "successor": "person.nqi.gaozhan",
     "bio": "高欢第六子。与弟高湛合谋废侄高殷自立。在位期间政治尚称清明，然因杀废帝自悔，临终不传子而传弟高湛，以求保全其子百年。次年坠马而亡。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北齐书·孝昭帝纪", "type": "primary", "ref": "卷六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q708325",
+    "sources": [
+      {
+        "title": "北齐书·孝昭帝纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "Wikidata Q708325",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q708325"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nqi.gaozhan",
     "uuid": "50c496d9-a842-44c5-902a-4a42ac7ff8a9",
     "name": "高湛",
     "name_traditional": "高湛",
-    "titles": ["北齐武成帝", "世祖武成皇帝"],
+    "titles": [
+      "北齐武成帝",
+      "世祖武成皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-qi",
-    "birth": {"year": 537, "circa": true, "original": "高欢第九子", "disputed": []},
-    "death": {"year": 569, "circa": true, "original": "天统四年十二月辛未，崩于邺宫乾寿堂，年三十二", "disputed": []},
-    "reign": {"start": 561, "end": 565, "note": "565年传位太子高纬，自为太上皇帝仍掌实权"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.nqi.gaowei"]},
+    "birth": {
+      "year": 537,
+      "circa": true,
+      "original": "高欢第九子",
+      "disputed": []
+    },
+    "death": {
+      "year": 569,
+      "circa": true,
+      "original": "天统四年十二月辛未，崩于邺宫乾寿堂，年三十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 561,
+      "end": 565,
+      "note": "565年传位太子高纬，自为太上皇帝仍掌实权"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nqi.gaowei"
+      ]
+    },
     "predecessor": "person.nqi.gaoyan",
     "successor": "person.nqi.gaowei",
     "bio": "高欢第九子。杀孝昭帝之子百年而继位。在位期间宠信和士开、祖珽，淫佚无度，逼奸皇嫂李祖娥。传位九岁太子而自为太上皇，朝政益坏，北齐亡国之势已成。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北齐书·武成帝纪", "type": "primary", "ref": "卷七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q718243",
+    "sources": [
+      {
+        "title": "北齐书·武成帝纪",
+        "type": "primary",
+        "ref": "卷七"
+      },
+      {
+        "title": "Wikidata Q718243",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q718243"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nqi.gaowei",
     "uuid": "ba1f7e5d-de0a-41f1-9982-18b41925ec33",
     "name": "高纬",
     "name_traditional": "高緯",
-    "titles": ["北齐后主", "温国公"],
+    "titles": [
+      "北齐后主",
+      "温国公"
+    ],
     "courtesy_name": "仁纲",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-qi",
-    "birth": {"year": 556, "circa": false, "original": "河清四年生，武成帝长子", "disputed": []},
-    "death": {"year": 577, "circa": false, "original": "承光元年被俘至长安，同年被北周处死", "disputed": []},
-    "reign": {"start": 565, "end": 577},
-    "family": {"father": "person.nqi.gaozhan", "mother": null, "spouses": [], "children": ["person.nqi.gaoheng"]},
+    "birth": {
+      "year": 556,
+      "circa": false,
+      "original": "河清四年生，武成帝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 577,
+      "circa": false,
+      "original": "承光元年被俘至长安，同年被北周处死",
+      "disputed": []
+    },
+    "reign": {
+      "start": 565,
+      "end": 577
+    },
+    "family": {
+      "father": "person.nqi.gaozhan",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nqi.gaoheng"
+      ]
+    },
     "predecessor": "person.nqi.gaozhan",
     "successor": "person.nqi.gaoheng",
     "bio": "北齐后主。昏庸懦弱，诛戮忠良：斛律光、高长恭（兰陵王）皆死于其手。盛宠冯小怜，晋阳告急时犹与之并骑观猎。北周来伐，传位八岁幼子高恒，随即国破被俘，封温国公，同年被处死。「小怜玉体横陈夜，已报周师入晋阳」即咏其亡国。",
-    "events": ["event.nzhou.mieqi"],
+    "events": [
+      "event.nzhou.mieqi"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北齐书·后主纪", "type": "primary", "ref": "卷八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q718181",
+    "sources": [
+      {
+        "title": "北齐书·后主纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "Wikidata Q718181",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q718181"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nqi.gaoheng",
     "uuid": "f6c5145d-8afc-42e8-b2a3-ba8aaf49e27d",
     "name": "高恒",
     "name_traditional": "高恆",
-    "titles": ["北齐幼主"],
+    "titles": [
+      "北齐幼主"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-qi",
-    "birth": {"year": 570, "circa": false, "original": "天统六年生，后主之子", "disputed": []},
-    "death": {"year": 578, "circa": true, "original": "被俘后被北周处死", "disputed": []},
-    "reign": {"start": 577, "end": 577, "note": "在位仅月余即国破"},
-    "family": {"father": "person.nqi.gaowei", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 570,
+      "circa": false,
+      "original": "天统六年生，后主之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 578,
+      "circa": true,
+      "original": "被俘后被北周处死",
+      "disputed": []
+    },
+    "reign": {
+      "start": 577,
+      "end": 577,
+      "note": "在位仅月余即国破"
+    },
+    "family": {
+      "father": "person.nqi.gaowei",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nqi.gaowei",
     "successor": null,
     "bio": "北齐末代皇帝。周军压境，后主于承光元年正月禅位于八岁的高恒，自称太上皇帝。二十余日后邺城陷落，父子出逃被擒，北齐亡。后被北周以谋反罪名处死。",
-    "events": ["event.nzhou.mieqi"],
+    "events": [
+      "event.nzhou.mieqi"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北齐书·幼主纪", "type": "primary", "ref": "卷八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q66849347",
+    "sources": [
+      {
+        "title": "北齐书·幼主纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "Wikidata Q66849347",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q66849347"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

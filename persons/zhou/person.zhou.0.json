@@ -37,12 +37,17 @@
     "bio": "战国时期最彻底的改革家。两次变法：废井田开阡陌、奖励军功、什伍连坐、迁都咸阳、废分封行县制，使秦国一跃而为战国首强。作法自毙，秦惠王车裂之，然秦法未改，为秦统一六国奠定制度根基",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q351345",
     "sources": [
       {
         "title": "史记·商君列传",
         "type": "primary",
         "ref": "卷六十八"
+      },
+      {
+        "title": "Wikidata Q351345",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q351345"
       }
     ],
     "_meta": {
@@ -84,12 +89,17 @@
     "bio": "战国四大名将之首，人屠。伊阙之战斩韩魏联军二十四万，鄢郢之战水灌楚都，长平之战坑杀赵卒四十万，一生七十余战未尝一败。因拒带兵攻邯郸，触怒昭王，赐剑自裁。死前长叹：我坑赵卒四十万，足以死",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q701746",
     "sources": [
       {
         "title": "史记·白起王翦列传",
         "type": "primary",
         "ref": "卷七十三"
+      },
+      {
+        "title": "Wikidata Q701746",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q701746"
       }
     ],
     "_meta": {
@@ -126,12 +136,17 @@
     "bio": "战国四大名将之一。负荆请罪与蔺相如将相和，长平之战坚壁拒秦三年。赵括代将致长平惨败后，复破燕军。晚年奔魏依楚，「廉颇老矣，尚能饭否」终成遗恨",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q744827",
     "sources": [
       {
         "title": "史记·廉颇蔺相如列传",
         "type": "primary",
         "ref": "卷八十一"
+      },
+      {
+        "title": "Wikidata Q744827",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q744827"
       }
     ],
     "_meta": {
@@ -168,12 +183,17 @@
     "bio": "完璧归赵、渑池之会的主人公。以口舌之利屈秦王于渑池，以国家之急先后私仇而退让廉颇，将相和成千古佳话。赵国外交的胜利者与战略家",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q45701881",
     "sources": [
       {
         "title": "史记·廉颇蔺相如列传",
         "type": "primary",
         "ref": "卷八十一"
+      },
+      {
+        "title": "Wikidata Q45701881",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q45701881"
       }
     ],
     "_meta": {
@@ -221,12 +241,17 @@
     "bio": "中国第一位伟大诗人。主张联齐抗秦、举贤授能，遭上官大夫谗毁，两遭流放。秦将白起拔郢都，悲愤交加，怀石自沉汨罗。《离骚》《天问》《九歌》开楚辞之宗，端午节即源于纪念他",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q313330",
     "sources": [
       {
         "title": "史记·屈原贾生列传",
         "type": "primary",
         "ref": "卷八十四"
+      },
+      {
+        "title": "Wikidata Q313330",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q313330"
       }
     ],
     "_meta": {

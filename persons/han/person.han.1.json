@@ -34,12 +34,17 @@
       "event.han.chuhan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1368034",
     "sources": [
       {
         "title": "史记·萧相国世家",
         "type": "primary",
         "ref": "卷五十三"
+      },
+      {
+        "title": "Wikidata Q1368034",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1368034"
       }
     ],
     "_meta": {
@@ -134,12 +139,17 @@
       "event.han.chuhan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q574498",
     "sources": [
       {
         "title": "史记·淮阴侯列传",
         "type": "primary",
         "ref": "卷九十二"
+      },
+      {
+        "title": "Wikidata Q574498",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q574498"
       }
     ],
     "_meta": {
@@ -184,12 +194,17 @@
       "event.han.mobei"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q701330",
     "sources": [
       {
         "title": "史记·卫将军骠骑列传",
         "type": "primary",
         "ref": "卷一百一十一"
+      },
+      {
+        "title": "Wikidata Q701330",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q701330"
       }
     ],
     "_meta": {
@@ -239,12 +254,17 @@
       "event.han.mobei"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q380583",
     "sources": [
       {
         "title": "史记·卫将军骠骑列传",
         "type": "primary",
         "ref": "卷一百一十一"
+      },
+      {
+        "title": "Wikidata Q380583",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q380583"
       }
     ],
     "_meta": {
@@ -289,12 +309,17 @@
       "event.han.zhangqian"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q96621313",
     "sources": [
       {
         "title": "史记·大宛列传",
         "type": "primary",
         "ref": "卷一百二十三"
+      },
+      {
+        "title": "Wikidata Q96621313",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q96621313"
       }
     ],
     "_meta": {
@@ -392,12 +417,17 @@
       "event.han.banchao"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q366132",
     "sources": [
       {
         "title": "后汉书·班超传",
         "type": "primary",
         "ref": "卷四十七"
+      },
+      {
+        "title": "Wikidata Q366132",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q366132"
       }
     ],
     "_meta": {

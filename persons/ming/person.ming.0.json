@@ -4,351 +4,1033 @@
     "uuid": "2e31ec16-9793-471a-b13a-e1fe25f5c70d",
     "name": "朱元璋",
     "name_traditional": "朱元璋",
-    "titles": ["明太祖", "开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝", "洪武皇帝"],
+    "titles": [
+      "明太祖",
+      "开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝",
+      "洪武皇帝"
+    ],
     "courtesy_name": "国瑞",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1328, "circa": false, "original": "元天历元年九月十八日生于濠州钟离太平乡孤庄村", "disputed": []},
-    "death": {"year": 1398, "circa": false, "original": "洪武三十一年闰五月乙酉，崩于西宫，年七十一", "disputed": []},
-    "reign": {"start": 1368, "end": 1398, "note": "1368年正月即位于应天府，国号大明，建元洪武"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.ming.zhudi"]},
+    "birth": {
+      "year": 1328,
+      "circa": false,
+      "original": "元天历元年九月十八日生于濠州钟离太平乡孤庄村",
+      "disputed": []
+    },
+    "death": {
+      "year": 1398,
+      "circa": false,
+      "original": "洪武三十一年闰五月乙酉，崩于西宫，年七十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1368,
+      "end": 1398,
+      "note": "1368年正月即位于应天府，国号大明，建元洪武"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhudi"
+      ]
+    },
     "predecessor": "person.yuan.tuohuantiemuer",
     "successor": "person.ming.zhuyunwen",
     "bio": "中国历史上出身最寒微的开国皇帝。少年为僧、行乞，投红巾军，娶马皇后，以「高筑墙、广积粮、缓称王」之策削平陈友谅、张士诚，驱逐蒙元，恢复中华。在位三十年，废丞相、设卫所、行里甲、兴大狱（胡惟庸案、蓝玉案诛戮功臣数万），编《大明律》《大诰》，一手打造了帝制晚期最严密的皇权体制。",
-    "events": ["event.yuan.hongjin", "event.ming.jianli"],
+    "events": [
+      "event.yuan.hongjin",
+      "event.ming.jianli"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·太祖本纪", "type": "primary", "ref": "卷一至卷三"}, {"title": "明太祖实录", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9957",
+    "sources": [
+      {
+        "title": "明史·太祖本纪",
+        "type": "primary",
+        "ref": "卷一至卷三"
+      },
+      {
+        "title": "明太祖实录",
+        "type": "primary"
+      },
+      {
+        "title": "Wikidata Q9957",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9957"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuyunwen",
     "uuid": "f74a8af7-8620-4e00-8c26-b6890b115ce7",
     "name": "朱允炆",
     "name_traditional": "朱允炆",
-    "titles": ["建文帝", "恭闵惠皇帝（南明追谥）"],
+    "titles": [
+      "建文帝",
+      "恭闵惠皇帝（南明追谥）"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1377, "circa": false, "original": "洪武十年十二月五日生，懿文太子朱标次子", "disputed": []},
-    "death": {"year": 1402, "circa": true, "original": "建文四年六月，南京城破，宫中火起，下落不明（一说自焚，一说为僧逃亡）", "disputed": []},
-    "reign": {"start": 1398, "end": 1402},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1377,
+      "circa": false,
+      "original": "洪武十年十二月五日生，懿文太子朱标次子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1402,
+      "circa": true,
+      "original": "建文四年六月，南京城破，宫中火起，下落不明（一说自焚，一说为僧逃亡）",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1398,
+      "end": 1402
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.ming.zhuyuanzhang",
     "successor": "person.ming.zhudi",
     "bio": "明朝第二位皇帝，以皇太孙继位。力行削藩，一年间连废五王。燕王朱棣以「靖难」起兵，四年战争后南京陷落，建文帝下落不明——自焚、为僧、逃亡海外诸说并存，成为明史第一大悬案，亦为郑和下西洋的传说动因之一。",
-    "events": ["event.ming.jingnan"],
+    "events": [
+      "event.ming.jingnan"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·恭闵帝纪", "type": "primary", "ref": "卷四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9961",
+    "sources": [
+      {
+        "title": "明史·恭闵帝纪",
+        "type": "primary",
+        "ref": "卷四"
+      },
+      {
+        "title": "Wikidata Q9961",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9961"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhudi",
     "uuid": "00e07d1d-1eac-4487-b03a-8130fb18ae92",
     "name": "朱棣",
     "name_traditional": "朱棣",
-    "titles": ["明成祖", "启天弘道高明肇运圣武神功纯仁至孝文皇帝", "永乐帝"],
+    "titles": [
+      "明成祖",
+      "启天弘道高明肇运圣武神功纯仁至孝文皇帝",
+      "永乐帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1360, "circa": false, "original": "元至正二十年四月十七日生于应天府，太祖第四子", "disputed": []},
-    "death": {"year": 1424, "circa": false, "original": "永乐二十二年七月庚寅，北征回师途中崩于榆木川，年六十五", "disputed": []},
-    "reign": {"start": 1402, "end": 1424},
-    "family": {"father": "person.ming.zhuyuanzhang", "mother": null, "spouses": [], "children": ["person.ming.zhugaochi"]},
+    "birth": {
+      "year": 1360,
+      "circa": false,
+      "original": "元至正二十年四月十七日生于应天府，太祖第四子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1424,
+      "circa": false,
+      "original": "永乐二十二年七月庚寅，北征回师途中崩于榆木川，年六十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1402,
+      "end": 1424
+    },
+    "family": {
+      "father": "person.ming.zhuyuanzhang",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhugaochi"
+      ]
+    },
     "predecessor": "person.ming.zhuyunwen",
     "successor": "person.ming.zhugaochi",
     "bio": "太祖第四子，初封燕王。靖难之役夺位，诛方孝孺十族，以藩王身份改写成明统。在位期间迁都北京、五征漠北、遣郑和六下西洋、修《永乐大典》、设内阁、置东厂，武功文治并称，创永乐盛世，亦为明代宦官特务政治之始作俑者。",
-    "events": ["event.ming.jingnan", "event.ming.zhenghe"],
+    "events": [
+      "event.ming.jingnan",
+      "event.ming.zhenghe"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·成祖本纪", "type": "primary", "ref": "卷五至卷七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9965",
+    "sources": [
+      {
+        "title": "明史·成祖本纪",
+        "type": "primary",
+        "ref": "卷五至卷七"
+      },
+      {
+        "title": "Wikidata Q9965",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9965"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhugaochi",
     "uuid": "760e574d-34e1-4876-8652-523a53768aa8",
     "name": "朱高炽",
     "name_traditional": "朱高熾",
-    "titles": ["明仁宗", "敬天体道纯诚至德弘文钦武章圣达孝昭皇帝"],
+    "titles": [
+      "明仁宗",
+      "敬天体道纯诚至德弘文钦武章圣达孝昭皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1378, "circa": false, "original": "洪武十一年七月二十三日生于中都凤阳，成祖长子", "disputed": []},
-    "death": {"year": 1425, "circa": false, "original": "洪熙元年五月辛巳，暴崩于钦安殿，年四十八", "disputed": []},
-    "reign": {"start": 1424, "end": 1425, "note": "在位仅十个月"},
-    "family": {"father": "person.ming.zhudi", "mother": null, "spouses": [], "children": ["person.ming.zhuzhanji"]},
+    "birth": {
+      "year": 1378,
+      "circa": false,
+      "original": "洪武十一年七月二十三日生于中都凤阳，成祖长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1425,
+      "circa": false,
+      "original": "洪熙元年五月辛巳，暴崩于钦安殿，年四十八",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1424,
+      "end": 1425,
+      "note": "在位仅十个月"
+    },
+    "family": {
+      "father": "person.ming.zhudi",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuzhanji"
+      ]
+    },
     "predecessor": "person.ming.zhudi",
     "successor": "person.ming.zhuzhanji",
     "bio": "体肥足跛，不为成祖所喜，以「好圣孙」（宣宗）得保储位。靖难时坚守北平有功。在位十月，平反建文诸臣、罢西洋宝船、准备还都南京，仁政爱民，为「仁宣之治」开端。暴崩，死因成谜。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·仁宗本纪", "type": "primary", "ref": "卷八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9972",
+    "sources": [
+      {
+        "title": "明史·仁宗本纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "Wikidata Q9972",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9972"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuzhanji",
     "uuid": "6ece1221-f0e1-45a6-8abe-59345836971d",
     "name": "朱瞻基",
     "name_traditional": "朱瞻基",
-    "titles": ["明宣宗", "宪天崇道英明神圣钦文昭武宽仁纯孝章皇帝"],
+    "titles": [
+      "明宣宗",
+      "宪天崇道英明神圣钦文昭武宽仁纯孝章皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1399, "circa": false, "original": "建文元年二月九日生于燕王府，仁宗长子", "disputed": []},
-    "death": {"year": 1435, "circa": false, "original": "宣德十年正月甲戌，崩于乾清宫，年三十八", "disputed": []},
-    "reign": {"start": 1425, "end": 1435},
-    "family": {"father": "person.ming.zhugaochi", "mother": null, "spouses": [], "children": ["person.ming.zhuqizhen", "person.ming.zhuqiyu"]},
+    "birth": {
+      "year": 1399,
+      "circa": false,
+      "original": "建文元年二月九日生于燕王府，仁宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1435,
+      "circa": false,
+      "original": "宣德十年正月甲戌，崩于乾清宫，年三十八",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1425,
+      "end": 1435
+    },
+    "family": {
+      "father": "person.ming.zhugaochi",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuqizhen",
+        "person.ming.zhuqiyu"
+      ]
+    },
     "predecessor": "person.ming.zhugaochi",
     "successor": "person.ming.zhuqizhen",
     "bio": "仁宗长子，成祖最钟爱的「好圣孙」。即位后平定汉王朱高煦之乱（亲征乐安州），终止下西洋。在位十年政治清明、仓庾充溢，与仁宗朝合称「仁宣之治」。雅好书画促织（蟋蟀天子），然设内书堂教宦官识字，埋下明代宦官干政之患。",
-    "events": ["event.ming.zhenghe"],
+    "events": [
+      "event.ming.zhenghe"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·宣宗本纪", "type": "primary", "ref": "卷九"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9977",
+    "sources": [
+      {
+        "title": "明史·宣宗本纪",
+        "type": "primary",
+        "ref": "卷九"
+      },
+      {
+        "title": "Wikidata Q9977",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9977"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuqizhen",
     "uuid": "23c2428b-d9c1-4286-b395-3c11f93e604b",
     "name": "朱祁镇",
     "name_traditional": "朱祁鎮",
-    "titles": ["明英宗", "法天立道仁明诚敬昭文宪武至德广孝睿皇帝"],
+    "titles": [
+      "明英宗",
+      "法天立道仁明诚敬昭文宪武至德广孝睿皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1427, "circa": false, "original": "宣德二年十一月十一日生，宣宗长子", "disputed": []},
-    "death": {"year": 1464, "circa": false, "original": "天顺八年正月壬申，崩于文华殿，年三十八", "disputed": []},
-    "reign": {"start": 1435, "end": 1464, "note": "两度在位：1435-1449（正统）与 1457-1464（天顺）；土木堡被俘，夺门之变复位"},
-    "family": {"father": "person.ming.zhuzhanji", "mother": null, "spouses": [], "children": ["person.ming.zhujianshen"]},
+    "birth": {
+      "year": 1427,
+      "circa": false,
+      "original": "宣德二年十一月十一日生，宣宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1464,
+      "circa": false,
+      "original": "天顺八年正月壬申，崩于文华殿，年三十八",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1435,
+      "end": 1464,
+      "note": "两度在位：1435-1449（正统）与 1457-1464（天顺）；土木堡被俘，夺门之变复位"
+    },
+    "family": {
+      "father": "person.ming.zhuzhanji",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhujianshen"
+      ]
+    },
     "predecessor": "person.ming.zhuzhanji",
     "successor": "person.ming.zhuqiyu",
     "bio": "九岁即位。正统十四年听宦官王振怂恿亲征瓦剌，五十万大军溃于土木堡，本人被俘，史称「土木堡之变」。被释回后幽居南宫七年，景泰八年夺门之变复位，冤杀于谦。临终遗诏废止宫妃殉葬，为其一生最大善政。",
-    "events": ["event.ming.tumubao", "event.ming.duomen"],
+    "events": [
+      "event.ming.tumubao",
+      "event.ming.duomen"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·英宗前纪/后纪", "type": "primary", "ref": "卷十至卷十二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9983",
+    "sources": [
+      {
+        "title": "明史·英宗前纪/后纪",
+        "type": "primary",
+        "ref": "卷十至卷十二"
+      },
+      {
+        "title": "Wikidata Q9983",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9983"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuqiyu",
     "uuid": "a853754b-2f38-4fda-be46-43ddd803e496",
     "name": "朱祁钰",
     "name_traditional": "朱祁鈺",
-    "titles": ["明代宗（景泰帝）", "恭仁康定景皇帝"],
+    "titles": [
+      "明代宗（景泰帝）",
+      "恭仁康定景皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1428, "circa": false, "original": "宣德三年生，宣宗次子", "disputed": []},
-    "death": {"year": 1457, "circa": false, "original": "天顺元年二月癸丑，夺门之变后废为郕王，寻崩（一说被勒死），年三十", "disputed": []},
-    "reign": {"start": 1449, "end": 1457, "note": "土木堡之变后以郕王监国即位"},
-    "family": {"father": "person.ming.zhuzhanji", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1428,
+      "circa": false,
+      "original": "宣德三年生，宣宗次子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1457,
+      "circa": false,
+      "original": "天顺元年二月癸丑，夺门之变后废为郕王，寻崩（一说被勒死），年三十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1449,
+      "end": 1457,
+      "note": "土木堡之变后以郕王监国即位"
+    },
+    "family": {
+      "father": "person.ming.zhuzhanji",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.ming.zhuqizhen",
     "successor": "person.ming.zhuqizhen",
     "bio": "土木之变国无长君，临危受命继位，用于谦打赢北京保卫战，社稷转危为安。在位八年，灾荒频仍而能任贤图治。然贪天位不放，废英宗太子，迎回英宗后囚之南宫。病重时被石亨、徐有贞、曹吉祥夺门复辟，废黜而死，为明代唯一未葬入十三陵的皇帝。",
-    "events": ["event.ming.tumubao", "event.ming.duomen"],
+    "events": [
+      "event.ming.tumubao",
+      "event.ming.duomen"
+    ],
     "artifacts": [],
     "wikidata": null,
-    "sources": [{"title": "明史·景帝纪", "type": "primary", "ref": "卷十一"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "sources": [
+      {
+        "title": "明史·景帝纪",
+        "type": "primary",
+        "ref": "卷十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhujianshen",
     "uuid": "e0c39155-d22a-4f76-9b4d-3440ba8c540d",
     "name": "朱见深",
     "name_traditional": "朱見深",
-    "titles": ["明宪宗", "继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝"],
+    "titles": [
+      "明宪宗",
+      "继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1447, "circa": false, "original": "正统十二年十一月二日生，英宗长子", "disputed": []},
-    "death": {"year": 1487, "circa": false, "original": "成化二十三年八月二十二日崩于乾清宫，年四十一", "disputed": []},
-    "reign": {"start": 1464, "end": 1487},
-    "family": {"father": "person.ming.zhuqizhen", "mother": null, "spouses": [], "children": ["person.ming.zhuyoutang"]},
+    "birth": {
+      "year": 1447,
+      "circa": false,
+      "original": "正统十二年十一月二日生，英宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1487,
+      "circa": false,
+      "original": "成化二十三年八月二十二日崩于乾清宫，年四十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1464,
+      "end": 1487
+    },
+    "family": {
+      "father": "person.ming.zhuqizhen",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuyoutang"
+      ]
+    },
     "predecessor": "person.ming.zhuqizhen",
     "successor": "person.ming.zhuyoutang",
     "bio": "两岁即遭土木之变，太子位两立两废，童年坎坷养成口吃。即位后为于谦平反。在位期间宠信万贵妃（年长其十七岁），设西厂，用汪直，朝政渐坏；然成化年间荆襄流民处置、收复河套亦有可称。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·宪宗本纪", "type": "primary", "ref": "卷十三至卷十四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9991",
+    "sources": [
+      {
+        "title": "明史·宪宗本纪",
+        "type": "primary",
+        "ref": "卷十三至卷十四"
+      },
+      {
+        "title": "Wikidata Q9991",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9991"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuyoutang",
     "uuid": "fda69c23-82bd-4b04-93fb-c88e0de19c80",
     "name": "朱祐樘",
     "name_traditional": "朱祐樘",
-    "titles": ["明孝宗", "建天明道诚纯中正圣文神武至仁大德敬皇帝"],
+    "titles": [
+      "明孝宗",
+      "建天明道诚纯中正圣文神武至仁大德敬皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1470, "circa": false, "original": "成化六年七月三日生于西内，宪宗第三子", "disputed": []},
-    "death": {"year": 1505, "circa": false, "original": "弘治十八年五月七日崩于乾清宫，年三十六", "disputed": []},
-    "reign": {"start": 1487, "end": 1505},
-    "family": {"father": "person.ming.zhujianshen", "mother": null, "spouses": [], "children": ["person.ming.zhuhouzhao"]},
+    "birth": {
+      "year": 1470,
+      "circa": false,
+      "original": "成化六年七月三日生于西内，宪宗第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1505,
+      "circa": false,
+      "original": "弘治十八年五月七日崩于乾清宫，年三十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1487,
+      "end": 1505
+    },
+    "family": {
+      "father": "person.ming.zhujianshen",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuhouzhao"
+      ]
+    },
     "predecessor": "person.ming.zhujianshen",
     "successor": "person.ming.zhuhouzhao",
     "bio": "明代中兴之主。童年因万贵妃迫害隐于安乐堂六年。即位后斥逐奸佞，广开言路，任刘健、谢迁、李东阳，史称「弘治中兴」。中国帝制史上唯一践行一夫一妻制的皇帝（仅张皇后一人）。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·孝宗本纪", "type": "primary", "ref": "卷十五"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q9994",
+    "sources": [
+      {
+        "title": "明史·孝宗本纪",
+        "type": "primary",
+        "ref": "卷十五"
+      },
+      {
+        "title": "Wikidata Q9994",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q9994"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuhouzhao",
     "uuid": "8fcc8bb0-10a9-4e8c-8eac-7ca4d814174c",
     "name": "朱厚照",
     "name_traditional": "朱厚照",
-    "titles": ["明武宗", "承天达道英肃睿哲昭德显功弘文思孝毅皇帝", "正德帝"],
+    "titles": [
+      "明武宗",
+      "承天达道英肃睿哲昭德显功弘文思孝毅皇帝",
+      "正德帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1491, "circa": false, "original": "弘治四年九月二十四日生，孝宗独子", "disputed": []},
-    "death": {"year": 1521, "circa": false, "original": "正德十六年三月丙寅，豹房崩，年三十一", "disputed": []},
-    "reign": {"start": 1505, "end": 1521},
-    "family": {"father": "person.ming.zhuyoutang", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1491,
+      "circa": false,
+      "original": "弘治四年九月二十四日生，孝宗独子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1521,
+      "circa": false,
+      "original": "正德十六年三月丙寅，豹房崩，年三十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1505,
+      "end": 1521
+    },
+    "family": {
+      "father": "person.ming.zhuyoutang",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.ming.zhuyoutang",
     "successor": "person.ming.zhuhoucong",
     "bio": "孝宗独子，明代最荒诞也最有个性的皇帝。建豹房、自封「威武大将军朱寿」亲征应州败小王子，宁王宸濠之乱中被王阳明擒获后欲放之再战。宠信刘瑾等「八虎」，设西厂内厂。一生在离经叛道与军事才能之间撕裂，无子而崩，皇位转入旁支。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·武宗本纪", "type": "primary", "ref": "卷十六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q10007",
+    "sources": [
+      {
+        "title": "明史·武宗本纪",
+        "type": "primary",
+        "ref": "卷十六"
+      },
+      {
+        "title": "Wikidata Q10007",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q10007"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuhoucong",
     "uuid": "9ca46eb4-d57d-4a9b-9d90-4a089edde7c1",
     "name": "朱厚熜",
     "name_traditional": "朱厚熜",
-    "titles": ["明世宗", "钦天履道英毅神圣宣文广武洪仁大孝肃皇帝", "嘉靖帝"],
+    "titles": [
+      "明世宗",
+      "钦天履道英毅神圣宣文广武洪仁大孝肃皇帝",
+      "嘉靖帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1507, "circa": false, "original": "正德二年八月十日生于湖广安陆州兴王府", "disputed": []},
-    "death": {"year": 1567, "circa": false, "original": "嘉靖四十五年十二月十四日崩于乾清宫，年六十", "disputed": []},
-    "reign": {"start": 1521, "end": 1567},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.ming.zhuzaihou"]},
+    "birth": {
+      "year": 1507,
+      "circa": false,
+      "original": "正德二年八月十日生于湖广安陆州兴王府",
+      "disputed": []
+    },
+    "death": {
+      "year": 1567,
+      "circa": false,
+      "original": "嘉靖四十五年十二月十四日崩于乾清宫，年六十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1521,
+      "end": 1567
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuzaihou"
+      ]
+    },
     "predecessor": "person.ming.zhuhouzhao",
     "successor": "person.ming.zhuzaihou",
     "bio": "以藩王入继大统。即位初「大礼议」之争三年，杖毙十七人，以皇权压倒文官集团。在位四十五年，前期嘉靖中兴，后期崇信道教、二十余年不上朝，严嵩专权二十年，南倭北虏交困。壬寅宫变中几乎被宫女勒死。海瑞上《治安疏》骂其「家家皆净」，下狱而未杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·世宗本纪", "type": "primary", "ref": "卷十七至卷十八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q10011",
+    "sources": [
+      {
+        "title": "明史·世宗本纪",
+        "type": "primary",
+        "ref": "卷十七至卷十八"
+      },
+      {
+        "title": "Wikidata Q10011",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q10011"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuzaihou",
     "uuid": "ac4214d1-1b2a-481c-81ad-1eebe97f38a5",
     "name": "朱载垕",
     "name_traditional": "朱載垕",
-    "titles": ["明穆宗", "契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝", "隆庆帝"],
+    "titles": [
+      "明穆宗",
+      "契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝",
+      "隆庆帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1537, "circa": false, "original": "嘉靖十六年正月二十三日生，世宗第三子", "disputed": []},
-    "death": {"year": 1572, "circa": false, "original": "隆庆六年五月二十六日崩于乾清宫，年三十六", "disputed": []},
-    "reign": {"start": 1567, "end": 1572},
-    "family": {"father": "person.ming.zhuhoucong", "mother": null, "spouses": [], "children": ["person.ming.zhuyijun"]},
+    "birth": {
+      "year": 1537,
+      "circa": false,
+      "original": "嘉靖十六年正月二十三日生，世宗第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1572,
+      "circa": false,
+      "original": "隆庆六年五月二十六日崩于乾清宫，年三十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1567,
+      "end": 1572
+    },
+    "family": {
+      "father": "person.ming.zhuhoucong",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuyijun"
+      ]
+    },
     "predecessor": "person.ming.zhuhoucong",
     "successor": "person.ming.zhuyijun",
     "bio": "世宗第三子。在位六年，除世宗弊政，平反海瑞。用高拱、张居正，与蒙古俺答汗达成隆庆和议（封贡互市），北方边境数十年无大战；隆庆开关解除海禁，月港贸易繁荣，为晚明经济注入了关键活力。然在位日浅，旋即因色欲过度而崩。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·穆宗本纪", "type": "primary", "ref": "卷十九"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q67933935",
+    "sources": [
+      {
+        "title": "明史·穆宗本纪",
+        "type": "primary",
+        "ref": "卷十九"
+      },
+      {
+        "title": "Wikidata Q67933935",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q67933935"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuyijun",
     "uuid": "53d48516-d194-4e2e-bbb5-ea8618977d40",
     "name": "朱翊钧",
     "name_traditional": "朱翊鈞",
-    "titles": ["明神宗", "范天合道哲肃敦简光文章武安仁止孝显皇帝", "万历帝"],
+    "titles": [
+      "明神宗",
+      "范天合道哲肃敦简光文章武安仁止孝显皇帝",
+      "万历帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1563, "circa": false, "original": "嘉靖四十二年八月十七日生，穆宗第三子", "disputed": []},
-    "death": {"year": 1620, "circa": false, "original": "万历四十八年七月二十一日崩于弘德殿，年五十八", "disputed": []},
-    "reign": {"start": 1572, "end": 1620, "note": "在位四十八年，为明朝在位最久的皇帝"},
-    "family": {"father": "person.ming.zhuzaihou", "mother": null, "spouses": [], "children": ["person.ming.zhuchangluo"]},
+    "birth": {
+      "year": 1563,
+      "circa": false,
+      "original": "嘉靖四十二年八月十七日生，穆宗第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1620,
+      "circa": false,
+      "original": "万历四十八年七月二十一日崩于弘德殿，年五十八",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1572,
+      "end": 1620,
+      "note": "在位四十八年，为明朝在位最久的皇帝"
+    },
+    "family": {
+      "father": "person.ming.zhuzaihou",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuchangluo"
+      ]
+    },
     "predecessor": "person.ming.zhuzaihou",
     "successor": "person.ming.zhuchangluo",
     "bio": "十岁即位，张居正摄政十年，一条鞭法、考成法使明朝回光返照。亲政后深居宫中三十年不上朝，「万历三大征」（宁夏、朝鲜、播州）耗尽张居正积蓄。争国本、矿监税使、党争蜂起，辽东努尔哈赤崛起。明朝「实亡于万历」，史家公论。",
-    "events": ["event.ming.zhangjuzheng"],
+    "events": [
+      "event.ming.zhangjuzheng"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·神宗本纪", "type": "primary", "ref": "卷二十至卷二十一"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q10061",
+    "sources": [
+      {
+        "title": "明史·神宗本纪",
+        "type": "primary",
+        "ref": "卷二十至卷二十一"
+      },
+      {
+        "title": "Wikidata Q10061",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q10061"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuchangluo",
     "uuid": "31ad0c46-a6fd-49ba-9015-1df5bd10943e",
     "name": "朱常洛",
     "name_traditional": "朱常洛",
-    "titles": ["明光宗", "崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝", "泰昌帝"],
+    "titles": [
+      "明光宗",
+      "崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝",
+      "泰昌帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1582, "circa": false, "original": "万历十年八月十一日生，神宗长子（宫女王氏所生）", "disputed": []},
-    "death": {"year": 1620, "circa": false, "original": "泰昌元年九月二十六日崩于乾清宫（红丸案），年三十九", "disputed": []},
-    "reign": {"start": 1620, "end": 1620, "note": "在位仅一个月，史称「一月天子」"},
-    "family": {"father": "person.ming.zhuyijun", "mother": null, "spouses": [], "children": ["person.ming.zhuyouxiao", "person.ming.zhuyoujian"]},
+    "birth": {
+      "year": 1582,
+      "circa": false,
+      "original": "万历十年八月十一日生，神宗长子（宫女王氏所生）",
+      "disputed": []
+    },
+    "death": {
+      "year": 1620,
+      "circa": false,
+      "original": "泰昌元年九月二十六日崩于乾清宫（红丸案），年三十九",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1620,
+      "end": 1620,
+      "note": "在位仅一个月，史称「一月天子」"
+    },
+    "family": {
+      "father": "person.ming.zhuyijun",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.ming.zhuyouxiao",
+        "person.ming.zhuyoujian"
+      ]
+    },
     "predecessor": "person.ming.zhuyijun",
     "successor": "person.ming.zhuyouxiao",
     "bio": "神宗长子，因出身低微「争国本」十五年方立为太子，又遭「梃击案」刺杀未遂。即位后罢矿监税使、发内帑犒军，朝野称快。然在位一月即病，服鸿胪寺丞李可灼所进红丸，暴崩，「红丸案」成为明末三大案之一。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·光宗本纪", "type": "primary", "ref": "卷二十一"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q10065",
+    "sources": [
+      {
+        "title": "明史·光宗本纪",
+        "type": "primary",
+        "ref": "卷二十一"
+      },
+      {
+        "title": "Wikidata Q10065",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q10065"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuyouxiao",
     "uuid": "9cd92ac5-1673-4e8d-9288-ae8e039d3201",
     "name": "朱由校",
     "name_traditional": "朱由校",
-    "titles": ["明熹宗", "达天阐道敦孝笃友章文襄武靖穆庄勤悊皇帝", "天启帝"],
+    "titles": [
+      "明熹宗",
+      "达天阐道敦孝笃友章文襄武靖穆庄勤悊皇帝",
+      "天启帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1605, "circa": false, "original": "万历三十三年十一月十四日生，光宗长子", "disputed": []},
-    "death": {"year": 1627, "circa": false, "original": "天启七年八月二十二日崩于乾清宫，年二十三", "disputed": []},
-    "reign": {"start": 1620, "end": 1627},
-    "family": {"father": "person.ming.zhuchangluo", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1605,
+      "circa": false,
+      "original": "万历三十三年十一月十四日生，光宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1627,
+      "circa": false,
+      "original": "天启七年八月二十二日崩于乾清宫，年二十三",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1620,
+      "end": 1627
+    },
+    "family": {
+      "father": "person.ming.zhuchangluo",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.ming.zhuchangluo",
     "successor": "person.ming.zhuyoujian",
     "bio": "光宗长子。好木工，人称「木匠皇帝」，朝政尽付魏忠贤与乳母客氏。阉党大兴诏狱，东林党人杨涟、左光斗等惨死。辽东熊廷弼、袁应泰相继败亡，沈阳、辽阳失守。天启大爆炸（王恭厂灾）死伤数万，为明亡前兆。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·熹宗本纪", "type": "primary", "ref": "卷二十二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q10066",
+    "sources": [
+      {
+        "title": "明史·熹宗本纪",
+        "type": "primary",
+        "ref": "卷二十二"
+      },
+      {
+        "title": "Wikidata Q10066",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q10066"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.ming.zhuyoujian",
     "uuid": "13279007-f8c3-46bf-ab9f-11a3307b7be2",
     "name": "朱由检",
     "name_traditional": "朱由檢",
-    "titles": ["明思宗", "绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝", "崇祯帝"],
+    "titles": [
+      "明思宗",
+      "绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝",
+      "崇祯帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.ming",
-    "birth": {"year": 1611, "circa": false, "original": "万历三十八年十二月二十四日生，光宗第五子", "disputed": []},
-    "death": {"year": 1644, "circa": false, "original": "崇祯十七年三月十九日，李自成破北京，自缢于煤山（景山），年三十四", "disputed": []},
-    "reign": {"start": 1627, "end": 1644},
-    "family": {"father": "person.ming.zhuchangluo", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1611,
+      "circa": false,
+      "original": "万历三十八年十二月二十四日生，光宗第五子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1644,
+      "circa": false,
+      "original": "崇祯十七年三月十九日，李自成破北京，自缢于煤山（景山），年三十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1627,
+      "end": 1644
+    },
+    "family": {
+      "father": "person.ming.zhuchangluo",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.ming.zhuyouxiao",
     "successor": "person.qing.fulin",
     "bio": "明朝末代皇帝。即位三月即铲除魏忠贤，励精图治、勤俭节约、事必躬亲，然刚愎多疑、十七年五十易相，袁崇焕凌迟处死。内有李自成、张献忠，外有皇太极，天灾连年。城破之际手刃公主、妃嫔自尽，自缢前书「朕非亡国之君，诸臣皆亡国之臣」，以发覆面，任贼分裂。",
-    "events": ["event.ming.qingjun-ruguan"],
+    "events": [
+      "event.ming.qingjun-ruguan"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "明史·庄烈帝纪", "type": "primary", "ref": "卷二十三至卷二十四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+    "wikidata": "Q10069",
+    "sources": [
+      {
+        "title": "明史·庄烈帝纪",
+        "type": "primary",
+        "ref": "卷二十三至卷二十四"
+      },
+      {
+        "title": "Wikidata Q10069",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q10069"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "yuanmingqing-v1",
+      "version": 1
+    }
   }
 ]

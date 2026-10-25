@@ -31,12 +31,17 @@
     "bio": "清河崔氏，北魏第一谋臣。料事如神，助太武帝灭夏、北燕、北凉，统一北方。因《国记》直书拓跋早期史事触怒太武，国史之狱被族诛，清河崔氏、范阳卢氏等高门数百人连坐",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q711418",
     "sources": [
       {
         "title": "魏书·崔浩传",
         "type": "primary",
         "ref": "卷三十五"
+      },
+      {
+        "title": "Wikidata Q711418",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q711418"
       }
     ],
     "_meta": {

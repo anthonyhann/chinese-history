@@ -34,12 +34,17 @@
       "event.tang.xuanwumen"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1192341",
     "sources": [
       {
         "title": "旧唐书·长孙无忌传",
         "type": "primary",
         "ref": "卷六十五"
+      },
+      {
+        "title": "Wikidata Q1192341",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1192341"
       }
     ],
     "_meta": {
@@ -89,12 +94,17 @@
       "event.tang.dong-tujue"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q706792",
     "sources": [
       {
         "title": "旧唐书·李靖传",
         "type": "primary",
         "ref": "卷六十七"
+      },
+      {
+        "title": "Wikidata Q706792",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q706792"
       }
     ],
     "_meta": {
@@ -144,12 +154,17 @@
       "event.tang.xuanzang"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q42063",
     "sources": [
       {
         "title": "大慈恩寺三藏法师传",
         "type": "primary",
         "ref": "慧立、彦悰"
+      },
+      {
+        "title": "Wikidata Q42063",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q42063"
       }
     ],
     "_meta": {
@@ -198,12 +213,17 @@
     "bio": "诗王、诗魔。新乐府运动领袖，「文章合为时而著，歌诗合为事而作」，《卖炭翁》《琵琶行》《长恨歌》老妪能解。与元稹并称元白，其诗东传日本，影响《源氏物语》。晚年隐居洛阳香山寺，号香山居士",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q313324",
     "sources": [
       {
         "title": "旧唐书·白居易传",
         "type": "primary",
         "ref": "卷一百六十六"
+      },
+      {
+        "title": "Wikidata Q313324",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q313324"
       }
     ],
     "_meta": {
@@ -252,12 +272,17 @@
     "bio": "文起八代之衰。古文运动领袖，唐宋八大家之首。谏迎佛骨，「一封朝奏九重天，夕贬潮州路八千」。驱鳄鱼、兴乡校，潮州山水为之改姓。苏轼称其「匹夫而为百世师，一言而为天下法」",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q318998",
     "sources": [
       {
         "title": "旧唐书·韩愈传",
         "type": "primary",
         "ref": "卷一百六十"
+      },
+      {
+        "title": "Wikidata Q318998",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q318998"
       }
     ],
     "_meta": {
@@ -306,12 +331,17 @@
     "bio": "河东先生。永贞革新核心成员，改革失败贬永州司马、柳州刺史，「独钓寒江雪」的孤绝正是其心境外化。山水游记与寓言开一代文风，与韩愈并称韩柳。在柳州解放奴婢、凿井种树，死时两袖清风",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q337773",
     "sources": [
       {
         "title": "旧唐书·柳宗元传",
         "type": "primary",
         "ref": "卷一百六十"
+      },
+      {
+        "title": "Wikidata Q337773",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q337773"
       }
     ],
     "_meta": {
@@ -360,12 +390,17 @@
       "event.tang.anshi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q298046",
     "sources": [
       {
         "title": "旧唐书·后妃传",
         "type": "primary",
         "ref": "卷五十一"
+      },
+      {
+        "title": "Wikidata Q298046",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q298046"
       }
     ],
     "_meta": {
@@ -415,12 +450,17 @@
       "event.tang.anshi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q137383718",
     "sources": [
       {
         "title": "旧唐书·安禄山传",
         "type": "primary",
         "ref": "卷二百上"
+      },
+      {
+        "title": "Wikidata Q137383718",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q137383718"
       }
     ],
     "_meta": {

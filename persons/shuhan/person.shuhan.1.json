@@ -40,12 +40,17 @@
       "event.wei.chibi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q198211",
     "sources": [
       {
         "title": "三国志·蜀书·诸葛亮传",
         "type": "primary",
         "ref": "卷三十五"
+      },
+      {
+        "title": "Wikidata Q198211",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q198211"
       }
     ],
     "_meta": {

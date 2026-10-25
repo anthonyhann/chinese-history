@@ -1,0 +1,155 @@
+[
+  {
+    "id": "artifact.bm.admonitions-scroll",
+    "uuid": "4da11fe7-ebc0-457c-8afc-50bcf7cfda76",
+    "name": "女史箴图（唐摹本）",
+    "name_traditional": "女史箴圖（唐摹本）",
+    "name_en": "The Admonitions Scroll (attributed to Gu Kaizhi)",
+    "dynasty": "dynasty.jin",
+    "date": {
+      "start": 500,
+      "end": 700,
+      "original": "传东晋顾恺之（约344-406）作，此为唐摹本",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "绢本设色"
+    ],
+    "dimensions": "纵24.8厘米，横348.2厘米",
+    "description": "顾恺之根据西晋张华《女史箴》所绘的劝诫宫廷女德长卷，现存最早的绢本绘画摹本，中国绘画史的基石之作。原八国联军劫掠至英国，1903年入藏大英博物馆。因丝绢脆弱，每年仅短暂展出。",
+    "current_holder": {
+      "museum": "museum.british-museum",
+      "city": "伦敦",
+      "country": "英国"
+    },
+    "provenance": "1900年八国联军侵华期间流出，1903年入藏大英博物馆",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "link": "https://www.britishmuseum.org/collection/search?keyword=admonitions%20scroll",
+        "license": "CC BY-NC-SA",
+        "source": "British Museum Collection Online（图片禁止商用，仅放检索链接）"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "British Museum Collection Online: The Admonitions Scroll",
+        "type": "institutional",
+        "url": "https://www.britishmuseum.org/collection/search?keyword=admonitions%20scroll"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "bm-curated-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.bm.david-vases",
+    "uuid": "2e369ac9-4d89-4ea9-8c2e-b08ce2364e5e",
+    "name": "至正型青花云龙纹象耳瓶（大维德瓶，一对）",
+    "name_traditional": "至正型青花雲龍紋象耳瓶（大維德瓶，一對）",
+    "name_en": "The David Vases (pair of porcelain temple vases with elephant-head handles)",
+    "dynasty": "dynasty.yuan",
+    "date": {
+      "start": 1351,
+      "end": 1351,
+      "original": "元至正十一年（1351年）纪年铭文",
+      "circa": false
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "青花瓷"
+    ],
+    "dimensions": "各高63.6厘米",
+    "description": "颈部有「信州路玉山县顺城乡德教里荆塘社奉圣弟子张文进喜舍香炉花瓶一付祈保合家清吉子女平安至正十一年四月吉日舍」纪年铭文，是元青花的断代标准器——所有元青花的年代鉴定皆以此对瓶为基准。原为北京智化寺供器，后入斐西瓦乐·大维德爵士收藏，现展于大英博物馆95号厅。",
+    "current_holder": {
+      "museum": "museum.british-museum",
+      "city": "伦敦",
+      "country": "英国"
+    },
+    "provenance": "原为北京智化寺供器，近代流出，入斐西瓦乐·大维德收藏，后归大英博物馆",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "link": "https://www.britishmuseum.org/collection/search?keyword=David%20Vases",
+        "license": "CC BY-NC-SA",
+        "source": "British Museum Collection Online（图片禁止商用，仅放检索链接）"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "British Museum Collection Online: The David Vases",
+        "type": "institutional",
+        "url": "https://www.britishmuseum.org/collection/search?keyword=David%20Vases"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "bm-curated-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.bm.dunhuang-bodhisattva",
+    "uuid": "995942f3-d9dc-4b9f-aab1-cf7821aad68a",
+    "name": "敦煌绢画《引路菩萨图》",
+    "name_traditional": "敦煌絹畫《引路菩薩圖》",
+    "name_en": "Bodhisattva Leading the Way (silk painting from Dunhuang)",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 851,
+      "end": 950,
+      "original": "晚唐（归义军时期）",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "绢本设色"
+    ],
+    "dimensions": "纵80.5厘米，横53.8厘米",
+    "description": "敦煌藏经洞出土的晚唐绢画，描绘引路菩萨手持幡幢引导亡灵往生西方净土，人物丰腴华贵，色彩浓丽如新。1907年斯坦因自莫高窟第17窟（藏经洞）携出，入藏大英博物馆，为敦煌艺术流散海外的代表性文物。",
+    "current_holder": {
+      "museum": "museum.british-museum",
+      "city": "伦敦",
+      "country": "英国"
+    },
+    "provenance": "1907年斯坦因第二次中亚考察自敦煌莫高窟藏经洞获取",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "link": "https://www.britishmuseum.org/collection/search?keyword=bodhisattva%20leading%20the%20way",
+        "license": "CC BY-NC-SA",
+        "source": "British Museum Collection Online（图片禁止商用，仅放检索链接）"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "British Museum Collection Online: Bodhisattva Leading the Way",
+        "type": "institutional",
+        "url": "https://www.britishmuseum.org/collection/search?keyword=bodhisattva%20leading%20the%20way"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "bm-curated-v1",
+      "version": 1
+    }
+  }
+]

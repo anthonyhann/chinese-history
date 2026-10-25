@@ -40,12 +40,17 @@
       "event.ming.jianli"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q701296",
     "sources": [
       {
         "title": "明史·刘基传",
         "type": "primary",
         "ref": "卷一百二十八"
+      },
+      {
+        "title": "Wikidata Q701296",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q701296"
       }
     ],
     "_meta": {
@@ -97,12 +102,17 @@
       "event.ming.duomen"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q706876",
     "sources": [
       {
         "title": "明史·于谦传",
         "type": "primary",
         "ref": "卷一百七十"
+      },
+      {
+        "title": "Wikidata Q706876",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q706876"
       }
     ],
     "_meta": {
@@ -151,12 +161,17 @@
     "bio": "心学集大成者，五百年来第一完人。龙场悟道倡「知行合一」「致良知」，真三不朽：立德（龙场悟道）、立功（四十三天平宁王之乱、破南赣数十年巨寇）、立言（《传习录》）。其学东传日本，影响明治维新",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q378462",
     "sources": [
       {
         "title": "明史·王守仁传",
         "type": "primary",
         "ref": "卷一百九十五"
+      },
+      {
+        "title": "Wikidata Q378462",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q378462"
       }
     ],
     "_meta": {
@@ -207,12 +222,17 @@
       "event.ming.zhangjuzheng"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q197234",
     "sources": [
       {
         "title": "明史·张居正传",
         "type": "primary",
         "ref": "卷二百一十三"
+      },
+      {
+        "title": "Wikidata Q197234",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q197234"
       }
     ],
     "_meta": {
@@ -312,12 +332,17 @@
     "bio": "海青天。明代第一清官，一生刚直不阿。嘉靖四十五年备棺上《治安疏》，直斥「嘉靖者，言家家皆净而无财用也」，下狱论死。巡抚应天时勒令徐阶退田，百姓号为「海青天」。死时仅余俸银十余两，南京市民罢市送葬",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q934891",
     "sources": [
       {
         "title": "明史·海瑞传",
         "type": "primary",
         "ref": "卷二百二十六"
+      },
+      {
+        "title": "Wikidata Q934891",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q934891"
       }
     ],
     "_meta": {
@@ -367,12 +392,17 @@
       "event.ming.zhenghe"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q28409060",
     "sources": [
       {
         "title": "明史·郑和传",
         "type": "primary",
         "ref": "卷三百四"
+      },
+      {
+        "title": "Wikidata Q28409060",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q28409060"
       }
     ],
     "_meta": {
@@ -420,12 +450,17 @@
     "bio": "千古游圣。不应科举，二十二岁起孤身游历三十余年，足迹遍十六省，探金沙江为长江正源、辨溶洞成因早于欧洲百余年。《徐霞客游记》六十万字，为地理学与文学双重经典",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1367171",
     "sources": [
       {
         "title": "徐霞客游记",
         "type": "primary",
         "ref": "乾隆刻本"
+      },
+      {
+        "title": "Wikidata Q1367171",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1367171"
       }
     ],
     "_meta": {
@@ -472,12 +507,17 @@
     "bio": "明末长城。宁远之战红衣大炮击退努尔哈赤，宁锦大捷再败皇太极。崇祯二年皇太极绕蒙古入关，崇焕千里驰援京师，反中反间计，被崇祯以「谋款通敌」凌迟处死，京城百姓争食其肉。乾隆年间《清实录》公布反间计细节，沉冤始雪",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q715553",
     "sources": [
       {
         "title": "明史·袁崇焕传",
         "type": "primary",
         "ref": "卷二百五十九"
+      },
+      {
+        "title": "Wikidata Q715553",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q715553"
       }
     ],
     "_meta": {

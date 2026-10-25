@@ -4,197 +4,561 @@
     "uuid": "f30c3669-e05a-4fe1-a3a9-7b7e8e080794",
     "name": "耶律阿保机",
     "name_traditional": "耶律阿保機",
-    "titles": ["辽太祖", "大圣大明神烈天皇帝"],
+    "titles": [
+      "辽太祖",
+      "大圣大明神烈天皇帝"
+    ],
     "courtesy_name": "亿",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 872, "circa": false, "original": "唐咸通十三年生，契丹迭剌部", "disputed": []},
-    "death": {"year": 926, "circa": false, "original": "天显元年七月辛巳，灭渤海国班师途中崩于扶余城，年五十五", "disputed": []},
-    "reign": {"start": 907, "end": 926, "note": "907年为契丹可汗，916年称帝建元神册，国号契丹"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.liao.yeludeguang"]},
+    "birth": {
+      "year": 872,
+      "circa": false,
+      "original": "唐咸通十三年生，契丹迭剌部",
+      "disputed": []
+    },
+    "death": {
+      "year": 926,
+      "circa": false,
+      "original": "天显元年七月辛巳，灭渤海国班师途中崩于扶余城，年五十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 907,
+      "end": 926,
+      "note": "907年为契丹可汗，916年称帝建元神册，国号契丹"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.liao.yeludeguang"
+      ]
+    },
     "predecessor": null,
     "successor": "person.liao.yeludeguang",
     "bio": "契丹族杰出的政治家。统一契丹八部，任用汉人韩延徽等改革制度，建城郭、制文字（契丹大字）、定法律，变游牧部落联盟为二元制帝国。灭渤海国，收服室韦、奚、吐浑诸部，为辽朝二百年基业之主。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·太祖本纪", "type": "primary", "ref": "卷一至卷二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q4989",
+    "sources": [
+      {
+        "title": "辽史·太祖本纪",
+        "type": "primary",
+        "ref": "卷一至卷二"
+      },
+      {
+        "title": "Wikidata Q4989",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q4989"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yeludeguang",
     "uuid": "cf0950c8-c20b-4c18-ab31-74423f7e23bc",
     "name": "耶律德光",
     "name_traditional": "耶律德光",
-    "titles": ["辽太宗", "孝武惠文皇帝"],
+    "titles": [
+      "辽太宗",
+      "孝武惠文皇帝"
+    ],
     "courtesy_name": "德谨",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 902, "circa": false, "original": "唐天复二年十月生，太祖次子", "disputed": []},
-    "death": {"year": 947, "circa": false, "original": "大同元年四月丁丑，北还途中崩于杀胡林，年四十六", "disputed": []},
-    "reign": {"start": 927, "end": 947},
-    "family": {"father": "person.liao.yeluaboji", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 902,
+      "circa": false,
+      "original": "唐天复二年十月生，太祖次子",
+      "disputed": []
+    },
+    "death": {
+      "year": 947,
+      "circa": false,
+      "original": "大同元年四月丁丑，北还途中崩于杀胡林，年四十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 927,
+      "end": 947
+    },
+    "family": {
+      "father": "person.liao.yeluaboji",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.liao.yeluaboji",
     "successor": "person.liao.yeluruan",
     "bio": "太祖次子。936年受石敬瑭之请出兵灭后唐，得燕云十六州，中原门户自此洞开。947年灭后晋，入开封，改国号为大辽，着汉人法服于崇元殿受贺。因中原军民反抗激烈，被迫北撤，崩于杀胡林，遗体以盐渍运回，帝羓之名流传。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·太宗本纪", "type": "primary", "ref": "卷三至卷四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q4991",
+    "sources": [
+      {
+        "title": "辽史·太宗本纪",
+        "type": "primary",
+        "ref": "卷三至卷四"
+      },
+      {
+        "title": "Wikidata Q4991",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q4991"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yeluruan",
     "uuid": "e4d5efaa-953d-4784-b13e-bfc30da0a9e2",
     "name": "耶律阮",
     "name_traditional": "耶律阮",
-    "titles": ["辽世宗", "孝和庄宪皇帝"],
+    "titles": [
+      "辽世宗",
+      "孝和庄宪皇帝"
+    ],
     "courtesy_name": "兀欲",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 918, "circa": false, "original": "太祖长子耶律倍之子", "disputed": []},
-    "death": {"year": 951, "circa": false, "original": "天禄五年九月癸亥，被耶律察割弑于归化州祥古山，年三十四", "disputed": []},
-    "reign": {"start": 947, "end": 951},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 918,
+      "circa": false,
+      "original": "太祖长子耶律倍之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 951,
+      "circa": false,
+      "original": "天禄五年九月癸亥，被耶律察割弑于归化州祥古山，年三十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 947,
+      "end": 951
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.liao.yeludeguang",
     "successor": "person.liao.yelujing",
     "bio": "耶律倍之子。太宗北还暴崩后，在军中拥立，太后述律平遣兵拒之而未果。在位五年，皇族内部叛乱不断，天禄五年祭让国皇帝于其兄世宗行宫，被叛臣察割弑杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·世宗本纪", "type": "primary", "ref": "卷五"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q4992",
+    "sources": [
+      {
+        "title": "辽史·世宗本纪",
+        "type": "primary",
+        "ref": "卷五"
+      },
+      {
+        "title": "Wikidata Q4992",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q4992"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yelujing",
     "uuid": "18ef9c6a-2132-4b65-a809-aceb2305706a",
     "name": "耶律璟",
     "name_traditional": "耶律璟",
-    "titles": ["辽穆宗", "孝安敬正皇帝"],
+    "titles": [
+      "辽穆宗",
+      "孝安敬正皇帝"
+    ],
     "courtesy_name": "述律",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 931, "circa": false, "original": "天显六年生，太宗长子", "disputed": []},
-    "death": {"year": 969, "circa": false, "original": "应历十九年二月己巳，被近侍小哥等弑于怀州黑山之行宫，年三十九", "disputed": []},
-    "reign": {"start": 951, "end": 969},
-    "family": {"father": "person.liao.yeludeguang", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 931,
+      "circa": false,
+      "original": "天显六年生，太宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 969,
+      "circa": false,
+      "original": "应历十九年二月己巳，被近侍小哥等弑于怀州黑山之行宫，年三十九",
+      "disputed": []
+    },
+    "reign": {
+      "start": 951,
+      "end": 969
+    },
+    "family": {
+      "father": "person.liao.yeludeguang",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.liao.yeluruan",
     "successor": "person.liao.yeluxian",
     "bio": "太宗长子。世宗被弑后起兵讨贼继位。在位期间嗜酒好猎，昼寝夜饮，人称「睡王」。滥刑好杀，常以细故虐杀近侍。后被其庖人、近侍等六人合谋弑杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·穆宗本纪", "type": "primary", "ref": "卷六至卷七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q4993",
+    "sources": [
+      {
+        "title": "辽史·穆宗本纪",
+        "type": "primary",
+        "ref": "卷六至卷七"
+      },
+      {
+        "title": "Wikidata Q4993",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q4993"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yeluxian",
     "uuid": "a97f217f-ee23-4885-899e-19f23ca04f8e",
     "name": "耶律贤",
     "name_traditional": "耶律賢",
-    "titles": ["辽景宗", "孝成康靖皇帝"],
+    "titles": [
+      "辽景宗",
+      "孝成康靖皇帝"
+    ],
     "courtesy_name": "贤宁",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 948, "circa": false, "original": "天禄二年七月生，世宗次子", "disputed": []},
-    "death": {"year": 982, "circa": false, "original": "乾亨四年九月壬子，崩于云州之驰道，年三十五", "disputed": []},
-    "reign": {"start": 969, "end": 982},
-    "family": {"father": "person.liao.yeluruan", "mother": null, "spouses": [], "children": ["person.liao.yelulongxu"]},
+    "birth": {
+      "year": 948,
+      "circa": false,
+      "original": "天禄二年七月生，世宗次子",
+      "disputed": []
+    },
+    "death": {
+      "year": 982,
+      "circa": false,
+      "original": "乾亨四年九月壬子，崩于云州之驰道，年三十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 969,
+      "end": 982
+    },
+    "family": {
+      "father": "person.liao.yeluruan",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.liao.yelulongxu"
+      ]
+    },
     "predecessor": "person.liao.yelujing",
     "successor": "person.liao.yelulongxu",
     "bio": "世宗次子。穆宗被弑后继位。体弱多病，军国大事多决于皇后萧绰（萧太后）。在位期间高梁河之战大败宋太宗，为辽宋战争中辽的决定性胜利。任贤纳谏，辽室由乱转治。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·景宗本纪", "type": "primary", "ref": "卷八至卷九"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q4997",
+    "sources": [
+      {
+        "title": "辽史·景宗本纪",
+        "type": "primary",
+        "ref": "卷八至卷九"
+      },
+      {
+        "title": "Wikidata Q4997",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q4997"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yelulongxu",
     "uuid": "f6360d25-3487-4913-88b0-0f02019e0b4f",
     "name": "耶律隆绪",
     "name_traditional": "耶律隆緒",
-    "titles": ["辽圣宗", "文武大孝宣皇帝"],
+    "titles": [
+      "辽圣宗",
+      "文武大孝宣皇帝"
+    ],
     "courtesy_name": "文殊奴",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 971, "circa": false, "original": "保宁三年十二月生，景宗长子", "disputed": []},
-    "death": {"year": 1031, "circa": false, "original": "太平十一年六月己卯，崩于大福河之北，年六十一", "disputed": []},
-    "reign": {"start": 982, "end": 1031, "note": "十二岁即位，萧太后摄政至1009年"},
-    "family": {"father": "person.liao.yeluxian", "mother": null, "spouses": [], "children": ["person.liao.yeluzongzhen"]},
+    "birth": {
+      "year": 971,
+      "circa": false,
+      "original": "保宁三年十二月生，景宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1031,
+      "circa": false,
+      "original": "太平十一年六月己卯，崩于大福河之北，年六十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 982,
+      "end": 1031,
+      "note": "十二岁即位，萧太后摄政至1009年"
+    },
+    "family": {
+      "father": "person.liao.yeluxian",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.liao.yeluzongzhen"
+      ]
+    },
     "predecessor": "person.liao.yeluxian",
     "successor": "person.liao.yeluzongzhen",
     "bio": "景宗长子。十二岁即位，萧太后摄政，韩德让等汉臣辅佐。统和二十二年大举南征，直抵澶州，与宋订澶渊之盟，岁币三十万，宋辽百年和平自此始。在位四十九年，辽朝进入极盛，文治武功皆为辽帝之冠。",
-    "events": ["event.nsong.chanyuan"],
+    "events": [
+      "event.nsong.chanyuan"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·圣宗本纪", "type": "primary", "ref": "卷十至卷十七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q5000",
+    "sources": [
+      {
+        "title": "辽史·圣宗本纪",
+        "type": "primary",
+        "ref": "卷十至卷十七"
+      },
+      {
+        "title": "Wikidata Q5000",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q5000"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yeluzongzhen",
     "uuid": "ffb2b03e-155b-41c4-95b1-3fb1858c4410",
     "name": "耶律宗真",
     "name_traditional": "耶律宗真",
-    "titles": ["辽兴宗", "神圣孝章皇帝"],
+    "titles": [
+      "辽兴宗",
+      "神圣孝章皇帝"
+    ],
     "courtesy_name": "夷不堇",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 1016, "circa": false, "original": "开泰五年二月生，圣宗长子", "disputed": []},
-    "death": {"year": 1055, "circa": false, "original": "重熙二十四年八月己丑，崩于南崖之北峪，年四十", "disputed": []},
-    "reign": {"start": 1031, "end": 1055},
-    "family": {"father": "person.liao.yelulongxu", "mother": null, "spouses": [], "children": ["person.liao.yeluhongji"]},
+    "birth": {
+      "year": 1016,
+      "circa": false,
+      "original": "开泰五年二月生，圣宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1055,
+      "circa": false,
+      "original": "重熙二十四年八月己丑，崩于南崖之北峪，年四十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1031,
+      "end": 1055
+    },
+    "family": {
+      "father": "person.liao.yelulongxu",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.liao.yeluhongji"
+      ]
+    },
     "predecessor": "person.liao.yelulongxu",
     "successor": "person.liao.yeluhongji",
     "bio": "圣宗长子。生母钦哀皇后摄政四年，专权乱政，兴宗亲政后始恢复。重熙年间趁宋夏交战之际，向宋索求关南十县，宋岁币增为五十万。佛教极盛。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·兴宗本纪", "type": "primary", "ref": "卷十八至卷二十"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q5005",
+    "sources": [
+      {
+        "title": "辽史·兴宗本纪",
+        "type": "primary",
+        "ref": "卷十八至卷二十"
+      },
+      {
+        "title": "Wikidata Q5005",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q5005"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yeluhongji",
     "uuid": "aecebc25-e9df-4678-b0f5-d99f04eb7013",
     "name": "耶律洪基",
     "name_traditional": "耶律洪基",
-    "titles": ["辽道宗", "仁圣大孝文皇帝"],
+    "titles": [
+      "辽道宗",
+      "仁圣大孝文皇帝"
+    ],
     "courtesy_name": "涅邻",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 1032, "circa": false, "original": "景福二年八月生，兴宗长子", "disputed": []},
-    "death": {"year": 1101, "circa": false, "original": "寿昌七年正月甲戌，崩于混同江行宫，年七十", "disputed": []},
-    "reign": {"start": 1055, "end": 1101},
-    "family": {"father": "person.liao.yeluzongzhen", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1032,
+      "circa": false,
+      "original": "景福二年八月生，兴宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1101,
+      "circa": false,
+      "original": "寿昌七年正月甲戌，崩于混同江行宫，年七十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1055,
+      "end": 1101
+    },
+    "family": {
+      "father": "person.liao.yeluzongzhen",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.liao.yeluzongzhen",
     "successor": "person.liao.yeluyanxi",
     "bio": "兴宗长子。清宁九年皇太叔耶律重元之乱，赖耶律仁先讨平。在位四十六年，佞佛过度，一岁而饭僧三十六万。权臣耶律乙辛先后构陷宣懿皇后萧观音与太子耶律濬，皆赐死，辽室由是衰乱。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·道宗本纪", "type": "primary", "ref": "卷二十一至卷二十六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q5007",
+    "sources": [
+      {
+        "title": "辽史·道宗本纪",
+        "type": "primary",
+        "ref": "卷二十一至卷二十六"
+      },
+      {
+        "title": "Wikidata Q5007",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q5007"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.liao.yeluyanxi",
     "uuid": "ed3174dc-58ea-4ed2-92c0-87bd7b0e95d7",
     "name": "耶律延禧",
     "name_traditional": "耶律延禧",
-    "titles": ["辽天祚帝", "海滨王"],
+    "titles": [
+      "辽天祚帝",
+      "海滨王"
+    ],
     "courtesy_name": "阿果",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.liao",
-    "birth": {"year": 1075, "circa": false, "original": "大康元年四月十九日生，道宗之孙，昭怀太子耶律濬之子", "disputed": []},
-    "death": {"year": 1128, "circa": false, "original": "金天会六年（1128年）病死（一说被射死），年五十四", "disputed": []},
-    "reign": {"start": 1101, "end": 1125, "note": "保大五年被金将完颜娄室追擒"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1075,
+      "circa": false,
+      "original": "大康元年四月十九日生，道宗之孙，昭怀太子耶律濬之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1128,
+      "circa": false,
+      "original": "金天会六年（1128年）病死（一说被射死），年五十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1101,
+      "end": 1125,
+      "note": "保大五年被金将完颜娄室追擒"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.liao.yeluhongji",
     "successor": null,
     "bio": "辽末代皇帝。道宗之孙，父母皆为耶律乙辛所害。在位期间女真完颜阿骨打崛起，屡战屡败。天庆五年亲率七十万大军伐金，败于护步达冈，精锐尽丧。保大五年在应州被金兵追擒，辽朝二百年国祚终结。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "辽史·天祚皇帝本纪", "type": "primary", "ref": "卷二十七至卷三十"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q5009",
+    "sources": [
+      {
+        "title": "辽史·天祚皇帝本纪",
+        "type": "primary",
+        "ref": "卷二十七至卷三十"
+      },
+      {
+        "title": "Wikidata Q5009",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q5009"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   }
 ]

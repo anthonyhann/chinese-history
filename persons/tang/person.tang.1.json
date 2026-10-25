@@ -39,12 +39,17 @@
       "event.tang.zhenguan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q378356",
     "sources": [
       {
         "title": "旧唐书·魏征传",
         "type": "primary",
         "ref": "卷七十一"
+      },
+      {
+        "title": "Wikidata Q378356",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q378356"
       }
     ],
     "_meta": {
@@ -95,12 +100,17 @@
       "event.tang.zhenguan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q736647",
     "sources": [
       {
         "title": "旧唐书·房玄龄传",
         "type": "primary",
         "ref": "卷六十六"
+      },
+      {
+        "title": "Wikidata Q736647",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q736647"
       }
     ],
     "_meta": {
@@ -150,12 +160,17 @@
       "event.tang.wuzhou"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q445747",
     "sources": [
       {
         "title": "旧唐书·狄仁杰传",
         "type": "primary",
         "ref": "卷八十九"
+      },
+      {
+        "title": "Wikidata Q445747",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q445747"
       }
     ],
     "_meta": {
@@ -205,12 +220,17 @@
       "event.tang.anshi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1290765",
     "sources": [
       {
         "title": "旧唐书·郭子仪传",
         "type": "primary",
         "ref": "卷一百二十"
+      },
+      {
+        "title": "Wikidata Q1290765",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1290765"
       }
     ],
     "_meta": {
@@ -258,12 +278,17 @@
     "bio": "诗仙。五岁诵六甲，十岁观百家，仗剑去国辞亲远游。供奉翰林三年赐金放还。安史乱中从永王璘获罪流放夜郎，中途遇赦。「天生我材必有用」「飞流直下三千尺」，与杜甫并称李杜，为中国诗歌的巅峰双子星",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7071",
     "sources": [
       {
         "title": "旧唐书·文苑传",
         "type": "primary",
         "ref": "卷一百九十下"
+      },
+      {
+        "title": "Wikidata Q7071",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7071"
       }
     ],
     "_meta": {
@@ -313,12 +338,17 @@
       "event.tang.anshi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q33772",
     "sources": [
       {
         "title": "旧唐书·文苑传",
         "type": "primary",
         "ref": "卷一百九十下"
+      },
+      {
+        "title": "Wikidata Q33772",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q33772"
       }
     ],
     "_meta": {

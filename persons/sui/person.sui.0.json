@@ -45,12 +45,17 @@
       "event.chen.miechen"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7418",
     "sources": [
       {
         "title": "隋书·高祖纪",
         "type": "primary",
         "ref": "卷一至卷二"
+      },
+      {
+        "title": "Wikidata Q7418",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7418"
       }
     ],
     "_meta": {
@@ -105,12 +110,17 @@
       "event.sui.liyuan-qibing"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7419",
     "sources": [
       {
         "title": "隋书·炀帝纪",
         "type": "primary",
         "ref": "卷三至卷四"
+      },
+      {
+        "title": "Wikidata Q7419",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7419"
       }
     ],
     "_meta": {
@@ -164,12 +174,17 @@
       "event.sui.liyuan-qibing"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7420",
     "sources": [
       {
         "title": "隋书·恭帝纪",
         "type": "primary",
         "ref": "卷五"
+      },
+      {
+        "title": "Wikidata Q7420",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7420"
       }
     ],
     "_meta": {
@@ -216,11 +231,16 @@
     "bio": "隋炀帝之孙，留守东都洛阳。江都之变后被段达、王世充等拥立为帝，改元皇泰。朝政旋即落入王世充之手，皇泰二年被废为潞国公，后被缢杀，隋祀遂绝。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q7422",
     "sources": [
       {
         "title": "隋书·越王侗传",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q7422",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7422"
       }
     ],
     "_meta": {

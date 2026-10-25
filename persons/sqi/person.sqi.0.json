@@ -4,153 +4,429 @@
     "uuid": "f550019a-e4d1-467c-896c-81d937887e13",
     "name": "萧道成",
     "name_traditional": "蕭道成",
-    "titles": ["齐高帝", "太祖高皇帝"],
+    "titles": [
+      "齐高帝",
+      "太祖高皇帝"
+    ],
     "courtesy_name": "绍伯",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.southern-qi",
-    "birth": {"year": 427, "circa": false, "original": "宋元嘉四年生，兰陵萧氏", "disputed": []},
-    "death": {"year": 482, "circa": false, "original": "建元四年三月壬戌，崩于临光殿，年五十六", "disputed": []},
-    "reign": {"start": 479, "end": 482},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.sqi.xiaoze"]},
+    "birth": {
+      "year": 427,
+      "circa": false,
+      "original": "宋元嘉四年生，兰陵萧氏",
+      "disputed": []
+    },
+    "death": {
+      "year": 482,
+      "circa": false,
+      "original": "建元四年三月壬戌，崩于临光殿，年五十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 479,
+      "end": 482
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.sqi.xiaoze"
+      ]
+    },
     "predecessor": "person.liusong.liuzhun",
     "successor": "person.sqi.xiaoze",
     "bio": "兰陵萧氏，南齐开国皇帝。宋末以军功崛起，弑后废帝、平沈攸之，受宋禅建齐。在位期间厉行节俭，「使我治天下十年，当使黄金与土同价」。临终戒子孙勿学刘宋骨肉相残，然南齐宗室内斗之惨更甚于宋。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "南齐书·高帝纪", "type": "primary", "ref": "卷一至卷二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1194981",
+    "sources": [
+      {
+        "title": "南齐书·高帝纪",
+        "type": "primary",
+        "ref": "卷一至卷二"
+      },
+      {
+        "title": "Wikidata Q1194981",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1194981"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sqi.xiaoze",
     "uuid": "984fa9e6-cf60-4165-9293-7e9542a9ffef",
     "name": "萧赜",
     "name_traditional": "蕭賾",
-    "titles": ["齐武帝", "世祖武皇帝"],
+    "titles": [
+      "齐武帝",
+      "世祖武皇帝"
+    ],
     "courtesy_name": "宣远",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.southern-qi",
-    "birth": {"year": 440, "circa": false, "original": "宋元嘉十七年生，高帝长子", "disputed": []},
-    "death": {"year": 493, "circa": false, "original": "永明十一年七月戊寅，崩于正福殿，年五十四", "disputed": []},
-    "reign": {"start": 482, "end": 493},
-    "family": {"father": "person.sqi.xiaodaocheng", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 440,
+      "circa": false,
+      "original": "宋元嘉十七年生，高帝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 493,
+      "circa": false,
+      "original": "永明十一年七月戊寅，崩于正福殿，年五十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 482,
+      "end": 493
+    },
+    "family": {
+      "father": "person.sqi.xiaodaocheng",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.sqi.xiaodaocheng",
     "successor": "person.sqi.xiaozhaoye",
     "bio": "高帝长子。在位十一年，境内粗安，史称「永明之治」，竟陵八友文学活动极一时之盛。然检籍扰民，富阳唐寓之起义爆发。太子萧长懋先死，临终立太孙萧昭业，为南齐内乱之源。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "南齐书·武帝纪", "type": "primary", "ref": "卷三"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q940037",
+    "sources": [
+      {
+        "title": "南齐书·武帝纪",
+        "type": "primary",
+        "ref": "卷三"
+      },
+      {
+        "title": "Wikidata Q940037",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q940037"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sqi.xiaozhaoye",
     "uuid": "cab12127-b1bd-41a9-b2d8-d20941b01858",
     "name": "萧昭业",
     "name_traditional": "蕭昭業",
-    "titles": ["郁林王"],
+    "titles": [
+      "郁林王"
+    ],
     "courtesy_name": "元尚",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.southern-qi",
-    "birth": {"year": 473, "circa": false, "original": "宋元徽元年生，文惠太子萧长懋长子", "disputed": []},
-    "death": {"year": 494, "circa": false, "original": "隆昌元年七月壬辰，被萧鸾弑杀，年二十二", "disputed": []},
-    "reign": {"start": 493, "end": 494},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 473,
+      "circa": false,
+      "original": "宋元徽元年生，文惠太子萧长懋长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 494,
+      "circa": false,
+      "original": "隆昌元年七月壬辰，被萧鸾弑杀，年二十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 493,
+      "end": 494
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.sqi.xiaoze",
     "successor": "person.sqi.xiaozhaowen",
     "bio": "武帝之孙。美姿容，工隶书，然矫情饰诈：居武帝丧时喉哑，退宫即纵乐，赏赐动以百万计，库藏为之一空。西昌侯萧鸾屡谏不从，遂引兵入宫弑之，追废为郁林王。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "南齐书·郁林王纪", "type": "primary", "ref": "卷四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1141013",
+    "sources": [
+      {
+        "title": "南齐书·郁林王纪",
+        "type": "primary",
+        "ref": "卷四"
+      },
+      {
+        "title": "Wikidata Q1141013",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1141013"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sqi.xiaozhaowen",
     "uuid": "baa9cc65-82a1-420d-b579-ec59c249fa94",
     "name": "萧昭文",
     "name_traditional": "蕭昭文",
-    "titles": ["海陵王"],
+    "titles": [
+      "海陵王"
+    ],
     "courtesy_name": "季尚",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.southern-qi",
-    "birth": {"year": 480, "circa": false, "original": "宋升明四年生，萧长懋第二子", "disputed": []},
-    "death": {"year": 494, "circa": false, "original": "延兴元年十一月，被萧鸾所杀，年十五", "disputed": []},
-    "reign": {"start": 494, "end": 494, "note": "在位仅七十五日"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 480,
+      "circa": false,
+      "original": "宋升明四年生，萧长懋第二子",
+      "disputed": []
+    },
+    "death": {
+      "year": 494,
+      "circa": false,
+      "original": "延兴元年十一月，被萧鸾所杀，年十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 494,
+      "end": 494,
+      "note": "在位仅七十五日"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.sqi.xiaozhaoye",
     "successor": "person.sqi.xiaoluan",
     "bio": "萧昭业之弟。萧鸾弑郁林王后立之为过渡傀儡，一切政事听命于萧鸾，连食鱼羹亦须萧鸾许可。在位七十五日即被废，旋被杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "南齐书·海陵王纪", "type": "primary", "ref": "卷五"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1190405",
+    "sources": [
+      {
+        "title": "南齐书·海陵王纪",
+        "type": "primary",
+        "ref": "卷五"
+      },
+      {
+        "title": "Wikidata Q1190405",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1190405"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sqi.xiaoluan",
     "uuid": "a43bfdef-db1f-4fb5-95c0-0cc1ec915af8",
     "name": "萧鸾",
     "name_traditional": "蕭鸞",
-    "titles": ["齐明帝", "高宗明皇帝"],
+    "titles": [
+      "齐明帝",
+      "高宗明皇帝"
+    ],
     "courtesy_name": "景栖",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.southern-qi",
-    "birth": {"year": 452, "circa": false, "original": "宋元嘉二十九年生，高帝兄始安贞王萧道生之子", "disputed": []},
-    "death": {"year": 498, "circa": false, "original": "永泰元年七月己酉，崩于正福殿，年四十七", "disputed": []},
-    "reign": {"start": 494, "end": 498},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.sqi.xiaobaojuan", "person.sqi.xiaobaorong"]},
+    "birth": {
+      "year": 452,
+      "circa": false,
+      "original": "宋元嘉二十九年生，高帝兄始安贞王萧道生之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 498,
+      "circa": false,
+      "original": "永泰元年七月己酉，崩于正福殿，年四十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 494,
+      "end": 498
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.sqi.xiaobaojuan",
+        "person.sqi.xiaobaorong"
+      ]
+    },
     "predecessor": "person.sqi.xiaozhaowen",
     "successor": "person.sqi.xiaobaojuan",
     "bio": "高帝侄。连弑郁林王、海陵王二帝自立。在位期间大杀高帝、武帝子孙，凡二帝二十九子，诛戮无遗，宗室之惨为六朝之最。每入人家求福，先杀其子而祷，时人谓之「屠兄之刃」。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "南齐书·明帝纪", "type": "primary", "ref": "卷六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1149132",
+    "sources": [
+      {
+        "title": "南齐书·明帝纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "Wikidata Q1149132",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1149132"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sqi.xiaobaojuan",
     "uuid": "9f3b35d9-91b1-41f1-827c-7a5d7d4c3c51",
     "name": "萧宝卷",
     "name_traditional": "蕭寶卷",
-    "titles": ["东昏侯"],
+    "titles": [
+      "东昏侯"
+    ],
     "courtesy_name": "智藏",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.southern-qi",
-    "birth": {"year": 483, "circa": false, "original": "齐建元五年生，明帝第二子", "disputed": []},
-    "death": {"year": 501, "circa": false, "original": "中兴元年十二月丙寅，被宦官黄泰平、张齐弑于含德殿，年十九", "disputed": []},
-    "reign": {"start": 498, "end": 501},
-    "family": {"father": "person.sqi.xiaoluan", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 483,
+      "circa": false,
+      "original": "齐建元五年生，明帝第二子",
+      "disputed": []
+    },
+    "death": {
+      "year": 501,
+      "circa": false,
+      "original": "中兴元年十二月丙寅，被宦官黄泰平、张齐弑于含德殿，年十九",
+      "disputed": []
+    },
+    "reign": {
+      "start": 498,
+      "end": 501
+    },
+    "family": {
+      "father": "person.sqi.xiaoluan",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.sqi.xiaoluan",
     "successor": "person.sqi.xiaobaorong",
     "bio": "明帝次子。口吃而不喜学书，以捕鼠为乐。即位后诛戮大臣殆尽，宠潘贵妃，凿金为莲花贴地令潘妃行其上，曰「步步生莲花」。萧衍起兵围台城，城中兵变，被宦官所杀，追贬东昏侯。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "南齐书·东昏侯纪", "type": "primary", "ref": "卷七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1336575",
+    "sources": [
+      {
+        "title": "南齐书·东昏侯纪",
+        "type": "primary",
+        "ref": "卷七"
+      },
+      {
+        "title": "Wikidata Q1336575",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1336575"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sqi.xiaobaorong",
     "uuid": "61d01a01-7c6b-4bd8-ae60-4c48bc400ab2",
     "name": "萧宝融",
     "name_traditional": "蕭寶融",
-    "titles": ["齐和帝", "巴陵王"],
+    "titles": [
+      "齐和帝",
+      "巴陵王"
+    ],
     "courtesy_name": "智昭",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.southern-qi",
-    "birth": {"year": 488, "circa": false, "original": "永明六年生，明帝第八子", "disputed": []},
-    "death": {"year": 502, "circa": false, "original": "梁天监元年四月，被萧衍所杀，年十五", "disputed": []},
-    "reign": {"start": 501, "end": 502},
-    "family": {"father": "person.sqi.xiaoluan", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 488,
+      "circa": false,
+      "original": "永明六年生，明帝第八子",
+      "disputed": []
+    },
+    "death": {
+      "year": 502,
+      "circa": false,
+      "original": "梁天监元年四月，被萧衍所杀，年十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 501,
+      "end": 502
+    },
+    "family": {
+      "father": "person.sqi.xiaoluan",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.sqi.xiaobaojuan",
     "successor": "person.liang.xiaoyan",
     "bio": "明帝第八子，南齐末代皇帝。萧衍起兵后于江陵即位。台城破后东归，禅位于萧衍，封巴陵王，次日即被杀。临终饮酒沉醉而受死，年仅十五。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "南齐书·和帝纪", "type": "primary", "ref": "卷八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1190420",
+    "sources": [
+      {
+        "title": "南齐书·和帝纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "Wikidata Q1190420",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1190420"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

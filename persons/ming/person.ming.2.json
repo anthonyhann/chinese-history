@@ -40,12 +40,17 @@
       "event.ming.jianli"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q113324549",
     "sources": [
       {
         "title": "明史·徐达传",
         "type": "primary",
         "ref": "卷一百二十五"
+      },
+      {
+        "title": "Wikidata Q113324549",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q113324549"
       }
     ],
     "_meta": {
@@ -92,12 +97,17 @@
     "bio": "药圣。三次乡试不第，弃儒从医。历时二十七年，三易其稿，参考八百余种典籍，亲尝百草，成《本草纲目》一百九十余万字，收药一千八百九十二种、附方一万一千余首，达尔文称其为「中国古代的百科全书」",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q698925",
     "sources": [
       {
         "title": "明史·方伎传",
         "type": "primary",
         "ref": "卷二百九十九"
+      },
+      {
+        "title": "Wikidata Q698925",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q698925"
       }
     ],
     "_meta": {
@@ -145,12 +155,17 @@
     "bio": "中国近代科学启蒙先驱。与利玛窦合译《几何原本》前六卷，「几何」一词即其定名。著《农政全书》，主编《崇祯历书》引进西洋历算。官至文渊阁大学士，为明末中西文化交流第一人",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q420427",
     "sources": [
       {
         "title": "明史·徐光启传",
         "type": "primary",
         "ref": "卷二百五十一"
+      },
+      {
+        "title": "Wikidata Q420427",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q420427"
       }
     ],
     "_meta": {
@@ -197,12 +212,17 @@
     "bio": "阉党之魁。自宫入宫，与熹宗乳母客氏勾结，秉笔批红，人称九千岁，各地督抚争建生祠。兴诏狱杀东林党人杨涟、左光斗，罗织《东林点将录》。崇祯即位三月即贬谪，途中自缢，戮尸凌迟",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q702101",
     "sources": [
       {
         "title": "明史·宦官传",
         "type": "primary",
         "ref": "卷三百五"
+      },
+      {
+        "title": "Wikidata Q702101",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q702101"
       }
     ],
     "_meta": {
@@ -253,12 +273,17 @@
       "event.ming.qingjun-ruguan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q333567",
     "sources": [
       {
         "title": "明史·流贼传",
         "type": "primary",
         "ref": "卷三百九"
+      },
+      {
+        "title": "Wikidata Q333567",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q333567"
       }
     ],
     "_meta": {
@@ -306,12 +331,17 @@
     "bio": "民族英雄。本名郑森，隆武帝赐国姓。父郑芝龙降清，成功裂衣起兵，以金门厦门为基地抗清。1659年兵临南京城下功败垂成。1661年率两万五千人横渡海峡，1662年二月驱荷兰人收复台湾，开辟明郑政权。五个月后英年早逝",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q197615",
     "sources": [
       {
         "title": "清史稿·郑成功传",
         "type": "primary",
         "ref": "卷二百二十四"
+      },
+      {
+        "title": "Wikidata Q197615",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q197615"
       }
     ],
     "_meta": {

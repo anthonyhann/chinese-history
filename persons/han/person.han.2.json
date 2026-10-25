@@ -84,12 +84,17 @@
     "bio": "织薄曲、吹箫为生的猛将。从刘邦起兵屡建大功，吕后死，以北军号令「为吕氏右袒，为刘氏左袒」，尽诛诸吕，迎立文帝，安刘定汉的第一功臣",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q5366233",
     "sources": [
       {
         "title": "史记·绛侯周勃世家",
         "type": "primary",
         "ref": "卷五十七"
+      },
+      {
+        "title": "Wikidata Q5366233",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q5366233"
       }
     ],
     "_meta": {
@@ -133,12 +138,17 @@
       "event.han.mobei"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q706443",
     "sources": [
       {
         "title": "史记·李将军列传",
         "type": "primary",
         "ref": "卷一百九"
+      },
+      {
+        "title": "Wikidata Q706443",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q706443"
       }
     ],
     "_meta": {
@@ -187,12 +197,17 @@
       "event.han.rujiao"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q445626",
     "sources": [
       {
         "title": "汉书·董仲舒传",
         "type": "primary",
         "ref": "卷五十六"
+      },
+      {
+        "title": "Wikidata Q445626",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q445626"
       }
     ],
     "_meta": {
@@ -234,12 +249,17 @@
     "bio": "苏武牧羊。天汉元年以中郎将持节使匈奴被扣，拒卫律劝降，被囚北海牧羊十九年，渴饮雪、饥吞毡，汉节毛尽落。始元六年归汉，须发尽白。麒麟阁十一功臣之一，忠节的千古图腾",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1280148",
     "sources": [
       {
         "title": "汉书·李广苏建传（附苏武）",
         "type": "primary",
         "ref": "卷五十四"
+      },
+      {
+        "title": "Wikidata Q1280148",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1280148"
       }
     ],
     "_meta": {
@@ -285,12 +305,17 @@
       "event.han.yantie"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1193185",
     "sources": [
       {
         "title": "汉书·霍光金日磾传",
         "type": "primary",
         "ref": "卷六十八"
+      },
+      {
+        "title": "Wikidata Q1193185",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1193185"
       }
     ],
     "_meta": {
@@ -333,12 +358,17 @@
     "bio": "造纸术的集大成者。东汉宦官，元兴元年奏上蔡侯纸——以树皮、麻头、敝布、鱼网造纸，价廉易得，天下咸称蔡侯纸。造纸术为人类文明的里程碑发明，后经阿拉伯传入欧洲。卷入宫闱斗争，服毒自尽",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q229235",
     "sources": [
       {
         "title": "后汉书·宦者列传",
         "type": "primary",
         "ref": "卷七十八"
+      },
+      {
+        "title": "Wikidata Q229235",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q229235"
       }
     ],
     "_meta": {
@@ -386,12 +416,17 @@
     "bio": "科圣。创浑天仪演示天体运行，制候风地动仪测知陇西地震（人类第一台验震仪器），算著《算罔论》，文有《二京赋》《归田赋》。东汉全才，通五经贯六艺，致思于天文阴阳历算",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q197206",
     "sources": [
       {
         "title": "后汉书·张衡列传",
         "type": "primary",
         "ref": "卷五十九"
+      },
+      {
+        "title": "Wikidata Q197206",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q197206"
       }
     ],
     "_meta": {

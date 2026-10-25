@@ -37,12 +37,17 @@
     "bio": "千古第一才女。词压江南，文盖塞北。前期词清丽明快，靖康之变后南渡，夫死（赵明诚）物散，再嫁匪人又讼而离之，词风转为沉郁凄怆。「寻寻觅觅，冷冷清清，凄凄惨惨戚戚」。创词别是一家之说，婉约派宗主",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q464470",
     "sources": [
       {
         "title": "宋史·文苑传（李格非传附）",
         "type": "primary",
         "ref": "卷四百四十四"
+      },
+      {
+        "title": "Wikidata Q464470",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q464470"
       }
     ],
     "_meta": {
@@ -92,12 +97,17 @@
       "event.ssong.kaixi-beifa"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1069914",
     "sources": [
       {
         "title": "宋史·陆游传",
         "type": "primary",
         "ref": "卷三百九十五"
+      },
+      {
+        "title": "Wikidata Q1069914",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1069914"
       }
     ],
     "_meta": {

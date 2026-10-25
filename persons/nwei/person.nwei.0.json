@@ -4,219 +4,630 @@
     "uuid": "3a4c2a88-3e2c-457e-bc32-2f5a3baf2bd5",
     "name": "拓跋珪",
     "name_traditional": "拓跋珪",
-    "titles": ["北魏道武帝", "太祖道武皇帝"],
+    "titles": [
+      "北魏道武帝",
+      "太祖道武皇帝"
+    ],
     "courtesy_name": "涉圭",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 371, "circa": false, "original": "建国三十四年七月七日生于参合陂北", "disputed": []},
-    "death": {"year": 409, "circa": false, "original": "天赐六年十月戊辰，为清河王拓跋绍所弑，年三十九", "disputed": []},
-    "reign": {"start": 386, "end": 409, "note": "386年复立代国旋改称魏王，398年正式称帝"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.nwei.tuobasi"]},
+    "birth": {
+      "year": 371,
+      "circa": false,
+      "original": "建国三十四年七月七日生于参合陂北",
+      "disputed": []
+    },
+    "death": {
+      "year": 409,
+      "circa": false,
+      "original": "天赐六年十月戊辰，为清河王拓跋绍所弑，年三十九",
+      "disputed": []
+    },
+    "reign": {
+      "start": 386,
+      "end": 409,
+      "note": "386年复立代国旋改称魏王，398年正式称帝"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nwei.tuobasi"
+      ]
+    },
     "predecessor": null,
     "successor": "person.nwei.tuobasi",
     "bio": "鲜卑拓跋部，北魏开国皇帝。代国被苻坚灭后流离，十六岁时乘淝水战后北方大乱复国。参合陂之战坑杀后燕降卒数万，尽取燕地。迁都平城，离散诸部编户齐民，奠定北魏百年基业。晚年服寒食散致狂躁多忌，被子拓跋绍弑杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·太祖纪", "type": "primary", "ref": "卷二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1149178",
+    "sources": [
+      {
+        "title": "魏书·太祖纪",
+        "type": "primary",
+        "ref": "卷二"
+      },
+      {
+        "title": "Wikidata Q1149178",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1149178"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.tuobasi",
     "uuid": "3a4448cb-72a7-40fd-a8aa-4473b38fe90b",
     "name": "拓跋嗣",
     "name_traditional": "拓跋嗣",
-    "titles": ["北魏明元帝", "太宗明元皇帝"],
+    "titles": [
+      "北魏明元帝",
+      "太宗明元皇帝"
+    ],
     "courtesy_name": "木末",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 392, "circa": false, "original": "登国七年生于云中宫", "disputed": []},
-    "death": {"year": 423, "circa": false, "original": "泰常八年十一月己巳，崩于西宫，年三十二", "disputed": []},
-    "reign": {"start": 409, "end": 423},
-    "family": {"father": "person.nwei.tuobagui", "mother": null, "spouses": [], "children": ["person.nwei.tuobatao"]},
+    "birth": {
+      "year": 392,
+      "circa": false,
+      "original": "登国七年生于云中宫",
+      "disputed": []
+    },
+    "death": {
+      "year": 423,
+      "circa": false,
+      "original": "泰常八年十一月己巳，崩于西宫，年三十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 409,
+      "end": 423
+    },
+    "family": {
+      "father": "person.nwei.tuobagui",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nwei.tuobatao"
+      ]
+    },
     "predecessor": "person.nwei.tuobagui",
     "successor": "person.nwei.tuobatao",
     "bio": "道武帝长子。清河王拓跋绍弑逆时潜回平城平乱继位。在位期间沿黄河南岸与刘宋争夺，取虎牢、滑台，置六镇防柔然。好学史传，君臣论治为一时之盛。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·太宗纪", "type": "primary", "ref": "卷三"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1071591",
+    "sources": [
+      {
+        "title": "魏书·太宗纪",
+        "type": "primary",
+        "ref": "卷三"
+      },
+      {
+        "title": "Wikidata Q1071591",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1071591"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.tuobatao",
     "uuid": "c2fd49b2-db57-4e4e-bd77-8e7f53ed15ec",
     "name": "拓跋焘",
     "name_traditional": "拓跋燾",
-    "titles": ["北魏太武帝", "世祖太武皇帝"],
+    "titles": [
+      "北魏太武帝",
+      "世祖太武皇帝"
+    ],
     "courtesy_name": "佛狸",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 408, "circa": false, "original": "天赐五年生于东宫", "disputed": []},
-    "death": {"year": 452, "circa": false, "original": "正平二年二月甲寅，被中常侍宗爱弑于永安殿，年四十五", "disputed": []},
-    "reign": {"start": 424, "end": 452, "note": "423年十一月即位，次年改元始光"},
-    "family": {"father": "person.nwei.tuobasi", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 408,
+      "circa": false,
+      "original": "天赐五年生于东宫",
+      "disputed": []
+    },
+    "death": {
+      "year": 452,
+      "circa": false,
+      "original": "正平二年二月甲寅，被中常侍宗爱弑于永安殿，年四十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 424,
+      "end": 452,
+      "note": "423年十一月即位，次年改元始光"
+    },
+    "family": {
+      "father": "person.nwei.tuobasi",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nwei.tuobasi",
     "successor": "person.nwei.tuobajun",
     "bio": "明元帝长子。亲征柔然，灭胡夏、北燕、北凉，439年统一北方，结束十六国局面。大举南侵至瓜步，临江而还。晚年从崔浩之议灭佛（太武灭佛），又国史之狱族灭崔浩。终为宦官宗爱所弑。「佛狸祠下，一片神鸦社鼓」即咏其事。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·世祖纪", "type": "primary", "ref": "卷四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1194963",
+    "sources": [
+      {
+        "title": "魏书·世祖纪",
+        "type": "primary",
+        "ref": "卷四"
+      },
+      {
+        "title": "Wikidata Q1194963",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1194963"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.tuobajun",
     "uuid": "03387a13-863d-4632-b2ad-c97ac0081bc2",
     "name": "拓跋濬",
     "name_traditional": "拓跋濬",
-    "titles": ["北魏文成帝", "高宗文成皇帝"],
+    "titles": [
+      "北魏文成帝",
+      "高宗文成皇帝"
+    ],
     "courtesy_name": "乌雷",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 440, "circa": false, "original": "太平真君元年生于东宫，太武帝之孙", "disputed": []},
-    "death": {"year": 465, "circa": false, "original": "和平六年五月癸卯，崩于太华殿，年二十六", "disputed": []},
-    "reign": {"start": 452, "end": 465},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.nwei.tuobahong"]},
+    "birth": {
+      "year": 440,
+      "circa": false,
+      "original": "太平真君元年生于东宫，太武帝之孙",
+      "disputed": []
+    },
+    "death": {
+      "year": 465,
+      "circa": false,
+      "original": "和平六年五月癸卯，崩于太华殿，年二十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 452,
+      "end": 465
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nwei.tuobahong"
+      ]
+    },
     "predecessor": "person.nwei.tuobatao",
     "successor": "person.nwei.tuobahong",
     "bio": "太武帝之孙、景穆帝拓跋晃之子。宗爱连弑二帝后被宗室与大臣诛灭，拓跋濬继位。在位期间与民休息，恢复佛教，令沙门统昙曜开凿云冈石窟。文明冯太后即其皇后。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·高宗纪", "type": "primary", "ref": "卷五"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1074798",
+    "sources": [
+      {
+        "title": "魏书·高宗纪",
+        "type": "primary",
+        "ref": "卷五"
+      },
+      {
+        "title": "Wikidata Q1074798",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1074798"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.tuobahong",
     "uuid": "ce6f6057-ea61-443b-a5e3-89fa9d4852c6",
     "name": "拓跋弘",
     "name_traditional": "拓跋弘",
-    "titles": ["北魏献文帝", "显祖献文皇帝"],
+    "titles": [
+      "北魏献文帝",
+      "显祖献文皇帝"
+    ],
     "courtesy_name": "第豆胤",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 454, "circa": false, "original": "兴光元年七月生于阴山之北", "disputed": []},
-    "death": {"year": 476, "circa": false, "original": "承明元年六月辛未，暴崩于永安殿（一说为冯太后所害），年二十三", "disputed": []},
-    "reign": {"start": 465, "end": 471, "note": "471年禅位给五岁太子，自称太上皇帝仍亲政"},
-    "family": {"father": "person.nwei.tuobajun", "mother": null, "spouses": [], "children": ["person.nwei.yuanhong"]},
+    "birth": {
+      "year": 454,
+      "circa": false,
+      "original": "兴光元年七月生于阴山之北",
+      "disputed": []
+    },
+    "death": {
+      "year": 476,
+      "circa": false,
+      "original": "承明元年六月辛未，暴崩于永安殿（一说为冯太后所害），年二十三",
+      "disputed": []
+    },
+    "reign": {
+      "start": 465,
+      "end": 471,
+      "note": "471年禅位给五岁太子，自称太上皇帝仍亲政"
+    },
+    "family": {
+      "father": "person.nwei.tuobajun",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nwei.yuanhong"
+      ]
+    },
     "predecessor": "person.nwei.tuobajun",
     "successor": "person.nwei.yuanhong",
     "bio": "文成帝长子，十二岁即位。聪睿夙成，刚毅有断，诛佞臣乙浑。好黄老浮屠之学，有遗世之心，皇兴五年禅位于五岁太子拓跋宏，自称太上皇帝而实掌国事，延兴年间亲征柔然。后与冯太后失和，暴崩，史多疑为太后所害。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·显祖纪", "type": "primary", "ref": "卷六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1071582",
+    "sources": [
+      {
+        "title": "魏书·显祖纪",
+        "type": "primary",
+        "ref": "卷六"
+      },
+      {
+        "title": "Wikidata Q1071582",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1071582"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.yuanhong",
     "uuid": "5a530d3e-f8d6-4084-8e42-de789135784d",
     "name": "元宏",
     "name_traditional": "元宏",
-    "titles": ["北魏孝文帝", "高祖孝文皇帝"],
+    "titles": [
+      "北魏孝文帝",
+      "高祖孝文皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 467, "circa": false, "original": "皇兴元年八月戊申生于平城宫，献文帝长子", "disputed": []},
-    "death": {"year": 499, "circa": false, "original": "太和二十三年四月丙午，崩于谷塘原之行宫，年三十三", "disputed": []},
-    "reign": {"start": 471, "end": 499, "note": "五岁受禅，冯太后称制至490年；494年迁都洛阳，496年改姓元氏"},
-    "family": {"father": "person.nwei.tuobahong", "mother": null, "spouses": [], "children": ["person.nwei.yuanke"]},
+    "birth": {
+      "year": 467,
+      "circa": false,
+      "original": "皇兴元年八月戊申生于平城宫，献文帝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 499,
+      "circa": false,
+      "original": "太和二十三年四月丙午，崩于谷塘原之行宫，年三十三",
+      "disputed": []
+    },
+    "reign": {
+      "start": 471,
+      "end": 499,
+      "note": "五岁受禅，冯太后称制至490年；494年迁都洛阳，496年改姓元氏"
+    },
+    "family": {
+      "father": "person.nwei.tuobahong",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nwei.yuanke"
+      ]
+    },
     "predecessor": "person.nwei.tuobahong",
     "successor": "person.nwei.yuanke",
     "bio": "北魏第七位皇帝，本名拓跋宏。亲政后厉行汉化改革：迁都洛阳、禁胡服断北语、改鲜卑姓为汉姓（拓跋改元）、定姓族、行均田三长制。改革使北方民族大融合，然激进汉化亦激化六镇鲜卑武人之怨，埋下六镇之乱伏笔。",
-    "events": ["event.nwei.xiaowen-reform"],
+    "events": [
+      "event.nwei.xiaowen-reform"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·高祖纪", "type": "primary", "ref": "卷七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q45517548",
+    "sources": [
+      {
+        "title": "魏书·高祖纪",
+        "type": "primary",
+        "ref": "卷七"
+      },
+      {
+        "title": "Wikidata Q45517548",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q45517548"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.yuanke",
     "uuid": "266a4618-9539-452d-b65f-e36cff48d0bb",
     "name": "元恪",
     "name_traditional": "元恪",
-    "titles": ["北魏宣武帝", "世宗宣武皇帝"],
+    "titles": [
+      "北魏宣武帝",
+      "世宗宣武皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 483, "circa": false, "original": "太和七年闰四月生于平城宫，孝文帝次子", "disputed": []},
-    "death": {"year": 515, "circa": false, "original": "延昌四年正月丁巳，崩于式乾殿，年三十三", "disputed": []},
-    "reign": {"start": 499, "end": 515},
-    "family": {"father": "person.nwei.yuanhong", "mother": null, "spouses": [], "children": ["person.nwei.yuanxu"]},
+    "birth": {
+      "year": 483,
+      "circa": false,
+      "original": "太和七年闰四月生于平城宫，孝文帝次子",
+      "disputed": []
+    },
+    "death": {
+      "year": 515,
+      "circa": false,
+      "original": "延昌四年正月丁巳，崩于式乾殿，年三十三",
+      "disputed": []
+    },
+    "reign": {
+      "start": 499,
+      "end": 515
+    },
+    "family": {
+      "father": "person.nwei.yuanhong",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nwei.yuanxu"
+      ]
+    },
     "predecessor": "person.nwei.yuanhong",
     "successor": "person.nwei.yuanxu",
     "bio": "孝文帝次子。在位前期取梁益、扬州之地，与南梁拉锯；后期宠信外戚高肇，滥杀宗室，朝政渐浊。取消「子贵母死」旧制留胡充华（胡太后），身后女主临朝、六镇怨起，魏室由盛转衰。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·世宗纪", "type": "primary", "ref": "卷八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1194968",
+    "sources": [
+      {
+        "title": "魏书·世宗纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "Wikidata Q1194968",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1194968"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.yuanxu",
     "uuid": "7101a658-a9d4-4f80-85af-9f3663bef7d7",
     "name": "元诩",
     "name_traditional": "元詡",
-    "titles": ["北魏孝明帝", "肃宗孝明皇帝"],
+    "titles": [
+      "北魏孝明帝",
+      "肃宗孝明皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 510, "circa": false, "original": "永平三年三月丙戌生于宣光殿东北", "disputed": []},
-    "death": {"year": 528, "circa": false, "original": "武泰元年二月癸丑，暴崩于显阳殿（为胡太后所鸩），年十九", "disputed": []},
-    "reign": {"start": 515, "end": 528, "note": "六岁即位，胡太后临朝"},
-    "family": {"father": "person.nwei.yuanke", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 510,
+      "circa": false,
+      "original": "永平三年三月丙戌生于宣光殿东北",
+      "disputed": []
+    },
+    "death": {
+      "year": 528,
+      "circa": false,
+      "original": "武泰元年二月癸丑，暴崩于显阳殿（为胡太后所鸩），年十九",
+      "disputed": []
+    },
+    "reign": {
+      "start": 515,
+      "end": 528,
+      "note": "六岁即位，胡太后临朝"
+    },
+    "family": {
+      "father": "person.nwei.yuanke",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nwei.yuanke",
     "successor": "person.nwei.yuanziyou",
     "bio": "宣武帝之子，六岁即位，母胡太后临朝称制，营建永宁寺极尽奢靡。在位期间六镇起义、河北民变蜂起，国势大坏。年长后与胡太后争权，密召尔朱荣入洛，事泄被太后鸩杀。尔朱荣随即入洛，沉胡太后及幼主于河阴，北魏名存实亡。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·肃宗纪", "type": "primary", "ref": "卷九"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1071618",
+    "sources": [
+      {
+        "title": "魏书·肃宗纪",
+        "type": "primary",
+        "ref": "卷九"
+      },
+      {
+        "title": "Wikidata Q1071618",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1071618"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.yuanziyou",
     "uuid": "1463b5d8-4a61-49e4-9667-ee30b55fde15",
     "name": "元子攸",
     "name_traditional": "元子攸",
-    "titles": ["北魏孝庄帝", "敬宗孝庄皇帝"],
+    "titles": [
+      "北魏孝庄帝",
+      "敬宗孝庄皇帝"
+    ],
     "courtesy_name": "彦达",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 507, "circa": false, "original": "正始四年生，彭城王元勰第三子", "disputed": []},
-    "death": {"year": 531, "circa": false, "original": "永安三年十二月甲子（公历531年1月），被尔朱兆缢死于晋阳三级佛寺，年二十四", "disputed": []},
-    "reign": {"start": 528, "end": 530, "note": "尔朱荣所立，528年四月即位"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 507,
+      "circa": false,
+      "original": "正始四年生，彭城王元勰第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 531,
+      "circa": false,
+      "original": "永安三年十二月甲子（公历531年1月），被尔朱兆缢死于晋阳三级佛寺，年二十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 528,
+      "end": 530,
+      "note": "尔朱荣所立，528年四月即位"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nwei.yuanxu",
     "successor": "person.nwei.yuanxiu",
     "bio": "尔朱荣入洛后所立。不甘为傀儡，永安三年九月于明光殿手刃尔朱荣，中外称快。然尔朱兆、尔朱世隆举兵犯阙，洛阳陷落，被擒至晋阳缢杀。临终礼佛发愿「愿生生世世不生帝王家」。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·孝庄纪", "type": "primary", "ref": "卷十"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1074789",
+    "sources": [
+      {
+        "title": "魏书·孝庄纪",
+        "type": "primary",
+        "ref": "卷十"
+      },
+      {
+        "title": "Wikidata Q1074789",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1074789"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nwei.yuanxiu",
     "uuid": "9c4aea34-0072-4b28-9c99-63ca486fc0b5",
     "name": "元修",
     "name_traditional": "元脩",
-    "titles": ["北魏孝武帝", "出帝"],
+    "titles": [
+      "北魏孝武帝",
+      "出帝"
+    ],
     "courtesy_name": "孝则",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-wei",
-    "birth": {"year": 510, "circa": false, "original": "永平三年生，广平武穆王元怀第三子", "disputed": []},
-    "death": {"year": 535, "circa": false, "original": "大统元年（535年）被宇文泰以毒酒弑于长安，年二十六", "disputed": []},
-    "reign": {"start": 532, "end": 534, "note": "高欢所立；534年西奔宇文泰，北魏分裂为东西魏"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 510,
+      "circa": false,
+      "original": "永平三年生，广平武穆王元怀第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 535,
+      "circa": false,
+      "original": "大统元年（535年）被宇文泰以毒酒弑于长安，年二十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 532,
+      "end": 534,
+      "note": "高欢所立；534年西奔宇文泰，北魏分裂为东西魏"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nwei.yuanziyou",
     "successor": null,
     "bio": "高欢废节闵帝后立之。不堪高欢专逼，永熙三年率轻骑西奔长安投宇文泰，高欢另立元善见，北魏自此分裂为东西。在长安又与宇文泰不协，被毒杀。北魏实亡于其身。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "魏书·出帝纪", "type": "primary", "ref": "卷十一"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q45572678",
+    "sources": [
+      {
+        "title": "魏书·出帝纪",
+        "type": "primary",
+        "ref": "卷十一"
+      },
+      {
+        "title": "Wikidata Q45572678",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q45572678"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

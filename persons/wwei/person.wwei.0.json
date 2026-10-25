@@ -4,65 +4,178 @@
     "uuid": "4af06adc-bc19-41bd-8244-795dd7db7438",
     "name": "元宝炬",
     "name_traditional": "元寶炬",
-    "titles": ["西魏文帝", "文皇帝"],
+    "titles": [
+      "西魏文帝",
+      "文皇帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.western-wei",
-    "birth": {"year": 507, "circa": false, "original": "正始四年生，京兆王元愉之子", "disputed": []},
-    "death": {"year": 551, "circa": false, "original": "大统十七年三月庚戌，崩于乾安殿，年四十五", "disputed": []},
-    "reign": {"start": 535, "end": 551, "note": "宇文泰所立，大权尽归宇文氏"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.wwei.yuanqin", "person.wwei.yuankuo"]},
+    "birth": {
+      "year": 507,
+      "circa": false,
+      "original": "正始四年生，京兆王元愉之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 551,
+      "circa": false,
+      "original": "大统十七年三月庚戌，崩于乾安殿，年四十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 535,
+      "end": 551,
+      "note": "宇文泰所立，大权尽归宇文氏"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.wwei.yuanqin",
+        "person.wwei.yuankuo"
+      ]
+    },
     "predecessor": null,
     "successor": "person.wwei.yuanqin",
     "bio": "西魏开国皇帝，孝文帝之孙。宇文泰毒杀孝武帝后立之于长安。在位十七年，宇文泰行府兵制、六条诏书，为北周隋唐制度之源，帝徒拥虚位。废乙弗后纳柔然公主，致乙弗后被逼自尽，为世所叹。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北史·魏本纪", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q2985487",
+    "sources": [
+      {
+        "title": "北史·魏本纪",
+        "type": "primary"
+      },
+      {
+        "title": "Wikidata Q2985487",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q2985487"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.wwei.yuanqin",
     "uuid": "ff042e0d-22e8-4039-886d-26bca35da150",
     "name": "元钦",
     "name_traditional": "元欽",
-    "titles": ["西魏废帝"],
+    "titles": [
+      "西魏废帝"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.western-wei",
-    "birth": {"year": 525, "circa": true, "original": "文帝长子", "disputed": []},
-    "death": {"year": 554, "circa": false, "original": "被宇文泰废后毒杀", "disputed": []},
-    "reign": {"start": 551, "end": 554},
-    "family": {"father": "person.wwei.yuanbaoju", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 525,
+      "circa": true,
+      "original": "文帝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 554,
+      "circa": false,
+      "original": "被宇文泰废后毒杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": 551,
+      "end": 554
+    },
+    "family": {
+      "father": "person.wwei.yuanbaoju",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.wwei.yuanbaoju",
     "successor": "person.wwei.yuankuo",
     "bio": "文帝长子。在位期间魏尚书元烈谋诛宇文泰事泄被杀，元钦深以为恨，密谋除宇文泰，为诸将告发，被废置雍州，旋被毒杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北史·魏本纪", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q2660296",
+    "sources": [
+      {
+        "title": "北史·魏本纪",
+        "type": "primary"
+      },
+      {
+        "title": "Wikidata Q2660296",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q2660296"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.wwei.yuankuo",
     "uuid": "d962276d-5c8f-4efa-8699-c5be47604af0",
     "name": "元廓",
     "name_traditional": "元廓",
-    "titles": ["西魏恭帝", "宋王"],
+    "titles": [
+      "西魏恭帝",
+      "宋王"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.western-wei",
     "birth": null,
-    "death": {"year": 557, "circa": false, "original": "禅位后被宇文觉所杀", "disputed": []},
-    "reign": {"start": 554, "end": 557, "note": "556年十二月（公历557年初）禅位于宇文觉"},
-    "family": {"father": "person.wwei.yuanbaoju", "mother": null, "spouses": [], "children": []},
+    "death": {
+      "year": 557,
+      "circa": false,
+      "original": "禅位后被宇文觉所杀",
+      "disputed": []
+    },
+    "reign": {
+      "start": 554,
+      "end": 557,
+      "note": "556年十二月（公历557年初）禅位于宇文觉"
+    },
+    "family": {
+      "father": "person.wwei.yuanbaoju",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.wwei.yuanqin",
     "successor": null,
     "bio": "文帝第四子，西魏末代皇帝。宇文泰死后，宇文护迫其禅位于宇文觉，西魏亡。封宋公，寻被杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "北史·魏本纪", "type": "primary"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q45445277",
+    "sources": [
+      {
+        "title": "北史·魏本纪",
+        "type": "primary"
+      },
+      {
+        "title": "Wikidata Q45445277",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q45445277"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

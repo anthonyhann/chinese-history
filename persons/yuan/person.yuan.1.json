@@ -39,12 +39,17 @@
       "event.yuan.menggu-xizheng"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q117449",
     "sources": [
       {
         "title": "元史·耶律楚材传",
         "type": "primary",
         "ref": "卷一百四十六"
+      },
+      {
+        "title": "Wikidata Q117449",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q117449"
       }
     ],
     "_meta": {

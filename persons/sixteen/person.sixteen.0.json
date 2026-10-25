@@ -4,197 +4,553 @@
     "uuid": "67f16ba3-6439-4080-a611-db30b057cd2e",
     "name": "刘渊",
     "name_traditional": "劉淵",
-    "titles": ["汉赵光文帝", "高祖光文皇帝", "汉王"],
+    "titles": [
+      "汉赵光文帝",
+      "高祖光文皇帝",
+      "汉王"
+    ],
     "courtesy_name": "元海",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 251, "circa": true, "original": "匈奴左部帅刘豹之子", "disputed": []},
-    "death": {"year": 310, "circa": false, "original": "河瑞二年八月己卯，崩于光极殿", "disputed": []},
-    "reign": {"start": 304, "end": 310, "note": "304年称汉王，308年称帝，国号汉（史称汉赵/前赵）"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 251,
+      "circa": true,
+      "original": "匈奴左部帅刘豹之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 310,
+      "circa": false,
+      "original": "河瑞二年八月己卯，崩于光极殿",
+      "disputed": []
+    },
+    "reign": {
+      "start": 304,
+      "end": 310,
+      "note": "304年称汉王，308年称帝，国号汉（史称汉赵/前赵）"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": null,
     "bio": "匈奴屠各部人，自称汉室外甥。幼习汉学，通《春秋》《孙吴兵法》，先后为质于洛阳、邺城。八王之乱时借口大会五部，于左国城称汉王，追尊蜀汉后主刘禅，以兴复汉室为名起兵，开十六国时代。",
     "events": [],
     "artifacts": [],
     "wikidata": null,
-    "sources": [{"title": "晋书·刘元海载记", "type": "primary", "ref": "卷一百一"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "sources": [
+      {
+        "title": "晋书·刘元海载记",
+        "type": "primary",
+        "ref": "卷一百一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.shile",
     "uuid": "ab4d2f6d-6668-4601-91ce-0ce97f4ebbbc",
     "name": "石勒",
     "name_traditional": "石勒",
-    "titles": ["后赵明帝", "高祖明皇帝", "赵王"],
+    "titles": [
+      "后赵明帝",
+      "高祖明皇帝",
+      "赵王"
+    ],
     "courtesy_name": "世龙",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 274, "circa": false, "original": "西晋泰始十年生，上党武乡羯人", "disputed": []},
-    "death": {"year": 333, "circa": false, "original": "后赵建平四年七月戊辰，崩于西阁，年六十", "disputed": []},
-    "reign": {"start": 319, "end": 333, "note": "319年称赵王，330年称帝"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 274,
+      "circa": false,
+      "original": "西晋泰始十年生，上党武乡羯人",
+      "disputed": []
+    },
+    "death": {
+      "year": 333,
+      "circa": false,
+      "original": "后赵建平四年七月戊辰，崩于西阁，年六十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 319,
+      "end": 333,
+      "note": "319年称赵王，330年称帝"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": "person.sixteen.shihu",
     "bio": "羯族，后赵开国皇帝。少年时被掠卖为奴，为魏郡人汲桑牧卒，自八王之乱中崛起，投刘渊、刘聪，羽翼渐丰后自立。319年称赵王都襄国，330年称帝，与前赵决战灭之，尽有北方大部。不识字而使人读史，闻郦食其劝立六国后辄惊曰「此法当失」。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·石勒载记", "type": "primary", "ref": "卷一百四至一百五"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1196190",
+    "sources": [
+      {
+        "title": "晋书·石勒载记",
+        "type": "primary",
+        "ref": "卷一百四至一百五"
+      },
+      {
+        "title": "Wikidata Q1196190",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1196190"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.shihu",
     "uuid": "c70190b6-8b71-4ea3-914f-11bcecdaeb3e",
     "name": "石虎",
     "name_traditional": "石虎",
-    "titles": ["后赵武帝", "太祖武皇帝", "大赵天王"],
+    "titles": [
+      "后赵武帝",
+      "太祖武皇帝",
+      "大赵天王"
+    ],
     "courtesy_name": "季龙",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 295, "circa": true, "original": "石勒从子（一说从侄）", "disputed": []},
-    "death": {"year": 349, "circa": false, "original": "太宁元年四月，病死于邺城金华殿", "disputed": []},
-    "reign": {"start": 334, "end": 349, "note": "334年废石弘自立，初称居摄赵天王，后称帝"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 295,
+      "circa": true,
+      "original": "石勒从子（一说从侄）",
+      "disputed": []
+    },
+    "death": {
+      "year": 349,
+      "circa": false,
+      "original": "太宁元年四月，病死于邺城金华殿",
+      "disputed": []
+    },
+    "reign": {
+      "start": 334,
+      "end": 349,
+      "note": "334年废石弘自立，初称居摄赵天王，后称帝"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.sixteen.shile",
     "successor": null,
     "bio": "后赵第三代君主，石勒从子。骁勇善战而性极残忍，攻城坑杀无遗。废石弘自立后，大兴土木营邺宫、洛阳宫，发民夫数十万；父子相残，先后杀两任太子。死后诸子争立，冉闵乘机起事，后赵速亡。其暴虐为十六国之最。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·石季龙载记", "type": "primary", "ref": "卷一百六至一百七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1149441",
+    "sources": [
+      {
+        "title": "晋书·石季龙载记",
+        "type": "primary",
+        "ref": "卷一百六至一百七"
+      },
+      {
+        "title": "Wikidata Q1149441",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1149441"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.ranmin",
     "uuid": "f16ceef5-e4d1-4bad-b851-d3d622b24e86",
     "name": "冉闵",
     "name_traditional": "冉閔",
-    "titles": ["冉魏武悼天王", "平皇帝"],
+    "titles": [
+      "冉魏武悼天王",
+      "平皇帝"
+    ],
     "courtesy_name": "永曾",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
     "birth": null,
-    "death": {"year": 352, "circa": false, "original": "永兴三年，为前燕慕容儁俘斩于遏陉山", "disputed": []},
-    "reign": {"start": 350, "end": 352, "note": "350年灭后赵称帝，国号大魏"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "death": {
+      "year": 352,
+      "circa": false,
+      "original": "永兴三年，为前燕慕容儁俘斩于遏陉山",
+      "disputed": []
+    },
+    "reign": {
+      "start": 350,
+      "end": 352,
+      "note": "350年灭后赵称帝，国号大魏"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": null,
     "bio": "后赵石虎养孙，本姓冉，名石闵。骁勇多力，石虎死后诛灭石氏，颁布「杀胡令」，邺城一日之中斩胡羯数万。350年称帝复姓冉氏，国号魏。352年与慕容恪战于廉台，十战十胜而最终被围擒，斩于龙城。后世对其「杀胡」评价两极。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·石季龙载记（附冉闵）", "type": "primary", "ref": "卷一百七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q836256",
+    "sources": [
+      {
+        "title": "晋书·石季龙载记（附冉闵）",
+        "type": "primary",
+        "ref": "卷一百七"
+      },
+      {
+        "title": "Wikidata Q836256",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q836256"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.fujian-jingming",
     "uuid": "02bbb6ba-ecf5-43ac-b4d9-13fb86cb3a38",
     "name": "苻健",
     "name_traditional": "苻健",
-    "titles": ["前秦景明帝", "高祖景明皇帝"],
+    "titles": [
+      "前秦景明帝",
+      "高祖景明皇帝"
+    ],
     "courtesy_name": "建业",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 317, "circa": true, "original": "氐族首领苻洪第三子", "disputed": []},
-    "death": {"year": 355, "circa": false, "original": "皇始五年六月丙子，崩于太极殿", "disputed": []},
-    "reign": {"start": 351, "end": 355, "note": "351年称天王大单于，352年称帝，都长安"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 317,
+      "circa": true,
+      "original": "氐族首领苻洪第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 355,
+      "circa": false,
+      "original": "皇始五年六月丙子，崩于太极殿",
+      "disputed": []
+    },
+    "reign": {
+      "start": 351,
+      "end": 355,
+      "note": "351年称天王大单于，352年称帝，都长安"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": "person.sixteen.fujian-xuanzhao",
     "bio": "氐族，前秦开国皇帝。后赵乱亡之际率部西入关中，三辅郡县皆降，定都长安。败晋将张遇、司马勋，击退桓温北伐，与民约法三章，关西稍安。临终托孤于苻雄之子苻坚等，然其子苻生暴虐，终为苻坚所代。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·苻健载记", "type": "primary", "ref": "卷一百一十二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1071647",
+    "sources": [
+      {
+        "title": "晋书·苻健载记",
+        "type": "primary",
+        "ref": "卷一百一十二"
+      },
+      {
+        "title": "Wikidata Q1071647",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1071647"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.fujian-xuanzhao",
     "uuid": "8cf3d6f6-8ea6-4770-a237-57cf6e46dac2",
     "name": "苻坚",
     "name_traditional": "苻堅",
-    "titles": ["前秦宣昭帝", "世祖宣昭皇帝", "大秦天王"],
+    "titles": [
+      "前秦宣昭帝",
+      "世祖宣昭皇帝",
+      "大秦天王"
+    ],
     "courtesy_name": "永固",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 338, "circa": false, "original": "苻雄之子，苻健之侄", "disputed": []},
-    "death": {"year": 385, "circa": false, "original": "建元二十一年八月，被姚苌缢死于新平佛寺，年四十八", "disputed": []},
-    "reign": {"start": 357, "end": 385, "note": "357年杀苻生自立，称大秦天王"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 338,
+      "circa": false,
+      "original": "苻雄之子，苻健之侄",
+      "disputed": []
+    },
+    "death": {
+      "year": 385,
+      "circa": false,
+      "original": "建元二十一年八月，被姚苌缢死于新平佛寺，年四十八",
+      "disputed": []
+    },
+    "reign": {
+      "start": 357,
+      "end": 385,
+      "note": "357年杀苻生自立，称大秦天王"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.sixteen.fujian-jingming",
     "successor": null,
     "bio": "前秦最盛之主。任用王猛改革吏治、劝课农桑、兴办太学，先后灭前燕、代国、前凉，取蜀地，下襄阳，376年统一北方。王猛临终戒其勿伐晋，苻坚不听，383年倾九十万众南征，淝水一战崩溃，鲜卑、羌、丁零纷纷复国，北方再度分裂。385年被姚苌俘杀。",
-    "events": ["event.jin.feishui"],
+    "events": [
+      "event.jin.feishui"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·苻坚载记", "type": "primary", "ref": "卷一百一十三至一百一十四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q967998",
+    "sources": [
+      {
+        "title": "晋书·苻坚载记",
+        "type": "primary",
+        "ref": "卷一百一十三至一百一十四"
+      },
+      {
+        "title": "Wikidata Q967998",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q967998"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.murongjun",
     "uuid": "ebd3a1af-9432-435d-aed2-3891ffa27c0b",
     "name": "慕容儁",
     "name_traditional": "慕容儁",
-    "titles": ["前燕景昭帝", "烈祖景昭皇帝"],
+    "titles": [
+      "前燕景昭帝",
+      "烈祖景昭皇帝"
+    ],
     "courtesy_name": "宣英",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 319, "circa": false, "original": "慕容皝第二子", "disputed": []},
-    "death": {"year": 360, "circa": false, "original": "光寿四年正月庚子，崩于邺城应福殿，年四十二", "disputed": []},
-    "reign": {"start": 352, "end": 360, "note": "348年嗣燕王位，352年称帝，357年迁都邺"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 319,
+      "circa": false,
+      "original": "慕容皝第二子",
+      "disputed": []
+    },
+    "death": {
+      "year": 360,
+      "circa": false,
+      "original": "光寿四年正月庚子，崩于邺城应福殿，年四十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 352,
+      "end": 360,
+      "note": "348年嗣燕王位，352年称帝，357年迁都邺"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": null,
     "bio": "鲜卑慕容氏，前燕开国皇帝。乘后赵之乱挥师南下，擒冉闵于廉台，灭冉魏，尽有河北之地，与关中之秦、江南之晋鼎立。博览书史，雅好文籍。死后子慕容暐幼弱，慕容评、慕舆根相继乱政，前燕终为苻坚所灭。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·慕容儁载记", "type": "primary", "ref": "卷一百一十"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1071329",
+    "sources": [
+      {
+        "title": "晋书·慕容儁载记",
+        "type": "primary",
+        "ref": "卷一百一十"
+      },
+      {
+        "title": "Wikidata Q1071329",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1071329"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.murongchui",
     "uuid": "08b66c82-ce34-4bcd-80bc-67f3ac445b49",
     "name": "慕容垂",
     "name_traditional": "慕容垂",
-    "titles": ["后燕成武帝", "世祖成武皇帝"],
+    "titles": [
+      "后燕成武帝",
+      "世祖成武皇帝"
+    ],
     "courtesy_name": "道明",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 326, "circa": false, "original": "慕容皝第五子，本名慕容霸", "disputed": []},
-    "death": {"year": 396, "circa": false, "original": "建兴十一年三月，参合陂之败后北征途中呕血而崩，年七十一", "disputed": []},
-    "reign": {"start": 384, "end": 396, "note": "384年称燕王复国，386年称帝"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 326,
+      "circa": false,
+      "original": "慕容皝第五子，本名慕容霸",
+      "disputed": []
+    },
+    "death": {
+      "year": 396,
+      "circa": false,
+      "original": "建兴十一年三月，参合陂之败后北征途中呕血而崩，年七十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 384,
+      "end": 396,
+      "note": "384年称燕王复国，386年称帝"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": null,
     "bio": "前燕宗室，枋头之战大破桓温，威名大震而见忌于慕容评，投奔苻坚。淝水战后聚众复国，建立后燕，中兴燕室，先后灭翟魏、西燕。晚年在参合陂新败后强起北征，行至沮阳见积骸如山，惭愤呕血而卒。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·慕容垂载记", "type": "primary", "ref": "卷一百二十三"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1069768",
+    "sources": [
+      {
+        "title": "晋书·慕容垂载记",
+        "type": "primary",
+        "ref": "卷一百二十三"
+      },
+      {
+        "title": "Wikidata Q1069768",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1069768"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.sixteen.yaochang",
     "uuid": "b5e04772-5ecc-4eb7-b9ec-546cac062503",
     "name": "姚苌",
     "name_traditional": "姚萇",
-    "titles": ["后秦武昭帝", "太祖武昭皇帝"],
+    "titles": [
+      "后秦武昭帝",
+      "太祖武昭皇帝"
+    ],
     "courtesy_name": "景茂",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.sixteen-kingdoms",
-    "birth": {"year": 331, "circa": true, "original": "羌族首领姚弋仲第二十四子", "disputed": []},
-    "death": {"year": 393, "circa": false, "original": "建初八年十二月，崩于安定", "disputed": []},
-    "reign": {"start": 384, "end": 393, "note": "384年自称万年秦王，386年称帝于长安"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 331,
+      "circa": true,
+      "original": "羌族首领姚弋仲第二十四子",
+      "disputed": []
+    },
+    "death": {
+      "year": 393,
+      "circa": false,
+      "original": "建初八年十二月，崩于安定",
+      "disputed": []
+    },
+    "reign": {
+      "start": 384,
+      "end": 393,
+      "note": "384年自称万年秦王，386年称帝于长安"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": null,
     "bio": "羌族，后秦开国皇帝。兄姚襄死后率部降苻坚，淝水败后独立，擒杀苻坚于新平佛寺。称帝后与前秦余部苻登连年苦战，以诡诈用兵著称。临终戒其子姚兴以恩德治国，为十六国君主中少有的知所进退者。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "晋书·姚苌载记", "type": "primary", "ref": "卷一百一十六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1147266",
+    "sources": [
+      {
+        "title": "晋书·姚苌载记",
+        "type": "primary",
+        "ref": "卷一百一十六"
+      },
+      {
+        "title": "Wikidata Q1147266",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1147266"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

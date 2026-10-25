@@ -4,197 +4,581 @@
     "uuid": "e09bff9f-e3eb-4eaa-9f95-b93cc1124a37",
     "name": "赵匡胤",
     "name_traditional": "趙匡胤",
-    "titles": ["宋太祖", "启运立极英武睿文神德圣功至明大孝皇帝"],
+    "titles": [
+      "宋太祖",
+      "启运立极英武睿文神德圣功至明大孝皇帝"
+    ],
     "courtesy_name": "元朗",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 927, "circa": false, "original": "后唐天成二年二月十六日生于洛阳夹马营", "disputed": []},
-    "death": {"year": 976, "circa": false, "original": "开宝九年十月壬子，崩于万岁殿（烛影斧声），年五十", "disputed": []},
-    "reign": {"start": 960, "end": 976},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 927,
+      "circa": false,
+      "original": "后唐天成二年二月十六日生于洛阳夹马营",
+      "disputed": []
+    },
+    "death": {
+      "year": 976,
+      "circa": false,
+      "original": "开宝九年十月壬子，崩于万岁殿（烛影斧声），年五十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 960,
+      "end": 976
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.later-zhou.chaizongxun",
     "successor": "person.nsong.zhaoguangyi",
     "bio": "涿郡人，后周殿前都点检。陈桥兵变黄袍加身，受后周禅建宋。先南后北平定荆南、后蜀、南汉、南唐，杯酒释兵权收大将兵权，强干弱枝，重文抑武，奠定两宋三百年文治格局。崩于烛影斧声，千古疑案。",
-    "events": ["event.nsong.chenqiao", "event.nsong.beijiu", "event.nsong.zhuying-fusheng"],
+    "events": [
+      "event.nsong.chenqiao",
+      "event.nsong.beijiu",
+      "event.nsong.zhuying-fusheng"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·太祖本纪", "type": "primary", "ref": "卷一至卷三"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7471",
+    "sources": [
+      {
+        "title": "宋史·太祖本纪",
+        "type": "primary",
+        "ref": "卷一至卷三"
+      },
+      {
+        "title": "Wikidata Q7471",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7471"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaoguangyi",
     "uuid": "40805f0a-9f44-4fcd-b353-f754d60fc64a",
     "name": "赵光义",
     "name_traditional": "趙光義",
-    "titles": ["宋太宗", "神功圣德文武皇帝"],
+    "titles": [
+      "宋太宗",
+      "神功圣德文武皇帝"
+    ],
     "courtesy_name": "廷宜",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 939, "circa": false, "original": "后晋天福四年十月七日生于开封府浚仪官舍", "disputed": []},
-    "death": {"year": 997, "circa": false, "original": "至道三年三月癸巳，崩于万岁殿，年五十九", "disputed": []},
-    "reign": {"start": 976, "end": 997},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.nsong.zhaoheng"]},
+    "birth": {
+      "year": 939,
+      "circa": false,
+      "original": "后晋天福四年十月七日生于开封府浚仪官舍",
+      "disputed": []
+    },
+    "death": {
+      "year": 997,
+      "circa": false,
+      "original": "至道三年三月癸巳，崩于万岁殿，年五十九",
+      "disputed": []
+    },
+    "reign": {
+      "start": 976,
+      "end": 997
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nsong.zhaoheng"
+      ]
+    },
     "predecessor": "person.nsong.zhaokuangyin",
     "successor": "person.nsong.zhaoheng",
     "bio": "太祖之弟。烛影斧声后继位（一说金匮之盟）。灭北汉完成统一，然高梁河、雍熙两次北伐惨败于辽，箭伤股部，自此对辽转守。在位期间大开科举，编《太平御览》《太平广记》，文治大兴而武功不振，「守内虚外」国策成型。",
-    "events": ["event.nsong.zhuying-fusheng"],
+    "events": [
+      "event.nsong.zhuying-fusheng"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·太宗本纪", "type": "primary", "ref": "卷四至卷五"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7473",
+    "sources": [
+      {
+        "title": "宋史·太宗本纪",
+        "type": "primary",
+        "ref": "卷四至卷五"
+      },
+      {
+        "title": "Wikidata Q7473",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7473"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaoheng",
     "uuid": "72c39753-9571-42ca-9986-7d06b8040eec",
     "name": "赵恒",
     "name_traditional": "趙恆",
-    "titles": ["宋真宗", "应符稽古神功让德文明武定章圣元孝皇帝"],
+    "titles": [
+      "宋真宗",
+      "应符稽古神功让德文明武定章圣元孝皇帝"
+    ],
     "courtesy_name": "元侃",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 968, "circa": false, "original": "乾德六年十二月二日生于东京晋邸，太宗第三子", "disputed": []},
-    "death": {"year": 1022, "circa": false, "original": "乾兴元年二月十九日，崩于延庆殿，年五十五", "disputed": []},
-    "reign": {"start": 997, "end": 1022},
-    "family": {"father": "person.nsong.zhaoguangyi", "mother": null, "spouses": [], "children": ["person.nsong.zhaozhen"]},
+    "birth": {
+      "year": 968,
+      "circa": false,
+      "original": "乾德六年十二月二日生于东京晋邸，太宗第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1022,
+      "circa": false,
+      "original": "乾兴元年二月十九日，崩于延庆殿，年五十五",
+      "disputed": []
+    },
+    "reign": {
+      "start": 997,
+      "end": 1022
+    },
+    "family": {
+      "father": "person.nsong.zhaoguangyi",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nsong.zhaozhen"
+      ]
+    },
     "predecessor": "person.nsong.zhaoguangyi",
     "successor": "person.nsong.zhaozhen",
     "bio": "太宗第三子。景德元年辽军南下，从寇准之议亲征至澶州，与辽订澶渊之盟，换来宋辽百年和平。晚年好符瑞，东封泰山、西祀汾阴，天书降临闹剧不断，朝野上下粉饰太平。",
-    "events": ["event.nsong.chanyuan"],
+    "events": [
+      "event.nsong.chanyuan"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·真宗本纪", "type": "primary", "ref": "卷六至卷八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7475",
+    "sources": [
+      {
+        "title": "宋史·真宗本纪",
+        "type": "primary",
+        "ref": "卷六至卷八"
+      },
+      {
+        "title": "Wikidata Q7475",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7475"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaozhen",
     "uuid": "9bc25c55-82f6-40d4-b177-29730c1da68f",
     "name": "赵祯",
     "name_traditional": "趙禎",
-    "titles": ["宋仁宗", "体天法道极功全德神文圣武睿哲明孝皇帝"],
+    "titles": [
+      "宋仁宗",
+      "体天法道极功全德神文圣武睿哲明孝皇帝"
+    ],
     "courtesy_name": "受益",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 1010, "circa": false, "original": "大中祥符三年四月十四日生于东京，真宗第六子", "disputed": []},
-    "death": {"year": 1063, "circa": false, "original": "嘉祐八年三月辛未，崩于福宁殿，年五十四", "disputed": []},
-    "reign": {"start": 1022, "end": 1063, "note": "十三岁即位，刘太后临朝十一年"},
-    "family": {"father": "person.nsong.zhaoheng", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1010,
+      "circa": false,
+      "original": "大中祥符三年四月十四日生于东京，真宗第六子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1063,
+      "circa": false,
+      "original": "嘉祐八年三月辛未，崩于福宁殿，年五十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1022,
+      "end": 1063,
+      "note": "十三岁即位，刘太后临朝十一年"
+    },
+    "family": {
+      "father": "person.nsong.zhaoheng",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nsong.zhaoheng",
     "successor": "person.nsong.zhaoshu",
     "bio": "北宋在位最长的皇帝，「狸猫换太子」传说的主角原型。在位四十二年，名臣辈出：范仲淹、欧阳修、包拯、富弼、韩琦、文彦博。庆历新政开变法先声，宋夏和议稳定西北。宽仁少断，百事不会，只会做官家，为后世公认的第一仁君。",
-    "events": ["event.nsong.qingli"],
+    "events": [
+      "event.nsong.qingli"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·仁宗本纪", "type": "primary", "ref": "卷九至卷十二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7477",
+    "sources": [
+      {
+        "title": "宋史·仁宗本纪",
+        "type": "primary",
+        "ref": "卷九至卷十二"
+      },
+      {
+        "title": "Wikidata Q7477",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7477"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaoshu",
     "uuid": "201a74bc-5bcf-4bfb-9613-bf9d63fe1738",
     "name": "赵曙",
     "name_traditional": "趙曙",
-    "titles": ["宋英宗", "体乾应历隆功盛德宪文肃武睿圣宣孝皇帝"],
+    "titles": [
+      "宋英宗",
+      "体乾应历隆功盛德宪文肃武睿圣宣孝皇帝"
+    ],
     "courtesy_name": "宗实",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 1032, "circa": false, "original": "明道元年正月三日生于宣平坊宅第，濮王赵允让之子", "disputed": []},
-    "death": {"year": 1067, "circa": false, "original": "治平四年正月丁巳，崩于福宁殿，年三十六", "disputed": []},
-    "reign": {"start": 1063, "end": 1067},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.nsong.zhaoxu"]},
+    "birth": {
+      "year": 1032,
+      "circa": false,
+      "original": "明道元年正月三日生于宣平坊宅第，濮王赵允让之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1067,
+      "circa": false,
+      "original": "治平四年正月丁巳，崩于福宁殿，年三十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1063,
+      "end": 1067
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nsong.zhaoxu"
+      ]
+    },
     "predecessor": "person.nsong.zhaozhen",
     "successor": "person.nsong.zhaoxu",
     "bio": "仁宗无子，以濮王之子入继。在位四年，追崇生父的「濮议」之争引发朝中轩然大波，欧阳修与司马光两派争论不休。命司马光编修《资治通鉴》。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·英宗本纪", "type": "primary", "ref": "卷十三"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7479",
+    "sources": [
+      {
+        "title": "宋史·英宗本纪",
+        "type": "primary",
+        "ref": "卷十三"
+      },
+      {
+        "title": "Wikidata Q7479",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7479"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaoxu",
     "uuid": "37531ffc-5cd7-42e0-925a-1bae6c3e6983",
     "name": "赵顼",
     "name_traditional": "趙頊",
-    "titles": ["宋神宗", "体元显道法古立宪帝德王功英文烈武钦仁圣孝皇帝"],
+    "titles": [
+      "宋神宗",
+      "体元显道法古立宪帝德王功英文烈武钦仁圣孝皇帝"
+    ],
     "courtesy_name": "仲针",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 1048, "circa": false, "original": "庆历八年四月戊寅生于濮王宫，英宗长子", "disputed": []},
-    "death": {"year": 1085, "circa": false, "original": "元丰八年三月戊戌，崩于福宁殿，年三十八", "disputed": []},
-    "reign": {"start": 1067, "end": 1085},
-    "family": {"father": "person.nsong.zhaoshu", "mother": null, "spouses": [], "children": ["person.nsong.zhaoxu-zhe"]},
+    "birth": {
+      "year": 1048,
+      "circa": false,
+      "original": "庆历八年四月戊寅生于濮王宫，英宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1085,
+      "circa": false,
+      "original": "元丰八年三月戊戌，崩于福宁殿，年三十八",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1067,
+      "end": 1085
+    },
+    "family": {
+      "father": "person.nsong.zhaoshu",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nsong.zhaoxu-zhe"
+      ]
+    },
     "predecessor": "person.nsong.zhaoshu",
     "successor": "person.nsong.zhaoxu-zhe",
     "bio": "北宋最有改革雄心的皇帝。痛感积贫积弱，即位后即起用王安石推行熙宁变法：青苗、免役、市易、保甲、保马、方田均税，新旧党争自此而起。元丰年间五路伐西夏惨败于永乐城，闻之恸哭，壮志未酬而崩。",
-    "events": ["event.nsong.wanganshi"],
+    "events": [
+      "event.nsong.wanganshi"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·神宗本纪", "type": "primary", "ref": "卷十四至卷十六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7483",
+    "sources": [
+      {
+        "title": "宋史·神宗本纪",
+        "type": "primary",
+        "ref": "卷十四至卷十六"
+      },
+      {
+        "title": "Wikidata Q7483",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7483"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaoxu-zhe",
     "uuid": "e67790fd-6733-4735-9d85-297baf901a42",
     "name": "赵煦",
     "name_traditional": "趙煦",
-    "titles": ["宋哲宗", "宪元继道显德定功钦文睿武齐圣昭孝皇帝"],
+    "titles": [
+      "宋哲宗",
+      "宪元继道显德定功钦文睿武齐圣昭孝皇帝"
+    ],
     "courtesy_name": "傭",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 1077, "circa": false, "original": "熙宁九年十二月七日生于宫中，神宗第六子", "disputed": []},
-    "death": {"year": 1100, "circa": false, "original": "元符三年正月己卯，崩于福宁殿，年二十四", "disputed": []},
-    "reign": {"start": 1085, "end": 1100, "note": "九岁即位，高太后临朝九年（元祐更化）；slug 加 -zhe 以别于神宗赵顼"},
-    "family": {"father": "person.nsong.zhaoxu", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1077,
+      "circa": false,
+      "original": "熙宁九年十二月七日生于宫中，神宗第六子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1100,
+      "circa": false,
+      "original": "元符三年正月己卯，崩于福宁殿，年二十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1085,
+      "end": 1100,
+      "note": "九岁即位，高太后临朝九年（元祐更化）；slug 加 -zhe 以别于神宗赵顼"
+    },
+    "family": {
+      "father": "person.nsong.zhaoxu",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nsong.zhaoxu",
     "successor": "person.nsong.zhaoji",
     "bio": "神宗第六子。幼冲即位，祖母高太后主政，尽废新法，启用司马光、苏轼等旧党，史称「元祐更化」。亲政后改元绍圣，绍述父志，恢复新法，贬逐元祐党人，新旧党争至此势同水火。二十四岁暴崩。",
-    "events": ["event.nsong.wanganshi"],
+    "events": [
+      "event.nsong.wanganshi"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·哲宗本纪", "type": "primary", "ref": "卷十七至卷十八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q85884488",
+    "sources": [
+      {
+        "title": "宋史·哲宗本纪",
+        "type": "primary",
+        "ref": "卷十七至卷十八"
+      },
+      {
+        "title": "Wikidata Q85884488",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q85884488"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaoji",
     "uuid": "1440e6ab-0ae0-4bc0-9e70-817ed088b3e1",
     "name": "赵佶",
     "name_traditional": "趙佶",
-    "titles": ["宋徽宗", "体神合道骏烈逊功圣文仁德宪慈显孝皇帝"],
+    "titles": [
+      "宋徽宗",
+      "体神合道骏烈逊功圣文仁德宪慈显孝皇帝"
+    ],
     "courtesy_name": "佶",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 1082, "circa": false, "original": "元丰五年十月十日生于宫中，神宗第十一子", "disputed": []},
-    "death": {"year": 1135, "circa": false, "original": "南宋绍兴五年四月甲子，崩于五国城，年五十四", "disputed": []},
-    "reign": {"start": 1100, "end": 1125, "note": "金兵南下时禅位太子，靖康二年被掳北去"},
-    "family": {"father": "person.nsong.zhaoxu", "mother": null, "spouses": [], "children": ["person.nsong.zhaohuan", "person.ssong.zhaogou"]},
+    "birth": {
+      "year": 1082,
+      "circa": false,
+      "original": "元丰五年十月十日生于宫中，神宗第十一子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1135,
+      "circa": false,
+      "original": "南宋绍兴五年四月甲子，崩于五国城，年五十四",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1100,
+      "end": 1125,
+      "note": "金兵南下时禅位太子，靖康二年被掳北去"
+    },
+    "family": {
+      "father": "person.nsong.zhaoxu",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nsong.zhaohuan",
+        "person.ssong.zhaogou"
+      ]
+    },
     "predecessor": "person.nsong.zhaoxu-zhe",
     "successor": "person.nsong.zhaohuan",
     "bio": "艺术天才、政治庸才。自创瘦金体，画院极盛，《清明上河图》即出其朝。然崇信道教、大兴花石纲、宠信蔡京童贯「六贼」，民变四起（宋江、方腊）。联金灭辽暴露虚实，金军南下时仓皇禅位，终与钦宗同被掳往五国城，「坐井观天」而死。",
-    "events": ["event.nsong.jingkang"],
+    "events": [
+      "event.nsong.jingkang"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·徽宗本纪", "type": "primary", "ref": "卷十九至卷二十二"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7486",
+    "sources": [
+      {
+        "title": "宋史·徽宗本纪",
+        "type": "primary",
+        "ref": "卷十九至卷二十二"
+      },
+      {
+        "title": "Wikidata Q7486",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7486"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nsong.zhaohuan",
     "uuid": "3467ba5a-a4a8-46a4-b02f-a2bc72d53aa0",
     "name": "赵桓",
     "name_traditional": "趙桓",
-    "titles": ["宋钦宗", "恭文顺德仁孝皇帝"],
+    "titles": [
+      "宋钦宗",
+      "恭文顺德仁孝皇帝"
+    ],
     "courtesy_name": "煊",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-song",
-    "birth": {"year": 1100, "circa": false, "original": "元符三年四月十三日生于坤宁殿，徽宗长子", "disputed": []},
-    "death": {"year": 1156, "circa": false, "original": "南宋绍兴二十六年，死于五国城（一说被金人命其赛马球坠马而死），年五十七", "disputed": []},
-    "reign": {"start": 1125, "end": 1127, "note": "靖康二年二月被金人废掳"},
-    "family": {"father": "person.nsong.zhaoji", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 1100,
+      "circa": false,
+      "original": "元符三年四月十三日生于坤宁殿，徽宗长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1156,
+      "circa": false,
+      "original": "南宋绍兴二十六年，死于五国城（一说被金人命其赛马球坠马而死），年五十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1125,
+      "end": 1127,
+      "note": "靖康二年二月被金人废掳"
+    },
+    "family": {
+      "father": "person.nsong.zhaoji",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nsong.zhaoji",
     "successor": "person.ssong.zhaogou",
     "bio": "北宋末代皇帝。金兵压境时受禅，仓皇无措，战和不定，先信李纲后逐李纲，终致靖康二年开封陷落，与徽宗及宗室三千余人被掳北上，北宋亡。在五国城受尽屈辱二十九年而死。",
-    "events": ["event.nsong.jingkang"],
+    "events": [
+      "event.nsong.jingkang"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "宋史·钦宗本纪", "type": "primary", "ref": "卷二十三"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "songliaojin-v1", "version": 1}
+    "wikidata": "Q7488",
+    "sources": [
+      {
+        "title": "宋史·钦宗本纪",
+        "type": "primary",
+        "ref": "卷二十三"
+      },
+      {
+        "title": "Wikidata Q7488",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7488"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "songliaojin-v1",
+      "version": 1
+    }
   }
 ]

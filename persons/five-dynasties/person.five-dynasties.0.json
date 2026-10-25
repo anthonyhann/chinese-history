@@ -45,7 +45,7 @@
       "event.later-liang.cuantang"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1275305",
     "sources": [
       {
         "title": "旧五代史·梁书·太祖本纪",
@@ -54,6 +54,11 @@
       {
         "title": "新五代史·梁本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q1275305",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1275305"
       }
     ],
     "_meta": {
@@ -99,11 +104,16 @@
     "bio": "朱温第三子。朱温病重时欲传位于养子朱友文，友珪闻之，率五百牙兵夜闯寝宫弑父，弑君自立。在位八月，禁军哗变，与妻张氏一同被杀，为五代第一位弑父者。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1138520",
     "sources": [
       {
         "title": "旧五代史·梁书·末帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q1138520",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1138520"
       }
     ],
     "_meta": {
@@ -210,7 +220,7 @@
     "bio": "沙陀族，晋王李克用长子。承父三矢之恨，十五年血战灭后梁、平前蜀，自谓「于十指上得天下」。然知音律、好俳优，自取艺名「李天下」，宠信伶官宦官，赏赐无度而军士饥寒。邺都兵变，从马直指挥使郭从谦攻兴教门，中流失而殂。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q706815",
     "sources": [
       {
         "title": "旧五代史·唐书·庄宗本纪",
@@ -219,6 +229,11 @@
       {
         "title": "新五代史·唐本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q706815",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q706815"
       }
     ],
     "_meta": {
@@ -271,11 +286,16 @@
     "bio": "后唐明宗，李克用养子。以蕃将佐命，庄宗被杀后被乱兵拥立。在位七年，诛阉宦、革弊政、轻徭薄赋，北方稍安，史称小康之局。然目不知书，四方奏事皆由枢密使读奏，晚年诸子争位，长兴四年病中闻秦王从荣反讯，惊恚而崩。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q703646",
     "sources": [
       {
         "title": "旧五代史·唐书·明宗本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q703646",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q703646"
       }
     ],
     "_meta": {
@@ -327,11 +347,16 @@
     "bio": "明宗第三子。性仁弱，明宗暴崩后即位。潞王李从珂起兵凤翔，禁军倒戈，闵帝单骑出奔至卫州，被从珂使人缢杀。在位不足半年。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q708431",
     "sources": [
       {
         "title": "旧五代史·唐书·闵帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q708431",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q708431"
       }
     ],
     "_meta": {
@@ -381,11 +406,16 @@
     "bio": "本姓王，明宗养子，从战争中以骁勇著名。废闵帝自立后，猜忌河东节度使石敬瑭，下诏徙镇，石敬瑭遂引契丹兵反。清泰三年契丹与后晋联军入洛阳，从珂登玄武楼自焚，后唐亡。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q713115",
     "sources": [
       {
         "title": "旧五代史·唐书·末帝纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q713115",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q713115"
       }
     ],
     "_meta": {
@@ -436,7 +466,7 @@
     "bio": "沙陀族，后唐明宗女婿。清泰三年起兵反唐，向契丹称臣称子，许割燕云十六州，以契丹援兵灭后唐称帝。「儿皇帝」之耻自此始，中原门户洞开，为后世四百年边患之源。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1189495",
     "sources": [
       {
         "title": "旧五代史·晋书·高祖本纪",
@@ -445,6 +475,11 @@
       {
         "title": "新五代史·晋本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q1189495",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1189495"
       }
     ],
     "_meta": {
@@ -495,11 +530,16 @@
     "bio": "石敬瑭之侄。即位后改向契丹称孙不称臣，契丹主耶律德光大怒，两次大举南侵。开运三年契丹陷开封，出帝被掳北去，封负义侯，置于黄龙府，后死于辽地。后晋亡。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1319472",
     "sources": [
       {
         "title": "旧五代史·晋书·少帝本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q1319472",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1319472"
       }
     ],
     "_meta": {
@@ -553,7 +593,7 @@
     "bio": "沙陀族，后晋河东节度使。契丹灭晋后，中原无主，知远在太原称帝，以「汉」为国号收揽人心。乘契丹北撤进入开封，各地藩镇纷纷归附。在位一年即崩，临终托孤郭威、史弘肇等。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q708522",
     "sources": [
       {
         "title": "旧五代史·汉书·高祖本纪",
@@ -562,6 +602,11 @@
       {
         "title": "新五代史·汉本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q708522",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q708522"
       }
     ],
     "_meta": {
@@ -611,11 +656,16 @@
     "bio": "后汉高祖次子。十八岁即位，受制于史弘肇、杨邠等顾命大臣。乾祐三年尽杀杨邠、史弘肇、王章于朝堂，又遣人赴邺都谋杀郭威，事泄，郭威起兵入京，隐帝为乱兵所杀，后汉亡。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q713108",
     "sources": [
       {
         "title": "旧五代史·汉书·隐帝本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q713108",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q713108"
       }
     ],
     "_meta": {
@@ -668,7 +718,7 @@
     "bio": "邢州尧山人，后汉枢密使。隐帝欲杀之，郭威以清君侧为名起兵，澶州兵变黄旗加身，入开封称帝建周。在位三年，革除后汉苛政、停营田、罢进献，为五代第一明君柴荣的改革开路。其子皆被隐帝所杀，故传位于养子柴荣。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1188860",
     "sources": [
       {
         "title": "旧五代史·周书·太祖本纪",
@@ -677,6 +727,11 @@
       {
         "title": "新五代史·周本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q1188860",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1188860"
       }
     ],
     "_meta": {
@@ -729,11 +784,16 @@
     "bio": "郭威养子，五代第一明君。高平之战大败北汉契丹联军，整军经武；三征南唐取淮南十四州，北伐契丹收复三关三州十七县。在位期间改革税制、疏浚漕运、抑制佛僧。显德六年北伐途中暴病而崩，年仅三十九，统一大业功亏一篑，宋人痛惜千载。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1319646",
     "sources": [
       {
         "title": "旧五代史·周书·世宗本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q1319646",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1319646"
       }
     ],
     "_meta": {
@@ -785,7 +845,7 @@
     "bio": "后周末代皇帝。世宗暴崩，七岁嗣位，太后垂帘。显德七年正月，赵匡胤陈桥兵变，黄袍加身，回师开封受禅。封郑王迁房陵，十四年后卒。后周亡，北宋兴。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1195669",
     "sources": [
       {
         "title": "旧五代史·周书·恭帝纪",
@@ -794,6 +854,11 @@
       {
         "title": "宋史·太祖本纪",
         "type": "primary"
+      },
+      {
+        "title": "Wikidata Q1195669",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1195669"
       }
     ],
     "_meta": {

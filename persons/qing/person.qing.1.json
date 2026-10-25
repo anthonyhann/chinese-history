@@ -39,12 +39,17 @@
       "event.qing.yapian"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q184999",
     "sources": [
       {
         "title": "清史稿·林则徐传",
         "type": "primary",
         "ref": "卷三百六十九"
+      },
+      {
+        "title": "Wikidata Q184999",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q184999"
       }
     ],
     "_meta": {
@@ -95,12 +100,17 @@
       "event.qing.taiping"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q189512",
     "sources": [
       {
         "title": "清史稿·曾国藩传",
         "type": "primary",
         "ref": "卷四百五"
+      },
+      {
+        "title": "Wikidata Q189512",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q189512"
       }
     ],
     "_meta": {
@@ -151,12 +161,17 @@
       "event.qing.taiping"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q378517",
     "sources": [
       {
         "title": "清史稿·李鸿章传",
         "type": "primary",
         "ref": "卷四百一十一"
+      },
+      {
+        "title": "Wikidata Q378517",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q378517"
       }
     ],
     "_meta": {
@@ -204,12 +219,17 @@
     "bio": "戊戌变法的领袖。七次上书光绪帝，发动公车上书。1898年百日维新期间为总设计师：废八股、兴学堂、设制度局。政变后流亡海外十六年，组保皇会。民国后坚持君主立宪，1917年参与张勋复辟，晚年为清廷遗老，由变法先驱沦为时代落伍者",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q360135",
     "sources": [
       {
         "title": "清史稿·康有为传",
         "type": "primary",
         "ref": "卷四百七十三"
+      },
+      {
+        "title": "Wikidata Q360135",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q360135"
       }
     ],
     "_meta": {

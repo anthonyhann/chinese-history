@@ -39,12 +39,17 @@
       "event.wei.gaopingling"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q353698",
     "sources": [
       {
         "title": "晋书·宣帝纪",
         "type": "primary",
         "ref": "卷一"
+      },
+      {
+        "title": "Wikidata Q353698",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q353698"
       }
     ],
     "_meta": {

@@ -36,12 +36,17 @@
     "bio": "元曲四大家之首，中国戏剧之父。一生不仕，混迹勾栏瓦舍，与艺人朱帘秀等合作。《窦娥冤》《救风尘》《单刀会》《拜月亭》，「感天动地窦娥冤」为中国悲剧之巅。自比「蒸不烂、煮不熟、捶不扁、炒不爆、响当当一粒铜豌豆」",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q28777",
     "sources": [
       {
         "title": "录鬼簿",
         "type": "primary",
         "ref": "钟嗣成"
+      },
+      {
+        "title": "Wikidata Q28777",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q28777"
       }
     ],
     "_meta": {
@@ -91,12 +96,17 @@
     "bio": "元人冠冕。宋室王孙仕元，备受争议而艺术不朽。书画双绝：楷书四家之赵体，画开元代文人画新风，「古意论」影响后世六百年。妻管道升亦为书画名家，一首《你侬我侬》传为婚姻佳话",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q197461",
     "sources": [
       {
         "title": "元史·赵孟頫传",
         "type": "primary",
         "ref": "卷一百七十二"
+      },
+      {
+        "title": "Wikidata Q197461",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q197461"
       }
     ],
     "_meta": {

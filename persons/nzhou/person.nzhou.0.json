@@ -4,109 +4,314 @@
     "uuid": "d6cdc74e-0d8d-4d6b-88bb-63f84fdd6c3e",
     "name": "宇文觉",
     "name_traditional": "宇文覺",
-    "titles": ["北周孝闵帝", "孝闵皇帝"],
+    "titles": [
+      "北周孝闵帝",
+      "孝闵皇帝"
+    ],
     "courtesy_name": "陀罗尼",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-zhou",
-    "birth": {"year": 542, "circa": false, "original": "宇文泰第三子", "disputed": []},
-    "death": {"year": 557, "circa": false, "original": "被宇文护废杀，年十六", "disputed": []},
-    "reign": {"start": 557, "end": 557, "note": "在位仅九月，未建年号"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 542,
+      "circa": false,
+      "original": "宇文泰第三子",
+      "disputed": []
+    },
+    "death": {
+      "year": 557,
+      "circa": false,
+      "original": "被宇文护废杀，年十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 557,
+      "end": 557,
+      "note": "在位仅九月，未建年号"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": null,
     "successor": "person.nzhou.yuwenyu",
     "bio": "宇文泰第三子，北周开国君主。受西魏禅称天王，国号周。不甘受制于堂兄宇文护，与李植、孙恒等密谋诛护，事泄被废为略阳公，旋被杀。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "周书·孝闵帝纪", "type": "primary", "ref": "卷三"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1149222",
+    "sources": [
+      {
+        "title": "周书·孝闵帝纪",
+        "type": "primary",
+        "ref": "卷三"
+      },
+      {
+        "title": "Wikidata Q1149222",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1149222"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nzhou.yuwenyu",
     "uuid": "a6c9dd5d-f8a6-4684-9d3a-05f46e52b255",
     "name": "宇文毓",
     "name_traditional": "宇文毓",
-    "titles": ["北周明帝", "世宗明皇帝"],
+    "titles": [
+      "北周明帝",
+      "世宗明皇帝"
+    ],
     "courtesy_name": "统万突",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-zhou",
-    "birth": {"year": 534, "circa": false, "original": "宇文泰长子（庶出）", "disputed": []},
-    "death": {"year": 560, "circa": false, "original": "武成二年四月辛丑，被宇文护使人鸩杀，年二十七", "disputed": []},
-    "reign": {"start": 557, "end": 560, "note": "559年始称皇帝，建元武成"},
-    "family": {"father": null, "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 534,
+      "circa": false,
+      "original": "宇文泰长子（庶出）",
+      "disputed": []
+    },
+    "death": {
+      "year": 560,
+      "circa": false,
+      "original": "武成二年四月辛丑，被宇文护使人鸩杀，年二十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 557,
+      "end": 560,
+      "note": "559年始称皇帝，建元武成"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nzhou.yuwenjue",
     "successor": "person.nzhou.yuwenyong",
     "bio": "宇文泰庶长子。宇文护废杀孝闵帝后立之，初称天王，后进位称帝。宽仁明敏，好儒学，宇文护惮其英明，遣人置毒于糖餺飥进之。临终口授遗诏传位于弟宇文邕。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "周书·明帝纪", "type": "primary", "ref": "卷四"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1196041",
+    "sources": [
+      {
+        "title": "周书·明帝纪",
+        "type": "primary",
+        "ref": "卷四"
+      },
+      {
+        "title": "Wikidata Q1196041",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1196041"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nzhou.yuwenyong",
     "uuid": "7b91490f-d82e-4b86-9a9d-ddb04019df89",
     "name": "宇文邕",
     "name_traditional": "宇文邕",
-    "titles": ["北周武帝", "高祖武皇帝"],
+    "titles": [
+      "北周武帝",
+      "高祖武皇帝"
+    ],
     "courtesy_name": "祢罗突",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-zhou",
-    "birth": {"year": 543, "circa": false, "original": "宇文泰第四子", "disputed": []},
-    "death": {"year": 578, "circa": false, "original": "宣政元年六月丁酉，崩于云阳宫，年三十六", "disputed": []},
-    "reign": {"start": 561, "end": 578},
-    "family": {"father": null, "mother": null, "spouses": [], "children": ["person.nzhou.yuwenyun"]},
+    "birth": {
+      "year": 543,
+      "circa": false,
+      "original": "宇文泰第四子",
+      "disputed": []
+    },
+    "death": {
+      "year": 578,
+      "circa": false,
+      "original": "宣政元年六月丁酉，崩于云阳宫，年三十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 561,
+      "end": 578
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nzhou.yuwenyun"
+      ]
+    },
     "predecessor": "person.nzhou.yuwenyu",
     "successor": "person.nzhou.yuwenyun",
     "bio": "北周最有作为的皇帝。韬光养晦十二年，572年一举诛杀权臣宇文护。亲政后厉行节俭、改革府兵、灭佛抑道（建德三年灭佛）。577年亲征灭北齐，统一北方；旋即北伐突厥，途中暴病而崩，年仅三十六。若天假之年，统一南北者或未必是隋。",
-    "events": ["event.nzhou.mieqi"],
+    "events": [
+      "event.nzhou.mieqi"
+    ],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "周书·武帝纪", "type": "primary", "ref": "卷五至卷六"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1327591",
+    "sources": [
+      {
+        "title": "周书·武帝纪",
+        "type": "primary",
+        "ref": "卷五至卷六"
+      },
+      {
+        "title": "Wikidata Q1327591",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1327591"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nzhou.yuwenyun",
     "uuid": "a7abbfce-befb-426e-ba29-ff93f20b5ae9",
     "name": "宇文赟",
     "name_traditional": "宇文贇",
-    "titles": ["北周宣帝", "天元皇帝"],
+    "titles": [
+      "北周宣帝",
+      "天元皇帝"
+    ],
     "courtesy_name": "乾伯",
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-zhou",
-    "birth": {"year": 559, "circa": false, "original": "武帝长子", "disputed": []},
-    "death": {"year": 580, "circa": false, "original": "大象二年五月乙未，崩于天兴宫，年二十二", "disputed": []},
-    "reign": {"start": 578, "end": 579, "note": "579年传位太子，自称天元皇帝"},
-    "family": {"father": "person.nzhou.yuwenyong", "mother": null, "spouses": [], "children": ["person.nzhou.yuwenchan"]},
+    "birth": {
+      "year": 559,
+      "circa": false,
+      "original": "武帝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 580,
+      "circa": false,
+      "original": "大象二年五月乙未，崩于天兴宫，年二十二",
+      "disputed": []
+    },
+    "reign": {
+      "start": 578,
+      "end": 579,
+      "note": "579年传位太子，自称天元皇帝"
+    },
+    "family": {
+      "father": "person.nzhou.yuwenyong",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.nzhou.yuwenchan"
+      ]
+    },
     "predecessor": "person.nzhou.yuwenyong",
     "successor": "person.nzhou.yuwenchan",
     "bio": "武帝长子。为太子时屡遭武帝杖责，即位后变本加厉：并立五皇后，鞭打大臣，诛杀宗室宇文宪。传位七岁的太子宇文阐，自称天元皇帝，恣行淫暴。暴崩后外戚杨坚矫诏辅政，北周亡国之机已伏。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "周书·宣帝纪", "type": "primary", "ref": "卷七"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1149215",
+    "sources": [
+      {
+        "title": "周书·宣帝纪",
+        "type": "primary",
+        "ref": "卷七"
+      },
+      {
+        "title": "Wikidata Q1149215",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1149215"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   },
   {
     "id": "person.nzhou.yuwenchan",
     "uuid": "3d5d69f6-d36b-4482-9c06-163f81c04e80",
     "name": "宇文阐",
     "name_traditional": "宇文闡",
-    "titles": ["北周静帝", "介国公"],
+    "titles": [
+      "北周静帝",
+      "介国公"
+    ],
     "courtesy_name": null,
-    "category": ["emperor"],
+    "category": [
+      "emperor"
+    ],
     "dynasty": "dynasty.northern-zhou",
-    "birth": {"year": 573, "circa": false, "original": "宣帝长子", "disputed": []},
-    "death": {"year": 581, "circa": false, "original": "隋开皇元年五月壬申，被杨坚所杀，年九岁", "disputed": []},
-    "reign": {"start": 579, "end": 581, "note": "大定元年二月（581年3月）禅位于杨坚"},
-    "family": {"father": "person.nzhou.yuwenyun", "mother": null, "spouses": [], "children": []},
+    "birth": {
+      "year": 573,
+      "circa": false,
+      "original": "宣帝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 581,
+      "circa": false,
+      "original": "隋开皇元年五月壬申，被杨坚所杀，年九岁",
+      "disputed": []
+    },
+    "reign": {
+      "start": 579,
+      "end": 581,
+      "note": "大定元年二月（581年3月）禅位于杨坚"
+    },
+    "family": {
+      "father": "person.nzhou.yuwenyun",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
     "predecessor": "person.nzhou.yuwenyun",
     "successor": null,
     "bio": "北周末代皇帝。七岁即位，外祖父杨坚以左大丞相总揽朝政。杨坚平定尉迟迥三方之乱后，大定元年受禅建隋，封其为介国公，三个月后将其杀害，并尽灭宇文氏。",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
-    "sources": [{"title": "周书·静帝纪", "type": "primary", "ref": "卷八"}],
-    "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "weijin-v1", "version": 1}
+    "wikidata": "Q1149124",
+    "sources": [
+      {
+        "title": "周书·静帝纪",
+        "type": "primary",
+        "ref": "卷八"
+      },
+      {
+        "title": "Wikidata Q1149124",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1149124"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "weijin-v1",
+      "version": 1
+    }
   }
 ]

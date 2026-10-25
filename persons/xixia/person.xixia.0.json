@@ -1,82 +1,619 @@
 [
-  {"id": "person.xixia.liyuanhao", "uuid": "be4892de-9f65-4094-ac80-834f491769a7", "name": "李元昊", "name_traditional": "李元昊", "titles": ["西夏景宗", "武烈皇帝", "嵬名曩霄"], "courtesy_name": "曩霄", "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1003, "circa": false, "original": "北宋咸平六年生，党项拓跋氏（赐姓赵/李）", "disputed": []}, "death": {"year": 1048, "circa": false, "original": "西夏天授礼法延祚十一年，被其子宁令哥削鼻失血而死，年四十六", "disputed": []},
-   "reign": {"start": 1038, "end": 1048, "note": "1038年称帝，国号大夏（西夏）"},
-   "family": {"father": null, "mother": null, "spouses": [], "children": ["person.xixia.liliangzuo"]}, "predecessor": null, "successor": "person.xixia.liliangzuo",
-   "bio": "党项族，西夏开国皇帝。创西夏文、定秃发令、建官制，三川口、好水川、定川寨三战三捷大败宋军，又与辽战于贺兰山。雄才大略而猜忌嗜杀，晚年夺子妇，被子宁令哥刺杀，削鼻而死。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "宋史·夏国传", "type": "primary", "ref": "卷四百八十五"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.liliangzuo", "uuid": "54642388-a9e0-4ad9-a094-3071fa44bd90", "name": "李谅祚", "name_traditional": "李諒祚", "titles": ["西夏毅宗", "昭英皇帝"], "courtesy_name": "宁令两岔", "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1047, "circa": false, "original": "李元昊幼子", "disputed": []}, "death": {"year": 1067, "circa": false, "original": "西夏拱化五年十二月卒，年二十一", "disputed": []},
-   "reign": {"start": 1048, "end": 1067, "note": "一岁即位，母没藏太后与舅没藏讹庞专权"},
-   "family": {"father": "person.xixia.liyuanhao", "mother": null, "spouses": [], "children": ["person.xixia.libingchang"]}, "predecessor": "person.xixia.liyuanhao", "successor": "person.xixia.libingchang",
-   "bio": "一岁襁褓即位。年长后诛灭专权的没藏讹庞，亲政后改用汉礼、蕃礼并行，对宋时战时和。年二十一而卒。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "宋史·夏国传", "type": "primary", "ref": "卷四百八十五"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.libingchang", "uuid": "21b84630-ee7d-4989-8c2f-2910662d76a1", "name": "李秉常", "name_traditional": "李秉常", "titles": ["西夏惠宗", "康靖皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1061, "circa": false, "original": "李谅祚长子", "disputed": []}, "death": {"year": 1086, "circa": false, "original": "西夏天安礼定元年七月卒，年二十六", "disputed": []},
-   "reign": {"start": 1067, "end": 1086, "note": "八岁即位，母梁太后专权，曾密谋杀母事泄被幽禁"},
-   "family": {"father": "person.xixia.liliangzuo", "mother": null, "spouses": [], "children": ["person.xixia.liqianshun"]}, "predecessor": "person.xixia.liliangzuo", "successor": "person.xixia.liqianshun",
-   "bio": "八岁即位，母梁太后与舅梁乙埋专政，尽废汉礼复蕃礼。亲政后与母争权被幽禁，宋神宗五路伐夏几乎亡国，赖辽援得存。忧愤而卒。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "宋史·夏国传", "type": "primary", "ref": "卷四百八十五"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.liqianshun", "uuid": "8ee822d3-ae1b-4389-b427-f4693bf3b96d", "name": "李乾顺", "name_traditional": "李乾順", "titles": ["西夏崇宗", "圣文皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1083, "circa": false, "original": "李秉常长子", "disputed": []}, "death": {"year": 1139, "circa": false, "original": "西夏大德五年六月四日卒，年五十七", "disputed": []},
-   "reign": {"start": 1086, "end": 1139, "note": "四岁即位，母梁太后专权"},
-   "family": {"father": "person.xixia.libingchang", "mother": null, "spouses": [], "children": ["person.xixia.lirenxiao"]}, "predecessor": "person.xixia.libingchang", "successor": "person.xixia.lirenxiao",
-   "bio": "四岁即位。梁氏专政时期宋夏战争不断，永乐城之战大败宋军。亲政后灭梁氏，对外周旋于宋辽金之间，金灭辽北宋后臣事金，西夏疆域反扩。在位五十三年，西夏中兴。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "宋史·夏国传", "type": "primary", "ref": "卷四百八十五"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.lirenxiao", "uuid": "b83c5a6e-e77b-4a5a-954d-2ebd9e383146", "name": "李仁孝", "name_traditional": "李仁孝", "titles": ["西夏仁宗", "圣德皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1124, "circa": false, "original": "李乾顺长子", "disputed": []}, "death": {"year": 1193, "circa": false, "original": "西夏乾祐二十四年九月二十日卒，年七十", "disputed": []},
-   "reign": {"start": 1139, "end": 1193, "note": "在位五十四年，西夏在位最久"},
-   "family": {"father": "person.xixia.liqianshun", "mother": null, "spouses": [], "children": ["person.xixia.lichunyou"]}, "predecessor": "person.xixia.liqianshun", "successor": "person.xixia.lichunyou",
-   "bio": "西夏极盛之主。崇儒兴学，设太学、行科举、修《新定天盛改旧新定律令》，诛权臣任得敬。在位期间西夏政治清明、文化昌盛，疆域包括今宁夏全部、甘肃大部、陕西北部、内蒙古西部。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "宋史·夏国传", "type": "primary", "ref": "卷四百八十六"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.lichunyou", "uuid": "02a16a71-ea75-41e4-bfa0-5ba4f0bd577f", "name": "李纯祐", "name_traditional": "李純祐", "titles": ["西夏桓宗", "昭简皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1177, "circa": false, "original": "李仁孝长子", "disputed": []}, "death": {"year": 1206, "circa": false, "original": "西夏应天元年正月被废，三月暴卒，年三十", "disputed": []},
-   "reign": {"start": 1193, "end": 1206},
-   "family": {"father": "person.xixia.lirenxiao", "mother": null, "spouses": [], "children": []}, "predecessor": "person.xixia.lirenxiao", "successor": "person.xixia.lianquan",
-   "bio": "仁宗长子。能守成，然此时蒙古已崛起漠北。天庆年间蒙古首次侵夏。被镇夷郡王李安全与罗太后合谋废黜，暴卒。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "宋史·夏国传", "type": "primary", "ref": "卷四百八十六"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.lianquan", "uuid": "7852b089-d5c4-43b7-aa37-04c9ccfc4387", "name": "李安全", "name_traditional": "李安全", "titles": ["西夏襄宗", "敬穆皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1170, "circa": true, "original": "崇宗之孙，越王李仁友之子", "disputed": []}, "death": {"year": 1211, "circa": false, "original": "西夏皇建二年八月卒", "disputed": []},
-   "reign": {"start": 1206, "end": 1211, "note": "废桓宗自立；1209年蒙古围中兴府，纳女求和"},
-   "family": {"father": null, "mother": null, "spouses": [], "children": []}, "predecessor": "person.xixia.lichunyou", "successor": "person.xixia.lizunxu",
-   "bio": "崇宗之孙。废桓宗自立。成吉思汗两征西夏，中兴府被围，引黄河水灌城反淹己军，纳女请和称臣。此后西夏转攻金以奉蒙古，自断臂膀。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "金史·西夏传", "type": "primary", "ref": "卷一百三十四"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.lizunxu", "uuid": "dbca0ff4-f77f-4314-a5c2-9f96e0e33022", "name": "李遵顼", "name_traditional": "李遵頊", "titles": ["西夏神宗", "英文皇帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1163, "circa": true, "original": "西夏皇室宗亲，西平郡王李某之子", "disputed": []}, "death": {"year": 1226, "circa": false, "original": "西夏乾定四年卒", "disputed": []},
-   "reign": {"start": 1211, "end": 1223, "note": "1223年传位其子，自称太上皇，为西夏唯一太上皇"},
-   "family": {"father": null, "mother": null, "spouses": [], "children": ["person.xixia.lidewang"]}, "predecessor": "person.xixia.lianquan", "successor": "person.xixia.lidewang",
-   "bio": "西夏唯一的状元皇帝（西夏天庆十年进士第一）。废襄宗自立。在位期间奉行附蒙攻金之策，连年攻金耗竭国力，谏者皆斥。蒙古第三次征夏时下台传位。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "金史·西夏传", "type": "primary", "ref": "卷一百三十四"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.lidewang", "uuid": "4cff6dd9-0f55-4c93-b54b-e7674a376d83", "name": "李德旺", "name_traditional": "李德旺", "titles": ["西夏献宗"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": {"year": 1181, "circa": true, "original": "李遵顼次子", "disputed": []}, "death": {"year": 1226, "circa": false, "original": "西夏乾定四年，蒙古大军压境时惊悸而死", "disputed": []},
-   "reign": {"start": 1223, "end": 1226},
-   "family": {"father": "person.xixia.lizunxu", "mother": null, "spouses": [], "children": []}, "predecessor": "person.xixia.lizunxu", "successor": "person.xixia.lixian",
-   "bio": "神宗次子。改弦更张联金抗蒙，然为时已晚。蒙古大举伐夏，连下州县，李德旺惊悸而死，夏亡在即。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "金史·西夏传", "type": "primary", "ref": "卷一百三十四"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}},
-  {"id": "person.xixia.lixian", "uuid": "fb1ba543-67a2-46b5-a652-22a861ac0184", "name": "李晛", "name_traditional": "李晛", "titles": ["西夏末帝"], "courtesy_name": null, "category": ["emperor"], "dynasty": "dynasty.western-xia",
-   "birth": null, "death": {"year": 1227, "circa": false, "original": "西夏宝义二年六月，中兴府降后被杀，西夏亡", "disputed": []},
-   "reign": {"start": 1226, "end": 1227, "note": "城困半年，粮尽请降，被杀"},
-   "family": {"father": null, "mother": null, "spouses": [], "children": []}, "predecessor": "person.xixia.lidewang", "successor": null,
-   "bio": "西夏末代皇帝。成吉思汗第六次征夏，围中兴府半年，城中粮尽。成吉思汗崩于六盘山，遗言秘不发丧。李晛出降时被杀，西夏立国一百九十年而亡，蒙古军屠中兴府，西夏文献几尽毁灭。",
-   "events": [], "artifacts": [], "wikidata": null,
-   "sources": [{"title": "元史·太祖本纪", "type": "primary"}, {"title": "金史·西夏传", "type": "primary"}],
-   "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "shiguo-v1", "version": 1}}
+  {
+    "id": "person.xixia.liyuanhao",
+    "uuid": "be4892de-9f65-4094-ac80-834f491769a7",
+    "name": "李元昊",
+    "name_traditional": "李元昊",
+    "titles": [
+      "西夏景宗",
+      "武烈皇帝",
+      "嵬名曩霄"
+    ],
+    "courtesy_name": "曩霄",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1003,
+      "circa": false,
+      "original": "北宋咸平六年生，党项拓跋氏（赐姓赵/李）",
+      "disputed": []
+    },
+    "death": {
+      "year": 1048,
+      "circa": false,
+      "original": "西夏天授礼法延祚十一年，被其子宁令哥削鼻失血而死，年四十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1038,
+      "end": 1048,
+      "note": "1038年称帝，国号大夏（西夏）"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.xixia.liliangzuo"
+      ]
+    },
+    "predecessor": null,
+    "successor": "person.xixia.liliangzuo",
+    "bio": "党项族，西夏开国皇帝。创西夏文、定秃发令、建官制，三川口、好水川、定川寨三战三捷大败宋军，又与辽战于贺兰山。雄才大略而猜忌嗜杀，晚年夺子妇，被子宁令哥刺杀，削鼻而死。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q7438",
+    "sources": [
+      {
+        "title": "宋史·夏国传",
+        "type": "primary",
+        "ref": "卷四百八十五"
+      },
+      {
+        "title": "Wikidata Q7438",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7438"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.liliangzuo",
+    "uuid": "54642388-a9e0-4ad9-a094-3071fa44bd90",
+    "name": "李谅祚",
+    "name_traditional": "李諒祚",
+    "titles": [
+      "西夏毅宗",
+      "昭英皇帝"
+    ],
+    "courtesy_name": "宁令两岔",
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1047,
+      "circa": false,
+      "original": "李元昊幼子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1067,
+      "circa": false,
+      "original": "西夏拱化五年十二月卒，年二十一",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1048,
+      "end": 1067,
+      "note": "一岁即位，母没藏太后与舅没藏讹庞专权"
+    },
+    "family": {
+      "father": "person.xixia.liyuanhao",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.xixia.libingchang"
+      ]
+    },
+    "predecessor": "person.xixia.liyuanhao",
+    "successor": "person.xixia.libingchang",
+    "bio": "一岁襁褓即位。年长后诛灭专权的没藏讹庞，亲政后改用汉礼、蕃礼并行，对宋时战时和。年二十一而卒。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·夏国传",
+        "type": "primary",
+        "ref": "卷四百八十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.libingchang",
+    "uuid": "21b84630-ee7d-4989-8c2f-2910662d76a1",
+    "name": "李秉常",
+    "name_traditional": "李秉常",
+    "titles": [
+      "西夏惠宗",
+      "康靖皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1061,
+      "circa": false,
+      "original": "李谅祚长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1086,
+      "circa": false,
+      "original": "西夏天安礼定元年七月卒，年二十六",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1067,
+      "end": 1086,
+      "note": "八岁即位，母梁太后专权，曾密谋杀母事泄被幽禁"
+    },
+    "family": {
+      "father": "person.xixia.liliangzuo",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.xixia.liqianshun"
+      ]
+    },
+    "predecessor": "person.xixia.liliangzuo",
+    "successor": "person.xixia.liqianshun",
+    "bio": "八岁即位，母梁太后与舅梁乙埋专政，尽废汉礼复蕃礼。亲政后与母争权被幽禁，宋神宗五路伐夏几乎亡国，赖辽援得存。忧愤而卒。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q7448",
+    "sources": [
+      {
+        "title": "宋史·夏国传",
+        "type": "primary",
+        "ref": "卷四百八十五"
+      },
+      {
+        "title": "Wikidata Q7448",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7448"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.liqianshun",
+    "uuid": "8ee822d3-ae1b-4389-b427-f4693bf3b96d",
+    "name": "李乾顺",
+    "name_traditional": "李乾順",
+    "titles": [
+      "西夏崇宗",
+      "圣文皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1083,
+      "circa": false,
+      "original": "李秉常长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1139,
+      "circa": false,
+      "original": "西夏大德五年六月四日卒，年五十七",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1086,
+      "end": 1139,
+      "note": "四岁即位，母梁太后专权"
+    },
+    "family": {
+      "father": "person.xixia.libingchang",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.xixia.lirenxiao"
+      ]
+    },
+    "predecessor": "person.xixia.libingchang",
+    "successor": "person.xixia.lirenxiao",
+    "bio": "四岁即位。梁氏专政时期宋夏战争不断，永乐城之战大败宋军。亲政后灭梁氏，对外周旋于宋辽金之间，金灭辽北宋后臣事金，西夏疆域反扩。在位五十三年，西夏中兴。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": null,
+    "sources": [
+      {
+        "title": "宋史·夏国传",
+        "type": "primary",
+        "ref": "卷四百八十五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.lirenxiao",
+    "uuid": "b83c5a6e-e77b-4a5a-954d-2ebd9e383146",
+    "name": "李仁孝",
+    "name_traditional": "李仁孝",
+    "titles": [
+      "西夏仁宗",
+      "圣德皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1124,
+      "circa": false,
+      "original": "李乾顺长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1193,
+      "circa": false,
+      "original": "西夏乾祐二十四年九月二十日卒，年七十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1139,
+      "end": 1193,
+      "note": "在位五十四年，西夏在位最久"
+    },
+    "family": {
+      "father": "person.xixia.liqianshun",
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.xixia.lichunyou"
+      ]
+    },
+    "predecessor": "person.xixia.liqianshun",
+    "successor": "person.xixia.lichunyou",
+    "bio": "西夏极盛之主。崇儒兴学，设太学、行科举、修《新定天盛改旧新定律令》，诛权臣任得敬。在位期间西夏政治清明、文化昌盛，疆域包括今宁夏全部、甘肃大部、陕西北部、内蒙古西部。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q7453",
+    "sources": [
+      {
+        "title": "宋史·夏国传",
+        "type": "primary",
+        "ref": "卷四百八十六"
+      },
+      {
+        "title": "Wikidata Q7453",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7453"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.lichunyou",
+    "uuid": "02a16a71-ea75-41e4-bfa0-5ba4f0bd577f",
+    "name": "李纯祐",
+    "name_traditional": "李純祐",
+    "titles": [
+      "西夏桓宗",
+      "昭简皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1177,
+      "circa": false,
+      "original": "李仁孝长子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1206,
+      "circa": false,
+      "original": "西夏应天元年正月被废，三月暴卒，年三十",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1193,
+      "end": 1206
+    },
+    "family": {
+      "father": "person.xixia.lirenxiao",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.xixia.lirenxiao",
+    "successor": "person.xixia.lianquan",
+    "bio": "仁宗长子。能守成，然此时蒙古已崛起漠北。天庆年间蒙古首次侵夏。被镇夷郡王李安全与罗太后合谋废黜，暴卒。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q7454",
+    "sources": [
+      {
+        "title": "宋史·夏国传",
+        "type": "primary",
+        "ref": "卷四百八十六"
+      },
+      {
+        "title": "Wikidata Q7454",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7454"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.lianquan",
+    "uuid": "7852b089-d5c4-43b7-aa37-04c9ccfc4387",
+    "name": "李安全",
+    "name_traditional": "李安全",
+    "titles": [
+      "西夏襄宗",
+      "敬穆皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1170,
+      "circa": true,
+      "original": "崇宗之孙，越王李仁友之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1211,
+      "circa": false,
+      "original": "西夏皇建二年八月卒",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1206,
+      "end": 1211,
+      "note": "废桓宗自立；1209年蒙古围中兴府，纳女求和"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.xixia.lichunyou",
+    "successor": "person.xixia.lizunxu",
+    "bio": "崇宗之孙。废桓宗自立。成吉思汗两征西夏，中兴府被围，引黄河水灌城反淹己军，纳女请和称臣。此后西夏转攻金以奉蒙古，自断臂膀。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q7456",
+    "sources": [
+      {
+        "title": "金史·西夏传",
+        "type": "primary",
+        "ref": "卷一百三十四"
+      },
+      {
+        "title": "Wikidata Q7456",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7456"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.lizunxu",
+    "uuid": "dbca0ff4-f77f-4314-a5c2-9f96e0e33022",
+    "name": "李遵顼",
+    "name_traditional": "李遵頊",
+    "titles": [
+      "西夏神宗",
+      "英文皇帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1163,
+      "circa": true,
+      "original": "西夏皇室宗亲，西平郡王李某之子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1226,
+      "circa": false,
+      "original": "西夏乾定四年卒",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1211,
+      "end": 1223,
+      "note": "1223年传位其子，自称太上皇，为西夏唯一太上皇"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": [
+        "person.xixia.lidewang"
+      ]
+    },
+    "predecessor": "person.xixia.lianquan",
+    "successor": "person.xixia.lidewang",
+    "bio": "西夏唯一的状元皇帝（西夏天庆十年进士第一）。废襄宗自立。在位期间奉行附蒙攻金之策，连年攻金耗竭国力，谏者皆斥。蒙古第三次征夏时下台传位。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q7457",
+    "sources": [
+      {
+        "title": "金史·西夏传",
+        "type": "primary",
+        "ref": "卷一百三十四"
+      },
+      {
+        "title": "Wikidata Q7457",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7457"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.lidewang",
+    "uuid": "4cff6dd9-0f55-4c93-b54b-e7674a376d83",
+    "name": "李德旺",
+    "name_traditional": "李德旺",
+    "titles": [
+      "西夏献宗"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": {
+      "year": 1181,
+      "circa": true,
+      "original": "李遵顼次子",
+      "disputed": []
+    },
+    "death": {
+      "year": 1226,
+      "circa": false,
+      "original": "西夏乾定四年，蒙古大军压境时惊悸而死",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1223,
+      "end": 1226
+    },
+    "family": {
+      "father": "person.xixia.lizunxu",
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.xixia.lizunxu",
+    "successor": "person.xixia.lixian",
+    "bio": "神宗次子。改弦更张联金抗蒙，然为时已晚。蒙古大举伐夏，连下州县，李德旺惊悸而死，夏亡在即。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q7458",
+    "sources": [
+      {
+        "title": "金史·西夏传",
+        "type": "primary",
+        "ref": "卷一百三十四"
+      },
+      {
+        "title": "Wikidata Q7458",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q7458"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "person.xixia.lixian",
+    "uuid": "fb1ba543-67a2-46b5-a652-22a861ac0184",
+    "name": "李晛",
+    "name_traditional": "李晛",
+    "titles": [
+      "西夏末帝"
+    ],
+    "courtesy_name": null,
+    "category": [
+      "emperor"
+    ],
+    "dynasty": "dynasty.western-xia",
+    "birth": null,
+    "death": {
+      "year": 1227,
+      "circa": false,
+      "original": "西夏宝义二年六月，中兴府降后被杀，西夏亡",
+      "disputed": []
+    },
+    "reign": {
+      "start": 1226,
+      "end": 1227,
+      "note": "城困半年，粮尽请降，被杀"
+    },
+    "family": {
+      "father": null,
+      "mother": null,
+      "spouses": [],
+      "children": []
+    },
+    "predecessor": "person.xixia.lidewang",
+    "successor": null,
+    "bio": "西夏末代皇帝。成吉思汗第六次征夏，围中兴府半年，城中粮尽。成吉思汗崩于六盘山，遗言秘不发丧。李晛出降时被杀，西夏立国一百九十年而亡，蒙古军屠中兴府，西夏文献几尽毁灭。",
+    "events": [],
+    "artifacts": [],
+    "wikidata": "Q45463111",
+    "sources": [
+      {
+        "title": "元史·太祖本纪",
+        "type": "primary"
+      },
+      {
+        "title": "金史·西夏传",
+        "type": "primary"
+      },
+      {
+        "title": "Wikidata Q45463111",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q45463111"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "shiguo-v1",
+      "version": 1
+    }
+  }
 ]

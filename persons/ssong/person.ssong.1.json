@@ -39,12 +39,17 @@
       "event.ssong.shaoxing-heyi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q334398",
     "sources": [
       {
         "title": "宋史·岳飞传",
         "type": "primary",
         "ref": "卷三百六十五"
+      },
+      {
+        "title": "Wikidata Q334398",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q334398"
       }
     ],
     "_meta": {
@@ -94,12 +99,17 @@
       "event.ssong.shaoxing-heyi"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q731694",
     "sources": [
       {
         "title": "宋史·奸臣传",
         "type": "primary",
         "ref": "卷四百七十三"
+      },
+      {
+        "title": "Wikidata Q731694",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q731694"
       }
     ],
     "_meta": {
@@ -149,12 +159,17 @@
       "event.ssong.kaixi-beifa"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1155987",
     "sources": [
       {
         "title": "宋史·辛弃疾传",
         "type": "primary",
         "ref": "卷四百一"
+      },
+      {
+        "title": "Wikidata Q1155987",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1155987"
       }
     ],
     "_meta": {
@@ -205,12 +220,17 @@
       "event.ssong.yashan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q575900",
     "sources": [
       {
         "title": "宋史·文天祥传",
         "type": "primary",
         "ref": "卷四百一十八"
+      },
+      {
+        "title": "Wikidata Q575900",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q575900"
       }
     ],
     "_meta": {

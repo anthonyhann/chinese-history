@@ -40,12 +40,17 @@
       "event.ming.qingjun-ruguan"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q380573",
     "sources": [
       {
         "title": "清史稿·诸王传",
         "type": "primary",
         "ref": "卷二百一十八"
+      },
+      {
+        "title": "Wikidata Q380573",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q380573"
       }
     ],
     "_meta": {
@@ -92,12 +97,17 @@
     "bio": "清初杰出的女政治家。皇太极妃，顺治生母，康熙祖母。历三朝、辅两帝：顺治初年周旋于多尔衮，康熙初年教导少年天子擒鳌拜、平三藩。终身未垂帘而一言安邦，与慈禧形成鲜明对照",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q1373915",
     "sources": [
       {
         "title": "清史稿·后妃传",
         "type": "primary",
         "ref": "卷二百一十四"
+      },
+      {
+        "title": "Wikidata Q1373915",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q1373915"
       }
     ],
     "_meta": {
@@ -144,12 +154,17 @@
     "bio": "史上第一巨贪。乾隆晚年第一宠臣，身兼军机大臣、内务府总管等数十要职，贪腐结党二十年。嘉庆四年乾隆崩五日即被拿下，抄没家产估值数亿两白银，相当于清廷十余年财政收入，「和珅跌倒，嘉庆吃饱」",
     "events": [],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q700179",
     "sources": [
       {
         "title": "清史稿·和珅传",
         "type": "primary",
         "ref": "卷三百十九"
+      },
+      {
+        "title": "Wikidata Q700179",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q700179"
       }
     ],
     "_meta": {
@@ -200,12 +215,17 @@
       "event.qing.yangwu"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q230200",
     "sources": [
       {
         "title": "清史稿·左宗棠传",
         "type": "primary",
         "ref": "卷四百一十二"
+      },
+      {
+        "title": "Wikidata Q230200",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q230200"
       }
     ],
     "_meta": {
@@ -255,12 +275,17 @@
       "event.qing.yangwu"
     ],
     "artifacts": [],
-    "wikidata": null,
+    "wikidata": "Q197344",
     "sources": [
       {
         "title": "清史稿·张之洞传",
         "type": "primary",
         "ref": "卷四百三十七"
+      },
+      {
+        "title": "Wikidata Q197344",
+        "type": "reference",
+        "url": "https://www.wikidata.org/wiki/Q197344"
       }
     ],
     "_meta": {
