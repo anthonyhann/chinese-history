@@ -7,9 +7,22 @@
     "city": "西安",
     "country": "中国",
     "website": "https://www.bmy.com.cn",
-    "open_data": {"license": "copyrighted", "url": null, "note": "无开放数据许可，仅可引用公开事实信息，图片不得抓取"},
-    "sources": [{"title": "秦始皇帝陵博物院官网", "type": "institutional", "url": "https://www.bmy.com.cn"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "open_data": {
+      "license": "copyrighted",
+      "url": null,
+      "note": "无开放数据许可，仅可引用公开事实信息，图片不得抓取"
+    },
+    "sources": [
+      {
+        "title": "秦始皇帝陵博物院官网",
+        "type": "institutional",
+        "url": "https://www.bmy.com.cn"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "museum.met",
@@ -19,9 +32,22 @@
     "city": "纽约",
     "country": "美国",
     "website": "https://www.metmuseum.org",
-    "open_data": {"license": "CC0", "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access", "note": "Open Access + 公开 API，中国藏品约 1.4 万件，图片可直接使用"},
-    "sources": [{"title": "Met Open Access", "type": "institutional", "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "open_data": {
+      "license": "CC0",
+      "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "note": "Open Access + 公开 API，中国藏品约 1.4 万件，图片可直接使用"
+    },
+    "sources": [
+      {
+        "title": "Met Open Access",
+        "type": "institutional",
+        "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "museum.npm-taipei",
@@ -31,9 +57,22 @@
     "city": "台北",
     "country": "中国台湾",
     "website": "https://www.npm.gov.tw",
-    "open_data": {"license": "CC BY 4.0", "url": "https://data.gov.tw", "note": "Open Data 平台需署名"},
-    "sources": [{"title": "國立故宮博物院 Open Data", "type": "institutional", "url": "https://www.npm.gov.tw"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "open_data": {
+      "license": "CC BY 4.0",
+      "url": "https://data.gov.tw",
+      "note": "Open Data 平台需署名"
+    },
+    "sources": [
+      {
+        "title": "國立故宮博物院 Open Data",
+        "type": "institutional",
+        "url": "https://www.npm.gov.tw"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "museum.british-museum",
@@ -43,9 +82,22 @@
     "city": "伦敦",
     "country": "英国",
     "website": "https://www.britishmuseum.org",
-    "open_data": {"license": "CC BY-NC-SA 4.0", "url": "https://www.britishmuseum.org/collection", "note": "图片禁止商用，本项目只放 link 不放 url"},
-    "sources": [{"title": "British Museum Collection Online", "type": "institutional", "url": "https://www.britishmuseum.org/collection"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "open_data": {
+      "license": "CC BY-NC-SA 4.0",
+      "url": "https://www.britishmuseum.org/collection",
+      "note": "图片禁止商用，本项目只放 link 不放 url"
+    },
+    "sources": [
+      {
+        "title": "British Museum Collection Online",
+        "type": "institutional",
+        "url": "https://www.britishmuseum.org/collection"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "museum.freer-sackler",
@@ -55,9 +107,22 @@
     "city": "华盛顿",
     "country": "美国",
     "website": "https://asia.si.edu",
-    "open_data": {"license": "CC0", "url": "https://www.si.edu/openaccess", "note": "Smithsonian Open Access，中国青铜器玉器重镇"},
-    "sources": [{"title": "Smithsonian Open Access", "type": "institutional", "url": "https://www.si.edu/openaccess"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "open_data": {
+      "license": "CC0",
+      "url": "https://www.si.edu/openaccess",
+      "note": "Smithsonian Open Access，中国青铜器玉器重镇"
+    },
+    "sources": [
+      {
+        "title": "Smithsonian Open Access",
+        "type": "institutional",
+        "url": "https://www.si.edu/openaccess"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
   },
   {
     "id": "museum.palace-beijing",
@@ -67,8 +132,48 @@
     "city": "北京",
     "country": "中国",
     "website": "https://www.dpm.org.cn",
-    "open_data": {"license": "copyrighted", "url": null, "note": "无开放许可，仅记录公开事实信息"},
-    "sources": [{"title": "故宫博物院官网", "type": "institutional", "url": "https://www.dpm.org.cn"}],
-    "_meta": {"created_by": "ai-pipeline", "version": 1}
+    "open_data": {
+      "license": "copyrighted",
+      "url": null,
+      "note": "无开放许可，仅记录公开事实信息"
+    },
+    "sources": [
+      {
+        "title": "故宫博物院官网",
+        "type": "institutional",
+        "url": "https://www.dpm.org.cn"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "version": 1
+    }
+  },
+  {
+    "id": "museum.cleveland",
+    "name": "克利夫兰艺术博物馆",
+    "name_traditional": "克利夫蘭藝術博物館",
+    "name_en": "The Cleveland Museum of Art",
+    "city": "克利夫兰",
+    "country": "美国",
+    "website": "https://www.clevelandart.org",
+    "open_data": {
+      "license": "CC0",
+      "url": "https://www.clevelandart.org/open-access",
+      "note": "Open Access，API 免 key，中国艺术部约2500件带图"
+    },
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art Open Access",
+        "type": "institutional",
+        "url": "https://www.clevelandart.org/open-access"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
   }
 ]

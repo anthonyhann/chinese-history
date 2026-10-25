@@ -1,0 +1,976 @@
+[
+  {
+    "id": "artifact.cleveland.1963-103",
+    "uuid": "9bb64ad1-25fe-4d48-9ef8-62df3e7c4333",
+    "name": "青铜方卣",
+    "name_traditional": "青铜方卣",
+    "name_en": "Square Wine Container (Fangyou)",
+    "dynasty": "dynasty.shang",
+    "date": {
+      "start": -1250,
+      "end": -1046,
+      "original": "c. 1250–1046 BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "礼器"
+    ],
+    "material": [
+      "Metalwork"
+    ],
+    "dimensions": "Overall: 26.7 x 13.4 cm (10 1/2 x 5 1/4 in.)",
+    "description": "商代晚期青铜方卣，带盖盛酒器，饕餮纹满工。方器铸造难度远高于圆器，为商代青铜礼制鼎盛期的重器。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Henan province, probably Anyang, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1963.103/1963.103_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1963.103",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1963.103"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1989-3",
+    "uuid": "1b7117d4-0504-4172-9354-d654f6175f23",
+    "name": "赖钟（青铜镈）",
+    "name_traditional": "赖钟（青铜镈）",
+    "name_en": "Bell (Lai Zhong)",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -800,
+      "end": -700,
+      "original": "c. 800–700 BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "乐器"
+    ],
+    "material": [
+      "Metalwork"
+    ],
+    "dimensions": "Overall: 70.3 x 37 x 26.6 cm (27 11/16 x 14 9/16 x 10 1/2 in.)",
+    "description": "西周晚期至春秋青铜镈钟，应为编钟之一。镈钟悬击以和钟，为先秦礼乐文明的核心乐器。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Shaanxi province, Meixian, Western Zhou dynasty (c. 1046–771 BCE)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1989.3/1989.3_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1989.3",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1989.3"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1962-44",
+    "uuid": "3f01828a-926c-441d-afa1-3a7fda08552b",
+    "name": "青铜镈钟",
+    "name_traditional": "青铜镈钟",
+    "name_en": "Bell (Bo Zhong)",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -500,
+      "end": -400,
+      "original": "early 400s BCE",
+      "circa": true
+    },
+    "category": [
+      "青铜器",
+      "乐器"
+    ],
+    "material": [
+      "Metalwork"
+    ],
+    "dimensions": "Overall: 41.4 cm (16 5/16 in.)",
+    "description": "战国早期青铜镈钟，鼓部饰蟠螭纹。钟鸣鼎食，编钟制度是周代礼乐等级的声音化身。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Eastern Zhou dynasty (770–256 BCE)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.44/1962.44_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1962.44",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1962.44"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1938-9",
+    "uuid": "ed1d4a12-d116-4b26-8524-8c364896b1ba",
+    "name": "鹤蛇纹玉饰",
+    "name_traditional": "鹤蛇纹玉饰",
+    "name_en": "Cranes and Serpents",
+    "dynasty": "dynasty.zhou",
+    "date": {
+      "start": -475,
+      "end": -221,
+      "original": "475–221 BCE",
+      "circa": true
+    },
+    "category": [
+      "玉器"
+    ],
+    "material": [
+      "Sculpture"
+    ],
+    "dimensions": "Overall: 132.1 x 124.5 cm (52 x 49 in.)",
+    "description": "战国时期玉饰，鹤与蛇（鸟虫）纹样，为战国玉器装饰母题中西来与本土交融的例证。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, reportedly from Hunan province, Changsha, Warring States period (475–221 BCE), State of Chu (c. 1046–223 BCE)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1938.9",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1938.9"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1986-46-a",
+    "uuid": "ae39dcf2-c932-4918-838a-dfefba828357",
+    "name": "博山炉",
+    "name_traditional": "博山炉",
+    "name_en": "Incense Burner (Boshan Lu)",
+    "dynasty": "dynasty.han",
+    "date": {
+      "start": -200,
+      "end": -100,
+      "original": "200–100 BCE",
+      "circa": true
+    },
+    "category": [
+      "铜器"
+    ],
+    "material": [
+      "Metalwork"
+    ],
+    "dimensions": "Diameter: 9.9 cm (3 7/8 in.); Overall: 18.4 cm (7 1/4 in.); Lid: 7.8 x 9.1 cm (3 1/16 x 3 9/16 in.); Container: 11.3 cm (4 7/16 in.)",
+    "description": "西汉青铜博山炉，炉盖作海上仙山层峦叠嶂，焚香时云气缭绕如仙境。为汉代最具标志性的生活艺术器物。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Western Han dynasty (206 BCE–8 CE)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1986.46.a/1986.46.a_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1986.46.a",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1986.46.a"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1994-203",
+    "uuid": "5a5807c3-bbb8-417d-9817-0cf0b9d325c2",
+    "name": "熊形铜席镇",
+    "name_traditional": "熊形铜席镇",
+    "name_en": "Mat Weight in the Form of a Bear",
+    "dynasty": "dynasty.han",
+    "date": {
+      "start": -202,
+      "end": 9,
+      "original": "202 BCE–9 CE",
+      "circa": true
+    },
+    "category": [
+      "铜器"
+    ],
+    "material": [
+      "Sculpture"
+    ],
+    "dimensions": "Overall: 15.7 x 14.6 x 17.3 cm (6 3/16 x 5 3/4 x 6 13/16 in.)",
+    "description": "西汉熊形铜镇，席镇四件一组压席角。熊为汉代流行的力量图腾，憨拙中见雄强。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Western Han dynasty (206 BCE–8 CE)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1994.203/1994.203_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1994.203",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1994.203"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1980-25",
+    "uuid": "d36f1761-0fcc-423f-8629-70c9dd9ceba3",
+    "name": "持骷髅苦行僧像",
+    "name_traditional": "持骷髅苦行僧像",
+    "name_en": "Ascetic Holding a Skull",
+    "dynasty": "dynasty.northern-wei",
+    "date": {
+      "start": 490,
+      "end": 510,
+      "original": "c. 500 CE",
+      "circa": true
+    },
+    "category": [
+      "雕塑"
+    ],
+    "material": [
+      "Sculpture"
+    ],
+    "dimensions": "Overall: 19.4 cm (7 5/8 in.); Figure: 18.1 cm (7 1/8 in.)",
+    "description": "北魏石雕苦行僧，形容枯槁手持骷髅，应为释迦牟尼雪山苦行像，为北魏佛教雕塑中罕见的苦行题材。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Northern Wei dynasty (386-534)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1980.25/1980.25_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1980.25",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1980.25"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1962-213",
+    "uuid": "35ab5055-ce6b-4bf6-9f9c-a490fecd6d01",
+    "name": "礼拜僧石像",
+    "name_traditional": "礼拜僧石像",
+    "name_en": "Adoring Monk",
+    "dynasty": "dynasty.northern-wei",
+    "date": {
+      "start": 500,
+      "end": 520,
+      "original": "early 500s",
+      "circa": true
+    },
+    "category": [
+      "雕塑"
+    ],
+    "material": [
+      "Sculpture"
+    ],
+    "dimensions": "Overall: 14.9 cm (5 7/8 in.); Base: 3.6 x 5.2 x 3.9 cm (1 7/16 x 2 1/16 x 1 9/16 in.); Figure: 11.5 cm (4 1/2 in.)",
+    "description": "北魏石雕礼拜僧，双手合十，面容虔诚清瘦，北魏后期「秀骨清像」风格的典型。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Northern Wei dynasty (386-534)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1962.213/1962.213_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1962.213",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1962.213"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.2000-118-1",
+    "uuid": "92482a78-fb69-41dc-ad35-dd879b4badae",
+    "name": "兽首镇墓兽",
+    "name_traditional": "兽首镇墓兽",
+    "name_en": "Tomb Guardian with Animal Head",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 700,
+      "end": 750,
+      "original": "early 700s",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "明器"
+    ],
+    "material": [
+      "Ceramic"
+    ],
+    "dimensions": "Overall: 92.3 x 43.8 x 41.9 cm (36 5/16 x 17 1/4 x 16 1/2 in.)",
+    "description": "盛唐镇墓兽，兽首人身蹲踞，怒目圆睁，与 Smithsonian 藏陶麒麟同为盛唐镇墓兽体系。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, probably Shaanxi province, Xi'an, Tang dynasty (618-907)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2000.118.1/2000.118.1_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 2000.118.1",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/2000.118.1"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1931-450",
+    "uuid": "e6cbb6c5-9ba9-425b-8f45-5dcf16823396",
+    "name": "弹竖琴乐伎俑",
+    "name_traditional": "弹竖琴乐伎俑",
+    "name_en": "Harpist",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 740,
+      "end": 760,
+      "original": "mid-700s",
+      "circa": true
+    },
+    "category": [
+      "陶器",
+      "陶俑"
+    ],
+    "material": [
+      "Sculpture"
+    ],
+    "dimensions": "Overall: 32.1 cm (12 5/8 in.)",
+    "description": "盛唐乐伎俑，怀抱竖箜篌（harp）弹奏，为丝路乐器东传与唐代燕乐繁盛的直接物证。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "North China, Tang dynasty (618-907)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1931.450/1931.450_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1931.450",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1931.450"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1970-66",
+    "uuid": "1f1a9a8c-7595-404e-bf3a-e62944e80ce8",
+    "name": "十一面观音立像",
+    "name_traditional": "十一面观音立像",
+    "name_en": "Eleven-Headed Guanyin",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 660,
+      "end": 700,
+      "original": "late 600s",
+      "circa": true
+    },
+    "category": [
+      "雕塑"
+    ],
+    "material": [
+      "Sculpture"
+    ],
+    "dimensions": "height: 62.9 cm (24 3/4 in.)",
+    "description": "初唐十一面观音石造像，十一面自下而上慈悲、愤怒、寂静相排列，为唐代佛教密宗造像的早期实例。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Tang dynasty (618–907)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1970.66/1970.66_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1970.66",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1970.66"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1973-74",
+    "uuid": "08e6f4d2-5e78-4eff-995b-481c9f39a006",
+    "name": "花鸟纹铜镜",
+    "name_traditional": "花鸟纹铜镜",
+    "name_en": "Mirror with Phoenixes, Birds, Butterflies, and Floral Sprays",
+    "dynasty": "dynasty.tang",
+    "date": {
+      "start": 700,
+      "end": 800,
+      "original": "700s",
+      "circa": true
+    },
+    "category": [
+      "铜器"
+    ],
+    "material": [
+      "Metalwork"
+    ],
+    "dimensions": "Diameter: 19.2 cm (7 9/16 in.)",
+    "description": "盛唐花鸟纹铜镜，凤凰、禽鸟、蝴蝶绕枝而飞，一改汉镜神秘肃穆，为盛唐生活美学的镜像。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Tang dynasty (618-907)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.74/1973.74_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1973.74",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1973.74"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1948-206",
+    "uuid": "b8f96c14-d59b-44b5-9abd-3fa43e4978ce",
+    "name": "建窑茶盏",
+    "name_traditional": "建窑茶盏",
+    "name_en": "Tea Bowl",
+    "dynasty": "dynasty.southern-song",
+    "date": {
+      "start": 1127,
+      "end": 1279,
+      "original": "1100s–1200s",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Ceramic"
+    ],
+    "dimensions": "Diameter: 17.8 cm (7 in.); Overall: 8.7 cm (3 7/16 in.)",
+    "description": "南宋建窑系黑釉茶盏，斗茶风尚的产物，「茶色白，宜黑盏」。宋代点茶文化东传日本后演变为茶道。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Fujian province, Southern Song dynasty (1127-1279)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1948.206/1948.206_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1948.206",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1948.206"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1933-220",
+    "uuid": "306c3f43-1368-4811-a5b6-727ed2d76ec8",
+    "name": "《云山图》",
+    "name_traditional": "《云山图》",
+    "name_en": "Cloudy Mountains",
+    "dynasty": "dynasty.southern-song",
+    "date": {
+      "start": 1130,
+      "end": 1130,
+      "original": "1130",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Painting"
+    ],
+    "dimensions": "Image: 43.7 x 192.6 cm (17 3/16 x 75 13/16 in.); Overall: 45.5 x 646.8 cm (17 15/16 x 254 5/8 in.)",
+    "description": "南宋云山图卷（传米友仁一路），米氏云山墨戏，烟树朦胧，为南宋文人山水的重要标本。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Southern Song dynasty (1127–1279)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1933.220/1933.220_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1933.220",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1933.220"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1953-126",
+    "uuid": "11905ff4-7de9-49e0-8887-a557d49ca013",
+    "name": "《江山无尽图》卷",
+    "name_traditional": "《江山无尽图》卷",
+    "name_en": "Streams and Mountains without End",
+    "dynasty": "dynasty.northern-song",
+    "date": {
+      "start": 1100,
+      "end": 1150,
+      "original": "1100–1150",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Painting"
+    ],
+    "dimensions": "Image: 35.1 x 213 cm (13 13/16 x 83 7/8 in.); Overall: 35.1 x 1103.8 cm (13 13/16 x 434 9/16 in.)",
+    "description": "北宋末至南宋初青绿山水长卷，江山无尽、气象雄浑，为北宋院体山水传统的延续。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1953.126/1953.126_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1953.126",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1953.126"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1961-92",
+    "uuid": "5a00f400-2fe4-479c-9456-db857345a595",
+    "name": "云龙纹浮雕瓷盘",
+    "name_traditional": "云龙纹浮雕瓷盘",
+    "name_en": "Plate with Relief Dragon among Clouds",
+    "dynasty": "dynasty.yuan",
+    "date": {
+      "start": 1300,
+      "end": 1368,
+      "original": "1300s",
+      "circa": true
+    },
+    "category": [
+      "瓷器"
+    ],
+    "material": [
+      "Ceramic"
+    ],
+    "dimensions": "Diameter: 43.2 cm (17 in.)",
+    "description": "元代瓷盘，浮雕苍龙穿云，龙纹矫健，为元瓷装饰由素雅转向繁缛的代表。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Zhejiang province, Longquan region, Yuan dynasty (1271-1368)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1961.92/1961.92_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1961.92",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1961.92"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1959-138",
+    "uuid": "86663017-2156-4f1f-856f-e2355c1228ab",
+    "name": "《九歌图》卷",
+    "name_traditional": "《九歌图》卷",
+    "name_en": "Nine Songs",
+    "dynasty": "dynasty.yuan",
+    "date": {
+      "start": 1361,
+      "end": 1361,
+      "original": "1361",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Painting"
+    ],
+    "dimensions": "Overall: 28 x 438.2 cm (11 x 172 1/2 in.)",
+    "description": "元至正二十一年（1361）纪年《九歌图》卷，白描屈原《九歌》诸神，承李公麟白描传统，为元代人物画名品。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Yuan dynasty (1271–1368)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1959.138/1959.138_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1959.138",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1959.138"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1964-94",
+    "uuid": "fab4a9dc-3efa-4d80-96e4-5ccdf703c18b",
+    "name": "《流民图》卷",
+    "name_traditional": "《流民图》卷",
+    "name_en": "Beggars and Street Characters",
+    "dynasty": "dynasty.ming",
+    "date": {
+      "start": 1516,
+      "end": 1516,
+      "original": "1516",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Painting"
+    ],
+    "dimensions": "Overall: 31.9 x 244.5 cm (12 9/16 x 96 1/4 in.)",
+    "description": "明正德十一年（1516）周臣《流民图》相关段落，乞丐与市井人物百态，为明代中期社会现实题材绘画的杰作。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Ming dynasty (1368–1644)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1964.94/1964.94_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1964.94",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1964.94"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "artifact.cleveland.1969-31",
+    "uuid": "3b8c9a87-b50d-43e4-bb63-1022275a3ec1",
+    "name": "乾隆帝与后妃像卷（心写治平图摹本）",
+    "name_traditional": "乾隆帝与后妃像卷（心写治平图摹本）",
+    "name_en": "Portraits of the Qianlong Emperor and His Twelve Consorts",
+    "dynasty": "dynasty.qing",
+    "date": {
+      "start": 1736,
+      "end": 1770,
+      "original": "1736–70s",
+      "circa": true
+    },
+    "category": [
+      "绘画"
+    ],
+    "material": [
+      "Painting"
+    ],
+    "dimensions": "Overall: 53.8 x 1154.5 cm (21 3/16 x 454 1/2 in.); Painting only: 53 x 688.3 cm (20 7/8 x 271 in.)",
+    "description": "清乾隆时期宫廷摹本，乾隆帝与十二后妃半身肖像，原件为郎世宁等合绘的《心写治平图》。",
+    "current_holder": {
+      "museum": "museum.cleveland",
+      "city": "克利夫兰",
+      "country": "美国"
+    },
+    "provenance": "China, Qing dynasty (1644–1911), Qianlong reign (1736–95)",
+    "related_persons": [],
+    "related_events": [],
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.31/1969.31_web.jpg",
+        "license": "CC0",
+        "source": "Cleveland Museum of Art Open Access"
+      }
+    ],
+    "data_license": "CC0",
+    "sources": [
+      {
+        "title": "Cleveland Museum of Art, accession 1969.31",
+        "type": "institutional",
+        "url": "https://clevelandart.org/art/1969.31"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "kimi-k3",
+      "prompt_version": "cleveland-import-v1",
+      "version": 1
+    }
+  }
+]

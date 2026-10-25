@@ -9,7 +9,7 @@
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![Facts: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![Texts: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![Entities: 179](https://img.shields.io/badge/entities-1204-red.svg)](#-datasets)
+[![Entities: 179](https://img.shields.io/badge/entities-1224-red.svg)](#-datasets)
 [![Validation: passing](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
 
 [🚀 Quickstart](#-quickstart) · [📦 Datasets](#-datasets) · [📐 Schema](schema/) · [🤝 Contributing](CONTRIBUTING.md) · [中文](README.md) · [llms.txt](llms.txt)
@@ -48,7 +48,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① get the data
 cd chinese-history
-python3 tools/validate.py                                     # ② verify integrity (1204 records)
+python3 tools/validate.py                                     # ② verify integrity (1224 records)
 jq '.[] | .name' persons/han/person.han.0.json                # ③ use it (or any JSON lib)
 ```
 
@@ -80,7 +80,8 @@ Every record must carry `sources` — records without provenance fail CI. That i
 | [Artifacts · Qin](artifacts/qin/) | 1 | 🔬 schema sample |
 | [Artifacts · Met](artifacts/met/) | 24 | ✅ v1.1.0 (CC0) |
 | [Artifacts · Smithsonian NMAA](artifacts/smithsonian/) | 15 | ✅ v1.2.0 (CC0) |
-| [Artifacts · British Museum](artifacts/british-museum/) | 3 | ✅ v1.3.0 (Admonitions Scroll, David Vases; NC = link only) |
+| [Artifacts · British Museum](artifacts/british-museum/) | 3 | ✅ v1.3.0 (NC = link only) |
+| [Artifacts · Cleveland](artifacts/cleveland/) | 19 | ✅ v1.4.0 (CC0, keyless API) |
 | [Dynasties/regimes](dynasties/) | 49 | ✅ base table |
 | [Era names](reign_eras/) | 551 | ✅ incl. Ten Kingdoms & Western Xia |
 | [Places](places/) | 31 | ✅ with modern names & coordinates |
@@ -109,7 +110,8 @@ Every record must carry `sources` — records without provenance fail CI. That i
 - ✅ **v1.0.0 Yuan-Ming-Qing**: imperial line complete, 221 BC – 1912
 - ✅ **v1.1.0**: 34 rulers + 41 ministers + 24 Met CC0 artifacts
 - ✅ **v1.2.0**: +41 ministers, +61 events, +15 Smithsonian artifacts
-- ✅ **v1.3.0**: 348/370 persons linked to Wikidata QIDs + 3 British Museum artifacts (current)
+- ✅ **v1.3.0**: 94% Wikidata alignment + 3 BM artifacts
+- ✅ **v1.4.0**: 19 Cleveland CC0 artifacts (current)
 - 🔜 **M3 Artifacts**: CC0 Chinese artifacts from Met / Smithsonian open collections
 - 🔜 **M3+**: SQLite builder is ready (`python3 tools/build_sqlite.py`); release automation in `.github/workflows/release.yml`
 - 🔜 **M4**: all dynasties' emperors, showcase gallery
@@ -120,6 +122,7 @@ Made an app (site / app / visualization / AI project)? Open an issue with a link
 
 ## 📝 Changelog
 
+- **2026-10-25** v1.4.0: +19 Cleveland CC0 artifacts; 1224 entities
 - **2026-10-25** v1.3.0: 94% Wikidata alignment + 3 BM artifacts; 1204 entities
 - **2026-10-24** v1.2.0: +41 ministers, +61 events, +15 Smithsonian artifacts; 1201 entities
 - **2026-10-24** v1.1.0: +34 rulers, +41 ministers, +24 Met artifacts; 1084 entities
