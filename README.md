@@ -6,12 +6,15 @@
 
 370 位历史人物（94% 已对齐 Wikidata QID） · 154 个历史事件 · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
 
+[![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history?label=release)](https://github.com/anthonyhann/chinese-history/releases)
+[![SQLite 下载](https://img.shields.io/badge/%E2%AC%87%20SQLite-1.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![JSON 快照](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-311KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![实体记录](https://img.shields.io/badge/entities-1224-red.svg)](#-数据集)
+[![CI 校验](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
+
 [![代码许可: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![事实数据: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![描述文本: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![实体记录: 179](https://img.shields.io/badge/entities-1224-red.svg)](#-数据集)
-[![CI 校验](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
-[![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history)](https://github.com/anthonyhann/chinese-history/releases)
 
 [🚀 快速开始](#-快速开始) · [📦 数据集](#-数据集) · [📐 Schema](schema/) · [🤝 贡献](CONTRIBUTING.md) · [English](README.en.md) · [llms.txt](llms.txt)
 
@@ -20,7 +23,12 @@
 ---
 
 > 灵感来自 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)：古诗词有了最全的开源数据库，历史也该有一个。
-> 区别在于：历史数据有学术争议，所以本项目把**出处和存疑标注**做成了一等公民。
+>
+> 但历史比诗词难做得多——生卒年在争、纪年要换算、出处要考证。所以本项目把**「出处」做成一等公民**：没有 `sources` 的记录过不了 CI，学术争议不投票而是多值并存，每条 AI 生成的数据都留了模型和 prompt 版本。
+>
+> **一句话定位**：给开发者和 AI Agent 用的一份干净的中华历史结构化数据，clone 即用，不用爬百科、不用担心版权。
+
+**不想 clone？** 直接下载单文件数据库 → [最新 Release](https://github.com/anthonyhann/chinese-history/releases/latest)（SQLite 1.8MB 全库 / JSON zip）
 
 ## 📖 长这样
 

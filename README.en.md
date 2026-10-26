@@ -6,12 +6,15 @@
 
 370 historical figures (94% linked to Wikidata QIDs) · 154 events · 551 era names · 49 dynasties/regimes — all in JSON, clone and build
 
+[![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history?label=release)](https://github.com/anthonyhann/chinese-history/releases)
+[![SQLite download](https://img.shields.io/badge/%E2%AC%87%20SQLite-1.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![JSON snapshot](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-311KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![Entities](https://img.shields.io/badge/entities-1224-red.svg)](#-datasets)
+[![CI](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
+
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
 [![Facts: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![Texts: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
-[![Entities: 179](https://img.shields.io/badge/entities-1224-red.svg)](#-datasets)
-[![CI](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
-[![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history)](https://github.com/anthonyhann/chinese-history/releases)
 
 [🚀 Quickstart](#-quickstart) · [📦 Datasets](#-datasets) · [📐 Schema](schema/) · [🤝 Contributing](CONTRIBUTING.md) · [中文](README.md) · [llms.txt](llms.txt)
 
@@ -20,7 +23,12 @@
 ---
 
 > Inspired by [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) — the de-facto open database of classical Chinese poetry (53k+ stars). Chinese history deserves the same.
-> The key difference: historical data carries academic disputes, so **provenance and disputed-value markup are first-class citizens** in this schema.
+>
+> But history is much harder than poetry: birth and death years are disputed, era-name calendars need conversion, and everything needs provenance. So this project makes **sources a first-class citizen**: records without `sources` fail CI, academic disputes are stored as multiple sourced values instead of being voted away, and every AI-generated record keeps its model and prompt version in `_meta`.
+>
+> **In one line**: clean, structured Chinese history for developers and AI agents — clone and build, no scraping encyclopedias, no copyright worries.
+
+**Don't want to clone?** Grab the single-file database → [latest release](https://github.com/anthonyhann/chinese-history/releases/latest) (1.8 MB SQLite / JSON zip)
 
 ## 📖 What it looks like
 
