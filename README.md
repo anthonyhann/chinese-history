@@ -10,7 +10,8 @@
 [![事实数据: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![描述文本: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
 [![实体记录: 179](https://img.shields.io/badge/entities-1224-red.svg)](#-数据集)
-[![数据校验: 通过](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
+[![CI 校验](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
+[![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history)](https://github.com/anthonyhann/chinese-history/releases)
 
 [🚀 快速开始](#-快速开始) · [📦 数据集](#-数据集) · [📐 Schema](schema/) · [🤝 贡献](CONTRIBUTING.md) · [English](README.en.md) · [llms.txt](llms.txt)
 

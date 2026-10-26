@@ -10,7 +10,8 @@
 [![Facts: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![Texts: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
 [![Entities: 179](https://img.shields.io/badge/entities-1224-red.svg)](#-datasets)
-[![Validation: passing](https://img.shields.io/badge/validation-passing-brightgreen.svg)](tools/validate.py)
+[![CI](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
+[![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history)](https://github.com/anthonyhann/chinese-history/releases)
 
 [🚀 Quickstart](#-quickstart) · [📦 Datasets](#-datasets) · [📐 Schema](schema/) · [🤝 Contributing](CONTRIBUTING.md) · [中文](README.md) · [llms.txt](llms.txt)
 
