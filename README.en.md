@@ -30,6 +30,12 @@
 
 **Don't want to clone?** Grab the single-file database → [latest release](https://github.com/anthonyhann/chinese-history/releases/latest) (1.8 MB SQLite / JSON zip)
 
+---
+
+**If this project is useful to you, a ⭐ Star is the most concrete way to help.** It doesn't make the data more accurate, but it decides whether the people who need this library can find it — and whether I can find a co-maintainer.
+
+Where help is actually needed right now: [`disputed[]` competing values cover only 9 of 370 figures](https://github.com/anthonyhann/chinese-history/issues/4) and [not a single record has been individually human-verified](https://github.com/anthonyhann/chinese-history/issues/5). For long-term co-maintenance, see [#6 looking for co-maintainers](https://github.com/anthonyhann/chinese-history/issues/6).
+
 ## 📖 What it looks like
 
 ```json
