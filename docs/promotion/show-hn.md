@@ -24,6 +24,8 @@ I spent a few evenings building what [chinese-poetry](https://github.com/chinese
 
 Data is JSON-sharded (≤1000 records/file, filename = index), so PRs are the collaboration model.
 
-Honest caveat: most records are AI-generated + spot-checked; `verified_by` empty = not yet human-verified. Check `sources` before citing.
+Honest caveat: records are AI-pipeline generated with partial spot-checking; none has been individually human-verified yet. `_meta` logs the model and prompt version (traceability, not a correctness guarantee). Check `sources` before citing.
+
+Known gap: `disputed[]` competing-value markup exists in the schema but currently covers only 9 of 370 figures.
 
 Repo: https://github.com/anthonyhann/chinese-history
