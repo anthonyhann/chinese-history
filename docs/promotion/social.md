@@ -48,8 +48,7 @@ https://github.com/anthonyhann/chinese-history
 
 4/ 上手只要三条命令：
 git clone → python3 tools/validate.py → python3 tools/build_sqlite.py
-打 tag 自动出 Release（SQLite + JSON）。
-求 MySQL 版盖楼靠网盘传数据这种事，不存在。
+打 tag 自动出 Release（SQLite + JSON），数据与产物同源。
 
 5/ 欢迎捉虫、补充、共建。PR 唯一硬性要求：带出处。
 Star 一个再走 → https://github.com/anthonyhann/chinese-history ⭐

@@ -1,10 +1,10 @@
 # V2EX 发帖文案（分享创造 / 程序员节点）
 
-**标题**：花了三个晚上，我把中华上下五千年的帝王将相做成了一个开源数据库（JSON + SQLite，clone 即用）
+**标题**：我把中华上下五千年的帝王将相做成了一个开源数据库（JSON + SQLite，clone 即用）
 
 **正文**：
 
-各位 V 友好，分享一个周末项目（实际肝了三个晚上）。
+各位 V 友好，分享一个自己闷头做了几天的项目。
 
 **chinese-history**：中华历史人物·事件·文物开源结构化数据库
 https://github.com/anthonyhann/chinese-history

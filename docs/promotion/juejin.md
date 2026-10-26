@@ -3,7 +3,7 @@
 **标题候选**：
 1. 《我把中华五千年做成了一个数据库：266 位帝王、154 个事件、62 件海外珍宝，全部开源》
 2. 《对标 53.8k Star 的 chinese-poetry，我肝出了「中华历史数据库」》
-3. 《一个人 + AI，三个晚上，把中华帝系从秦始皇贯通到溥仪》
+3. 《把中华帝系从秦始皇贯通到溥仪：一个开放结构化历史数据库的取舍》
 
 ---
 
@@ -13,7 +13,7 @@
 
 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 用 53.8k star 证明了「JSON 分发的开放数据库」这条路在古诗词领域完全走得通。那历史呢？
 
-我花了三个晚上，把这条路在历史领域跑通了：[chinese-history](https://github.com/anthonyhann/chinese-history)。
+我花了几天时间，把这条路在历史领域跑通了：[chinese-history](https://github.com/anthonyhann/chinese-history)。
 
 ## 现在有什么（数字都可验证）
 
@@ -57,7 +57,7 @@ JSON 分片（每文件 ≤1000 条，文件名即索引）
   → 打 tag → GitHub Actions 自动构建 SQLite + JSON zip → Release
 ```
 
-求 MySQL 版盖 24 层楼靠百度网盘发数据的事，不会在这里发生。
+数据本身和构建产物同源：Release 里的 SQLite 由 CI 从 JSON 直接构建，不存在手工同步的中间环节。
 
 ## 参与方式
 
