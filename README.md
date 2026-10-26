@@ -30,6 +30,14 @@
 
 **不想 clone？** 直接下载单文件数据库 → [最新 Release](https://github.com/anthonyhann/chinese-history/releases/latest)（SQLite 1.8MB 全库 / JSON zip）
 
+**想先看设计思路？** 三条铁律为什么这么定、各自付出了什么代价 → [《给中华历史数据建 Schema 时，我踩的三个坑和付出的代价》](https://juejin.cn/post/7700407749293768739)
+
+---
+
+**如果这个项目对你有用，点个 ⭐ Star 是最实际的帮助。** 它不会让数据变得更准，但决定了这个库能不能被更多需要它的人看见——也是我能不能找到 co-maintainer 的前提。
+
+当前需要帮忙的具体位置：[`disputed[]` 争议多值目前只覆盖 9/370 人](https://github.com/anthonyhann/chinese-history/issues/4)，以及[还没有任何一条数据经过人工核验](https://github.com/anthonyhann/chinese-history/issues/5)。你熟悉哪段历史，就带着书目来提 PR，一条一个 PR，出处要能核。长期共建见 [#6 招募 co-maintainer](https://github.com/anthonyhann/chinese-history/issues/6)。
+
 ## 📖 长这样
 
 ```json
@@ -125,9 +133,21 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 - 🔜 **M3+**：SQLite 构建器已可用（`python3 tools/build_sqlite.py`），release 自动化见 `.github/workflows/release.yml`
 - 🔜 **M4**：历代皇帝全量、案例展示
 
-## 💬 用了我们的数据？
+## 💬 参与进来
 
-做了应用（网站/App/可视化/AI 项目）？开一个 issue 附上链接，我们会收录进案例展示。数据纠错 PR 请**注明出处**，详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+**最快的参与方式**：点 ⭐ Star。Star 数决定这个库能不能被更多需要它的人搜到，也是招募 co-maintainer 的前提。
+
+**能直接贡献的**（都比想象中好上手）：
+
+| 想做的事 | 怎么做 |
+|---|---|
+| 补一条有学术争议的生卒年 | 往 `disputed[]` 加一个带书目的值，一条一个 PR → [#4](https://github.com/anthonyhann/chinese-history/issues/4) |
+| 核验一条现有数据 | 对着 `sources` 读原书，确认无误后告诉我们，这是当前最缺的 → [#5](https://github.com/anthonyhann/chinese-history/issues/5) |
+| 补你家乡博物馆的中华文物 | 按 `artifacts/` 现有 Schema 添加，注意图片许可逐条标注 |
+| 长期共建 | 数据校订 / 前端可视化 / 贡献流程，任一方向都欢迎 → [#6](https://github.com/anthonyhann/chinese-history/issues/6) |
+| 用了这个数据做了东西 | 开 issue 附链接，收录进案例展示 |
+
+数据纠错 PR 请**注明出处**，无出处不合并，详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 📝 更新日志
 
