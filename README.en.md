@@ -100,12 +100,12 @@ Every record must carry `sources` — records without provenance fail CI. That i
 
 1. **ID anchors from day one**: readable slug (`person.qin.yingzheng`) + UUID. Persons, events, artifacts, places cross-reference by id; ids are frozen on publish and never reused
 2. **Dual-track time**: original reign-era notation ("秦始皇三十七年七月丙寅") + normalized Gregorian year (`-210` = 210 BC) + `circa` for approximations + `disputed[]` for competing scholarly claims — disputes are never voted away, each value keeps its own source
-3. **Mandatory provenance + reproducible production**: every record's generating model and prompt version are logged in `_meta`; human verification is marked via `verified_by`
+3. **Mandatory provenance + reproducible production**: records with an empty `sources` array fail CI; every record's generating model and prompt version are logged in `_meta`, so each can be traced and re-run
 
 ## ⚠️ When NOT to use it
 
 - **Academic research** → use [CBDB](https://cbdb.fas.harvard.edu/) (Harvard/Academia Sinica/PKU). This repo optimizes for developer-friendliness and Chinese-first access, not scholarly depth
-- **If you need human-verified reliability** → most records are currently `ai-pipeline` generated with empty `verified_by`. Check `sources` yourself; corrections via PR are welcome
+- **If you need human-verified reliability** → all records are AI-pipeline generated with partial spot-checking; **none has been individually human-verified yet**. `_meta` logs the generating model and prompt version (for traceability, not as a correctness guarantee). Check `sources` yourself; corrections via PR are welcome
 - **If you need full texts of the Twenty-Four Histories** → we store structured facts, not full source texts
 
 ## 🗺️ Roadmap
