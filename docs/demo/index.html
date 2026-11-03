@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>chinese-history · 中华历史结构化数据库</title>
+<meta name="description" content="370 位人物、154 个事件、551 个年号、62 件海外馆藏文物。可搜索、可按年代浏览、每条带出处。">
+<style>
+:root{
+  --bg:#faf9f7; --card:#fff; --ink:#1c1917; --ink2:#57534e; --ink3:#a8a29e;
+  --line:#e7e5e4; --accent:#9a3412; --accent-soft:#fef3ee; --gold:#b45309;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans SC",sans-serif;
+  line-height:1.65; -webkit-font-smoothing:antialiased;
+}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+
+/* header */
+header{padding:56px 0 32px;border-bottom:1px solid var(--line);margin-bottom:28px}
+h1{font-size:32px;font-weight:700;letter-spacing:-.02em;margin-bottom:10px}
+h1 small{font-size:15px;font-weight:400;color:var(--ink3);margin-left:10px;letter-spacing:0}
+.lede{color:var(--ink2);font-size:15px;max-width:640px}
+.stats{display:flex;gap:28px;margin-top:22px;flex-wrap:wrap}
+.stat b{display:block;font-size:24px;font-weight:700;color:var(--accent);font-variant-numeric:tabular-nums}
+.stat span{font-size:12.5px;color:var(--ink3)}
+
+/* search */
+.searchbox{position:relative;margin-bottom:24px}
+#q{
+  width:100%;padding:15px 18px;font-size:16px;border:1px solid var(--line);
+  border-radius:10px;background:var(--card);outline:none;
+  font-family:inherit;transition:border-color .15s,box-shadow .15s;
+}
+#q:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.hint{font-size:13px;color:var(--ink3);margin-top:8px}
+.hint kbd{background:#f5f5f4;border:1px solid var(--line);border-radius:4px;padding:1px 5px;font-size:12px;font-family:inherit}
+
+/* tabs */
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-bottom:24px;
+  overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{
+  padding:10px 14px;font-size:14.5px;color:var(--ink2);cursor:pointer;
+  border:none;background:none;border-bottom:2px solid transparent;
+  margin-bottom:-1px;font-family:inherit;transition:color .15s;
+  white-space:nowrap;flex-shrink:0
+}
+.tab:hover{color:var(--ink)}
+.tab.on{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
+.tab .n{font-size:11.5px;color:var(--ink3);margin-left:5px;font-variant-numeric:tabular-nums}
+
+/* results */
+.list{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.row{background:var(--card);padding:14px 18px;cursor:pointer;transition:background .12s}
+.row:hover{background:#fdfcfb}
+.row-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.row-name{font-size:16px;font-weight:600}
+.row-meta{font-size:13px;color:var(--ink3)}
+.row-desc{font-size:13.5px;color:var(--ink2);margin-top:4px;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.badge{display:inline-block;font-size:11.5px;padding:1px 7px;border-radius:4px;
+  background:var(--accent-soft);color:var(--accent);font-weight:500}
+.empty{padding:48px 20px;text-align:center;color:var(--ink3);font-size:14px}
+
+/* detail */
+#detail{display:none;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:28px;margin-bottom:24px}
+#detail.on{display:block}
+.d-title{font-size:24px;font-weight:700;margin-bottom:4px}
+.d-sub{color:var(--ink3);font-size:14px;margin-bottom:18px}
+.d-bio{font-size:15px;color:var(--ink2);margin-bottom:20px;line-height:1.75}
+.d-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px 24px;margin-bottom:20px}
+.d-item{border-left:2px solid var(--line);padding-left:12px}
+.d-item dt{font-size:12px;color:var(--ink3);margin-bottom:2px}
+.d-item dd{font-size:14.5px;font-variant-numeric:tabular-nums}
+.d-sec{margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+.d-sec h4{font-size:13px;color:var(--ink3);font-weight:500;margin-bottom:10px;letter-spacing:.03em}
+.src{font-size:13px;color:var(--ink2);padding:3px 0}
+.src .ty{display:inline-block;font-size:11px;color:var(--gold);border:1px solid #fde3c4;
+  background:#fffbeb;border-radius:3px;padding:0 5px;margin-right:7px}
+.chain{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:14px}
+.chain .arr{color:var(--ink3)}
+.close{float:right;font-size:13px;color:var(--ink3);cursor:pointer;background:none;
+  border:1px solid var(--line);border-radius:6px;padding:5px 12px;font-family:inherit}
+.close:hover{background:#f5f5f4}
+
+/* timeline */
+#tl{display:none}
+#tl.on{display:block}
+.tl-ctrl{display:flex;align-items:center;gap:14px;margin-bottom:18px}
+#year{flex:1;accent-color:var(--accent);height:4px}
+#yearval{font-size:26px;font-weight:700;color:var(--accent);font-variant-numeric:tabular-nums;min-width:110px}
+.yearlab{font-size:12px;color:var(--ink3)}
+.tl-note{font-size:13px;color:var(--ink3);margin-bottom:16px}
+
+/* artifacts */
+.arts{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px}
+.art{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;cursor:pointer;transition:box-shadow .15s,transform .15s}
+.art:hover{box-shadow:0 4px 16px rgba(0,0,0,.06);transform:translateY(-1px)}
+.art img{width:100%;height:170px;object-fit:cover;background:#f5f5f4;display:block}
+.art .ph{width:100%;height:170px;background:#f5f5f4;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;color:var(--ink3);font-size:12px;gap:3px;text-align:center;line-height:1.4}
+.art-b{padding:12px 14px}
+.art-n{font-size:14.5px;font-weight:600;margin-bottom:3px}
+.art-m{font-size:12px;color:var(--ink3)}
+.lic{font-size:10.5px;padding:1px 6px;border-radius:3px;background:#f0fdf4;color:#15803d;border:1px solid #bbf7d0}
+.lic.nc{background:#fef2f2;color:#b91c1c;border-color:#fecaca}
+
+footer{margin-top:56px;padding:28px 0 48px;border-top:1px solid var(--line);
+  font-size:13px;color:var(--ink3);text-align:center;line-height:2}
+@media(max-width:640px){
+  header{padding:32px 0 24px}
+  h1{font-size:24px}
+  .stats{gap:18px}
+  .stat b{font-size:19px}
+  #detail{padding:20px}
+  .arts{grid-template-columns:repeat(2,1fr)}
+  .art img,.art .ph{height:130px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>chinese-history <small>中华历史结构化数据库</small></h1>
+  <p class="lede">不用写代码就能查。搜一个人名，或拖动年份看当时谁在位。每条数据都带出处。</p>
+  <div class="stats">
+    <div class="stat"><b>370</b><span>历史人物</span></div>
+    <div class="stat"><b>154</b><span>重大事件</span></div>
+    <div class="stat"><b>551</b><span>年号</span></div>
+    <div class="stat"><b>62</b><span>海外馆藏文物</span></div>
+    <div class="stat"><b>49</b><span>朝代政权</span></div>
+  </div>
+</header>
+
+<div class="searchbox">
+  <input id="q" placeholder="搜人名、事件、年号、文物……（秦始皇 / 玄武门 / 贞观 / 女史箴图）" autocomplete="off" autofocus>
+  <div class="hint">试试 <kbd>秦始皇</kbd> <kbd>玄武门之变</kbd> <kbd>贞观</kbd> <kbd>博山炉</kbd></div>
+</div>
+
+<div class="tabs">
+  <button class="tab on" data-v="all">全部<span class="n" id="n-all"></span></button>
+  <button class="tab" data-v="person">人物<span class="n" id="n-person"></span></button>
+  <button class="tab" data-v="event">事件<span class="n" id="n-event"></span></button>
+  <button class="tab" data-v="era">年号<span class="n" id="n-era"></span></button>
+  <button class="tab" data-v="artifact">文物<span class="n" id="n-artifact"></span></button>
+  <button class="tab" data-v="timeline">时间轴</button>
+</div>
+
+<div id="detail"></div>
+
+<div id="results" class="list"></div>
+
+<div id="tl">
+  <div class="tl-ctrl">
+    <div id="yearval">—</div>
+    <input type="range" id="year" min="-221" max="1912" value="626">
+  </div>
+  <div class="tl-note" id="tlnote"></div>
+  <div id="tlbody"></div>
+</div>
+
+<footer>
+  <div>数据来自 <a href="https://github.com/anthonyhann/chinese-history" target="_blank" rel="noopener">github.com/anthonyhann/chinese-history</a> · 事实数据 CC0</div>
+  <div>全部记录由 AI 流水线生成，<b>尚无一条经过逐条人工核验</b>。引用前请核对每条记录的出处。</div>
+</footer>
+
+</div>
+
+<script>
+const DATA_URL = "data.json";
+let D = null, filter = "all";
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmtYear = y => y == null ? "—" : (y < 0 ? `前${-y}` : `${y}`);
+const fmtRange = (a,b) => {
+  if (a == null && b == null) return "—";
+  if (a == null) return `卒于 ${fmtYear(b)}`;
+  if (b == null) return `生于 ${fmtYear(a)}`;
+  if (a === b) return fmtYear(a);
+  return `${fmtYear(a)} – ${fmtYear(b)}`;
+};
+const dynName = id => {
+  const d = D.dynasties.find(x => x.id === id);
+  return d ? d.name : (id || "");
+};
+
+async function boot(){
+  D = await (await fetch(DATA_URL)).json();
+  // 索引
+  D.pById = Object.fromEntries(D.persons.map(p => [p.id, p]));
+  D.eById = Object.fromEntries(D.events.map(e => [e.id, e]));
+  D.aById = Object.fromEntries(D.artifacts.map(a => [a.id, a]));
+
+  $("#n-person").textContent = D.persons.length;
+  $("#n-event").textContent = D.events.length;
+  $("#n-era").textContent = D.eras.length;
+  $("#n-artifact").textContent = D.artifacts.length;
+  $("#n-all").textContent = "";
+
+  render();
+  $("#q").addEventListener("input", render);
+  document.querySelectorAll(".tab").forEach(t => {
+    t.addEventListener("click", () => {
+      document.querySelectorAll(".tab").forEach(x => x.classList.remove("on"));
+      t.classList.add("on");
+      filter = t.dataset.v;
+      $("#detail").classList.remove("on");
+      if (filter === "timeline") { showTimeline(); } else { hideTimeline(); render(); }
+    });
+  });
+  $("#year").addEventListener("input", showTimeline);
+}
+
+function hideTimeline(){ $("#tl").classList.remove("on"); $("#results").style.display=""; }
+function showTimeline(){
+  $("#tl").classList.add("on");
+  $("#results").style.display = "none";
+  const y = +$("#year").value;
+  $("#yearval").textContent = y < 0 ? `前${-y}` : `${y}`;
+
+  // 当年在位的帝王：reign 覆盖该年
+  const ruling = D.persons.filter(p => {
+    const r = p.reign;
+    if (!r || r.start == null || r.end == null) return false;
+    return r.start <= y && y <= r.end && (p.cat.includes("emperor") || p.cat.includes("monarch"));
+  });
+  // 当年发生的重大事件
+  const evs = D.events.filter(e => {
+    const t = e.time;
+    if (!t || t.start == null) return false;
+    const end = t.end ?? t.start;
+    return t.start <= y && y <= end;
+  });
+  const dyns = D.dynasties.filter(d => {
+    const s = d.start_year ?? d.start, e = d.end_year ?? d.end;
+    return s != null && e != null && s <= y && y <= e;
+  });
+
+  let h = "";
+  h += `<div class="d-sec" style="margin-top:0;padding-top:0;border:none"><h4>在位</h4><div class="chain">`;
+  if (ruling.length) {
+    h += ruling.slice(0,8).map(p =>
+      `<a href="#" data-p="${esc(p.id)}">${esc(p.name)}</a>`).join('<span class="arr">·</span>');
+  } else h += `<span style="color:var(--ink3)">此年无收录的在位帝王</span>`;
+  h += `</div></div>`;
+
+  if (dyns.length) {
+    h += `<div class="d-sec"><h4>政权</h4><div class="chain">${dyns.map(d=>`<span class="badge">${esc(d.name)}</span>`).join(" ")}</div></div>`;
+  }
+  if (evs.length) {
+    h += `<div class="d-sec"><h4>当年事件（${evs.length}）</h4>` +
+      evs.map(e => `<div class="src" style="cursor:pointer" data-e="${esc(e.id)}">${esc(e.name)}</div>`).join("") +
+      `</div>`;
+  }
+  $("#tlbody").innerHTML = h;
+  $("#tlbody").querySelectorAll("[data-p]").forEach(el =>
+    el.onclick = ev => { ev.preventDefault(); showPerson(el.dataset.p); });
+  $("#tlbody").querySelectorAll("[data-e]").forEach(el =>
+    el.onclick = () => showEvent(el.dataset.e));
+  $("#tlnote").textContent = `收录范围：前 221 – 1912 年。拖动查看任意年份谁在位、发生了什么。`;
+}
+
+// 在已按时间排序的数组里均匀取 n 个，保证展示的时间跨度铺开
+function spread(arr, n){
+  if (arr.length <= n) return arr;
+  const out = [];
+  for (let i = 0; i < n; i++) out.push(arr[Math.round(i * (arr.length - 1) / (n - 1))]);
+  return out;
+}
+
+// 跨朝代均匀抽样：保证首屏覆盖不同时代
+function sampleAcrossDynasties(list, n){
+  const byDyn = {};
+  list.forEach(p => { (byDyn[p.dyn] = byDyn[p.dyn] || []).push(p); });
+  // 按朝代起始年排序，让抽样结果自然呈现时间顺序
+  const dynYear = id => {
+    const d = D.dynasties.find(x => x.id === id);
+    return d ? (d.start_year ?? d.start ?? 0) : 0;
+  };
+  const keys = Object.keys(byDyn).sort((a,b) => dynYear(a) - dynYear(b));
+  const out = [];
+  let i = 0;
+  while (out.length < n && i < 200) {
+    let added = false;
+    for (const k of keys) {
+      if (byDyn[k][i]) { out.push(byDyn[k][i]); added = true; if (out.length >= n) break; }
+    }
+    if (!added) break;
+    i++;
+  }
+  return out;
+}
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase();
+  if (filter === "timeline") return;
+
+  let items = [];
+  const hit = (...fields) => !q || fields.filter(Boolean).join(" ").toLowerCase().includes(q);
+
+  if (filter === "all" || filter === "person") {
+    let ps = D.persons.filter(p => hit(p.name, p.trad, (p.titles||[]).join(" "), p.bio, dynName(p.dyn)));
+    // "全部"无搜索词时：跨朝代抽样，让首屏能看出上下五千年，而不是按文件顺序全是宋人
+    if (filter === "all" && !q) ps = sampleAcrossDynasties(ps, 8);
+    else ps = ps.slice(0, filter==="all" ? 12 : 500);
+    ps.forEach(p => items.push({t:"person", p}));
+  }
+  if (filter === "all" || filter === "event") {
+    let es = D.events.filter(e => hit(e.name, e.desc, e.outcome));
+    es.sort((a,b) => ((a.time?.start ?? 9999) - (b.time?.start ?? 9999)));
+    if (filter === "all" && !q) es = spread(es, 8);
+    else es = es.slice(0, filter==="all" ? 12 : 500);
+    es.forEach(e => items.push({t:"event", e}));
+  }
+  if (filter === "all" || filter === "era") {
+    let rs = D.eras.filter(e2 => hit(e2.name, dynName(e2.dyn)));
+    rs.sort((a,b) => a.s - b.s);
+    if (filter === "all" && !q) rs = spread(rs, 6);
+    else rs = rs.slice(0, filter==="all" ? 10 : 500);
+    rs.forEach(e2 => items.push({t:"era", e2}));
+  }
+  if (filter === "all" || filter === "artifact") {
+      let as = D.artifacts.filter(a => hit(a.name, a.name_en, a.desc));
+    // 有 CC0 图（大概率能显示）的排前面，纯链接的排后面
+    const rank = a => (a.lic === "CC0" && a.img) ? 0 : (a.img ? 1 : 2);
+    as.sort((x,y) => rank(x) - rank(y));
+    as = as.slice(0, filter==="all" ? 12 : 24);
+    as.forEach(a => items.push({t:"artifact", a}));
+  }
+
+  if (filter === "artifact") { renderArtifacts(items.map(i=>i.a)); return; }
+
+  const box = $("#results");
+  if (!items.length) {
+    box.innerHTML = `<div class="empty">没有匹配「${esc($("#q").value)}」的结果</div>`;
+    return;
+  }
+  box.innerHTML = items.map(it => {
+    if (it.t === "person") {
+      const p = it.p;
+      return `<div class="row" data-p="${esc(p.id)}">
+        <div class="row-head"><span class="row-name">${esc(p.name)}</span>
+        <span class="row-meta">${esc(dynName(p.dyn))} ${fmtRange(p.birth,p.death)}</span>
+        ${p.titles.length?`<span class="badge">${esc(p.titles[0])}</span>`:""}</div>
+        <div class="row-desc">${esc(p.bio||"")}</div></div>`;
+    }
+    if (it.t === "event") {
+      const e = it.e;
+      return `<div class="row" data-e="${esc(e.id)}">
+        <div class="row-head"><span class="row-name">${esc(e.name)}</span>
+        <span class="row-meta">${e.time?fmtRange(e.time.start,e.time.end):""}</span>
+        ${e.time&&e.time.original?`<span class="badge">${esc(e.time.original)}</span>`:""}</div>
+        <div class="row-desc">${esc(e.desc||"")}</div></div>`;
+    }
+    if (it.t === "era") {
+      const e2 = it.e2;
+      return `<div class="row"><div class="row-head">
+        <span class="row-name">${esc(e2.name)}</span>
+        <span class="row-meta">${esc(dynName(e2.dyn))} · ${fmtYear(e2.s)} – ${fmtYear(e2.e)}</span>
+        ${e2.emp&&D.pById[e2.emp]?`<span class="badge">${esc(D.pById[e2.emp].name)}</span>`:""}
+        </div></div>`;
+    }
+    return "";
+  }).join("");
+
+  box.querySelectorAll("[data-p]").forEach(el => el.onclick = () => showPerson(el.dataset.p));
+  box.querySelectorAll("[data-e]").forEach(el => el.onclick = () => showEvent(el.dataset.e));
+}
+
+function renderArtifacts(list){
+  const box = $("#results");
+  if (!list.length){ box.innerHTML = `<div class="empty">没有匹配的文物</div>`; return; }
+  box.className = "";
+  box.innerHTML = `<div class="arts">${list.map(a => {
+    const ph = '<div class="ph">图源已限制外链<br><span style="font-size:11px;opacity:.7">点开看馆方链接</span></div>';
+    const img = a.img
+      ? `<img src="${esc(a.img)}" alt="${esc(a.name)}" loading="lazy" referrerpolicy="no-referrer" data-ph="1">`
+      : ph;
+    const lic = a.lic ? `<span class="lic ${/NC|©/.test(a.lic)?"nc":""}">${esc(a.lic)}</span>` : "";
+    return `<div class="art" data-a="${esc(a.id)}">${img}<div class="art-b">
+      <div class="art-n">${esc(a.name)}</div>
+      <div class="art-m">${esc(dynName(a.dyn))} · ${esc(a.holder?.city||"")} ${lic}</div>
+      </div></div>`;
+  }).join("")}</div>`;
+  const total = list.length;
+  if (total > 24) {
+    const more = document.createElement("div");
+    more.style.cssText = "text-align:center;padding:24px 0";
+    more.innerHTML = `<button id="moreart" style="padding:10px 24px;border:1px solid var(--line);background:var(--card);border-radius:8px;font-family:inherit;font-size:14px;cursor:pointer;color:var(--ink2)">显示全部 ${total} 件</button>`;
+    box.appendChild(more);
+    more.querySelector("#moreart").onclick = () => renderArtifacts(D.artifacts
+      .filter(a => a.name && a.name.length)
+      .sort((x,y)=>((x.lic==="CC0"&&x.img)?0:(x.img?1:2))-((y.lic==="CC0"&&y.img)?0:(y.img?1:2))));
+  }
+  box.querySelectorAll("img[data-ph]").forEach(im => {
+    im.addEventListener("error", () => {
+      const d = document.createElement("div");
+      d.className = "ph";
+      d.innerHTML = '图源已限制外链<br><span style="font-size:11px;opacity:.7">点开看馆方链接</span>';
+      im.replaceWith(d);
+    }, {once:true});
+  });
+  box.querySelectorAll("[data-a]").forEach(el => el.onclick = () => showArtifact(el.dataset.a));
+}
+
+function showPerson(id){
+  const p = D.pById[id]; if (!p) return;
+  const evs = D.events.filter(e => (e.parts||[]).includes(id));
+  const arts = D.artifacts.filter(a => a.dyn === p.dyn);
+  const pred = p.pred && D.pById[p.pred], succ = p.succ && D.pById[p.succ];
+  let h = `<button class="close" onclick="document.getElementById('detail').classList.remove('on')">关闭</button>`;
+  h += `<div class="d-title">${esc(p.name)}${p.trad && p.trad!==p.name?` <span style="color:var(--ink3);font-size:16px;font-weight:400">${esc(p.trad)}</span>`:""}</div>`;
+  h += `<div class="d-sub">${esc(dynName(p.dyn))} · ${esc((p.titles||[]).join(" / "))}${p.wikidata?` · <a href="https://www.wikidata.org/wiki/${esc(p.wikidata)}" target="_blank" rel="noopener">${esc(p.wikidata)}</a>`:""}</div>`;
+  if (p.bio) h += `<div class="d-bio">${esc(p.bio)}</div>`;
+  h += `<dl class="d-grid">`;
+  h += `<div class="d-item"><dt>生</dt><dd>${fmtYear(p.birth)}</dd></div>`;
+  h += `<div class="d-item"><dt>卒</dt><dd>${fmtYear(p.death)}</dd></div>`;
+  if (p.reign && p.reign.start != null)
+    h += `<div class="d-item"><dt>在位</dt><dd>${fmtRange(p.reign.start,p.reign.end)}</dd></div>`;
+  h += `</dl>`;
+  if (p.reign?.note) h += `<div class="d-sub" style="margin-top:-8px">${esc(p.reign.note)}</div>`;
+  if (pred || succ) {
+    h += `<div class="d-sec"><h4>帝系</h4><div class="chain">`;
+    if (pred) h += `<a href="#" data-p="${esc(pred.id)}">${esc(pred.name)}</a><span class="arr">→</span>`;
+    h += `<b>${esc(p.name)}</b>`;
+    if (succ) h += `<span class="arr">→</span><a href="#" data-p="${esc(succ.id)}">${esc(succ.name)}</a>`;
+    h += `</div></div>`;
+  }
+  if (evs.length) {
+    h += `<div class="d-sec"><h4>相关事件（${evs.length}）</h4>` +
+      evs.map(e => `<div class="src" style="cursor:pointer" data-e="${esc(e.id)}">${esc(e.name)} <span style="color:var(--ink3)">${e.time?fmtRange(e.time.start,e.time.end):""}</span></div>`).join("") + `</div>`;
+  }
+  if (arts.length) {
+    h += `<div class="d-sec"><h4>同朝代文物（${arts.length}）</h4><div class="chain">` +
+      arts.slice(0,10).map(a => `<a href="#" data-a="${esc(a.id)}">${esc(a.name)}</a>`).join('<span class="arr">·</span>') + `</div></div>`;
+  }
+  if ((p.src||[]).length) {
+    h += `<div class="d-sec"><h4>出处</h4>` +
+      p.src.map(s => `<div class="src"><span class="ty">${esc(s.ty||"")}</span>《${esc(s.t||"")}》${s.ref?` ${esc(s.ref)}`:""}</div>`).join("") + `</div>`;
+  }
+  const d = $("#detail");
+  d.innerHTML = h; d.classList.add("on");
+  d.querySelectorAll("[data-p]").forEach(el => el.onclick = ev => {ev.preventDefault(); showPerson(el.dataset.p);});
+  d.querySelectorAll("[data-e]").forEach(el => el.onclick = () => showEvent(el.dataset.e));
+  d.querySelectorAll("[data-a]").forEach(el => el.onclick = ev => {ev.preventDefault(); showArtifact(el.dataset.a);});
+  d.scrollIntoView({behavior:"smooth", block:"nearest"});
+}
+
+function showEvent(id){
+  const e = D.eById[id]; if (!e) return;
+  let h = `<button class="close" onclick="document.getElementById('detail').classList.remove('on')">关闭</button>`;
+  h += `<div class="d-title">${esc(e.name)}</div>`;
+  h += `<div class="d-sub">${e.time?fmtRange(e.time.start,e.time.end):""}${e.time?.original?` · ${esc(e.time.original)}`:""}</div>`;
+  if (e.desc) h += `<div class="d-bio">${esc(e.desc)}</div>`;
+  if (e.outcome) h += `<dl class="d-grid"><div class="d-item"><dt>结果</dt><dd style="font-size:14px">${esc(e.outcome)}</dd></div></dl>`;
+  if ((e.parts||[]).length) {
+    h += `<div class="d-sec"><h4>参与人物</h4><div class="chain">` +
+      e.parts.map(pid => D.pById[pid] ? `<a href="#" data-p="${esc(pid)}">${esc(D.pById[pid].name)}</a>` : esc(pid)).join('<span class="arr">·</span>') + `</div></div>`;
+  }
+  if ((e.src||[]).length) {
+    h += `<div class="d-sec"><h4>出处</h4>` +
+      e.src.map(s => `<div class="src"><span class="ty">${esc(s.ty||"")}</span>《${esc(s.t||"")}》${s.ref?` ${esc(s.ref)}`:""}</div>`).join("") + `</div>`;
+  }
+  const d = $("#detail");
+  d.innerHTML = h; d.classList.add("on");
+  d.querySelectorAll("[data-p]").forEach(el => el.onclick = ev => {ev.preventDefault(); showPerson(el.dataset.p);});
+  d.scrollIntoView({behavior:"smooth", block:"nearest"});
+}
+
+function showArtifact(id){
+  const a = D.aById[id]; if (!a) return;
+  let h = `<button class="close" onclick="document.getElementById('detail').classList.remove('on')">关闭</button>`;
+  h += `<div class="d-title">${esc(a.name)}</div>`;
+  h += `<div class="d-sub">${esc(a.name_en||"")} · ${esc(dynName(a.dyn))}</div>`;
+  if (a.desc) h += `<div class="d-bio">${esc(a.desc)}</div>`;
+  if (a.img) h += `<img src="${esc(a.img)}" referrerpolicy="no-referrer" style="max-width:100%;border-radius:8px;margin:12px 0" onerror="this.remove()">`;
+  h += `<dl class="d-grid">`;
+  h += `<div class="d-item"><dt>年代</dt><dd style="font-size:13.5px">${esc(a.date?.original||"—")}</dd></div>`;
+  h += `<div class="d-item"><dt>尺寸</dt><dd style="font-size:13px">${esc(a.dim||"—")}</dd></div>`;
+  h += `<div class="d-item"><dt>藏地</dt><dd>${esc((a.holder?.city||"")+" "+(a.holder?.country||""))}</dd></div>`;
+  h += `<div class="d-item"><dt>图片许可</dt><dd>${esc(a.lic||"仅官方链接")}</dd></div>`;
+  h += `</dl>`;
+  const d = $("#detail");
+  d.innerHTML = h; d.classList.add("on");
+  d.scrollIntoView({behavior:"smooth", block:"nearest"});
+}
+
+// 支持 ?q= 深链
+boot().then(() => {
+  const u = new URLSearchParams(location.search);
+  if (u.get("q")) { $("#q").value = u.get("q"); render(); }
+});
+</script>
+</body>
+</html>
