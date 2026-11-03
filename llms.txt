@@ -1,6 +1,17 @@
 # chinese-history
 
-> Open structured database of Chinese history: persons, events, artifacts, dynasties, era names, places, museums. JSON distribution, clone-and-use. Inspired by chinese-poetry.
+> Open structured database of Chinese history: 370 persons, 154 events, 551 reign eras, 49 dynasties, 62 museum-held artifacts — 1224 records. JSON distribution (clone-and-use) plus a single-file SQLite build. Every record carries `sources`. Inspired by chinese-poetry.
+
+Repo: https://github.com/anthonyhann/chinese-history
+Discussions: https://github.com/anthonyhann/chinese-history/discussions
+Issues: https://github.com/anthonyhann/chinese-history/issues
+
+## Where to get it
+
+- Clone: `git clone https://github.com/anthonyhann/chinese-history.git`
+- Single-file SQLite (1.8 MB, 10 tables): latest GitHub Release, or build with `python3 tools/build_sqlite.py`
+- JSON snapshot zip: latest GitHub Release
+- Verified entry point: run `python3 tools/validate.py` first — it prints the record count and fails on any inconsistency
 
 ## Repo layout
 
@@ -13,6 +24,7 @@
 - `museums/museums.json` — holding institutions + their open-data license status
 - `schema/*.schema.json` — human-readable JSON Schema contracts
 - `tools/validate.py` — zero-dependency validator (stdlib only): JSON parse, required fields, id rules, mandatory sources, referential integrity, artifact image license rules
+- `tools/build_sqlite.py` — builds the single-file SQLite database from the JSON shards
 
 ## Entity id conventions
 
@@ -25,6 +37,9 @@
 - `year` / `start` / `end`: integer Gregorian year; **negative = BC** (`-221` = 221 BC)
 - `original`: original Chinese historical notation (e.g. "秦始皇三十七年七月丙寅")
 - `circa: true` = approximate; `disputed[]` = competing scholarly values, each with its own source
+- Era names are **not unique across polities**: 贞观 is both Tang 627–649 and Western Xia 1101–1113. Always resolve an era name together with its `dynasty`.
+- `person.reign.start` may precede accession as emperor (e.g. 秦始皇 `reign.start = -247` is accession as King of Qin, not -221 when he took the imperial title). Read `reign.note`.
+- Dynasty ids are not always the modern shorthand: Western Xia is `dynasty.western-xia`.
 
 ## Licensing
 
@@ -32,6 +47,10 @@
 
 ## Data status & contributing
 
-- Most records are `ai-pipeline` generated (`_meta.created_by`), pending human verification (`_meta.verified_by`)
+- Records are AI-pipeline generated (`_meta.created_by`, `_meta.model`, `_meta.prompt_version`). `_meta` provides traceability, **not a correctness guarantee**.
+- **No record has been individually human-verified yet.** There is no `verified_by` field in `_meta`; that was documented previously but was never implemented.
+- `sources` is mandatory and CI-enforced, but the validator only checks that `sources` is present and well-formed — it cannot verify that the cited book actually says this. Cross-check before citing in production.
+- Known gap: `disputed[]` competing values are populated for only 9 of 370 persons.
 - Corrections must cite sources; run `python3 tools/validate.py` before submitting
-- Contributing guide: `CONTRIBUTING.md` (Chinese)
+- Contributing guide: `CONTRIBUTING.md` (Chinese). Code of conduct: `CODE_OF_CONDUCT.md`.
+- For questions, design discussion, or "what did you build with this", use Discussions rather than Issues
