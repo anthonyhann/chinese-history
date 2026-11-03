@@ -1,0 +1,79 @@
+name: Deploy demo to Pages
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'docs/demo/**'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build demo data from JSON shards
+        run: |
+          mkdir -p _site
+          cp docs/demo/index.html _site/
+          python3 - <<'PY'
+          import json, glob, os
+          out = {"persons":[], "events":[], "artifacts":[], "dynasties":[], "eras":[]}
+          for f in glob.glob("persons/**/*.json", recursive=True):
+              for r in json.load(open(f)):
+                  out["persons"].append({
+                      "id": r["id"], "name": r["name"], "trad": r.get("name_traditional"),
+                      "titles": r.get("titles") or [], "cat": r.get("category") or [],
+                      "dyn": r.get("dynasty"),
+                      "birth": (r.get("birth") or {}).get("year"),
+                      "death": (r.get("death") or {}).get("year"),
+                      "reign": r.get("reign"), "bio": r.get("bio"),
+                      "succ": r.get("successor"), "pred": r.get("predecessor"),
+                      "wikidata": r.get("wikidata"),
+                      "src": [{"t": s.get("title"), "ty": s.get("type"), "ref": s.get("ref")} for s in (r.get("sources") or [])],
+                      "events": r.get("events") or [],
+                  })
+          for f in glob.glob("events/**/*.json", recursive=True):
+              for r in json.load(open(f)):
+                  out["events"].append({
+                      "id": r["id"], "name": r["name"], "time": r.get("time"),
+                      "cat": r.get("category"), "desc": r.get("description"), "outcome": r.get("outcome"),
+                      "parts": [p.get("person") for p in (r.get("participants") or [])],
+                      "src": [{"t": s.get("title"), "ty": s.get("type"), "ref": s.get("ref")} for s in (r.get("sources") or [])],
+                  })
+          for f in glob.glob("artifacts/**/*.json", recursive=True):
+              for r in json.load(open(f)):
+                  imgs = r.get("images") or []
+                  out["artifacts"].append({
+                      "id": r["id"], "name": r["name"], "name_en": r.get("name_en"),
+                      "dyn": r.get("dynasty"), "date": r.get("date"), "cat": r.get("category") or [],
+                      "desc": r.get("description"), "holder": r.get("current_holder"), "dim": r.get("dimensions"),
+                      "img": imgs[0].get("url") if imgs else None, "lic": imgs[0].get("license") if imgs else None,
+                  })
+          out["dynasties"] = json.load(open("dynasties/dynasties.json"))
+          for f in glob.glob("reign_eras/*.json"):
+              out["eras"] += [{"id":r["id"],"name":r["name"],"dyn":r["dynasty"],"s":r["start"],"e":r["end"],"emp":r.get("emperor")} for r in json.load(open(f))]
+          json.dump(out, open("_site/data.json","w",encoding="utf-8"), ensure_ascii=False, separators=(",",":"))
+          print("persons",len(out["persons"]),"events",len(out["events"]),"artifacts",len(out["artifacts"]))
+          PY
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
