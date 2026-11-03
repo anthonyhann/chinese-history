@@ -16,7 +16,7 @@
 [![事实数据: CC0](https://img.shields.io/badge/facts-CC0-green.svg)](LICENSE-DATA)
 [![描述文本: CC BY-SA 4.0](https://img.shields.io/badge/text-CC%20BY--SA%204.0-orange.svg)](LICENSE-DATA)
 
-[🚀 快速开始](#-快速开始) · [📦 数据集](#-数据集) · [📐 Schema](schema/) · [🤝 贡献](CONTRIBUTING.md) · [English](README.en.md) · [llms.txt](llms.txt)
+[🚀 快速开始](#-快速开始) · [📦 数据集](#-数据集) · [📐 Schema](schema/) · [🤝 贡献](CONTRIBUTING.md) · [💬 Discussions](https://github.com/anthonyhann/chinese-history/discussions) · [English](README.en.md) · [llms.txt](llms.txt)
 
 </div>
 
@@ -219,9 +219,11 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 | 核验一条现有数据 | 对着 `sources` 读原书，确认无误后告诉我们，这是当前最缺的 → [#5](https://github.com/anthonyhann/chinese-history/issues/5) |
 | 补你家乡博物馆的中华文物 | 按 `artifacts/` 现有 Schema 添加，注意图片许可逐条标注 |
 | 长期共建 | 数据校订 / 前端可视化 / 贡献流程，任一方向都欢迎 → [#6](https://github.com/anthonyhann/chinese-history/issues/6) |
-| 用了这个数据做了东西 | 开 issue 附链接，收录进案例展示 |
+| 用了这个数据做了东西 | 在 [Discussions](https://github.com/anthonyhann/chinese-history/discussions) 说一声，收录进案例展示 |
 
 数据纠错 PR 请**注明出处**，无出处不合并，详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+**有想法、有问题、或者只是想聊聊怎么用？** 去 [Discussions](https://github.com/anthonyhann/chinese-history/discussions) 比提 issue 更合适——那里可以自由讨论 Schema 设计、数据该存成什么样、你拿它做了什么。
 
 ## 📝 更新日志
 
