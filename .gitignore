@@ -5,5 +5,5 @@ __pycache__/
 .idea/
 .vscode/
 
-# 本地技能工具（megaphone/launch-*，非项目内容）
-.agents/
+# demo 数据由 CI 构建时生成，不入库
+docs/demo/data.json
