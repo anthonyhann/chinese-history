@@ -28,11 +28,15 @@
 >
 > **一句话定位**：给开发者和 AI Agent 用的一份干净的中华历史结构化数据，clone 即用，不用爬百科、不用担心版权。
 
+### ▶ [**直接在线试用，不用装任何东西**](https://anthonyhann.github.io/chinese-history/)
+
+搜一个人名、拖一条时间轴，30 秒就能看懂这个库装了什么。
+
 **不想 clone？** 直接下载单文件数据库 → [最新 Release](https://github.com/anthonyhann/chinese-history/releases/latest)（SQLite 1.8MB 全库 / JSON zip）
 
 **想先看设计思路？** 三条铁律为什么这么定、各自付出了什么代价 → [《给中华历史数据建 Schema 时，我踩的三个坑和付出的代价》](https://juejin.cn/post/7700407749293768739)
 
-![chinese-history：校验通过 1224 条记录 0 警告 · 年号重名「贞观」有两个 · SQLite 全库 10 张表 · 每条记录都带出处](docs/assets/hero.png)
+[![chinese-history：校验通过 1224 条记录 0 警告 · 年号重名「贞观」有两个 · SQLite 全库 10 张表 · 每条记录都带出处](docs/assets/hero.png)](https://anthonyhann.github.io/chinese-history/)
 
 ---
 
@@ -133,6 +137,8 @@ jq -r '.[] | "\(.name) → \(.successor // "（终）")"' persons/qing/person.qi
 想直接查 SQL？先 `python3 tools/build_sqlite.py`，再打开 `dist/chinese-history.sqlite`，7 张表（persons / events / artifacts / dynasties / reign_eras / places / museums）都已建好。
 
 ## 🚀 快速开始
+
+**只是想看看数据长什么样** → [在线 demo](https://anthonyhann.github.io/chinese-history/)（搜索 / 时间轴 / 文物画廊，纯静态无后端）
 
 **3 步，零依赖（仅 Python 标准库）：**
 
