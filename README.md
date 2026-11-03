@@ -32,11 +32,31 @@
 
 **想先看设计思路？** 三条铁律为什么这么定、各自付出了什么代价 → [《给中华历史数据建 Schema 时，我踩的三个坑和付出的代价》](https://juejin.cn/post/7700407749293768739)
 
+![chinese-history：校验通过 1224 条记录 0 警告 · 年号重名「贞观」有两个 · SQLite 全库 10 张表 · 每条记录都带出处](docs/assets/hero.png)
+
 ---
 
 **如果这个项目对你有用，点个 ⭐ Star 是最实际的帮助。** 它不会让数据变得更准，但决定了这个库能不能被更多需要它的人看见——也是我能不能找到 co-maintainer 的前提。
 
 当前需要帮忙的具体位置：[`disputed[]` 争议多值目前只覆盖 9/370 人](https://github.com/anthonyhann/chinese-history/issues/4)，以及[还没有任何一条数据经过人工核验](https://github.com/anthonyhann/chinese-history/issues/5)。你熟悉哪段历史，就带着书目来提 PR，一条一个 PR，出处要能核。长期共建见 [#6 招募 co-maintainer](https://github.com/anthonyhann/chinese-history/issues/6)。
+
+## ⚖️ 对比已有的方案：它解决什么问题
+
+| 你现在的做法 | 卡在哪 | 这个项目 |
+|---|---|---|
+| 翻维基百科手抄 | 结构不统一，只能一条条抄 | JSON 分片，字段固定，`clone` 即用 |
+| 爬百度百科 | 有版权风险，改版就挂 | 事实数据 CC0，描述文本原创（CC BY-SA） |
+| 用 [CBDB](https://cbdb.fas.harvard.edu/) | 学术级，格式重，面向学者 | 面向开发者，跑一遍 `validate.py` 就明白结构 |
+| 问 AI | 会编，编了你看不出来 | 每条带 `sources`，AI 生成的记录在 `_meta` 里记了模型和 prompt 版本 |
+| 自己做一份 | 生卒年争议、年号换算全是坑 | 551 条年号表 + `disputed[]` 多值 + 时间双轨 |
+
+**和 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 的关系**：它证明了「JSON 分发的开放数据」这条路在古诗词领域走得通。历史数据不能照搬那套做法，因为历史给的是**断言**而不是文本，每条背后都有「据某书卷几」，而这些书之间经常互相矛盾。
+
+**要说清楚它不是什么**：
+
+- 不是学术库，深度比不上 CBDB
+- 不存二十四史全文，只存结构化事实
+- 目前**没有任何一条数据经过逐条人工核验**，用前请自己核对 `sources`
 
 ## 📖 长这样
 
@@ -57,6 +77,60 @@
 ```bash
 jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.json
 ```
+
+## 🎯 能拿它做什么
+
+四个已经跑通的场景，每条命令都基于仓库现有数据：
+
+**① 查一个人牵连的所有事件**
+以刘邦为例，跨 `persons/` 和 `events/` 两个目录关联：
+
+```python
+import json, glob
+for f in glob.glob("events/**/*.json", recursive=True):
+    for e in json.load(open(f)):
+        if any(p["person"] == "person.han.liubang" for p in e.get("participants") or []):
+            print(e["name"], e["time"]["start"], e["time"]["original"])
+```
+
+→ 刘邦入关子婴投降（前206，汉元年十月）、楚汉战争（前206–前202）、白登之围（前200，汉高祖七年）
+
+**② 年号换算公历（注意重名）**
+「贞观」有两个，唐太宗的和西夏崇宗的：
+
+```python
+import json, glob
+for f in glob.glob("reign_eras/*.json"):
+    for r in json.load(open(f)):
+        if r["name"] == "贞观":
+            print(r["dynasty"], r["start"], "-", r["end"])
+```
+
+→ `dynasty.tang 627-649` / `dynasty.western-xia 1101-1113`
+
+**这个例子本身就是设计理由**：史料里的「贞观三年」到底指哪一年，取决于你在讲哪个政权。想当然地映射过去就会错。
+
+**③ 查一个人的在位时间与备注**
+
+```python
+import json
+for r in json.load(open("persons/qin/person.qin.0.json")):
+    if "秦始皇" in (r.get("titles") or []):
+        print(r["reign"])
+```
+
+→ `{'start': -247, 'end': -210, 'note': '前247年即位为秦王（时年十三），前238年亲政，前221年统一六国称始皇帝'}`
+
+注意 `reign.start` 是 **-247（即位为秦王）**，不是 -221（称帝）。这两个日期都真实存在，取哪个取决于你要回答什么问题。
+
+**④ 建一个帝王世系树**
+`predecessor` / `successor` 构成完整链条，从秦始皇一路可追到溥仪退位：
+
+```bash
+jq -r '.[] | "\(.name) → \(.successor // "（终）")"' persons/qing/person.qing.0.json
+```
+
+想直接查 SQL？先 `python3 tools/build_sqlite.py`，再打开 `dist/chinese-history.sqlite`，7 张表（persons / events / artifacts / dynasties / reign_eras / places / museums）都已建好。
 
 ## 🚀 快速开始
 
