@@ -7,3 +7,14 @@ __pycache__/
 
 # demo 数据由 CI 构建时生成，不入库
 docs/demo/data.json
+
+# 本地技能安装目录（megaphone / launch-* 等）
+.agents/
+
+# AI 生成图片的临时输出（arkcli +gen 落盘位置）
+ark-gen*.jpeg
+ark-gen*.jpg
+ark-gen*.png
+
+# 发布投喂稿件与清单（本地工作材料，非项目内容）
+docs/publish/
