@@ -977,5 +977,137 @@
       "prompt_version": "seed-v1",
       "version": 1
     }
+  },
+  {
+    "id": "event.qin.shangyang-reform",
+    "uuid": "a1fa52b0-0974-55c4-84a9-fd0b6fd1db51",
+    "name": "商鞅变法",
+    "name_traditional": "商鞅變法",
+    "category": [
+      "reform",
+      "policy"
+    ],
+    "time": {
+      "start": -359,
+      "end": -338,
+      "original": "秦孝公三年（前359）始用卫鞅，至孝公二十四年（前338）孝公卒",
+      "precision": "year"
+    },
+    "place": [
+      "place.xianyang"
+    ],
+    "participants": [
+      {
+        "person": "person.zhou.shangyang",
+        "role": "advocate"
+      }
+    ],
+    "related_events": [
+      "event.qin.shangyang-execution"
+    ],
+    "description": "秦孝公即位后下令求贤，卫鞅自魏入秦，三见孝公，先说帝道王道，后说霸道强国之术，孝公悦而用之。先以徙木立信取信于民，继而两次变法：废井田开阡陌，奖励耕战，按军功授爵，行县制，统一度量衡，废世卿世禄。太子犯法，刑其傅公子虔，黥其师公孙贾，法行十年而秦民大悦。秦人富强，天子致胙于孝公，诸侯毕贺。",
+    "outcome": "秦国由边陲弱国转为战国最强，中央集权与军功爵制奠定此后百余年秦制基础",
+    "sources": [
+      {
+        "title": "史记·商君列传",
+        "type": "primary",
+        "ref": "卷六十八"
+      },
+      {
+        "title": "史记·秦本纪",
+        "type": "primary",
+        "ref": "卷五"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.shangyang-execution",
+    "uuid": "d99452dc-b2b2-53d0-b7da-cf12e241703e",
+    "name": "商鞅车裂",
+    "name_traditional": "商鞅車裂",
+    "category": [
+      "politics",
+      "persecution"
+    ],
+    "time": {
+      "start": -338,
+      "end": -338,
+      "original": "秦孝公二十四年（前338）孝公卒，惠文王立",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.zhou.shangyang",
+        "role": "victim"
+      }
+    ],
+    "related_events": [
+      "event.qin.shangyang-reform"
+    ],
+    "description": "孝公卒，太子驷立，是为惠文王。公子虔之徒告商君欲反，发吏捕之。商君出走至关下，客舍主人不知其为商君，以商君之法「舍人无验者坐之」拒纳。奔魏，魏人怨其曾欺魏将公子卬而破其军，不入。还秦，与其徒属发兵北击郑，战于彤地，兵败身死，车裂以徇，尽灭其族。（追究商鞅的主使者是秦惠文王嬴驷，本库尚未收录其条目，故不挂参与者引用。）",
+    "outcome": "商鞅身死族灭，然其法不改，秦制沿袭",
+    "sources": [
+      {
+        "title": "史记·商君列传",
+        "type": "primary",
+        "ref": "卷六十八"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.qin.changping",
+    "uuid": "85a7677c-3032-52c5-a8af-d426633b612d",
+    "name": "长平之战",
+    "name_traditional": "長平之戰",
+    "category": [
+      "war"
+    ],
+    "time": {
+      "start": -262,
+      "end": -260,
+      "original": "周赧王五十三年至五十五年（前262—前260），秦赵战于长平",
+      "precision": "year"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.zhou.baiqi",
+        "role": "commander"
+      }
+    ],
+    "related_events": [],
+    "description": "秦攻韩上党，上党降赵，秦遂伐赵。赵初遣廉颇坚壁不出，秦使反间，赵王以赵括代廉颇。秦密遣白起为上将军，佯败而诱赵军深入，断其粮道，围四十六日，赵军乏食相食。赵括突围中射死，余众降。白起以赵卒反覆，诈而尽坑之。",
+    "outcome": "赵国主力尽失，山东六国再无力单独抗秦",
+    "sources": [
+      {
+        "title": "史记·白起王翦列传",
+        "type": "primary",
+        "ref": "卷七十三"
+      },
+      {
+        "title": "史记·廉颇蔺相如列传",
+        "type": "primary",
+        "ref": "卷八十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
   }
 ]

@@ -1,0 +1,898 @@
+[
+ {
+  "id": "artifact.cleveland.1915.334.1",
+  "uuid": "574c4c61-a59f-5e62-ba5b-0df95d2164e0",
+  "name": "佛像",
+  "name_traditional": "佛像",
+  "name_en": "Seated Amitayus Buddha",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 590,
+   "original": "c. 570s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "marble"
+  ],
+  "dimensions": "Overall: 110 x 66.1 cm (43 5/16 x 26 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Worcester R. Warner [1846–1929], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.334.1/1915.334.1_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.334.1",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.334.1"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:buddha",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Qi dynasty (550–577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.334.1",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1993.108",
+  "uuid": "903ae424-a844-5020-bd03-2ecb65277183",
+  "name": "Stele with Shakyamuni and Maitreya",
+  "name_traditional": "Stele with Shakyamuni and Maitreya",
+  "name_en": "Stele with Shakyamuni and Maitreya",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 560,
+   "end": 580,
+   "original": "c. 570s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "marble with polychromy"
+  ],
+  "dimensions": "Overall: 119 cm (46 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(J. E. Eskenazi, Ltd., London, England, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1993.108/1993.108_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1993.108",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1993.108"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1993.108",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.166",
+  "uuid": "38ae7718-7451-5c22-8cfa-6013b081dbb7",
+  "name": "Standing Disciple Mahakasyapa Holding a Cylindrical Reliquary",
+  "name_traditional": "Standing Disciple Mahakasyapa Holding a Cylindrical Reliquary",
+  "name_en": "Standing Disciple Mahakasyapa Holding a Cylindrical Reliquary",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 545,
+   "end": 555,
+   "original": "c. 550",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone with traces of pigment"
+  ],
+  "dimensions": "Overall: 116 x 33 x 25 cm (45 11/16 x 13 x 9 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Edgar Worch [1880–1972], Paris, France; Victor Goloubew [1878–1945], Paris, France; (Étude Couturier et Nicolay, Hôtel Drouot sale, November 10, 1972, Paris, France); (Heim Gallery, Paris, France, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.166/1972.166_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.166",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.166"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei province, Southern Xiangtangshan caves, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.166",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.360",
+  "uuid": "ebf3d391-10c9-504e-a670-fbe7df490731",
+  "name": "Kneeling Winged Monster",
+  "name_traditional": "Kneeling Winged Monster",
+  "name_en": "Kneeling Winged Monster",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 577,
+   "original": "550–77",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 75 x 63.6 cm (29 1/2 x 25 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.360/1957.360_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.360",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.360"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Hebei province, northern Xiangtangshan caves, North cave, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.360",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1982.260",
+  "uuid": "3fd629a5-034b-5551-85f8-f1d127f7c06c",
+  "name": "Sections of a Coffin Platform",
+  "name_traditional": "Sections of a Coffin Platform",
+  "name_en": "Sections of a Coffin Platform",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 577,
+   "original": "550–577",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 45.7 x 211.4 x 10.8 cm (18 x 83 1/4 x 4 1/4 in.); Panel: 45.7 x 27.3 x 10.8 cm (18 x 10 3/4 x 4 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Oscar [1895–1985] and Katharine Gruener Lange [1903–1992], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.260/1982.260_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1982.260",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1982.260"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Qi dynasty (550–577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1982.260",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1923.97",
+  "uuid": "b2eed70f-d54e-5a67-af6e-f6b48c4e8763",
+  "name": "佛像",
+  "name_traditional": "佛像",
+  "name_en": "Head of Buddha",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 590,
+   "original": "c. 570",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 62.2 x 54.6 cm (24 1/2 x 21 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "C.T. Loo 盧芹齋 [1880–1957], Paris, France, and New York, NY, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1923.97/1923.97_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1923.97",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1923.97"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:buddha",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Hebei province, northern Xiangtangshan caves, South cave, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1923.97",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1982.260.a",
+  "uuid": "dc7787bf-9763-5ff7-a369-09569eacf18b",
+  "name": "Section of a Coffin Platform: Feline",
+  "name_traditional": "Section of a Coffin Platform: Feline",
+  "name_en": "Section of a Coffin Platform: Feline",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 577,
+   "original": "550–77",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 45.7 x 211.4 x 10.8 cm (18 x 83 1/4 x 4 1/4 in.); Panel: 45.7 x 27.3 x 10.8 cm (18 x 10 3/4 x 4 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Oscar [1895–1985] and Katharine Gruener Lange [1903–1992], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.260.a/1982.260.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1982.260.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1982.260.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1982.260.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1982.260.e",
+  "uuid": "58dafc1a-d1e3-5bb6-b86b-d5aeeec1a4a0",
+  "name": "Section of a Coffin Platform: Dragon",
+  "name_traditional": "Section of a Coffin Platform: Dragon",
+  "name_en": "Section of a Coffin Platform: Dragon",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 577,
+   "original": "550–77",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 45.7 x 211.4 x 10.8 cm (18 x 83 1/4 x 4 1/4 in.); Panel: 45.7 x 26.3 x 10.8 cm (18 x 10 3/8 x 4 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Oscar [1895–1985] and Katharine Gruener Lange [1903–1992], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.260.e/1982.260.e_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1982.260.e",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1982.260.e"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1982.260.e",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.357",
+  "uuid": "2ca8fc2a-8407-5b47-90c7-7e83211e0245",
+  "name": "Monster Caryatid",
+  "name_traditional": "Monster Caryatid",
+  "name_en": "Monster Caryatid",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 575,
+   "end": 600,
+   "original": "late 500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "Limestone"
+  ],
+  "dimensions": "Overall: 28 x 40 cm (11 x 15 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Frank Caro [1904–1980], New York, NY, to the Cleveland Museum of Art, purchased with funds from an anonymous donor); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.357/1957.357_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.357",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.357"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, possibly from Xiangtangshan, Northern Qi dynasty (550–577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.357",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1982.260.b",
+  "uuid": "e68aff9c-8239-5f7f-907a-dea69f9067ef",
+  "name": "Section of a Coffin Platform: Horizontal Panel",
+  "name_traditional": "Section of a Coffin Platform: Horizontal Panel",
+  "name_en": "Section of a Coffin Platform: Horizontal Panel",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 577,
+   "original": "550–77",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 45.7 x 211.4 x 10.8 cm (18 x 83 1/4 x 4 1/4 in.); Panel: 25.4 x 64.8 x 10.8 cm (10 x 25 1/2 x 4 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Oscar [1895–1985] and Katharine Gruener Lange [1903–1992], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.260.b/1982.260.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1982.260.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1982.260.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1982.260.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1982.260.c",
+  "uuid": "1276a392-a4a1-53aa-89c2-492f824ff6d4",
+  "name": "Section of a Coffin Platform: Phoenix",
+  "name_traditional": "Section of a Coffin Platform: Phoenix",
+  "name_en": "Section of a Coffin Platform: Phoenix",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 577,
+   "original": "550–77",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 45.7 x 211.4 x 10.8 cm (18 x 83 1/4 x 4 1/4 in.); Panel: 45.7 x 27.6 x 10.8 cm (18 x 10 7/8 x 4 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Oscar [1895–1985] and Katharine Gruener Lange [1903–1992], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.260.c/1982.260.c_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1982.260.c",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1982.260.c"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1982.260.c",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1982.260.d",
+  "uuid": "10989080-375a-5126-90dd-d37328ab6200",
+  "name": "Section of a Coffin Platform: Horizontal Panel",
+  "name_traditional": "Section of a Coffin Platform: Horizontal Panel",
+  "name_en": "Section of a Coffin Platform: Horizontal Panel",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 550,
+   "end": 577,
+   "original": "550–77",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 45.7 x 211.4 x 10.8 cm (18 x 83 1/4 x 4 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Oscar [1895–1985] and Katharine Gruener Lange [1903–1992], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.260.d/1982.260.d_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1982.260.d",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1982.260.d"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Qi dynasty (550–577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1982.260.d",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.320",
+  "uuid": "dce93115-583f-5d92-a410-aba99c423bc4",
+  "name": "Stele:  Maitreya as the Future Buddha",
+  "name_traditional": "Stele:  Maitreya as the Future Buddha",
+  "name_en": "Stele:  Maitreya as the Future Buddha",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 317,
+   "end": 577,
+   "original": "300s–500s CE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "marble"
+  ],
+  "dimensions": "Overall: 86.4 x 50.8 cm (34 x 20 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Purchased with funds from Worcester R. Warner [1846–1929] and Cornelia Blakemore Warner [1858–1947] by Langdon Warner [1881–1955], as agent of the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.320/1917.320_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.320",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.320"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei, Six Dynasties period (317-581), Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.320",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.363",
+  "uuid": "dd18bb58-dac6-5012-a0e2-90648814e1f2",
+  "name": "Maheshvara (Shiva) Standing on a Bull",
+  "name_traditional": "Maheshvara (Shiva) Standing on a Bull",
+  "name_en": "Maheshvara (Shiva) Standing on a Bull",
+  "dynasty": "dynasty.northern-qi",
+  "date": {
+   "start": 317,
+   "end": 577,
+   "original": "Six Dynasties Period (317–581), Northern Qi Dynasty (550–577)",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 22.5 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.363/1972.363_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.363",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.363"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Six Dynasties period (317-581), Northern Qi dynasty (550-577)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.363",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

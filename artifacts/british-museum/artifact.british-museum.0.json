@@ -19,13 +19,13 @@
       "绢本设色"
     ],
     "dimensions": "纵24.8厘米，横348.2厘米",
-    "description": "顾恺之根据西晋张华《女史箴》所绘的劝诫宫廷女德长卷，现存最早的绢本绘画摹本，中国绘画史的基石之作。原八国联军劫掠至英国，1903年入藏大英博物馆。因丝绢脆弱，每年仅短暂展出。",
+    "description": "顾恺之根据西晋张华《女史箴》所绘的劝诫宫廷女德长卷，现存最早的绢本绘画摹本，中国绘画史的基石之作。1903 年入藏大英博物馆（流传经过见 provenance，尚待核对）。因丝绢脆弱，每年仅短暂展出。",
     "current_holder": {
       "museum": "museum.british-museum",
       "city": "伦敦",
       "country": "英国"
     },
-    "provenance": "1900年八国联军侵华期间流出，1903年入藏大英博物馆",
+    "provenance": "1900 年义和团与八国联军之役后自清宫流出；1903 年由大英博物馆董事会购自 Captain Clarence Johnson，随即入藏大英博物馆。待核：本条目此前写作「八国联军劫掠至英国」，与馆方的「1903 年购藏」表述不一致；大英博物馆藏品页目前对程序抓取返回 403，尚未逐字核对馆方原文，先存两说，待人工核验后补 disputed。",
     "related_persons": [],
     "related_events": [],
     "images": [
@@ -47,7 +47,9 @@
       "created_by": "ai-pipeline",
       "model": "kimi-k3",
       "prompt_version": "bm-curated-v1",
-      "version": 1
+      "version": 2,
+      "corrected_at": "2026-11-05",
+      "correction_note": "流传经过由「八国联军劫掠」改为馆方表述的 1903 年购藏，并标注待核"
     }
   },
   {

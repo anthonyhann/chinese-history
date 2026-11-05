@@ -35,7 +35,10 @@
     "predecessor": null,
     "successor": null,
     "bio": "战国时期最彻底的改革家。两次变法：废井田开阡陌、奖励军功、什伍连坐、迁都咸阳、废分封行县制，使秦国一跃而为战国首强。作法自毙，秦惠王车裂之，然秦法未改，为秦统一六国奠定制度根基",
-    "events": [],
+    "events": [
+      "event.qin.shangyang-execution",
+      "event.qin.shangyang-reform"
+    ],
     "artifacts": [],
     "wikidata": "Q351345",
     "sources": [

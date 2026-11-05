@@ -1,0 +1,3010 @@
+[
+ {
+  "id": "artifact.met.44617",
+  "uuid": "a708d96b-a8f8-556d-b525-56c43088233d",
+  "name": "器",
+  "name_traditional": "器",
+  "name_en": "Food Serving Vessel (Gui)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1200,
+   "end": -1100,
+   "original": "12th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 4 5/8 in. (11.7 cm); W. (betw. handles) 9 1/4 in. (23.5 cm); Diam. of rim 6 1/4 in. (15.9 cm); Diam. of foot 4 3/4 in. (12.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Count and Countess Bernard d'Escayrac, 1962",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP218261.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44617",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44617"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "metal:vessel;form=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44617,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44776",
+  "uuid": "fcd3d4e1-a168-5c28-b0a6-339be62e556e",
+  "name": "酒器",
+  "name_traditional": "酒器",
+  "name_en": "Rectangular wine container (fangyi)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1199,
+   "end": -1100,
+   "original": "12th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 10 in. (25.4 cm); W. 6 in. (15.2 cm); D. 4 1/2 in. (11.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Arthur M. Sackler Gift, 1974",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP151396.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44776",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44776"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "metal:wine container;form=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44776,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44778",
+  "uuid": "fb622b1e-2043-52ad-84c3-5ab9881ab9d3",
+  "name": "Water buffalo",
+  "name_traditional": "Water buffalo",
+  "name_en": "Water buffalo",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1000,
+   "original": "13th–11th century BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "Jade (nephrite)"
+  ],
+  "dimensions": "H. 1 5/8 in. (4.1 cm); L. 2 1/2 in. (6.5 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of John M. Crawford Jr., 1976",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-45159-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44778",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44778"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44778,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.49393",
+  "uuid": "2ccde614-a34c-5c1d-9b7c-e62dcc6594bb",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Tripod cauldron (ding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1099,
+   "end": -1000,
+   "original": "11th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze, black pigment inlay"
+  ],
+  "dimensions": "H. 6 in. (15.2 cm); W. at handles 5 1/4 in. (13.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Arthur M. Sackler Gift, 1974",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP140775.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 49393",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/49393"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:cauldron;form=['三足']",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 49393,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.49397",
+  "uuid": "05e17086-22bc-5918-a900-4b3251bf627a",
+  "name": "带流水器",
+  "name_traditional": "带流水器",
+  "name_en": "Spouted water container (He",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1099,
+   "end": -1000,
+   "original": "11th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 12 1/2 in. (31.8 cm); W. 8 1/2 in. (21.6 cm); D. 12 1/2 in. (31.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1943",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP151393.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 49397",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/49397"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:water container;form=['带流']",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.zhou+dynasty.zhou",
+   "period_raw": "Shang (ca. 1600–1046 BCE) to  Western Zhou (1046–771 BCE) dynasty",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 49397,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.53555",
+  "uuid": "620088cd-66be-55e3-888d-c40767681b29",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Tripod cauldron (Ding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1299,
+   "end": -1200,
+   "original": "13th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 8 1/8 in. (20.6 cm); W. 7 in. (17.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "John Stewart Kennedy Fund, 1913",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP151426.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 53555",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/53555"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:cauldron;form=['三足']",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 53555,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.53946",
+  "uuid": "9b314566-c41b-50c7-a659-bb6f3035fd4e",
+  "name": "带流水器",
+  "name_traditional": "带流水器",
+  "name_en": "Spouted water container (He)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1325,
+   "end": -1300,
+   "original": "late 14th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 8 1/2 in. (21.6 cm); W. 5 5/8 in. (14.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Ernest Erickson Foundation, 1985",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP140725.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 53946",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/53946"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:water container;form=['带流']",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 53946,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.60514",
+  "uuid": "60014169-7d4d-5d6a-86b1-0c227c5c43a3",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Tripod cauldron (Ding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1299,
+   "end": -1200,
+   "original": "13th–12th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. (to handles) 8 in. (20.3 cm); Diam. of rim 6 3/4 in. (17.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Bequest of Dorothy Graham Bennett, 2001",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP140744.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 60514",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/60514"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:cauldron;form=['三足']",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 60514,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.60594",
+  "uuid": "316601c2-0e75-5e9e-840a-89c3122dd06a",
+  "name": "鼎",
+  "name_traditional": "鼎",
+  "name_en": "Rectangular cauldron (fangding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1200,
+   "end": -1000,
+   "original": "12th–11th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 9 in. (22.9 cm); W. 6 in. (15.2 cm); D. 7 in. (17.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of Addie W. Kahn, 1949",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP140735.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 60594",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/60594"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "metal:cauldron;form=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 60594,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.61224",
+  "uuid": "d50ffbd7-c218-5fa7-bf58-acf96f132b0b",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Tripod cauldron (Ding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1299,
+   "end": -1100,
+   "original": "13th–12th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. incl. handles 9 3/4 in. (24.8 cm); H. at rim 8 1/4 in. (21 cm); Diam. 8 1/2 in. (21.6 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1943",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP140818.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61224",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61224"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:cauldron;form=['三足']",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61224,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.61239",
+  "uuid": "dac8651b-a6bf-5a53-a377-c4668d884ba7",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Ritual tripod cauldron (Ding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1199,
+   "end": -1000,
+   "original": "12th–11th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. incl. handles 10 in. (25.4 cm); H. 7 7/8 in. (20 cm); Diam. 8 1/2 in. (21.6 cm); Diam. of rim 7 7/8 in. (20 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of Addie W. Kahn, 1949",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP164965.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61239",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61239"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:cauldron;form=['三足']",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61239,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.61245",
+  "uuid": "26abcbd6-5dff-5ee8-90c5-994abf95b65e",
+  "name": "钟",
+  "name_traditional": "钟",
+  "name_en": "Upright bell (nao)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1299,
+   "end": -1200,
+   "original": "13th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 6 1/16 in. (15.4 cm); W. 3 1/2 in. (8.9 cm); D. 4 3/4 in. (12.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Mrs. John Marriott, Mrs. John Barry Ryan, Gilbert W. Kahn, Roger Wolfe Kahn (children of Addie W. Kahn), 1949",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP164973.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61245",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61245"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "metal:bell;form=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61245,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.61323",
+  "uuid": "0ef1e7b3-b73f-533c-bb2c-5ced75cfa3be",
+  "name": "器",
+  "name_traditional": "器",
+  "name_en": "Wine vessel ( Zun)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -900,
+   "original": "13th–10th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 9 5/8 in. (24.4 cm); Diam. 7 11/16 in. (19.5 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Ernest Erickson Foundation, 1985",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP155112.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61323",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61323"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "metal:vessel;form=[]",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.zhou+dynasty.zhou",
+   "period_raw": "Shang (ca. 1600–1046 BCE)–Western Zhou (1046–771 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61323,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.72272",
+  "uuid": "825e64d2-6126-59b6-94d3-2f7c8e110984",
+  "name": "爵",
+  "name_traditional": "爵",
+  "name_en": "Wine warmer (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1650,
+   "end": -1450,
+   "original": "ca. 16th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 5 3/4 in. (14.6 cm); W. with spout  6 1/8 in. (15.6 cm); D. with handle 2 3/4 in. (7 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Bequest of Dorothy Graham Bennett, 2003",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP140756.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 72272",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/72272"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "metal:jue;form=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 72272,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.662310",
+  "uuid": "1f0ed7f9-277f-5153-bfe1-c88825791e44",
+  "name": "Wine beaker (Gu)",
+  "name_traditional": "Wine beaker (Gu)",
+  "name_en": "Wine beaker (Gu)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1299,
+   "end": -1200,
+   "original": "ca. 13th century BCE",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 12 in. (30.5 cm); Diam. of rim: 3 1/2 in. (8.9 cm); Diam. of base: 6 1/2 in. (16.5 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of Adrian Cravath Larkin, 2014",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP702326.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 662310",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/662310"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "period_raw": "Shang dynasty (ca. 1600–1046 BCE)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 662310,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1963.103",
+  "uuid": "21aa5203-1578-5d12-b094-3eb08041734f",
+  "name": "方酒器",
+  "name_traditional": "方酒器",
+  "name_en": "Square Wine Container (Fangyou)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1260,
+   "end": -1036,
+   "original": "c. 1250–1046 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 26.7 x 13.4 cm (10 1/2 x 5 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(S. Kriger, Inc., Washington, DC, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1963.103/1963.103_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1963.103",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1963.103"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:wine container;form=['方']",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Henan province, probably Anyang, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1963.103",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1960.288",
+  "uuid": "62479a33-b4be-5f4c-85ed-473cc7abe9d6",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Tripod Cauldron (Ding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1200,
+   "end": -1100,
+   "original": "1200–1100 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 14.3 x 12.5 cm (5 5/8 x 4 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Frank Caro [1904–1980], New York, NY, given to the Cleveland Museum of Art by exchange; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1960.288/1960.288_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1960.288",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1960.288"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:cauldron;form=['三足']",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1960.288",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1983.2",
+  "uuid": "08d49342-bd5c-5501-a462-63d1a2a1c77f",
+  "name": "Ceremonial Dagger-Axe with Animal Masks (Ge)",
+  "name_traditional": "Ceremonial Dagger-Axe with Animal Masks (Ge)",
+  "name_en": "Ceremonial Dagger-Axe with Animal Masks (Ge)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1610,
+   "end": -1040,
+   "original": "c. 1600–1050 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade (nephrite)"
+  ],
+  "dimensions": "Overall: 4.4 cm (1 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Captain S. N. Ferris Luboshez, U.S.N. [1896–1984], consigned to sale at Sotheby's, New York; (Sotheby Parke Bernet Inc., New York, NY, November 18, 1982, lot no. 3); (J. E. Eskenazi, Ltd., London, England, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1983.2/1983.2_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1983.2",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1983.2"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1983.2",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1960.78",
+  "uuid": "7fda413d-1628-59e8-9449-a5bbcb996a80",
+  "name": "Wine Cups (Jue)",
+  "name_traditional": "Wine Cups (Jue)",
+  "name_en": "Wine Cups (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1210,
+   "end": -1190,
+   "original": "c. 1200 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 20.3 x 19.7 cm (8 x 7 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(William H. Wolff [1906–1991], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1960.78/1960.78_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1960.78",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1960.78"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1960.78",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1982.148",
+  "uuid": "7dc874bd-328c-5c87-81c7-96cb203da25d",
+  "name": "Wine Cup (Jue)",
+  "name_traditional": "Wine Cup (Jue)",
+  "name_en": "Wine Cup (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1410,
+   "end": -1390,
+   "original": "c. 1400 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 32.4 x 24.2 cm (12 3/4 x 9 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Leigh Block, Chicago",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1982.148/1982.148_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1982.148",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1982.148"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Erligang phase (c. 1600–1400 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1982.148",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.630",
+  "uuid": "6114ae18-0491-59fd-a7db-26d106b55c5d",
+  "name": "Ceremonial Tube (Cong)",
+  "name_traditional": "Ceremonial Tube (Cong)",
+  "name_en": "Ceremonial Tube (Cong)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1610,
+   "end": -1036,
+   "original": "c. 1600–1056 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade (nephrite)"
+  ],
+  "dimensions": "Overall: 20.6 cm (8 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Dr. John C. Ferguson 福開森 [1866–1945], sold to the Cleveland Museum of Art through H. W. [Henry Watson] Kent [1866–1948]); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.630/1915.630_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.630",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.630"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.630",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2005.54",
+  "uuid": "29e4b68d-ec5d-5598-b3c4-e19c037e035d",
+  "name": "器",
+  "name_traditional": "器",
+  "name_en": "Wine Vessel (Jia)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1260,
+   "end": -1036,
+   "original": "c. 1250–1046 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 50.8 cm (20 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "The dealer, Mr. Terasaki, first saw this piece of bronze vessel at the art shop of Mr. Shimamoto about 10 years ago. It was reported that Mr. Shimamoto got it before World War II from a famous collector who owned a soap company, Mizura Co., and the piece came to Japan as early as the Meiji period. Six years ago, Mr. Terasaki acquired it from Mrs. Shimamoto.; Notably, this dealer, Mr. Terasaki, is a disciple of Mr. Sakamoto Goro of Hugen Do filin-a prominent Japanese collector/dealer of Chinese art, especially Chinese bronze. (The Cleveland set of ink bamboos of four seasons, Yuan dynasty Chine",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2005.54/2005.54_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2005.54",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2005.54"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:vessel;form=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2005.54",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1960.42",
+  "uuid": "1995d3c3-641c-5557-8dfb-d667ce83ad15",
+  "name": "器",
+  "name_traditional": "器",
+  "name_en": "Wine vessel (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1210,
+   "end": -1190,
+   "original": "c. 1200 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 22.7 x 17.2 cm (8 15/16 x 6 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "L. Wannieck Collection, Paris, France; (Bluett & Sons, London, England, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1960.42/1960.42_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1960.42",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1960.42"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:vessel;form=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1960.42",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.573",
+  "uuid": "73b12540-d681-5da4-84a4-91badba7c71c",
+  "name": "Feline Head with Bovine Horns and Elephant Trunk",
+  "name_traditional": "Feline Head with Bovine Horns and Elephant Trunk",
+  "name_en": "Feline Head with Bovine Horns and Elephant Trunk",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1000,
+   "original": "1300–1000 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 4.2 cm (1 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.573/1952.573_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.573",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.573"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.573",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1962.281",
+  "uuid": "ebe810d4-07e9-59d7-94cf-b75f18e40dd1",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Tripod (Ding)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1260,
+   "end": -1036,
+   "original": "c. 1250–1046 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 24.5 x 20 cm (9 5/8 x 7 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.281/1962.281_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1962.281",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1962.281"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:tripod;form=['三足']",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1962.281",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1941.549",
+  "uuid": "46723f2b-7de4-560b-badd-0e305ca5aeaf",
+  "name": "Axe",
+  "name_traditional": "Axe",
+  "name_en": "Axe",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1766,
+   "end": -1045,
+   "original": "1766–1045 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 23.8 cm (9 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.549/1941.549_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1941.549",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1941.549"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1941.549",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.154",
+  "uuid": "ed24a7aa-be31-5f2d-8507-08a43bf40f23",
+  "name": "Ceremonial Scepter with Animal Masks (Gui)",
+  "name_traditional": "Ceremonial Scepter with Animal Masks (Gui)",
+  "name_en": "Ceremonial Scepter with Animal Masks (Gui)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1610,
+   "end": -1040,
+   "original": "c. 1600–1050 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade (nephrite)"
+  ],
+  "dimensions": "Overall: 18.6 x 1.8 cm (7 5/16 x 11/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.154/1972.154_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.154",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.154"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.154",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1960.43",
+  "uuid": "fbbd4d9c-69b2-5d32-9891-a73c4c1c0761",
+  "name": "Wine Beaker (Gu)",
+  "name_traditional": "Wine Beaker (Gu)",
+  "name_en": "Wine Beaker (Gu)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1210,
+   "end": -1190,
+   "original": "c. 1200 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 14.5 cm (5 11/16 in.); Overall: 26.9 cm (10 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(William H. Wolff [1906–1991], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1960.43/1960.43_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1960.43",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1960.43"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1960.43",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.583",
+  "uuid": "29f2a05a-1466-5177-ba3b-16f9a8d84952",
+  "name": "璧",
+  "name_traditional": "璧",
+  "name_en": "Collared Disk (Huan)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1610,
+   "end": -1040,
+   "original": "c. 1600–1050 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade (nephrite)"
+  ],
+  "dimensions": "Diameter: 11.4 cm (4 1/2 in.); Overall: 1.4 cm (9/16 in.); Inner diameter: 8.6 cm (3 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.583/1952.583_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.583",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.583"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "jade:disk",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.583",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.156",
+  "uuid": "456915b0-4dfb-5a66-a64e-465dd899cc70",
+  "name": "Fish with Curved Snout",
+  "name_traditional": "Fish with Curved Snout",
+  "name_en": "Fish with Curved Snout",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1200,
+   "end": -1000,
+   "original": "1200–1000 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade "
+  ],
+  "dimensions": "Overall: 7.3 cm (2 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Walter Hochstadter [1914-2007], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.156/1972.156_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.156",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.156"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.zhou+dynasty.zhou",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE) to Western Zhou dynasty (c. 1046–771 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.156",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1937.27",
+  "uuid": "7a33ef03-0522-579a-b786-88fd7d0bc9e6",
+  "name": "Axe",
+  "name_traditional": "Axe",
+  "name_en": "Axe",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1766,
+   "end": -1045,
+   "original": "1766–1045 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 21.2 x 14.2 cm (8 3/8 x 5 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Mme Paul [Marguerite] Mallon [d. 1977], New York, NY, and Paris, France, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1937.27/1937.27_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1937.27",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1937.27"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1937.27",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.155",
+  "uuid": "7aa02891-2b58-5894-96a1-ce3a18953f22",
+  "name": "佩",
+  "name_traditional": "佩",
+  "name_en": "Dagger-Axe Shaped Pendant",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1200,
+   "end": -1000,
+   "original": "1200–1000 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 7.3 cm (2 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.155/1972.155_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.155",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.155"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "jade:pendant",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.zhou+dynasty.zhou",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE) to Western Zhou dynasty (c. 1046–771 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.155",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1958.102",
+  "uuid": "65d87a20-f57e-5f30-a747-800abe080364",
+  "name": "Pair of Horses",
+  "name_traditional": "Pair of Horses",
+  "name_en": "Pair of Horses",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1045,
+   "original": "1300–1045 BCE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 11.4 cm (4 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Leondard C. Hanna, Jr., Cleveland",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.102/1958.102_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1958.102",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1958.102"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1958.102",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.585",
+  "uuid": "0b99a761-ecf5-5698-8e2f-7c88a62d4302",
+  "name": "Taotie (Ogre Mask)",
+  "name_traditional": "Taotie (Ogre Mask)",
+  "name_en": "Taotie (Ogre Mask)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1200,
+   "end": -1050,
+   "original": "c. 1200–1050 BCE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "marble"
+  ],
+  "dimensions": "Overall: 8.6 x 13.5 cm (3 3/8 x 5 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.585/1952.585_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.585",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.585"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.585",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1937.25",
+  "uuid": "32dd8d71-e901-5838-822e-318ddaa9e1e0",
+  "name": "Ge (Dagger-Axe)",
+  "name_traditional": "Ge (Dagger-Axe)",
+  "name_en": "Ge (Dagger-Axe)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1600,
+   "end": -1050,
+   "original": "c. 1600–1050 BCE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze, inlaid with turquoise"
+  ],
+  "dimensions": "Overall: 40.3 cm (15 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Mme Paul [Marguerite] Mallon [d. 1977], New York, NY, and Paris, France, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1937.25/1937.25_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1937.25",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1937.25"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1937.25",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.629",
+  "uuid": "fa2ae9d1-5baa-574c-934e-b55ff70a36b9",
+  "name": "琮",
+  "name_traditional": "琮",
+  "name_en": "Cong",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1800,
+   "end": -1300,
+   "original": "c. 1800–1400 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 9.2 cm (3 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.629/1915.629_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.629",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.629"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "jade:cong",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.629",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1984.67",
+  "uuid": "c695e159-49ec-5c45-9b7d-a32330985901",
+  "name": "Urn with Lug Handles",
+  "name_traditional": "Urn with Lug Handles",
+  "name_en": "Urn with Lug Handles",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1000,
+   "original": "c. 1300–1000 BCE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "earthenware with slip coating and painted decoration"
+  ],
+  "dimensions": "Diameter: 29 cm (11 7/16 in.); Overall: 41.3 cm (16 1/4 in.); Diameter with handles: 35 cm (13 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1984.67/1984.67_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1984.67",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1984.67"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span",
+   "culture_raw": "China, Gansu province, Xindian Culture",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1984.67",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.474",
+  "uuid": "ad22c57c-35ef-58f0-9eb1-ff2d5874ba27",
+  "name": "珠",
+  "name_traditional": "珠",
+  "name_en": "Bead",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1200,
+   "end": -900,
+   "original": "c. 1200–900 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Diameter: 3.1 cm (1 1/4 in.); Overall: 3.9 cm (1 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.474/1952.474_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.474",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.474"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "jade:bead",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.zhou",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE) to Zhou dynasty (c. 1046–256 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.474",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.208",
+  "uuid": "afdff36c-03cc-50e9-9c24-bd19f6dbb122",
+  "name": "Wine Warmer (Jue)",
+  "name_traditional": "Wine Warmer (Jue)",
+  "name_en": "Wine Warmer (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1023,
+   "original": "c. 1300–1023 BCE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "pottery, tripod vessel with loop handle and rudimentary bowstring decoration"
+  ],
+  "dimensions": "Diameter: 13.4 cm (5 1/4 in.); Overall: 11.7 cm (4 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.208/1995.208_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.208",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.208"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.208",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.205",
+  "uuid": "597f0e7c-0e7a-5df0-b454-efa471535504",
+  "name": "Wine Warmer (Jue)",
+  "name_traditional": "Wine Warmer (Jue)",
+  "name_en": "Wine Warmer (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1023,
+   "original": "c. 1300–1023 BCE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "pottery, tripod vessel with loop handle and rudimentary bowstring decoration"
+  ],
+  "dimensions": "Diameter: 11 cm (4 5/16 in.); Overall: 12.8 cm (5 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.205/1995.205_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.205",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.205"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.205",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.206",
+  "uuid": "3e7cf19e-442f-5835-b46a-b7fc1a6ca3b8",
+  "name": "Wine Warmer (Jue)",
+  "name_traditional": "Wine Warmer (Jue)",
+  "name_en": "Wine Warmer (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1023,
+   "original": "c. 1300–1023 BCE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "pottery, tripod vessel with loop handle and rudimentary bowstring decoration"
+  ],
+  "dimensions": "Diameter: 10.4 cm (4 1/8 in.); Overall: 14.7 cm (5 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.206/1995.206_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.206",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.206"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.206",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.209",
+  "uuid": "942e727a-6eb8-5f9a-b833-d7aaf3d370ef",
+  "name": "Wine Warmer (Jue)",
+  "name_traditional": "Wine Warmer (Jue)",
+  "name_en": "Wine Warmer (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1023,
+   "original": "c. 1300–1023 BCE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "pottery, tripod vessel with loop handle and rudimentary bowstring decoration"
+  ],
+  "dimensions": "Diameter: 13.4 cm (5 1/4 in.); Overall: 12.2 cm (4 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.209/1995.209_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.209",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.209"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.209",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.1080",
+  "uuid": "7ae1a26f-7877-5f9e-aedb-dba8a9e7516b",
+  "name": "Spatula (Si)",
+  "name_traditional": "Spatula (Si)",
+  "name_en": "Spatula (Si)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1000,
+   "original": "1300–1100 BCE",
+   "circa": true
+  },
+  "category": [
+   "其他"
+  ],
+  "material": [
+   "bone"
+  ],
+  "dimensions": "Overall: 27.6 cm (10 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.1080/1942.1080_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.1080",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.1080"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, probably Anyang, Henan province, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.1080",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.492",
+  "uuid": "89d01213-f7d9-533b-8e95-7d9d620a1dfd",
+  "name": "Bovine Mask with Capped Horns",
+  "name_traditional": "Bovine Mask with Capped Horns",
+  "name_en": "Bovine Mask with Capped Horns",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1400,
+   "end": -900,
+   "original": "1400–1000 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade "
+  ],
+  "dimensions": "Overall: 1.9 cm (3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.492/1952.492_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.492",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.492"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.zhou+dynasty.zhou",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE) to Western Zhou dynasty (c. 1046–771 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.492",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.207",
+  "uuid": "790c0904-5e56-52d4-84b4-3bf66e8955b8",
+  "name": "Wine Warmer (Jue)",
+  "name_traditional": "Wine Warmer (Jue)",
+  "name_en": "Wine Warmer (Jue)",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1023,
+   "original": "c. 1300–1023 BCE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "pottery, tripod vessel with loop handle and rudimentary bowstring decoration"
+  ],
+  "dimensions": "Diameter: 11.5 cm (4 1/2 in.); Overall: 13.3 cm (5 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.207/1995.207_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.207",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.207"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.207",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.491",
+  "uuid": "7ac88891-1b9e-50c2-bdf1-268e89f9511d",
+  "name": "Bovine Mask with Capped Horns",
+  "name_traditional": "Bovine Mask with Capped Horns",
+  "name_en": "Bovine Mask with Capped Horns",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1400,
+   "end": -900,
+   "original": "1400–1000 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 1.9 cm (3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.491/1952.491_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.491",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.491"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.zhou+dynasty.zhou",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE) to Western Zhou dynasty (c. 1046–771 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.491",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1953.243",
+  "uuid": "93ce4440-2c20-5b57-bf77-1ab618cddbeb",
+  "name": "Bird in Flight",
+  "name_traditional": "Bird in Flight",
+  "name_en": "Bird in Flight",
+  "dynasty": "dynasty.shang",
+  "date": {
+   "start": -1300,
+   "end": -1000,
+   "original": "1300–1100 BCE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 2.1 cm (13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1953.243/1953.243_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1953.243",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1953.243"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shang dynasty (c. 1600–c. 1046 BCE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1953.243",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

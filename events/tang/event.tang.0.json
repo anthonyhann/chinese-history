@@ -176,5 +176,46 @@
     "outcome": "唐朝统治崩溃，藩镇完全坐大",
     "sources": [{"title": "旧唐书·黄巢传", "type": "primary", "ref": "卷二百下"}, {"title": "资治通鉴·唐纪", "type": "primary"}],
     "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "suitang-v1", "version": 1}
+  },
+  {
+    "id": "event.tang.zuyongdiao",
+    "uuid": "a5ba068b-b683-5de3-93c8-02460fc16995",
+    "name": "租庸调制",
+    "name_traditional": "租庸調制",
+    "category": [
+      "policy",
+      "institution"
+    ],
+    "time": {
+      "start": 619,
+      "end": 780,
+      "original": "唐高祖武德二年（619）定制，至德宗建中元年（780）为两税法所代",
+      "precision": "year"
+    },
+    "place": [
+      "place.changan"
+    ],
+    "participants": [],
+    "related_events": [],
+    "description": "唐承北魏均田之制，以丁为本：每丁岁纳租粟二石，调随乡土所产输绢或布，役二十日，不役则收其庸，每日折绢三尺。有田则有租，有家则有调，有身则有庸。此为以人丁为本的赋役体系，与均田制相表里，是初唐户口繁衍、府兵充足的基础。",
+    "outcome": "唐前期财政与兵源的制度基础；中唐均田制坏、丁口流散之后难以为继，780 年废于两税法",
+    "sources": [
+      {
+        "title": "旧唐书·食货志",
+        "type": "primary",
+        "ref": "卷四十八"
+      },
+      {
+        "title": "新唐书·食货志",
+        "type": "primary",
+        "ref": "卷五十一"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
   }
 ]

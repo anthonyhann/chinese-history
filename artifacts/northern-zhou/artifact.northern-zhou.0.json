@@ -1,0 +1,130 @@
+[
+ {
+  "id": "artifact.met.44432",
+  "uuid": "76ab3367-aed9-5195-8892-e0477c0708f3",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Dish with mythical creatures",
+  "dynasty": "dynasty.northern-zhou",
+  "date": {
+   "start": 567,
+   "end": 599,
+   "original": "late 6th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with relief and impressed decoration under celadon glaze (Northern ware)"
+  ],
+  "dimensions": "H. 1 1/2 in. (3.8 cm); Diam. 5 1/8 in. (13 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Stanley Herzman Gift, 1998",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DT4326.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44432",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44432"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Northern Zhou (557–581) to Sui Dynasty (581–619)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44432,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.562",
+  "uuid": "798b66b9-a9f5-51e3-9ddf-f662290fb5ed",
+  "name": "佛像",
+  "name_traditional": "佛像",
+  "name_en": "Buddha Triad",
+  "dynasty": "dynasty.northern-zhou",
+  "date": {
+   "start": 568,
+   "end": 568,
+   "original": "568",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "stone"
+  ],
+  "dimensions": "Overall: 21.3 x 11.7 cm (8 3/8 x 4 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Dr. J. C. [John Calvin] Ferguson [1866-1945], Newton, MA, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.562/1915.562_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.562",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.562"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:buddha",
+   "dynasty_note": "name",
+   "culture_raw": "China, Northern Dynasties period (386–581 CE), Northern Zhou (557-581)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.562",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

@@ -1,0 +1,6274 @@
+[
+ {
+  "id": "artifact.met.36056",
+  "uuid": "3141f88f-0cfd-5ca1-939d-433b14e54aeb",
+  "name": "Towing a Boat in a Rainstorm",
+  "name_traditional": "Towing a Boat in a Rainstorm",
+  "name_en": "Towing a Boat in a Rainstorm",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1271,
+   "end": 1299,
+   "original": "late 12th century",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Fan mounted as an album leaf; ink and color on silk"
+  ],
+  "dimensions": "Image: 9 5/8 × 10 1/4 in. (24.4 × 26 cm)\r\nMat: 15 1/2 × 15 1/2 in. (39.4 × 39.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP153500.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 36056",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/36056"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 36056,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.39935",
+  "uuid": "4bdcf580-24cb-51eb-8339-b7656062ebd1",
+  "name": "Palace ladies bathing children",
+  "name_traditional": "Palace ladies bathing children",
+  "name_en": "Palace ladies bathing children",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "11th century",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Handscroll; ink and color on silk"
+  ],
+  "dimensions": "Image: 12 × 19 1/8 in. (30.5 × 48.6 cm)\r\nOverall with mounting: 12 7/16 × 44 in. (31.6 × 111.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Fletcher Fund, 1940",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP214285_CRD.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 39935",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/39935"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 39935,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.40004",
+  "uuid": "4226856a-82f9-51b4-b34d-71661893c27d",
+  "name": "In the Palace",
+  "name_traditional": "In the Palace",
+  "name_en": "In the Palace",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1139,
+   "original": "before 1140",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Handscroll; ink and touches of color on silk"
+  ],
+  "dimensions": "Image: 10 1/4 × 57 3/4 in. (26 × 146.7 cm)\r\nOverall with mounting: 10 11/16 in. × 29 ft. 11 7/8 in. (27.1 × 914.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Douglas Dillon Gift, 1978",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP204392_93_CRD.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 40004",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/40004"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 40004,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.40053",
+  "uuid": "9c8f8995-0b56-5667-95d5-6012f42a290e",
+  "name": "Xiantang Estuary",
+  "name_traditional": "Xiantang Estuary",
+  "name_en": "Xiantang Estuary",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1190,
+   "end": 1210,
+   "original": "ca. 1200",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Album leaf; ink and color silk"
+  ],
+  "dimensions": "9 1/8 x 9 3/8 in. (23.2 x 23.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of Ellis Gray Seymour, 1948",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP154417.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 40053",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/40053"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 40053,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.40061",
+  "uuid": "8bacf7e9-ddb9-5191-a1d5-ddbd18306d73",
+  "name": "Couplet by Han Yu",
+  "name_traditional": "Couplet by Han Yu",
+  "name_en": "Couplet by Han Yu",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1147,
+   "end": 1200,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Fan mounted as an album leaf; ink on silk"
+  ],
+  "dimensions": "8 3/8 x 8 1/4 in. (21.3 x 21 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of John M. Crawford Jr., 1988",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP153483.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 40061",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/40061"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 40061,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.40175",
+  "uuid": "48328f48-0dc3-554b-9033-d6c40c48505c",
+  "name": "Dish with chrysanthemum-petal rim",
+  "name_traditional": "Dish with chrysanthemum-petal rim",
+  "name_en": "Dish with chrysanthemum-petal rim",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1299,
+   "original": "11th–13th century",
+   "circa": true
+  },
+  "category": [
+   "漆器"
+  ],
+  "material": [
+   "Black lacquer with traces of gold decoration"
+  ],
+  "dimensions": "H. 1 1/8 in. (2.9 cm); Diam. 12 5/8 in (32.1cm); Diam. of foot 8 1/4 in. (21 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Florence and Herbert Irving, 2015",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP155769.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 40175",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/40175"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 40175,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.40185",
+  "uuid": "e3419bfc-cc62-5d6c-a724-c3fd70dd6253",
+  "name": "Couplet on an Autumn Sky",
+  "name_traditional": "Couplet on an Autumn Sky",
+  "name_en": "Couplet on an Autumn Sky",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1205,
+   "end": 1264,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Fan mounted as an album leaf; ink on silk"
+  ],
+  "dimensions": "Image: 9 5/16 x 7 in. (23.7 x 17.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of John M. Crawford Jr., 1988",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP153488.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 40185",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/40185"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 40185,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.40194",
+  "uuid": "3158eebd-9d5f-504f-8c36-07254061fcd2",
+  "name": "Couplet from a Poem by Han Hong",
+  "name_traditional": "Couplet from a Poem by Han Hong",
+  "name_en": "Couplet from a Poem by Han Hong",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1261,
+   "end": 1261,
+   "original": "1261",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Fan mounted as an album leaf; a) ink on silk, b) ink on paper, c) ink on paper"
+  ],
+  "dimensions": "8 3/16 x 8 11/16 in. (20.8 x 22.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of John M. Crawford Jr., 1988",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP153491.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 40194",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/40194"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 40194,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.40323",
+  "uuid": "a7b274fa-f454-5a67-bba4-9c0f06a1b20e",
+  "name": "Wall painting",
+  "name_traditional": "Wall painting",
+  "name_en": "Wall painting",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Fresco"
+  ],
+  "dimensions": "H. 26 in. (66 cm); W. 23 1/2 in. (59.7 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Fletcher Fund, 1925",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/63648.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 40323",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/40323"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 40323,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.42450",
+  "uuid": "f39c1075-083b-5256-99fd-27554ba15049",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Bottle vase",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1199,
+   "original": "11th–12th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with crackled white glaze (Ding-type ware)"
+  ],
+  "dimensions": "H. 9 5/8 in. (24.4 cm); Diam. 4 5/8 in. (11.7 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Stanley Herzman, in memory of Adele Herzman, 1991",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP222015.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 42450",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/42450"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bottle vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 42450,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44354",
+  "uuid": "34eee1e0-22d6-552f-b8b4-4af6a9f22489",
+  "name": "Chinese zodiac figure of a ram",
+  "name_traditional": "Chinese zodiac figure of a ram",
+  "name_en": "Chinese zodiac figure of a ram",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "11th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with brown iron splash (Jingdezhen qingbai ware)"
+  ],
+  "dimensions": "H. 8 5/16 in. (21.1 cm); W. 2 3/8 in. (6 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18667-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44354",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44354"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44354,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44355",
+  "uuid": "fa3d0a01-c6b1-5746-a96a-1f70ac7f66a6",
+  "name": "Chinese zodiac figure of a rooster",
+  "name_traditional": "Chinese zodiac figure of a rooster",
+  "name_en": "Chinese zodiac figure of a rooster",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "11th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with brown iron splash (Jingdezhen qingbai ware)"
+  ],
+  "dimensions": "H. 8 7/16 in. (21.4 cm); W. 2 1/8 in. (5.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18668-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44355",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44355"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44355,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44356",
+  "uuid": "1664463b-4679-504b-b01d-5402fd850a5e",
+  "name": "Chinese zodiac figure of a pig",
+  "name_traditional": "Chinese zodiac figure of a pig",
+  "name_en": "Chinese zodiac figure of a pig",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "11th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with brown iron splash (Jingdezhen qingbai ware)"
+  ],
+  "dimensions": "H. 8 1/4 in. (21 cm); W. 2 1/2 in. (6.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18669-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44356",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44356"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44356,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44357",
+  "uuid": "453dc5a3-704e-55de-bafc-7da81c5e2337",
+  "name": "Chinese zodiac figure of a mouse",
+  "name_traditional": "Chinese zodiac figure of a mouse",
+  "name_en": "Chinese zodiac figure of a mouse",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "11th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with brown iron splash (Jingdezhen qingbai ware)"
+  ],
+  "dimensions": "H. 8 in. (20.3 cm); W. 2 1/2 in. (6.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18670-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44357",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44357"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44357,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44358",
+  "uuid": "23b807c6-f0df-50c7-b050-0511958b2a89",
+  "name": "Chinese zodiac figure of a monkey",
+  "name_traditional": "Chinese zodiac figure of a monkey",
+  "name_en": "Chinese zodiac figure of a monkey",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "11th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with brown iron splash (Jingdezhen qingbai ware)"
+  ],
+  "dimensions": "H. 8 3/16 in. (20.8 cm); W. 2 3/8 in. (6 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18671-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44358",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44358"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44358,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44359",
+  "uuid": "5be21a5e-db0c-57b4-860d-0f2107fafefd",
+  "name": "Chinese zodiac figure of a dog",
+  "name_traditional": "Chinese zodiac figure of a dog",
+  "name_en": "Chinese zodiac figure of a dog",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "11th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with brown iron splash (Jingdezhen qingbai ware)"
+  ],
+  "dimensions": "H. 8 1/4 in. ( 21cm); W. 2 1/2 in. (6.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-18672-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44359",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44359"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44359,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44506",
+  "uuid": "6c9f202c-44c9-5983-990a-770c0d998d99",
+  "name": "Ten Kings of Hell",
+  "name_traditional": "Ten Kings of Hell",
+  "name_en": "Ten Kings of Hell",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1167,
+   "end": 1194,
+   "original": "before 1195",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "One of five of a set of ten hanging scrolls; ink and color on silk"
+  ],
+  "dimensions": "Image: 51 x 19 1/2 in. (129.5 x 49.5 cm)\r\nOverall with mounting: 80 × 25 3/8 in. (203.2 × 64.5 cm)\r\nOverall with knobs: 80 x 27 1/2 in. (203.2 x 69.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1930",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP217409.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44506",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44506"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44506,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44507",
+  "uuid": "e207ea36-ae23-5de4-bb54-ba016438c478",
+  "name": "Ten Kings of Hell",
+  "name_traditional": "Ten Kings of Hell",
+  "name_en": "Ten Kings of Hell",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1167,
+   "end": 1194,
+   "original": "before 1195",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "One of five of a set of ten hanging scrolls; ink and color on silk"
+  ],
+  "dimensions": "Image: 51 x 19 1/2 in. (129.5 x 49.5 cm)\r\nOverall with knobs: 80 x 27 1/2 in. (203.2 x 69.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1930",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP213863.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44507",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44507"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44507,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44508",
+  "uuid": "833ab8c2-5636-54fa-b83f-96b9eb2da5c4",
+  "name": "Ten Kings of Hell",
+  "name_traditional": "Ten Kings of Hell",
+  "name_en": "Ten Kings of Hell",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1167,
+   "end": 1194,
+   "original": "before 1195",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "One of five of a set of ten hanging scrolls; ink and color on silk"
+  ],
+  "dimensions": "Image: 51 x 19 1/2 in. (129.5 x 49.5 cm)\r\nOverall with knobs: 80 x 27 1/2 in. (203.2 x 69.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1930",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP217413.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44508",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44508"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44508,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44509",
+  "uuid": "aff7f852-f294-5b18-8800-f5748b124331",
+  "name": "Ten Kings of Hell",
+  "name_traditional": "Ten Kings of Hell",
+  "name_en": "Ten Kings of Hell",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1167,
+   "end": 1194,
+   "original": "before 1195",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "One of five of a set of ten hanging scrolls; ink and color on silk"
+  ],
+  "dimensions": "Image: 51 x 19 1/2 in. (129.5 x 49.5 cm)\r\nOverall with knobs: 80 x 27 1/2 in. (203.2 x 69.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1930",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP213571.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44509",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44509"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44509,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44510",
+  "uuid": "440eda03-4aeb-59fd-be7b-56fb1ef41582",
+  "name": "Ten Kings of Hell",
+  "name_traditional": "Ten Kings of Hell",
+  "name_en": "Ten Kings of Hell",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1167,
+   "end": 1194,
+   "original": "before 1195",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "One of five of a set of ten hanging scrolls; ink and color on silk"
+  ],
+  "dimensions": "Image: 51 x 19 1/2 in. (129.5 x 49.5 cm)\r\nOverall with knobs: 80 x 27 1/2 in. (203.2 x 69.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1930",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP217414.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44510",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44510"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44510,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.46743",
+  "uuid": "4e59f883-9cf7-596b-8486-5e5ee35c443c",
+  "name": "Minature standing figure",
+  "name_traditional": "Minature standing figure",
+  "name_en": "Minature standing figure",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1199,
+   "original": "11th–12th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with white glaze"
+  ],
+  "dimensions": "H. 2 1/4 in. (5.7 cm); W. 3/4 in. (1.9 cm); D. 1/2 in. (1.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1918",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/39042.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 46743",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/46743"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 46743,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48125",
+  "uuid": "728cd00e-8c33-57d9-8369-79d875d3defd",
+  "name": "Miniature figure of a standing lady",
+  "name_traditional": "Miniature figure of a standing lady",
+  "name_en": "Miniature figure of a standing lady",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1199,
+   "original": "11th–12th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with white glaze (Cizhou ware)"
+  ],
+  "dimensions": "H. 2 7/16 in. (6.2 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1918",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/39040.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48125",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48125"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48125,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48144",
+  "uuid": "d483e92f-e571-5d17-abe3-14f74def0ab3",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Lobed dish (one of a pair)",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with white glaze (Ding ware type)"
+  ],
+  "dimensions": "Diam. 3 1/2 in. (8.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Albert Gallatin, 1916",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/34117.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48144",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48144"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48144,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48235",
+  "uuid": "c0b40061-027b-5318-89cf-b2b3c7e14c1a",
+  "name": "Figure of an equestrian",
+  "name_traditional": "Figure of an equestrian",
+  "name_en": "Figure of an equestrian",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1199,
+   "original": "11th–12th century",
+   "circa": true
+  },
+  "category": [
+   "陶器"
+  ],
+  "material": [
+   "Stonware with white glaze (Cizhou ware)"
+  ],
+  "dimensions": "H. 2 3/16 in. (5.6 cm); W. 1/2 in. (1.3 cm); L. 1 3/4 in. (4.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1918",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/39041.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48235",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48235"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48235,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48485",
+  "uuid": "8b1d1118-85a8-5933-92ff-858a66ed4601",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1000,
+   "end": 1199,
+   "original": "11th–12th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with incised decoration under bluish white glaze (Jingdezhen qingbai ware)"
+  ],
+  "dimensions": "H. 2 3/4 in. (7.0 cm); W. 6 5/8 in. (16.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/76028.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48485",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48485"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48485,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48510",
+  "uuid": "fc25effe-24b2-5981-9019-7fe9d4d9ec2e",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Light buff clay with brown glaze and metal rim (Jian-type ware)"
+  ],
+  "dimensions": "H. 3 in. (7.6 cm); Diam. 8 in. (20.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/29_100_224_S1_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48510",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48510"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48510,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.51739",
+  "uuid": "1ededaa7-55ec-509f-81bf-33ef8453e822",
+  "name": "Birds on Fruit Branch",
+  "name_traditional": "Birds on Fruit Branch",
+  "name_en": "Birds on Fruit Branch",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Album leaf; ink and color on silk"
+  ],
+  "dimensions": "7 3/4 x 7 5/8 in. (19.7 x 19.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP154546.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 51739",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/51739"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (?) (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 51739,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.52624",
+  "uuid": "305ff169-8468-5432-941b-6b2af0f8fe61",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 969,
+   "end": 1279,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Pottery"
+  ],
+  "dimensions": "H. 3 1/2 in. (8.9 cm); Diam. of rim 2 3/4 in. (7 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of Robert West, 1950",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/50_221_8_O1_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 52624",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/52624"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 52624,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.52632",
+  "uuid": "5b4d9838-3d8f-5f46-bccd-ee5acfc363e5",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Pottery"
+  ],
+  "dimensions": "H. 2 1/2 in. (6.4 cm); W. 6 in. (15.2 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1922",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/22_158_O2_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 52632",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/52632"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 52632,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.60776",
+  "uuid": "ef898734-8d09-5530-b631-084fbc183555",
+  "name": "Sample of Chinese printing of the Song period (960–1278)",
+  "name_traditional": "Sample of Chinese printing of the Song period (960–1278)",
+  "name_en": "Sample of Chinese printing of the Song period (960–1278)",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1278,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "Illustrated book"
+  ],
+  "dimensions": "13 7/8 x 9 3/4 in. (35.2 x 24.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of John C. Ferguson, 1913",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/CIB_12a_O1.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 60776",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/60776"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 60776,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.61006",
+  "uuid": "21601d80-a277-5722-b27d-eb8bac4bdd88",
+  "name": "Vase of Zhou Design",
+  "name_traditional": "Vase of Zhou Design",
+  "name_en": "Vase of Zhou Design",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze"
+  ],
+  "dimensions": "H. 14 7/8 in. (37.8 cm); W. 9 3/4 in. (24.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of William M. Laffan, 1905",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/1591.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61006",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61006"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279) (?)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61006,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.61693",
+  "uuid": "389f6f82-2320-5fab-8036-a296457aa71e",
+  "name": "Statuette of Buddhist Disciple",
+  "name_traditional": "Statuette of Buddhist Disciple",
+  "name_en": "Statuette of Buddhist Disciple",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "Polychromed wood"
+  ],
+  "dimensions": "H. 8 in. (20.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1944",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/44_81_1.JPG",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61693",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61693"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61693,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.775525",
+  "uuid": "b77639eb-dff6-52a7-9fe2-9b452e214f44",
+  "name": "Sitting boy",
+  "name_traditional": "Sitting boy",
+  "name_en": "Sitting boy",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "12th century",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "Earthenware with slip"
+  ],
+  "dimensions": "H. 12 in. (30.5 cm); W. 8 ¾ in. (22.2 cm); D. 8 3/4 in. (22.2 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Friends of Asian Art Gifts, 2024",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-15968-051.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 775525",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/775525"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 775525,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.815861",
+  "uuid": "51c95c82-1ba3-5455-ae91-e8389d223f6d",
+  "name": "Incense burner",
+  "name_traditional": "Incense burner",
+  "name_en": "Incense burner",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Copper alloy"
+  ],
+  "dimensions": "H. 2 3/4 in. (7 cm); Diam. 4 1/8 in. (10.5 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Friends of Asian Art Gifts, 2018",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-23609-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 815861",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/815861"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 815861,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1984.7",
+  "uuid": "7e0aa5a1-dfe1-5292-bb11-285abfcf814b",
+  "name": "Water and Moon (Potala) Guanyin",
+  "name_traditional": "Water and Moon (Potala) Guanyin",
+  "name_en": "Water and Moon (Potala) Guanyin",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1100,
+   "original": "900–1100",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 17.6 cm (6 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mr. and Mrs. Richard C. Bull; (Sotheby's New York, NY. Important Chinese Works of Art: The Collection of Mr. and Mrs. Richard C. Bull. 6 December 1983 sale, Lot 66); (Mr. J. E. Eskenazi, Ltd., London, England, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1984.7/1984.7_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1984.7",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1984.7"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Five dynasties (907-960) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1984.7",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.41",
+  "uuid": "80b3b59d-6cb7-533d-9dc2-2e242557fa70",
+  "name": "Bodhidharma Meditating Facing a Cliff",
+  "name_traditional": "Bodhidharma Meditating Facing a Cliff",
+  "name_en": "Bodhidharma Meditating Facing a Cliff",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1275,
+   "end": 1299,
+   "original": "late 1200s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Hanging scroll; ink on silk"
+  ],
+  "dimensions": "Painting only: 116.5 x 46.4 cm (45 7/8 x 18 1/4 in.); Overall with knobs: 203.2 x 63.5 cm (80 x 25 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "T. Inouye; (Kuniyoshi Miura, Tokyo, Japan, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.41/1972.41_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.41",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.41"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.41",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.389",
+  "uuid": "3c26652e-88db-55cf-8fff-60e0e26c839f",
+  "name": "Mirror with a Pair of Phoenixes",
+  "name_traditional": "Mirror with a Pair of Phoenixes",
+  "name_en": "Mirror with a Pair of Phoenixes",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 35.1 cm (13 13/16 in.); Overall: 1.3 cm (1/2 in.); Rim: 0.8 cm (5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.389/1995.389_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.389",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.389"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.389",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.132",
+  "uuid": "989d0962-a4ef-554f-a4c5-984f6afb766b",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl:  Jian Ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware with \"hare's fur\" glaze"
+  ],
+  "dimensions": "Diameter: 12.4 cm (4 7/8 in.); Overall: 7.4 cm (2 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.132/1942.132_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.132",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.132"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.132",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2017.20",
+  "uuid": "168e981d-620f-59a6-b01c-a0900b7a1c25",
+  "name": "梅瓶",
+  "name_traditional": "梅瓶",
+  "name_en": "Meiping Vase with Carved Floral Sprays",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with pale bluish-white glaze, qingbai (\"blue-white\") ware"
+  ],
+  "dimensions": "Overall: 37.7 x 23.5 cm (14 13/16 x 9 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Delicate House, Chinese Curios, Hong Kong, 19 April 2002, sold to Donna and James Reid); Donna [b. 1931] and James Reid [1926–2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2017.20/2017.20_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2017.20",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2017.20"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:meiping;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2017.20",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.703",
+  "uuid": "1d2aba71-e1b5-58cb-8259-8571719a50e2",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960– 1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "brown stoneware with iron slip glaze, Jian ware"
+  ],
+  "dimensions": "Diameter: 12.4 cm (4 7/8 in.); Overall: 4.8 cm (1 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.703/1956.703_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.703",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.703"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Fujian province, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.703",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1921.644",
+  "uuid": "af0990b9-adcb-57c4-8b54-b43b1975b547",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Dish with Incised Scroll Design",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1199,
+   "original": "900s–1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Pottery with pale bluish-white glaze and incised design, Qingbai (\"blue-white\") ware"
+  ],
+  "dimensions": "Overall: 1.2 x 9.2 cm (1/2 x 3 5/8 in.); Diameter of base: 7 cm (2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Dr. Alfred Irving Ludlow [1875–1961], Cleveland, OH, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1921.644/1921.644_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1921.644",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1921.644"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1921.644",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1970.64",
+  "uuid": "962f5a66-86b8-5167-8534-3215fdf67c01",
+  "name": "Lotus Sutra with a Frontispiece",
+  "name_traditional": "Lotus Sutra with a Frontispiece",
+  "name_en": "Lotus Sutra with a Frontispiece",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1175,
+   "end": 1199,
+   "original": "late 1100s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "handscroll; gold ink on indigo sutra paper"
+  ],
+  "dimensions": "Image: 27.8 x 81 cm (10 15/16 x 31 7/8 in.); Inscription overall: 27.9 x 1044.9 cm (11 x 411 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Elm and Company, Osaka, Japan, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1970.64/1970.64_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1970.64",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1970.64"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1970.64",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.127",
+  "uuid": "5855cfef-0900-5618-b460-19fa647f15ca",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware, Jian ware"
+  ],
+  "dimensions": "Diameter: 9.3 cm (3 11/16 in.); Overall: 4.8 cm (1 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.127/1942.127_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.127",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.127"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Fujian province, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.127",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.129",
+  "uuid": "23b3ca88-8b03-5426-bc25-db5ffcb190ed",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Diameter: 12.8 cm (5 1/16 in.); Overall: 7 cm (2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.129/1942.129_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.129",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.129"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.129",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78.1",
+  "uuid": "317f0783-0744-57bf-945f-0cec942ca846",
+  "name": "Inlay for a Mirror or Box: Lady and Mandolin",
+  "name_traditional": "Inlay for a Mirror or Box: Lady and Mandolin",
+  "name_en": "Inlay for a Mirror or Box: Lady and Mandolin",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 4.6 x 8.4 cm (1 13/16 x 3 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78.1/1969.78.1_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78.1",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78.1"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78.1",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78.2",
+  "uuid": "7588f0d2-1741-5e98-8a94-54fe31ac5e1c",
+  "name": "Inlay for a Mirror or Box: Lady on a Bird",
+  "name_traditional": "Inlay for a Mirror or Box: Lady on a Bird",
+  "name_en": "Inlay for a Mirror or Box: Lady on a Bird",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 5.2 x 7.8 cm (2 1/16 x 3 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78.2/1969.78.2_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78.2",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78.2"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78.2",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78.5",
+  "uuid": "74e27383-48e4-53ec-ac6b-46ed9aaaecca",
+  "name": "Inlay for a Mirror or Box: shih-shih",
+  "name_traditional": "Inlay for a Mirror or Box: shih-shih",
+  "name_en": "Inlay for a Mirror or Box: shih-shih",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 4.6 x 5.2 cm (1 13/16 x 2 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78.5/1969.78.5_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78.5",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78.5"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78.5",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78.7",
+  "uuid": "bd30d20c-8179-5117-8510-809fa42832c0",
+  "name": "Inlay for a Mirror or Box: Lady and Flute",
+  "name_traditional": "Inlay for a Mirror or Box: Lady and Flute",
+  "name_en": "Inlay for a Mirror or Box: Lady and Flute",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 4.7 x 8.4 cm (1 7/8 x 3 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78.7/1969.78.7_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78.7",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78.7"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78.7",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.71",
+  "uuid": "048a97c2-d82f-560a-839e-c338434af769",
+  "name": "杯",
+  "name_traditional": "杯",
+  "name_en": "Wine Cup",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed dark brown stoneware, Guan ware"
+  ],
+  "dimensions": "Diameter: 8 cm (3 1/8 in.); Overall: 3.5 cm (1 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, probably Palace Collection, Beijing, China.  Seller's no. 34; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.71/1957.71_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.71",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.71"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:cup;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.71",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.137",
+  "uuid": "7acb0164-1cf0-568c-b671-8b44a609f367",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Saggers and Bowl Fragments",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware with \"hare's fur\" glaze"
+  ],
+  "dimensions": "Overall: 9.6 x 17.2 cm (3 3/4 x 6 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "James Marshall Plumer, Ann Arbor, MI, to the Cleveland Museum of Art by exchange; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.137/1942.137_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.137",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.137"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.137",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78",
+  "uuid": "1f478fe6-3c2a-5716-8d9f-ce00ae5e3091",
+  "name": "Inlays for a Mirror or Box",
+  "name_traditional": "Inlays for a Mirror or Box",
+  "name_en": "Inlays for a Mirror or Box",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 4.7 x 8.4 cm (1 7/8 x 3 5/16 in.); Irregular: 5.3 x 8.4 cm (2 1/16 x 3 5/16 in.); Part 1: 4.6 x 8.4 cm (1 13/16 x 3 5/16 in.); Part 2: 5.2 x 7.8 cm (2 1/16 x 3 1/16 in.); Part 3: 5.2 x 5.6 cm (2 1/16 x 2 3/16 in.); Part 4: 4.2 x 6.1 cm (1 5/8 x 2 3/8 in.); Part 5: 4.6 x 5.2 cm (1 13/16 x 2 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78/1969.78_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.378",
+  "uuid": "103f429d-1e60-5f56-b834-48563efa382e",
+  "name": "Octafoil Mirror with Two Immortals Crossing the Ocean",
+  "name_traditional": "Octafoil Mirror with Two Immortals Crossing the Ocean",
+  "name_en": "Octafoil Mirror with Two Immortals Crossing the Ocean",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "mid-900s–late 1200s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 17.6 cm (6 15/16 in.); Overall: 1 cm (3/8 in.); Rim: 0.6 cm (1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.378/1995.378_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.378",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.378"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.378",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.319",
+  "uuid": "d4d58bcc-a788-5d31-a656-b7937f5afac5",
+  "name": "头像",
+  "name_traditional": "头像",
+  "name_en": "Head",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "iron"
+  ],
+  "dimensions": "Overall: 7.4 cm (2 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Langdon Warner [1881–1955], Cambridge, MA, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.319/1917.319_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.319",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.319"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:head",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.319",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.131",
+  "uuid": "f4bb8d15-43c7-5a40-a7aa-39d2d6204a7e",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Diameter: 12.4 cm (4 7/8 in.); Overall: 6.5 cm (2 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.131/1942.131_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.131",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.131"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.131",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2017.19",
+  "uuid": "adcb0975-3601-5e75-b776-405066405e81",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Conical Bowl with Carved Babies and Floral Motif",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with pale bluish-white glaze, qingbai (\"blue-white\") ware"
+  ],
+  "dimensions": "Overall: 7.8 x 20.3 cm (3 1/16 x 8 in.); Diameter: 21.6 cm (8 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Donna [b. 1931] and James Reid [1926-2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2017.19/2017.19_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2017.19",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2017.19"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2017.19",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.70",
+  "uuid": "e48fa8ee-e196-5976-9640-80f33562a986",
+  "name": "Bird feeder",
+  "name_traditional": "Bird feeder",
+  "name_en": "Bird feeder",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed reddish-brown stoneware, Guan ware"
+  ],
+  "dimensions": "Diameter: 8.9 cm (3 1/2 in.); Overall: 3.5 cm (1 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.70/1957.70_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.70",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.70"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.70",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1947.568",
+  "uuid": "df507901-a400-5f05-a31f-0f36ac3eeb25",
+  "name": "Daoist Cap",
+  "name_traditional": "Daoist Cap",
+  "name_en": "Daoist Cap",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "grayish-green jade with brown and black markings; interior with pink pigment and gold inlays"
+  ],
+  "dimensions": "Overall: 7.4 cm (2 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Worcester R. [Cornelia Blakemore] Warner [1859–1947], Tarrytown-on-the-Hudson, NY, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1947.568/1947.568_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1947.568",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1947.568"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "multi-name:dynasty.song+dynasty.yuan",
+   "culture_raw": "China, Song dynasty (960-1279) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1947.568",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.133",
+  "uuid": "b315f190-1930-5c48-8165-026ac83436bc",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware, Jian ware"
+  ],
+  "dimensions": "Overall: 6.5 x 12.2 cm (2 9/16 x 4 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.133/1942.133_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.133",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.133"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.133",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78.3",
+  "uuid": "197b733e-fc97-5674-907c-cfd4bb50067a",
+  "name": "Inlay for a Mirror or Box: shih-shih",
+  "name_traditional": "Inlay for a Mirror or Box: shih-shih",
+  "name_en": "Inlay for a Mirror or Box: shih-shih",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 5.2 x 5.6 cm (2 1/16 x 2 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78.3/1969.78.3_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78.3",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78.3"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78.3",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78.4",
+  "uuid": "d27f8876-bf3d-55fb-be00-679c2c290dfc",
+  "name": "Inlay for a Mirror or Box: shih-shih",
+  "name_traditional": "Inlay for a Mirror or Box: shih-shih",
+  "name_en": "Inlay for a Mirror or Box: shih-shih",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 4.2 x 6.1 cm (1 5/8 x 2 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78.4/1969.78.4_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78.4",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78.4"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78.4",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1969.78.6",
+  "uuid": "499ccac6-e854-5ac0-b7db-6233de4058a5",
+  "name": "Inlay for a Mirror or Box: Lady on a Bird",
+  "name_traditional": "Inlay for a Mirror or Box: Lady on a Bird",
+  "name_en": "Inlay for a Mirror or Box: Lady on a Bird",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 1000,
+   "original": "c. 900–1000",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "beaten silver with chased details"
+  ],
+  "dimensions": "Overall: 5.3 x 8.4 cm (2 1/16 x 3 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1969.78.6/1969.78.6_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1969.78.6",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1969.78.6"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1969.78.6",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.506",
+  "uuid": "2a561905-3efd-5fbf-9f75-779f40d28816",
+  "name": "枕",
+  "name_traditional": "枕",
+  "name_en": "Pillow",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Gray stoneware with underglaze painted decoration, Cizhou ware"
+  ],
+  "dimensions": "Overall: 13.4 x 22.9 cm (5 1/4 x 9 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Langdon (Lorraine d’Oremieulx Roosevelt) Warner [1887–1965], Cambridge, MA, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.506/1915.506_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.506",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.506"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:pillow;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.song+dynasty.yuan",
+   "culture_raw": "China, Song dynasty (960-1279) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.506",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.126",
+  "uuid": "3985f12d-4b82-5b43-b2d8-11ac896ae7f7",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960– 1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Diameter: 9.3 cm (3 11/16 in.); Overall: 3.9 cm (1 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.126/1942.126_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.126",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.126"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Fujian province, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.126",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.128",
+  "uuid": "257d2d44-6e72-58e2-ba9b-bd8710cd312c",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Diameter: 10.8 cm (4 1/4 in.); Overall: 5.8 cm (2 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.128/1942.128_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.128",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.128"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.128",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.134",
+  "uuid": "18de25d4-4479-5656-a94e-bce9c366e632",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "purplish brown stoneware with iron slip glaze coating"
+  ],
+  "dimensions": "Diameter: 9 cm (3 9/16 in.); Overall: 4.6 cm (1 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.134/1942.134_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.134",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.134"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.134",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.138",
+  "uuid": "27f0921c-04c2-52f8-9030-9f568a6aafdf",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Shard of Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Overall: 6.7 cm (2 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.138/1942.138_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.138",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.138"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.138",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.139",
+  "uuid": "46ed55e6-0b01-5f86-a945-083a2ae01277",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Shard of Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Overall: 6.5 cm (2 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.139/1942.139_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.139",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.139"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.139",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.704",
+  "uuid": "dc7ab0e2-335a-5a2a-8a08-4138dd27c458",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "purplish brown stoneware with iron slip glaze coating, Jian ware"
+  ],
+  "dimensions": "Diameter: 12.4 cm (4 7/8 in.); Overall: 7 cm (2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Fanny Tewksbury King [1867–1949], Cleveland Heights, OH, sold to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.704/1956.704_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.704",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.704"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Fujian province, Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.704",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1981.57",
+  "uuid": "f85087a6-4cd5-557a-8364-3c8991f174f1",
+  "name": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_traditional": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_en": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Handscroll mounted as three album leaves; ink and color on silk"
+  ],
+  "dimensions": "Overall: 26.5 x 42 cm (10 7/16 x 16 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(James J. Freeman, Kyoto, Japan, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1981.57/1981.57_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1981.57",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1981.57"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "multi-name:dynasty.song+dynasty.yuan",
+   "culture_raw": "China, Song dynasty (960-1279) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1981.57",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.505",
+  "uuid": "f7bbae79-12df-58d7-8f61-3496c642e84b",
+  "name": "Champion Vase",
+  "name_traditional": "Champion Vase",
+  "name_en": "Champion Vase",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960– 1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 8.9 x 9.2 x 4.6 cm (3 1/2 x 3 5/8 x 1 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.505/1952.505_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.505",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.505"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "multi-name:dynasty.song+dynasty.ming",
+   "culture_raw": "China, Song dynasty (960-1279) - Ming dynasty (1368-1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.505",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1997.87",
+  "uuid": "659e3e77-b9f7-510f-b068-1e43608e57e1",
+  "name": "Magpies and Wild Rabbits",
+  "name_traditional": "Magpies and Wild Rabbits",
+  "name_en": "Magpies and Wild Rabbits",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1200,
+   "end": 1299,
+   "original": "1200s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "album leaf, ink and light color on silk"
+  ],
+  "dimensions": "Painting only: 25 x 24.5 cm (9 13/16 x 9 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Mrs. Julia C. Chiang, New Jersey, sold to Mrs. A. Dean Perry); Mrs. A. Dean Perry [Helen Wade Greene Perry] [1911-1996], Cleveland, OH, ?-1997, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH, 1997-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.87/1997.87_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1997.87",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1997.87"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1997.87",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1981.57.1",
+  "uuid": "f5c8ef72-f182-5ea5-9825-e0b423578996",
+  "name": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_traditional": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_en": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "handscroll mounted as an album leaf; ink and color on silk"
+  ],
+  "dimensions": "Image: 26.3 x 43 cm (10 3/8 x 16 15/16 in.); Mounted: 38.3 x 53.8 cm (15 1/16 x 21 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(James J. Freeman, Kyoto, Japan, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1981.57.1/1981.57.1_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1981.57.1",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1981.57.1"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "multi-name:dynasty.song+dynasty.yuan",
+   "culture_raw": "China, Song dynasty (960-1279) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1981.57.1",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1981.57.2",
+  "uuid": "1fab0690-0106-575b-950c-4dc1737c5472",
+  "name": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_traditional": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_en": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "handscroll mounted as an album leaf; ink and color on silk"
+  ],
+  "dimensions": "Image: 26.5 x 43 cm (10 7/16 x 16 15/16 in.); Mounted: 38.3 x 53.8 cm (15 1/16 x 21 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(James J. Freeman, Kyoto, Japan, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1981.57.2/1981.57.2_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1981.57.2",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1981.57.2"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "multi-name:dynasty.song+dynasty.yuan",
+   "culture_raw": "China, Song dynasty (960-1279) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1981.57.2",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1981.57.3",
+  "uuid": "7f3deaff-252f-5ef4-b0b4-33028add13fe",
+  "name": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_traditional": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "name_en": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "handscroll mounted as an album leaf; ink and color on silk"
+  ],
+  "dimensions": "Image: 26.5 x 39.8 cm (10 7/16 x 15 11/16 in.); Mounted: 38.3 x 53.8 cm (15 1/16 x 21 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(James J. Freeman, Kyoto, Japan, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1981.57.3/1981.57.3_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1981.57.3",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1981.57.3"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "multi-name:dynasty.song+dynasty.yuan",
+   "culture_raw": "China, Song dynasty (960-1279) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1981.57.3",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.507",
+  "uuid": "85b69322-fb7b-5f55-8225-737c66c53635",
+  "name": "Bowl",
+  "name_traditional": "Bowl",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "玻璃器"
+  ],
+  "material": [
+   "glass"
+  ],
+  "dimensions": "Diameter: 30.6 cm (12 1/16 in.); Overall: 13.4 cm (5 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.507/1915.507_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.507",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.507"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.507",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1979.75",
+  "uuid": "e556c727-87b1-581a-a5d2-914ba0ef68d6",
+  "name": "Blade Incised with Animal Masks",
+  "name_traditional": "Blade Incised with Animal Masks",
+  "name_en": "Blade Incised with Animal Masks",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960– 1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade "
+  ],
+  "dimensions": "Overall: 16 cm (6 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "W. E. Cunningham; Sotheby Parke Bernet",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1979.75/1979.75_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1979.75",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1979.75"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1979.75",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1926.238",
+  "uuid": "b5039c04-0ff5-5980-91fb-66e02dba27fb",
+  "name": "Buddha in the Preaching Attitude",
+  "name_traditional": "Buddha in the Preaching Attitude",
+  "name_en": "Buddha in the Preaching Attitude",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 618,
+   "end": 1279,
+   "original": "618–1279",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Fresco"
+  ],
+  "dimensions": "Overall: 49 x 35 cm (19 5/16 x 13 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(C. T. Loo 盧芹齋 [1880–1957]); John L. Severance [1863–1936], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1926.238/1926.238_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1926.238",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1926.238"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "multi-name:dynasty.tang+dynasty.song",
+   "culture_raw": "China, Tang dynasty (618-907) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1926.238",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1928.177",
+  "uuid": "73639186-b405-5299-89ab-ff9154b32ccd",
+  "name": "Wine Jug",
+  "name_traditional": "Wine Jug",
+  "name_en": "Wine Jug",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "900s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed gray stoneware, Yue ware"
+  ],
+  "dimensions": "Diameter: 12.7 cm (5 in.); Overall: 21.6 cm (8 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Dr. A. I. Ludlow [1875–1961]); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1928.177/1928.177_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1928.177",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1928.177"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "multi-name:dynasty.shang+dynasty.song",
+   "culture_raw": "China, Zhejiang province, Shang-lin-hu type, Five dynasties (907–960) to Song dynasty (960–1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1928.177",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.383",
+  "uuid": "fb8f7dbc-cdcc-5a4d-913a-4f98d39c25df",
+  "name": "Octafoil Mirror with Legend of Herdboy and Weaver Maid",
+  "name_traditional": "Octafoil Mirror with Legend of Herdboy and Weaver Maid",
+  "name_en": "Octafoil Mirror with Legend of Herdboy and Weaver Maid",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "mid-900s-late 1200s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 17.8 cm (7 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.7 cm (1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, ?-1995, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH, 1995-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.383/1995.383_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.383",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.383"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.383",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.570",
+  "uuid": "f5168034-df4b-5ebc-bc54-ae79cda20fbd",
+  "name": "马",
+  "name_traditional": "马",
+  "name_en": "Recumbent Horse",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "light gray-green jade"
+  ],
+  "dimensions": "Overall: 2.8 cm (1 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.570/1952.570_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.570",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.570"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "jade:horse",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.570",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.54",
+  "uuid": "7d1c318c-0aa7-5c15-89a8-721fb883be8c",
+  "name": "Fish Bowl",
+  "name_traditional": "Fish Bowl",
+  "name_en": "Fish Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 5.8 x 18.2 cm (2 5/16 x 7 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.54/1917.54_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.54",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.54"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.54",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1961.17",
+  "uuid": "5df0aa44-bbd8-5994-937a-152d8e4a467b",
+  "name": "Cup",
+  "name_traditional": "Cup",
+  "name_en": "Cup",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960– 1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 3.4 x 6.9 cm (1 5/16 x 2 11/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1961.17/1961.17_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1961.17",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1961.17"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1961.17",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1940.46",
+  "uuid": "1ef4b638-e072-5ade-832f-f5b2fd3c0eb0",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Coniform Bowl",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "White porcelain, Yingqing ware"
+  ],
+  "dimensions": "Diameter: 23 cm (9 1/16 in.); Overall: 7 cm (2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Ralph M. Chait Galleries, New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1940.46/1940.46_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1940.46",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1940.46"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1940.46",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1954.580",
+  "uuid": "84f79553-a3b4-50e2-8133-bd2f9a425df4",
+  "name": "越窑盒",
+  "name_traditional": "越窑盒",
+  "name_en": "Box: Yue ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware with incised decoration"
+  ],
+  "dimensions": "Diameter: 12.5 cm (4 15/16 in.); Overall: 5.4 cm (2 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Warren E. Cox, New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.580/1954.580_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1954.580",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1954.580"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=['越窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Zhejiang province, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1954.580",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1954.580.a",
+  "uuid": "85c84505-deb4-5776-a362-8a0610f734b8",
+  "name": "越窑盒",
+  "name_traditional": "越窑盒",
+  "name_en": "Box: Yue ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware with incised decoration"
+  ],
+  "dimensions": "Diameter: 12.5 cm (4 15/16 in.); Overall: 5.4 cm (2 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Warren E. Cox, New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.580.a/1954.580.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1954.580.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1954.580.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=['越窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Zhejiang province, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1954.580.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1954.580.b",
+  "uuid": "ae914f35-f3b7-5628-a10a-a5a5f0a7d1b6",
+  "name": "越窑盒",
+  "name_traditional": "越窑盒",
+  "name_en": "Box: Yue ware (lid)",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware with incised decoration"
+  ],
+  "dimensions": "Diameter: 12.5 cm (4 15/16 in.); Overall: 5.4 cm (2 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Warren E. Cox, New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.580.b/1954.580.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1954.580.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1954.580.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=['越窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Zhejiang province, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1954.580.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.69",
+  "uuid": "416523bb-d9b4-500f-863f-e8e3c7ab01c7",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Flat Dish: Guan ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed reddish-brown stoneware"
+  ],
+  "dimensions": "Diameter: 15.3 cm (6 in.); Overall: 3.5 cm (1 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, probably Palace Collection.  Seller's no. 32; (Frank Caro, New York)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.69/1957.69_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.69",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.69"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.69",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.315",
+  "uuid": "5660bd0a-6e72-52f7-bb2b-f9babf1da91a",
+  "name": "钧窑花口钵",
+  "name_traditional": "钧窑花口钵",
+  "name_en": "Bulb Bowl: Jun Type",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "unglazed ceramic"
+  ],
+  "dimensions": "Overall: 6.4 x 18.5 cm (2 1/2 x 7 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.315/1917.315_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.315",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.315"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bulb bowl;glaze=['钧窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "Northern China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.315",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.701",
+  "uuid": "8b1c8b80-3642-5303-82c4-2c7405d7d8cb",
+  "name": "Mountain Terrace and Pavilion",
+  "name_traditional": "Mountain Terrace and Pavilion",
+  "name_en": "Mountain Terrace and Pavilion",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Album leaf, ink on silk"
+  ],
+  "dimensions": "Diameter: 24.6 cm (9 11/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Dr. J. C. [John Calvin] Ferguson 福開森 [1866–1945], Newton, MA, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.701/1915.701_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.701",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.701"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.701",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.497",
+  "uuid": "ac52202c-9b8c-5a47-8058-e6cd96286ae4",
+  "name": "Seal, Lion-Dog",
+  "name_traditional": "Seal, Lion-Dog",
+  "name_en": "Seal, Lion-Dog",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960– 1279",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 5.2 x 4.7 cm (2 1/16 x 1 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.497/1952.497_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.497",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.497"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.497",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.703",
+  "uuid": "8c590467-1116-5e87-a229-8f807bd28af9",
+  "name": "Three Horsemen Hunting Wild Geese",
+  "name_traditional": "Three Horsemen Hunting Wild Geese",
+  "name_en": "Three Horsemen Hunting Wild Geese",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Album leaf, ink and color on silk"
+  ],
+  "dimensions": "Overall: 21 x 23.4 cm (8 1/4 x 9 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.703/1915.703_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.703",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.703"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.703",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.50",
+  "uuid": "8861c877-532e-5dd1-b973-4733b428e2fc",
+  "name": "佩",
+  "name_traditional": "佩",
+  "name_en": "Pendant",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 6.1 x 5.8 cm (2 3/8 x 2 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.50/1917.50_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.50",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.50"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "jade:pendant",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.50",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.47",
+  "uuid": "3ec4cd57-ed89-5b0d-8d74-0ba51ad7fa2b",
+  "name": "Libation Cup",
+  "name_traditional": "Libation Cup",
+  "name_en": "Libation Cup",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Diameter: 12.8 cm (5 1/16 in.); Overall: 4.6 cm (1 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.47/1917.47_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.47",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.47"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.47",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.136",
+  "uuid": "3b0dcd49-1bca-5e47-b223-a2ae0a259d34",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl: Jian ware",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Diameter: 12.8 cm (5 1/16 in.); Overall: 7.4 cm (2 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.136/1942.136_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.136",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.136"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, near Shui ch'i, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.136",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.372",
+  "uuid": "30dff5fe-aa8b-5435-bac2-6985a53dee3c",
+  "name": "Square Mirror with Felicitous Message",
+  "name_traditional": "Square Mirror with Felicitous Message",
+  "name_en": "Square Mirror with Felicitous Message",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 920,
+   "end": 1279,
+   "original": "early 900s–late 1200s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 0.7 x 16 cm (1/4 x 6 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.372/1995.372_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.372",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.372"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.372",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.699",
+  "uuid": "d1990110-aa12-54ac-8022-565fbd9ec19b",
+  "name": "Winter Scene",
+  "name_traditional": "Winter Scene",
+  "name_en": "Winter Scene",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "album leaf, ink on silk"
+  ],
+  "dimensions": "Diameter: 24 cm (9 7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Dr. J. C. [John Calvin] Ferguson [1866-1945], Newton, MA; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.699/1915.699_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.699",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.699"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.699",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.700",
+  "uuid": "a6ca4bd1-4bf7-54f8-a706-0fd5457e141a",
+  "name": "Dog Watching",
+  "name_traditional": "Dog Watching",
+  "name_en": "Dog Watching",
+  "dynasty": "dynasty.song",
+  "date": {
+   "start": 960,
+   "end": 1279,
+   "original": "960–1279",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Album leaf, ink and color on silk"
+  ],
+  "dimensions": "Diameter: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.700/1915.700_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.700",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.700"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.700",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

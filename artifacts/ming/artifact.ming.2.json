@@ -1,0 +1,4930 @@
+[
+ {
+  "id": "artifact.cleveland.1989.298",
+  "uuid": "e7bc32e6-63a1-52eb-a03e-dc88c1a9b8f9",
+  "name": "Candlesticks",
+  "name_traditional": "Candlesticks",
+  "name_en": "Candlesticks",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1600,
+   "end": 1699,
+   "original": "1600s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed porcelain with metal rims"
+  ],
+  "dimensions": "Overall: 32.4 cm (12 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Peng Seng, Bangkok, Thailand, sold to Severance and Greta Millikin); Severance A. [1895–1985] and Greta [Marguerite Steckerl] Millikin [1903–1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1989.298/1989.298_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1989.298",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1989.298"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1989.298",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.370",
+  "uuid": "077b07bd-26a1-5de7-8a05-8531288b8aa5",
+  "name": "Huzhou Mirror",
+  "name_traditional": "Huzhou Mirror",
+  "name_en": "Huzhou Mirror",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1500,
+   "end": 1599,
+   "original": "1500s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 15.8 cm (6 1/4 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.9 cm (3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.370/1995.370_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.370",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.370"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Huzhou, Ming dynasty (1368-1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.370",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.213",
+  "uuid": "ccb2ec40-4021-5f1d-869b-77050dad8361",
+  "name": "Ink Cake",
+  "name_traditional": "Ink Cake",
+  "name_en": "Ink Cake",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "其他"
+  ],
+  "material": [
+   "ink cake"
+  ],
+  "dimensions": "Overall: 2.4 x 15 x 22.9 cm (15/16 x 5 7/8 x 9 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Henry W. Kent [1866-1948], New York, NY and Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.213/1942.213_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.213",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.213"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.213",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.666",
+  "uuid": "21f78645-e06f-5787-8caa-ff4100165d04",
+  "name": "钧窑碗",
+  "name_traditional": "钧窑碗",
+  "name_en": "Bowl: Jun ware",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1300,
+   "end": 1500,
+   "original": "14th-15th Century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed gray stoneware"
+  ],
+  "dimensions": "Diameter: 18.4 cm (7 1/4 in.); Overall: 8.2 cm (3 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.666/1942.666_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.666",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.666"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=['钧窑']",
+   "dynasty_note": "multi-name:dynasty.yuan+dynasty.ming",
+   "culture_raw": "South China, Yuan dynasty (1271-1368) - Ming dynasty (1368-1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.666",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.713",
+  "uuid": "521e04f6-6f37-5f60-8bf9-9390fc426f35",
+  "name": "Small Jardiniere with Three Legs",
+  "name_traditional": "Small Jardiniere with Three Legs",
+  "name_en": "Small Jardiniere with Three Legs",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain, Fahua ware"
+  ],
+  "dimensions": "Diameter: 19.8 cm (7 13/16 in.); Overall: 15.3 cm (6 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "John L. Severance [1863–1936], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.713/1942.713_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.713",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.713"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi Province, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.713",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.171",
+  "uuid": "dc08e142-4944-5936-a1fb-2e56a8aab8e0",
+  "name": "杯",
+  "name_traditional": "杯",
+  "name_en": "Cup with Dragons and Phoenixes",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1522,
+   "end": 1566,
+   "original": "1522–66",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Diameter: 11 cm (4 5/16 in.); Overall: 10.5 cm (4 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Shen Jianhua, Hong Kong; (Frank Caro, New York, NY, sold to Severance and Greta Millikin); Severance A. [1895-1985] and Greta [Marguerite Steckerl] Millikin [1903-1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.171/1964.171_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.171",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.171"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:cup;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Jiajing mark and reign (1522-66)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.171",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.174",
+  "uuid": "a1e6f8d0-bed5-5daf-ba33-613bd425d5fd",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Square Jar",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1522,
+   "end": 1566,
+   "original": "1522–66",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with white glaze"
+  ],
+  "dimensions": "Diameter: 4.8 cm (1 7/8 in.); Overall: 12.1 x 10.1 cm (4 3/4 x 4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Nagatani, Inc., Chicago, IL, sold to Severance and Greta Millikin); Severance A. [1895-1985] and Greta [Marguerite Steckerl] Millikin [1903-1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.174/1964.174_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.174",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.174"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Jiajing mark and reign (1522-66)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.174",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.211",
+  "uuid": "2fd13c69-ed6f-5cbb-a4d4-4c608e22c56b",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Round Covered Box with Medallions",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1522,
+   "end": 1566,
+   "original": "1522–66",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Diameter: 5.8 cm (2 5/16 in.); Overall: 3.4 cm (1 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(J. T. Tai, New York, NY, sold to Severance and Greta Millikin); Severance A. [1895-1985] and Greta [Marguerite Steckerl] Millikin [1903-1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.211/1964.211_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.211",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.211"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Jiajing mark and reign (1522-66)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.211",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.211.a",
+  "uuid": "10d3e89e-84ae-5bfb-833a-8e3492f72bda",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Round Covered Box with Medallions",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1522,
+   "end": 1566,
+   "original": "1522–66",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Diameter: 5.8 cm (2 5/16 in.); Overall: 3.4 cm (1 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(J. T. Tai, New York, NY, sold to Severance and Greta Millikin); Severance A. [1895-1985] and Greta [Marguerite Steckerl] Millikin [1903-1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.211.a/1964.211.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.211.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.211.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Jiajing mark and reign (1522-66)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.211.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.231",
+  "uuid": "88782dad-dba6-53b7-b2b6-d755e7d58413",
+  "name": "Table Top Cupboard: Gui",
+  "name_traditional": "Table Top Cupboard: Gui",
+  "name_en": "Table Top Cupboard: Gui",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1500,
+   "end": 1599,
+   "original": "1500s",
+   "circa": true
+  },
+  "category": [
+   "家具"
+  ],
+  "material": [
+   "Rosewood (huanghuali)"
+  ],
+  "dimensions": "Overall: 83.8 x 43.2 cm (33 x 17 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "David Ketel, the Netherlands; (Frank Caro [1904–1980], New York, NY, sold to Severance and Greta Millikin); Severance A. [1895–1985] and Greta [Marguerite Steckerl] Millikin [1903–1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.231/1964.231_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.231",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.231"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.231",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1989.293",
+  "uuid": "b7e91b63-5fc4-5131-9996-313d93dfb5d2",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl with Ducks over Lotus Pond",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Diameter: 13.3 cm (5 1/4 in.); Overall: 6.6 cm (2 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Peng Seng, Bangkok, Thailand, sold to Severance and Greta Millikin); Severance A. [1895–1985] and Greta [Marguerite Steckerl] Millikin [1903–1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1989.293/1989.293_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1989.293",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1989.293"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1573-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1989.293",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.395",
+  "uuid": "043f6535-ff2e-5ad3-b1eb-a6542b539141",
+  "name": "Mirror with Confucian Maxim",
+  "name_traditional": "Mirror with Confucian Maxim",
+  "name_en": "Mirror with Confucian Maxim",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1400,
+   "end": 1499,
+   "original": "1400s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 8.3 cm (3 1/4 in.); Overall: 0.6 cm (1/4 in.); Rim: 0.5 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.395/1995.395_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.395",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.395"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.395",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.488",
+  "uuid": "c6e98d53-6780-594c-b304-79bbd8fdf02e",
+  "name": "Seal",
+  "name_traditional": "Seal",
+  "name_en": "Seal",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368– 1644",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 3.1 cm (1 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.488/1942.488_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.488",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.488"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) or earlier",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.488",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.205",
+  "uuid": "905bcdb4-8015-5c65-abbb-61e23ab122aa",
+  "name": "Ink Cake",
+  "name_traditional": "Ink Cake",
+  "name_en": "Ink Cake",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "其他"
+  ],
+  "material": [
+   "ink cake"
+  ],
+  "dimensions": "Overall: 2.4 x 8.8 cm (15/16 x 3 7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.205/1942.205_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.205",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.205"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.205",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.466",
+  "uuid": "e97c390c-a8bd-5e48-92c8-cb7a6e275299",
+  "name": "Ink Cake",
+  "name_traditional": "Ink Cake",
+  "name_en": "Ink Cake",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "其他"
+  ],
+  "material": [
+   "ink cake"
+  ],
+  "dimensions": "Diameter: 8.8 cm (3 7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.466/1952.466_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.466",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.466"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.466",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1961.15",
+  "uuid": "3ace673f-585d-545f-9e46-f7d7fab07c95",
+  "name": "Boy and Dog",
+  "name_traditional": "Boy and Dog",
+  "name_en": "Boy and Dog",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1400,
+   "end": 1500,
+   "original": "1400s",
+   "circa": true
+  },
+  "category": [
+   "石刻"
+  ],
+  "material": [
+   "Turquoise"
+  ],
+  "dimensions": "Overall: 3.9 x 5 cm (1 9/16 x 1 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1961.15/1961.15_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1961.15",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1961.15"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1961.15",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1966.117.a",
+  "uuid": "cf8d364b-5fea-511b-b8f3-e3d1f1fa6f3e",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Box with Cover",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with wucai (five color) overglaze enamel decoration"
+  ],
+  "dimensions": "Overall: 9 x 18.4 cm (3 9/16 x 7 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(N. V. Hammer, Inc.)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1966.117.a/1966.117.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1966.117.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1966.117.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1966.117.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1966.117.b",
+  "uuid": "78c2b077-0090-5050-b441-de2335b2df43",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Box with Cover (lid)",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with wucai (five color) overglaze enamel decoration"
+  ],
+  "dimensions": "Overall: 9 x 18.4 cm (3 9/16 x 7 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(N. V. Hammer, Inc.)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1966.117.b/1966.117.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1966.117.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1966.117.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1966.117.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.257",
+  "uuid": "7f0808bb-42bd-55eb-9c13-2e7b8b7e099a",
+  "name": "Dish",
+  "name_traditional": "Dish",
+  "name_en": "Dish",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368– 1644",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 4.5 cm (1 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.257/1972.257_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.257",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.257"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.257",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1930.315",
+  "uuid": "707fb66a-d09a-551d-8b9b-ce0b8f8b8480",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Dish",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1619,
+   "original": "1573–1619",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with blue glaze"
+  ],
+  "dimensions": "Diameter: 21 cm (8 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.315/1930.315_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1930.315",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1930.315"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli mark and reign (1573-1619)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1930.315",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.293",
+  "uuid": "4acea2bd-4756-50e0-bd71-304091011b77",
+  "name": "Head of a Lohan",
+  "name_traditional": "Head of a Lohan",
+  "name_en": "Head of a Lohan",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "earthenware"
+  ],
+  "dimensions": "Overall: 39.4 cm (15 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Purchased with funds from Worcester R. Warner [1846–1929] by Langdon Warner [1881–1955], given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.293/1917.293_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.293",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.293"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.293",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1944.224",
+  "uuid": "7ea721f8-6866-558a-867a-7eac055472b6",
+  "name": "觚形尊",
+  "name_traditional": "觚形尊",
+  "name_en": "Beaker Vase",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain, Fahua ware"
+  ],
+  "dimensions": "Overall: 45.2 cm (17 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Francis F. [Elisabeth Severance Allen] Prentiss [1865–1944], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.224/1944.224_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1944.224",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1944.224"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:beaker;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Shanxi province, Ming dynasty (1368-1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1944.224",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1948.210",
+  "uuid": "45ebf912-ee6e-5c4f-8677-5e994c9ee4c9",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware, Cizhou ware"
+  ],
+  "dimensions": "Diameter: 28 cm (11 in.); Overall: 15.8 cm (6 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Dikran G. Kelekian [1867–1951], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1948.210/1948.210_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1948.210",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1948.210"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1948.210",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1970.149.1",
+  "uuid": "291f39b7-7617-53c1-925d-6033b7756e90",
+  "name": "Seated Buddha",
+  "name_traditional": "Seated Buddha",
+  "name_en": "Seated Buddha",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1500,
+   "end": 1599,
+   "original": "1500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 9.9 cm (3 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. John Lyon [Georgia Forman Elliott] Collyer [1898–1994], Akron, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1970.149.1/1970.149.1_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1970.149.1",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1970.149.1"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1970.149.1",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.134",
+  "uuid": "f3a50ff5-db6c-59be-90e7-4d8f5bfe195b",
+  "name": "Bamboo",
+  "name_traditional": "Bamboo",
+  "name_en": "Bamboo",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Shogo Matsumoto, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.134/1932.134_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.134",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.134"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.134",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.133",
+  "uuid": "3d33a4bb-0f8c-52af-8475-dd6d7c271d4c",
+  "name": "Blossoms",
+  "name_traditional": "Blossoms",
+  "name_en": "Blossoms",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.133/1932.133_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.133",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.133"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.133",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1941.282",
+  "uuid": "4ea78f56-2609-5961-be99-fb34384fe39c",
+  "name": "Lotus Blossom",
+  "name_traditional": "Lotus Blossom",
+  "name_en": "Lotus Blossom",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 25.3 x 29.4 cm (9 15/16 x 11 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.282/1941.282_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1941.282",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1941.282"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1941.282",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.481",
+  "uuid": "0e3c0f03-46d3-58b7-a29e-33e3970f8443",
+  "name": "马",
+  "name_traditional": "马",
+  "name_en": "Horse",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1500,
+   "end": 1699,
+   "original": "1600s or earlier",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 3.5 cm (1 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.481/1952.481_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.481",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.481"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "jade:horse",
+   "dynasty_note": "multi-name:dynasty.ming+dynasty.qing",
+   "culture_raw": "China, Ming dynasty (1368-1644) - Qing dynasty (1644-1911)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.481",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1992.76.b",
+  "uuid": "80cb3734-634c-5ec7-9a46-3a038653cc33",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box with Dragons (lid)",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Overall: 8.9 x 15.2 cm (3 1/2 x 6 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Harley C. [1901–1991] and Elizabeth K. Lee [1908–1989], bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1992.76.b/1992.76.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1992.76.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1992.76.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1992.76.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.508",
+  "uuid": "d20221e7-20c1-58ae-afcd-f843b44cd387",
+  "name": "Bird Shaped Ink Stone",
+  "name_traditional": "Bird Shaped Ink Stone",
+  "name_en": "Bird Shaped Ink Stone",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade "
+  ],
+  "dimensions": "Overall: 7.7 cm (3 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.508/1952.508_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.508",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.508"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) ?",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.508",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1989.298.1",
+  "uuid": "677e4734-6530-5dcb-9bbb-380bf698eee0",
+  "name": "Candlestick",
+  "name_traditional": "Candlestick",
+  "name_en": "Candlestick",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1600,
+   "end": 1699,
+   "original": "1600s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed porcelain with metal rims"
+  ],
+  "dimensions": "Overall: 32.4 cm (12 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Peng Seng, Bangkok, Thailand, sold to Severance and Greta Millikin)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1989.298.1/1989.298.1_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1989.298.1",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1989.298.1"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1989.298.1",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1992.76",
+  "uuid": "9f69338e-cbdf-5a8a-83b3-59f79597b2b7",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box with Dragons",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Overall: 8.9 x 15.2 cm (3 1/2 x 6 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Harley C. [1901–1991] and Elizabeth K. Lee [1908–1989], bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1992.76/1992.76_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1992.76",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1992.76"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1992.76",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1992.76.a",
+  "uuid": "75ce9344-a0b5-596f-8167-81555e774caa",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box with Dragons",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Overall: 8.9 x 15.2 cm (3 1/2 x 6 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Harley C. [1901–1991] and Elizabeth K. Lee [1908–1989], bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1992.76.a/1992.76.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1992.76.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1992.76.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1992.76.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1944.210",
+  "uuid": "3a862909-8719-584b-b094-2d75a19e6606",
+  "name": "鼻烟壶",
+  "name_traditional": "鼻烟壶",
+  "name_en": "Flattened Ovoid Snuff Bottle with Stopper",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Overall: 7 cm (2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Francis F. [Elisabeth Severance Allen] Prentiss [1865-1944], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.210/1944.210_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1944.210",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1944.210"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:snuff bottle;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1944.210",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1989.298.2",
+  "uuid": "fecb743e-3cd0-5508-8c4e-1ac194d90ff2",
+  "name": "Candlestick",
+  "name_traditional": "Candlestick",
+  "name_en": "Candlestick",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1600,
+   "end": 1699,
+   "original": "1600s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed porcelain with metal rims"
+  ],
+  "dimensions": "Overall: 32.4 cm (12 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Peng Seng, Bangkok, Thailand, sold to Severance and Greta Millikin); Severance A. [1895–1985] and Greta [Marguerite Steckerl] Millikin [1903–1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1989.298.2/1989.298.2_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1989.298.2",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1989.298.2"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1989.298.2",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.112",
+  "uuid": "84f7407e-6ace-5695-a3a3-8e581e5d8305",
+  "name": "Madam Han Neefang",
+  "name_traditional": "Madam Han Neefang",
+  "name_en": "Madam Han Neefang",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "hanging scroll; ink and color on silk"
+  ],
+  "dimensions": "Painting: 130 x 78.3 cm (51 3/16 x 30 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Charles Lang Freer [1854–1919], Detroit, MI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.112/1915.112_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.112",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.112"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.112",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.364",
+  "uuid": "e60001cb-d055-5a74-bd4a-c73ec38addfe",
+  "name": "定窑瓶",
+  "name_traditional": "定窑瓶",
+  "name_en": "Vase: Ding ware",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Diameter: 20 cm (7 7/8 in.); Overall: 33.7 cm (13 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.364/1915.364_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.364",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.364"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=['定窑']",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.364",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.389",
+  "uuid": "7eab02d9-b702-5a1d-8c5c-6573acda9281",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar, T'u Ting yao",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Diameter: 27 cm (10 5/8 in.); Overall: 76.8 cm (30 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.389/1915.389_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.389",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.389"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.389",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1925.133",
+  "uuid": "3413afd7-36a7-53e4-80c2-852883b6930e",
+  "name": "Head of a Patriarch",
+  "name_traditional": "Head of a Patriarch",
+  "name_en": "Head of a Patriarch",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1200,
+   "end": 1644,
+   "original": "1368–1644 or earlier",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "wood covered with lacquer"
+  ],
+  "dimensions": "Overall: 32 x 20 cm (12 5/8 x 7 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1925.133/1925.133_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1925.133",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1925.133"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Ming dynasty (1368-1644) or earlier",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1925.133",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.130",
+  "uuid": "aa822b6d-1add-562e-a82e-d49c9d5435a4",
+  "name": "Bamboo",
+  "name_traditional": "Bamboo",
+  "name_en": "Bamboo",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.130/1932.130_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.130",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.130"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.130",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1941.291",
+  "uuid": "4622ff2a-9826-5e80-a676-cefd1fa3af36",
+  "name": "Bamboo and Rock",
+  "name_traditional": "Bamboo and Rock",
+  "name_en": "Bamboo and Rock",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 24.5 x 30 cm (9 5/8 x 11 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.291/1941.291_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1941.291",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1941.291"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1941.291",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.309",
+  "uuid": "17c75b65-3e17-5063-a329-6ba4e525d8ec",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Tripod Bulb Dish",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Diameter: 32.4 cm (12 3/4 in.); Overall: 10.8 cm (4 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.309/1917.309_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.309",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.309"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.309",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.2",
+  "uuid": "e537c85d-79fd-52d2-8032-243eae41f42a",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Vase",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain, Ding ware"
+  ],
+  "dimensions": "Overall: 26.4 cm (10 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Ralph King [1855-1926], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.2/1917.2_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.2",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.2"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.2",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.305",
+  "uuid": "74945a19-c83b-5d6d-b260-4226b0bc094a",
+  "name": "Helmet",
+  "name_traditional": "Helmet",
+  "name_en": "Helmet",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "兵器"
+  ],
+  "material": [
+   "iron inlaid with gold"
+  ],
+  "dimensions": "Overall: 31.5 cm (12 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Langdon Warner [1881-1955], Cambridge, MA, acquired for the Worcester R. Warner Collection, then given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.305/1917.305_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.305",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.305"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "Sino-Tibetan, Ming dynasty (1368-1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.305",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.313",
+  "uuid": "7f220500-b61a-5263-8843-732caa1e2fcf",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Pilgrim Bottle",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Overall: 20.4 cm (8 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.313/1917.313_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.313",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.313"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bottle;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.313",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.128",
+  "uuid": "fe97f186-ed61-54d7-88ca-7f89a4e3a544",
+  "name": "Untitled",
+  "name_traditional": "Untitled",
+  "name_en": "Untitled",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.128/1932.128_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.128",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.128"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.128",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1944.210.b",
+  "uuid": "d83fe99e-6ea0-555c-ad7a-138376396405",
+  "name": "鼻烟壶",
+  "name_traditional": "鼻烟壶",
+  "name_en": "Flattened Ovoid Snuff Bottle with  Stopper (stopper)",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Overall: 7 cm (2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Francis F. [Elisabeth Severance Allen] Prentiss [1865–1944], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.210.b/1944.210.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1944.210.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1944.210.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:snuff bottle;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1944.210.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.606",
+  "uuid": "da136369-ac31-55a6-820e-bc2352e27b0e",
+  "name": "Tripod:  Ding",
+  "name_traditional": "Tripod:  Ding",
+  "name_en": "Tripod:  Ding",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Diameter: 19.1 cm (7 1/2 in.); Overall: 17.2 cm (6 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.606/1956.606_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.606",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.606"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.606",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1966.117",
+  "uuid": "e0750e90-6e7a-5731-ba83-4356b2205a3f",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Box with Cover",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with wucai (five color) overglaze enamel decoration"
+  ],
+  "dimensions": "Overall: 9 x 18.4 cm (3 9/16 x 7 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(N. V. Hammer, Inc.)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1966.117/1966.117_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1966.117",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1966.117"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1966.117",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.377",
+  "uuid": "2169e0ff-4a5d-52dd-bb9a-423dc25993ec",
+  "name": "Dragon Mirror",
+  "name_traditional": "Dragon Mirror",
+  "name_en": "Dragon Mirror",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "mid-1300s–mid-1600s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 14.1 cm (5 9/16 in.); Overall: 1.3 cm (1/2 in.); Rim: 1 cm (3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.377/1995.377_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.377",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.377"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.377",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1920.410",
+  "uuid": "1ed0ea1f-c869-5cf1-abef-e072a0c71855",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1426,
+   "end": 1435,
+   "original": "1426–1435",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Overall: 9 cm (3 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1920.410/1920.410_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1920.410",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1920.410"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644), Xuande reign (1425-1435)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1920.410",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.127",
+  "uuid": "ee566547-99a3-5378-9505-706e2038e94e",
+  "name": "Blossoms and Birds",
+  "name_traditional": "Blossoms and Birds",
+  "name_en": "Blossoms and Birds",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.127/1932.127_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.127",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.127"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.127",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1941.286",
+  "uuid": "96ac74bd-a449-5740-96ef-9d89d0bb0d5f",
+  "name": "Flowering Prunus",
+  "name_traditional": "Flowering Prunus",
+  "name_en": "Flowering Prunus",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 30.4 x 25 cm (11 15/16 x 9 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.286/1941.286_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1941.286",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1941.286"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1941.286",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.711",
+  "uuid": "d7bfc4b3-fca4-5d37-b8bc-d8273330310a",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Double Gourd-shaped Green Vase",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware"
+  ],
+  "dimensions": "Overall: 20.2 cm (7 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.711/1956.711_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.711",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.711"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.711",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.707",
+  "uuid": "7aa2623f-99ca-5be1-8f95-0adf7347dc78",
+  "name": "Man on a Hillside under a Tree Overlooking a River",
+  "name_traditional": "Man on a Hillside under a Tree Overlooking a River",
+  "name_en": "Man on a Hillside under a Tree Overlooking a River",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368?-1644?",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Album leaf, ink and color on silk"
+  ],
+  "dimensions": "Overall: 23.4 x 25.3 cm (9 3/16 x 9 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.707/1915.707_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.707",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.707"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) ?",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.707",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1952.284",
+  "uuid": "e716ba01-dd4a-5f9a-8c68-01816fc994df",
+  "name": "Fan-shaped Album Painting",
+  "name_traditional": "Fan-shaped Album Painting",
+  "name_en": "Fan-shaped Album Painting",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "ink and slight color on silk"
+  ],
+  "dimensions": "Overall: 27.9 x 23 cm (11 x 9 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Vladimir G. Simkhovitch [1874–1959], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.284/1952.284_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.284",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.284"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.284",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1998.95",
+  "uuid": "742e2087-a3be-527e-8fa4-a606bb40c0ca",
+  "name": "Landscape",
+  "name_traditional": "Landscape",
+  "name_en": "Landscape",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1626,
+   "end": 1626,
+   "original": "1626",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "folding fan, ink and color on gold paper"
+  ],
+  "dimensions": "Open and extended: 17.5 x 54 cm (6 7/8 x 21 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1998.95/1998.95_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1998.95",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1998.95"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Suzhou, Ming dynasty (1368-1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1998.95",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.708",
+  "uuid": "1bfff7f4-14fa-5bdf-829a-9252861d0b15",
+  "name": "Lake Scene",
+  "name_traditional": "Lake Scene",
+  "name_en": "Lake Scene",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644(?)",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Album leaf, ink and color on silk"
+  ],
+  "dimensions": null,
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Dr. J. C. [John Calvin] Ferguson [福開森, 1866–1945], sold to the John Huntington Art and Polytechnic Trust as gift to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.708/1915.708_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.708",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.708"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) ?",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.708",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.711",
+  "uuid": "f9ee00d6-2971-5727-acbc-cf68fd4999e1",
+  "name": "Plants and Insects",
+  "name_traditional": "Plants and Insects",
+  "name_en": "Plants and Insects",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Ink and color on silk panel"
+  ],
+  "dimensions": "Painting: 147.3 x 106.6 cm (58 x 41 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.711/1915.711_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.711",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.711"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.711",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.126",
+  "uuid": "c96d7b72-8889-5b85-b5df-51c586c640e6",
+  "name": "Untitled",
+  "name_traditional": "Untitled",
+  "name_en": "Untitled",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.126/1932.126_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.126",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.126"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.126",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.361",
+  "uuid": "03dcac62-6fad-5541-8476-9f050eb4cd6f",
+  "name": "定窑瓶",
+  "name_traditional": "定窑瓶",
+  "name_en": "Double Gourd-shaped Bottle: Ding ware",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Diameter: 22.3 cm (8 3/4 in.); Overall: 43.2 cm (17 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.361/1915.361_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.361",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.361"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bottle;glaze=['定窑']",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.361",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.301",
+  "uuid": "0f7417a5-2c95-5e98-b983-6b9230520e61",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Gourd-shaped Vase",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Overall: 23.6 cm (9 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.301/1917.301_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.301",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.301"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.301",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1941.287",
+  "uuid": "e78bd7e3-a789-5b8a-83da-bf4848d29c05",
+  "name": "Swallow on Flowering Peach Branch",
+  "name_traditional": "Swallow on Flowering Peach Branch",
+  "name_en": "Swallow on Flowering Peach Branch",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.8 x 24.8 cm (11 5/16 x 9 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.287/1941.287_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1941.287",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1941.287"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1941.287",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.712",
+  "uuid": "a44e6e40-1c4a-559d-ae9c-aa173feeb1ed",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Vase:  Dhong-ke Ware",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "white crackled stoneware"
+  ],
+  "dimensions": "Overall: 11.8 cm (4 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.712/1956.712_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.712",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.712"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.712",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1930.305",
+  "uuid": "d248451d-3452-5b4e-86da-a2e3c1033d63",
+  "name": "Tea Cup",
+  "name_traditional": "Tea Cup",
+  "name_en": "Tea Cup",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1500,
+   "end": 1525,
+   "original": "early 1500s",
+   "circa": true
+  },
+  "category": [
+   "漆器"
+  ],
+  "material": [
+   "guri lacquer"
+  ],
+  "dimensions": "Diameter: 6.4 cm (2 1/2 in.); Overall: 7.6 cm (3 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.305/1930.305_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1930.305",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1930.305"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1930.305",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1930.307",
+  "uuid": "d2d80f1c-c3d7-5b8d-9d7a-e271777d63b8",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Vase",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain with underglaze blue decoration"
+  ],
+  "dimensions": "Overall: 21.4 cm (8 7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Spink & Son, Ltd.)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.307/1930.307_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1930.307",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1930.307"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1930.307",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.132",
+  "uuid": "d1a694c1-ce0c-5946-9a67-aff9bf0eb541",
+  "name": "Untitled",
+  "name_traditional": "Untitled",
+  "name_en": "Untitled",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.132/1932.132_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.132",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.132"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.132",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.37",
+  "uuid": "2b4f02a2-9f91-57b1-ac71-df3691f9dbad",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1300,
+   "end": 1499,
+   "original": "1300s–1400s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed gray stoneware, Jun ware"
+  ],
+  "dimensions": "Diameter: 17.8 cm (7 in.); Overall: 7.7 cm (3 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Beijing, China. Seller's no. 13; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.37/1957.37_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.37",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.37"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.yuan+dynasty.ming",
+   "culture_raw": "North China, Yuan dynasty (1271-1368) - Ming dynasty (1368-1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.37",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1920.405",
+  "uuid": "8c26671d-321f-54e1-b5dc-e2563cab1e6d",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Vase",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1475,
+   "end": 1499,
+   "original": "late 1400s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain, Fahua ware"
+  ],
+  "dimensions": "Overall: 29.9 cm (11 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mr. Jeptha Homer Wade II [1857–1926], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1920.405/1920.405_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1920.405",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1920.405"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi Province, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1920.405",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1941.284",
+  "uuid": "b1d41714-7238-586b-8672-7fdac355b3d6",
+  "name": "Flowering Magnolia and Peach Blossoms",
+  "name_traditional": "Flowering Magnolia and Peach Blossoms",
+  "name_en": "Flowering Magnolia and Peach Blossoms",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.8 x 25 cm (11 5/16 x 9 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.284/1941.284_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1941.284",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1941.284"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1941.284",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.236",
+  "uuid": "eb0e66ae-7329-567a-93c3-60cdccba29d0",
+  "name": "Ink Cake",
+  "name_traditional": "Ink Cake",
+  "name_en": "Ink Cake",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "其他"
+  ],
+  "material": [
+   "ink cake"
+  ],
+  "dimensions": "Overall: 3.6 cm (1 7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Henry W. Kent [1866-1948], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.236/1942.236_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.236",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.236"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.236",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.111",
+  "uuid": "e9756473-a5ef-5f69-848b-c59a22f083d7",
+  "name": "Han Yige",
+  "name_traditional": "Han Yige",
+  "name_en": "Han Yige",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "c. 1368–1644",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "hanging scroll; color on silk"
+  ],
+  "dimensions": "Painting: 142.9 x 82.1 cm (56 1/4 x 32 5/16 in.); Overall with knobs: 194 x 95.5 cm (76 3/8 x 37 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Charles L. Freer [1854–1919], Detroit, MI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.111/1915.111_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.111",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.111"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.111",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1925.791",
+  "uuid": "fcf12f52-f962-50e6-b653-5a8c4356c98c",
+  "name": "器",
+  "name_traditional": "器",
+  "name_en": "Sacrificial Vessel",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "Ming dynasty (1368–1644) ?",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 11.5 x 15.3 cm (4 1/2 x 6 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Purchased by Samuel Mather from a merchant in Nikko, Japan, 1924",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1925.791/1925.791_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1925.791",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1925.791"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:vessel;form=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) ?",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1925.791",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.129",
+  "uuid": "cb9dcd7c-4410-5a68-87f0-ea3c1c1820ae",
+  "name": "Bamboo",
+  "name_traditional": "Bamboo",
+  "name_en": "Bamboo",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.129/1932.129_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.129",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.129"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.129",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1932.131",
+  "uuid": "cd829e14-03ff-56e0-a3fa-5379e58ee847",
+  "name": "Untitled",
+  "name_traditional": "Untitled",
+  "name_en": "Untitled",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1625,
+   "end": 1625,
+   "original": "1625",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.3 x 30.8 cm (11 1/8 x 12 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1932.131/1932.131_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1932.131",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1932.131"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name",
+   "culture_raw": "China, Ming dynasty (1368–1644)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1932.131",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1941.281",
+  "uuid": "40327172-7602-5b04-8d97-bea3feda3e43",
+  "name": "Branching Stump",
+  "name_traditional": "Branching Stump",
+  "name_en": "Branching Stump",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1368,
+   "end": 1644,
+   "original": "1368–1644",
+   "circa": true
+  },
+  "category": [
+   "版画"
+  ],
+  "material": [
+   "color woodblock print"
+  ],
+  "dimensions": "Overall: 28.6 x 24.8 cm (11 1/4 x 9 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1941.281/1941.281_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1941.281",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1941.281"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Ming dynasty (1368-1644) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1941.281",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1944.210.a",
+  "uuid": "569d946d-1215-596c-9124-e067a929d272",
+  "name": "鼻烟壶",
+  "name_traditional": "鼻烟壶",
+  "name_en": "Flattened Ovoid Snuff Bottle with Stopper",
+  "dynasty": "dynasty.ming",
+  "date": {
+   "start": 1573,
+   "end": 1620,
+   "original": "1573–1620",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Overall: 7 cm (2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Francis F. [Elisabeth Severance Allen] Prentiss [1865–1944], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1944.210.a/1944.210.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1944.210.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1944.210.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:snuff bottle;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Jiangxi province, Jingdezhen kilns, Ming dynasty (1368-1644), Wanli reign (1572-1620)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1944.210.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

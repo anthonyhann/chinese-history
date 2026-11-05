@@ -1,0 +1,4098 @@
+[
+ {
+  "id": "artifact.met.39959",
+  "uuid": "a1051b39-1a04-5095-aafe-18964d0b7387",
+  "name": "A Diplomatic Mission to the Jin",
+  "name_traditional": "A Diplomatic Mission to the Jin",
+  "name_en": "A Diplomatic Mission to the Jin",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1156,
+   "end": 1159,
+   "original": "ca. late 1150s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Handscroll; ink and color on silk"
+  ],
+  "dimensions": "Image: 10 1/2 in. × 56 in. (26.7 × 142.2 cm)\r\nOverall with mounting: 11 5/8 in. × 26 ft. 11 3/4 in. (29.5 × 822.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Edward Elliott Family Collection, Purchase, The Dillon Fund Gift, 1982",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP165265_CRD.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 39959",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/39959"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 39959,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.42462",
+  "uuid": "da11ced5-d700-591b-906b-c8371fe700ab",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Plate with two deer amid flowers",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with mold-impressed decoration under ivory white glaze (Ding ware)"
+  ],
+  "dimensions": "H. 1 in. (2.5 cm); Diam. 8 3/8 in. (21.3 cm); Diam. of foot 5 3/8 in. (13.7 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1918",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DT258469.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 42462",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/42462"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:plate;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 42462,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.46607",
+  "uuid": "3a7ec271-5ac6-5dd2-a190-5d71491cab1e",
+  "name": "Figure of a standing servant",
+  "name_traditional": "Figure of a standing servant",
+  "name_en": "Figure of a standing servant",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware painted with polychrome enamels (Cizhou type ware)"
+  ],
+  "dimensions": "H. 7 in. (17.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Mrs. Samuel T. Peters, 1926",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/26_292_66_O1_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 46607",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/46607"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 46607,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.46796",
+  "uuid": "a7d3f562-0413-5839-ba1f-4ffeff768833",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Vase",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with marbled slip decoration (Cizhou type ware)"
+  ],
+  "dimensions": "H. 8 3/8 in. (21.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1921",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/21_118_01.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 46796",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/46796"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 46796,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48145",
+  "uuid": "3144eb6a-3348-5e12-b429-40f24974eab4",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Lobed dish (one of a pair)",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with white glaze (Ding ware type"
+  ],
+  "dimensions": "Diam. 3 1/2 in. (8.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Albert Gallatin, 1916",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/34117.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48145",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48145"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48145,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48146",
+  "uuid": "038f9665-0216-58be-9729-b37542b7e40c",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with white glaze (Ding ware)"
+  ],
+  "dimensions": "H. 2 1/4 in. (5.7 cm); Diam. 4 3/4 in. (12.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1917",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/17_118_36_O1_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48146",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48146"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48146,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48150",
+  "uuid": "0fa0f525-6772-548a-a96f-09a5383dd676",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with white glaze (Ding ware)"
+  ],
+  "dimensions": "H. 3 1/4 in. (8.3 cm); Diam. 8 1/4 in. (21 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1917",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/17_175_8_O1_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48150",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48150"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48150,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48362",
+  "uuid": "f547f805-8b9e-51f2-8f50-cbf609f18523",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1279,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with bluish glaze (Jun ware)"
+  ],
+  "dimensions": "H. 2 1/4 in. (5.7 cm); Diam. 4 1/2 in. (11.4 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of Robert West, 1950",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/50_221_23_O1_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48362",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48362"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48362,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48384",
+  "uuid": "593418f4-cb0c-5150-bee2-faa1d974bc6e",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Dish",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with light blue glaze (Jun ware)"
+  ],
+  "dimensions": "H. 1 3/8 in. (3.5 cm); Diam. 6 in. (15.2 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1916",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/16_91_02.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48384",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48384"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48384,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.48386",
+  "uuid": "db17eaaf-1fd9-5854-8616-7bf9508c8c84",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Dish",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1200,
+   "end": 1234,
+   "original": "13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with light blue glaze (Jun ware)"
+  ],
+  "dimensions": "H. 1 3/8 in. (3.5 cm); Diam. 6 1/2 in. (16.5 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1918",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/18_56_51_03.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 48386",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/48386"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 48386,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.50232",
+  "uuid": "3e34704a-4f76-5703-943b-69184a2b0fc7",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Dish with lion among floral sprays",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with mold-impressed decoration under ivory glaze (Ding ware)"
+  ],
+  "dimensions": "H. 1 in. (2.5 cm); Diam. 6 3/4 in. (17.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Bequest of Mary Stillman Harkness, 1950",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/50_145_320_O1_sf.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 50232",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/50232"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 50232,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.52671",
+  "uuid": "c1d9496c-7a6f-5990-b0bd-098e1b6885fb",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "12th–13th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with varieated blue glaze (Jun ware)"
+  ],
+  "dimensions": "H. 3 3/8 in. (8.6 cm); Diam. 6 in. (15.2 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Mrs. Samuel T. Peters, 1926",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/103475.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 52671",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/52671"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 52671,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.75720",
+  "uuid": "98a5ff0b-f649-54f8-9e02-5e26d9c290cb",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Chrysanthemum-petal dish with longevity signs of tortoise and cranes",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "12th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with impressed design under glaze (Ding ware)"
+  ],
+  "dimensions": "H. 1 in. (2.5 cm); Diam. 8 3/4 in. (22.2 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Miriam and Ira D. Wallach Foundation Gift, 2010",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-46054-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 75720",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/75720"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 75720,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.897883",
+  "uuid": "2795e1eb-480a-5cda-a991-a5bdadbb1277",
+  "name": "香炉",
+  "name_traditional": "香炉",
+  "name_en": "Tripod incense burner with archaistic patterns",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "12th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with molded decoration under celadon glaze (Yaozhou ware)"
+  ],
+  "dimensions": "H. (to handles) 9 in. (22.9 cm); W. 8 3/4 in. (22.2 cm); Diam. 8 1/2 in. (21.6 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Robert Hatfield Ellsworth Bequest, 2024",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-35751-003.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 897883",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/897883"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:incense burner;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 897883,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1981.53",
+  "uuid": "527aa87d-eb01-59cf-bf97-92b4e2b232dd",
+  "name": "观音像",
+  "name_traditional": "观音像",
+  "name_en": "Eleven-Headed Guanyin",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1200,
+   "original": "1100–1200",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "wood with polychromy and cut gold"
+  ],
+  "dimensions": "Overall: 218.5 cm (86 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Sotheby's, New York, NY, sale October 19, 1944, lot 229, sold to C. T. Loo); (C. T. Loo 盧芹齋 [1880–1957], Paris and New York); Anne Valliant Burnett Tandy [1900–1980], Fort Worth, Texas, consigned to Sotheby's New York; (Sotheby's, New York, NY, sale November 6, 1981, lot 50); (J. E. Eskenazi, Ltd., London, England, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1981.53/1981.53_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1981.53",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1981.53"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:guanyin",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1981.53",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1984.70",
+  "uuid": "d4ab547d-0619-52c2-b965-3760a0e6f132",
+  "name": "观音像",
+  "name_traditional": "观音像",
+  "name_en": "Seated Guanyin",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1175,
+   "end": 1234,
+   "original": "late 1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "wood with polychromy and gilding"
+  ],
+  "dimensions": "Overall: 138 cm (54 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Yamanaka & Co., Inc., New York, NY, consigned to Sotheby Parke Bernet Galleries, New York, for auction; (Sotheby Parke Bernet Galleries, New York.  \"Oriental Art: the Entire Stock of the New York Store with Additions from the Chicago Store of Yamanaka & Co., Inc.,\"  Part I. May 24–27, 1944 sale. Lot 782); Collection of Baron Jean Germain Léon Cassel van Doorn [1882–1952]; Florence J. Gould [1895–1983], Juan-les Pins, France; (Sotheby Parke Bernet, Monaco. \"Porcelaines de Chine et Objets d'art Chinois: Succession de Florence J. Gould.\" June 27, 1984 sale. Lot 104. Sold to J. E. Eskenazi ,Ltd.);",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1984.70/1984.70_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1984.70",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1984.70"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:guanyin",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1984.70",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1953.126",
+  "uuid": "17cf26e6-9572-50df-9f7d-1939116e10b1",
+  "name": "Streams and Mountains without End",
+  "name_traditional": "Streams and Mountains without End",
+  "name_en": "Streams and Mountains without End",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1150,
+   "original": "1100–1150",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "handscroll; ink and slight color on silk"
+  ],
+  "dimensions": "Image: 35.1 x 213 cm (13 13/16 x 83 7/8 in.); Overall: 35.1 x 1103.8 cm (13 13/16 x 434 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Chen Ming 陳明 [active mid-1300s]; Wang Changheng 王長恒 [active 1600s]; Liang Qingbiao 梁清標 [1620–1691]; Zhang Bingqian 張秉乾 [juren of 1729]; Qing imperial collection (seals of Emperors Qianlong, r. 1736–1795, Jiaqing, r. 1796–1820, and Xuantong, r. 1909–1911); Ye Gongchuo 葉恭綽 [1881–1968]; Zhang Daqian 張大千 [1899–1983]; (A dealer, Hong Kong, sold to Walter Hochstadter); (Walter Hochstadter [1914–2007], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1953.126/1953.126_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1953.126",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1953.126"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1953.126",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.376",
+  "uuid": "f2749794-af6f-5c5f-bfdc-ebf2f0041afd",
+  "name": "Octafoil-shaped Mirror Featuring Ci Fei, the Dragon Slayer",
+  "name_traditional": "Octafoil-shaped Mirror Featuring Ci Fei, the Dragon Slayer",
+  "name_en": "Octafoil-shaped Mirror Featuring Ci Fei, the Dragon Slayer",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 900,
+   "end": 1399,
+   "original": "900s–1300s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 17.2 cm (6 3/4 in.); Overall: 1.1 cm (7/16 in.); Rim: 0.5 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Drs. Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.376/1995.376_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.376",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.376"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234) or Korea, Goryeo dynasty (918-1392)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.376",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.375",
+  "uuid": "9629a6c0-0fdf-57b1-b885-7a278c769649",
+  "name": "Octafoil Mirror with Lunar Palace",
+  "name_traditional": "Octafoil Mirror with Lunar Palace",
+  "name_en": "Octafoil Mirror with Lunar Palace",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "early 1100s–mid-1200s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 21.3 cm (8 3/8 in.); Overall: 0.9 cm (3/8 in.); Rim: 0.8 cm (5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.375/1995.375_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.375",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.375"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115–1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.375",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2001.107",
+  "uuid": "6561020b-90aa-563d-bb8c-a210806ea882",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl with Peonies",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "c. 1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "green-glazed stoneware with molded decoration, Yaozhou ware"
+  ],
+  "dimensions": "Overall: 5 x 19.3 cm (1 15/16 x 7 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(K. Y. Ng, Hong Kong, purchased with funds from Mrs. Charlotte Kahn as gift for the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2001.107/2001.107_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2001.107",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2001.107"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Shaanxi province, Tongchuan, Huangbaozhen, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2001.107",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1923.54",
+  "uuid": "437b4504-78a7-5e03-8004-af63e957474e",
+  "name": "Head of a Bodhisattva",
+  "name_traditional": "Head of a Bodhisattva",
+  "name_en": "Head of a Bodhisattva",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "wood"
+  ],
+  "dimensions": "Overall: 86.4 x 40.6 x 38.1 cm (34 x 16 x 15 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(C. T. Loo 盧芹齋 [1880–1957] sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1923.54/1923.54_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1923.54",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1923.54"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, reportedly from Henan province, Northern Song (960-1127) to Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1923.54",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.56",
+  "uuid": "c34905d5-43a3-5479-a040-917d4ed5a939",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Lady Holding a Vase",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with slip decoration, Cizhou ware"
+  ],
+  "dimensions": "Overall: 19.7 x 9.5 cm (7 3/4 x 3 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Beijing, China. Seller's no. 58; Edward Chao, Hong Kong; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.56/1957.56_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.56",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.56"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.56",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.36",
+  "uuid": "3a45d361-dc26-57d9-9b99-a30a51b0d6fd",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar with Cover",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelaneous stoneware with blue glaze and splashes of purple, Jun ware"
+  ],
+  "dimensions": "Diameter: 12.1 cm (4 3/4 in.); Overall: 9.5 cm (3 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Seller's no. 12",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.36/1957.36_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.36",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.36"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Henan province, Yuxian, Northern Song dynasty (960-1127) or Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.36",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.36.a",
+  "uuid": "159d5118-e640-52b1-9ca9-73b797d74c95",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar with Cover",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelaneous stoneware with blue glaze and splashes of purple, Jun ware"
+  ],
+  "dimensions": "Diameter: 12.1 cm (4 3/4 in.); Overall: 9.5 cm (3 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Seller's no. 12",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.36.a/1957.36.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.36.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.36.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Henan province, Yuxian, Northern Song dynasty (960-1127) or Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.36.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.36.b",
+  "uuid": "dbf1c2bf-042d-53ec-83f0-b00c08d89f48",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar with Cover (cover)",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelaneous stoneware with blue glaze and splashes of purple, Jun ware"
+  ],
+  "dimensions": "Diameter: 12.1 cm (4 3/4 in.); Overall: 9.5 cm (3 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Seller's no. 12",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.36.b/1957.36.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.36.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.36.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Henan province, Yuxian, Northern Song dynasty (960-1127) or Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.36.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.665",
+  "uuid": "199f4dec-ed84-5246-be32-59ef59d842f4",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Plate",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with mottled glaze, Jun ware"
+  ],
+  "dimensions": "Diameter: 18.1 cm (7 1/8 in.); Overall: 2.5 cm (1 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "John L. Severance [1863–1936], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.665/1942.665_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.665",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.665"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:plate;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "Northern China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.665",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1948.213",
+  "uuid": "c5f365fa-28e4-552c-8c2e-b7f2e1ed3ac6",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1200,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware with black slip and iron-brown painted decoration"
+  ],
+  "dimensions": "Overall: 30.2 cm (11 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Dikran G. Kelekian [1867–1951], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1948.213/1948.213_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1948.213",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1948.213"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "Northern China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1948.213",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1989.272",
+  "uuid": "a088b6fe-5651-59bc-90a3-2ee9f28f2b2a",
+  "name": "茶盏",
+  "name_traditional": "茶盏",
+  "name_en": "Tea Bowl",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware with \"oil spot\" glaze, black ware"
+  ],
+  "dimensions": "Diameter: 8.8 cm (3 7/16 in.); Overall: 4.4 cm (1 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Heeramaneck Galleries, NY); Severance and Greta Millikin, 1959",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1989.272/1989.272_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1989.272",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1989.272"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:tea bowl;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "Northern China, Henan province, Northern Song dynasty (960-1127) or Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1989.272",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1963.581",
+  "uuid": "452d7f79-6e58-5490-acd4-3b2e4f85580b",
+  "name": "菩萨像",
+  "name_traditional": "菩萨像",
+  "name_en": "Standing Bodhisattva",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1200,
+   "end": 1300,
+   "original": "1200s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "wood with traces of polychromy and gold leaf"
+  ],
+  "dimensions": "Overall: 146.1 x 57.2 cm (57 1/2 x 22 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1963.581/1963.581_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1963.581",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1963.581"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:bodhisattva",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1963.581",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.357",
+  "uuid": "f4c7801a-dba5-5480-a7c9-0b4e0ae75503",
+  "name": "Mirror with Auspicious Animals, Celestial Horses, and Grapevines",
+  "name_traditional": "Mirror with Auspicious Animals, Celestial Horses, and Grapevines",
+  "name_en": "Mirror with Auspicious Animals, Celestial Horses, and Grapevines",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "early 1100s–mid-1200s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 25.9 cm (10 3/16 in.); Overall: 0.8 cm (5/16 in.); Rim: 0.9 cm (3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Drs. Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.357/1995.357_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.357",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.357"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.357",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.379",
+  "uuid": "dcff56f3-7048-539d-a1e1-d7fca534848a",
+  "name": "Mirror with Twin Carp",
+  "name_traditional": "Mirror with Twin Carp",
+  "name_en": "Mirror with Twin Carp",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1200,
+   "end": 1230,
+   "original": "c. 1200–25",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 17.9 cm (7 1/16 in.); Overall: 0.9 cm (3/8 in.); Rim: 0.7 cm (1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.379/1995.379_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.379",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.379"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.379",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.382",
+  "uuid": "78967b30-a774-5415-9073-7e27f7738944",
+  "name": "Mirror with Wheel Spokes and Riding Boys",
+  "name_traditional": "Mirror with Wheel Spokes and Riding Boys",
+  "name_en": "Mirror with Wheel Spokes and Riding Boys",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1196,
+   "end": 1234,
+   "original": "c. 1196–1234",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 13.3 cm (5 1/4 in.); Overall: 0.8 cm (5/16 in.); Rim: 0.7 cm (1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.382/1995.382_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.382",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.382"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.382",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.702",
+  "uuid": "b62551d6-a9ab-5612-a950-8d92ef8ae701",
+  "name": "盆",
+  "name_traditional": "盆",
+  "name_en": "Basin",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "cream-glazed porcelain with incised decoration, Ding ware"
+  ],
+  "dimensions": "Overall: 15.6 x 30.2 cm (6 1/8 x 11 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.702/1956.702_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.702",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.702"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:basin;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei province, Quyang, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.702",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.49",
+  "uuid": "b8ba01a6-88bb-5d09-ae51-246a3021d434",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Large Bowl with Peony Scrolls",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1200,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "cream-glazed porcelain with molded design and copper-bound mouth rim, Ding ware"
+  ],
+  "dimensions": "Diameter: 26 cm (10 1/4 in.); Overall: 8.6 cm (3 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, Seller's No. 40;  Edward Chao, Hong Kong;  (Frank Caro)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.49/1957.49_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.49",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.49"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei province, Quyang, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.49",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.387",
+  "uuid": "5f6a5f0c-099f-563a-bb08-0a10177ba5df",
+  "name": "Mirror with Three Dragons",
+  "name_traditional": "Mirror with Three Dragons",
+  "name_en": "Mirror with Three Dragons",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "early 1100s–early 1200s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 10.2 cm (4 in.); Overall: 1 cm (3/8 in.); Rim: 0.8 cm (5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.387/1995.387_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.387",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.387"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.387",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.501",
+  "uuid": "a24d84c5-8137-560d-a591-8e3327eb99b6",
+  "name": "磁州窑罐",
+  "name_traditional": "磁州窑罐",
+  "name_en": "Jar with Handles: Cizhou ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed buff stoneware with underglaze iron slip coating"
+  ],
+  "dimensions": "Diameter: 12.5 cm (4 15/16 in.); Overall: 11.5 cm (4 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.501/1964.501_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.501",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.501"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=['磁州窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Henan or Hebei province, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.501",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.58",
+  "uuid": "94d76f0b-5edf-5f21-ba32-68692942b6c9",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware with roulette decoration, Cizhou ware"
+  ],
+  "dimensions": "Diameter of mouth: 6.7 cm (2 5/8 in.); Overall: 8.9 cm (3 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Seller's no. 60; Edward Chao, Hong Kong; (Frank Caro, NY)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.58/1957.58_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.58",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.58"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "Northern China, Northern Song (960-1127) or Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.58",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1966.115",
+  "uuid": "4af10860-cc3c-52a6-8be1-c9d27580bc35",
+  "name": "Birds in a Grove in a Mountainous Winter Landscape",
+  "name_traditional": "Birds in a Grove in a Mountainous Winter Landscape",
+  "name_en": "Birds in a Grove in a Mountainous Winter Landscape",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "hanging scroll; ink and slight color on silk"
+  ],
+  "dimensions": "Overall: 174.9 x 90.2 cm (68 7/8 x 35 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Zhu Gang 朱棡 [1358–1398]; Suo’etu 索額圖 [1636–1703]; A’erxipu 阿爾喜普 [1700s]; Weng Fanggang 翁方綱 [1733–1818], Beijing, China; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1966.115/1966.115_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1966.115",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1966.115"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1966.115",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.383",
+  "uuid": "d51618f3-6997-5b85-9997-b0eafbf6f666",
+  "name": "定窑碗",
+  "name_traditional": "定窑碗",
+  "name_en": "Bowl: Ding ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1300,
+   "original": "12th-13th Century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed white porcelain"
+  ],
+  "dimensions": "Diameter: 7 cm (2 3/4 in.); Overall: 16.2 cm (6 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.383/1917.383_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.383",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.383"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=['定窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.383",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.699",
+  "uuid": "0c2f86e0-f777-5b90-b943-c9a92132c6fa",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1200,
+   "original": "12th Century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "White porcelain, Ding ware"
+  ],
+  "dimensions": "Diameter: 21 cm (8 1/4 in.); Overall: 6.4 cm (2 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Fanny Tewksbury King [d. 1949], Cleveland, OH, ?-1956, sold by her estate to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH, 1956-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.699/1956.699_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.699",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.699"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei province, Chuyang District, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.699",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.379",
+  "uuid": "d1ba26d6-2e63-5587-8ef1-d0c474df0fb1",
+  "name": "钧窑碗",
+  "name_traditional": "钧窑碗",
+  "name_en": "Bowl:  Jun Ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware"
+  ],
+  "dimensions": "Diameter: 22.9 cm (9 in.); Overall: 10.1 cm (4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.379/1915.379_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.379",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.379"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=['钧窑']",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "Northern China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.379",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.32",
+  "uuid": "0a9042d3-e214-5f5c-8a0c-6f72225a3024",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "cream-glazed porcelain with incised decoration, Ding ware"
+  ],
+  "dimensions": "Diameter: 10.6 cm (4 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, Beijing, China. Seller's No. 37.; Edward Chao, Hong Kong; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.32/1957.32_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.32",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.32"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Hebei province, Quyang, Northern Song dynasty (960-1127) to Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.32",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.32.b",
+  "uuid": "aa1ba3c6-1b94-5293-bfb9-de1534f9a62b",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box (lid)",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "cream-glazed porcelain with incised decoration, Ding ware"
+  ],
+  "dimensions": null,
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, Beijing, China. Seller's No. 37.; Edward Chao, Hong Kong; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.32.b/1957.32.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.32.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.32.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Hebei province, Quyang, Northern Song dynasty (960-1127) to Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.32.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.32.c",
+  "uuid": "d99cd1ba-2a0f-51dc-bbe4-636d0914cab9",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Stand for a Covered Box",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "cream-glazed porcelain with incised decoration, Ding ware"
+  ],
+  "dimensions": "Diameter: 10.6 cm (4 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, Beijing, China. Seller's No. 37.; Edward Chao, Hong Kong; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.32.c/1957.32.c_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.32.c",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.32.c"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Hebei province, Quyang, Northern Song dynasty (960-1127) to Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.32.c",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.32.a",
+  "uuid": "07c5228a-153e-5c91-9bdb-459650dc3763",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "cream-glazed porcelain with incised decoration, Ding ware"
+  ],
+  "dimensions": "Diameter: 10.6 cm (4 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, Beijing, China. Seller's No. 37.; Edward Chao, Hong Kong; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.32.a/1957.32.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.32.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.32.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Hebei province, Quyang, Northern Song dynasty (960-1127) to Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.32.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1986.245",
+  "uuid": "cc626fb7-af61-5990-beef-4dc1647a900d",
+  "name": "梅瓶",
+  "name_traditional": "梅瓶",
+  "name_en": "Meiping (Plum Blossom) Vase",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Buff stoneware, slip coated with painted underglaze decoration, Cizhou ware"
+  ],
+  "dimensions": "Overall: 35.9 cm (14 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Margaret Leland Weir [1909–1992], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art,",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1986.245/1986.245_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1986.245",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1986.245"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:meiping;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1986.245",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1956.701",
+  "uuid": "08cc0d3b-458b-588f-8924-4b0984ef3d3f",
+  "name": "钧窑碗",
+  "name_traditional": "钧窑碗",
+  "name_en": "Bowl: Jun ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1368,
+   "original": "Jin dynasty (1115–1234) - Yuan dynasty (1271–1368)",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed buff stoneware"
+  ],
+  "dimensions": "Diameter: 14.6 cm (5 3/4 in.); Overall: 8.5 cm (3 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1956.701/1956.701_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1956.701",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1956.701"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=['钧窑']",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.yuan",
+   "culture_raw": "Northern China, Jin dynasty (1115-1234) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1956.701",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.500",
+  "uuid": "ca6d8ee4-e110-5474-b99d-3f4516bab54f",
+  "name": "磁州窑罐",
+  "name_traditional": "磁州窑罐",
+  "name_en": "Jar: Cizhou ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1300,
+   "original": "12th-13th Century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed light gray stoneware"
+  ],
+  "dimensions": "Diameter: 15.3 cm (6 in.); Overall: 11.1 cm (4 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.500/1964.500_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.500",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.500"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=['磁州窑']",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.500",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1983.27",
+  "uuid": "8b214efc-0866-56fd-8701-12dd4be30100",
+  "name": "磁州窑枕",
+  "name_traditional": "磁州窑枕",
+  "name_en": "Pillow with Mandarin Duck: Cizhou Ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1300,
+   "original": "12th-13th Century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "earthenware, incised and slip-coated with three color glaze"
+  ],
+  "dimensions": "Overall: 12.7 x 39.5 cm (5 x 15 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1983.27/1983.27_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1983.27",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1983.27"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:pillow;glaze=['磁州窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1983.27",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.381",
+  "uuid": "7de0171c-2d47-56cb-a73a-a3ebf0c05011",
+  "name": "Mirror Featuring Dading Coins",
+  "name_traditional": "Mirror Featuring Dading Coins",
+  "name_en": "Mirror Featuring Dading Coins",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1178,
+   "end": 1234,
+   "original": "c. 1178–1234",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 11.9 cm (4 11/16 in.); Overall: 0.8 cm (5/16 in.); Rim: 0.4 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.381/1995.381_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.381",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.381"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.381",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1989.275",
+  "uuid": "7019a5d7-9f61-51e1-a9e8-022e38835ec3",
+  "name": "定窑盘",
+  "name_traditional": "定窑盘",
+  "name_en": "Dish with Ducks in Lotus Pond:  Ding Ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed porcelain with molded decoration and copper band at lip"
+  ],
+  "dimensions": "Diameter: 14 cm (5 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Heeramaneck Galleries, New York, NY, sold to Severance and Greta Millikin); Severance A. [1895–1985] and Greta [Marguerite Steckerl] Millikin [1903–1989], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1989.275/1989.275_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1989.275",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1989.275"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=['定窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei province, Chuyang xian, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1989.275",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.50",
+  "uuid": "870d6a54-a21e-530e-9490-41e397d61e79",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Dish",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "White porcelain, Ding ware"
+  ],
+  "dimensions": "Diameter: 11.8 cm (4 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang, Beijing, China. Seller's No. 43; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH,",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.50/1957.50_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.50",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.50"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei province, Chuyang district, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.50",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.60",
+  "uuid": "b0ac607b-bf34-54b6-a717-189f30bac508",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Lotus Bud Jar",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "stoneware, Jun ware"
+  ],
+  "dimensions": "Diameter: 9.8 cm (3 7/8 in.); Overall: 9.8 cm (3 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Ralph King [1855–1926], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.60/1917.60_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.60",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.60"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "Northern China, Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.60",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.57",
+  "uuid": "87461894-7163-558c-a440-b4ba269f4441",
+  "name": "杯",
+  "name_traditional": "杯",
+  "name_en": "Cup",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1300,
+   "original": "1100s–1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "buff stoneware with underglaze slip application and overglaze enamel decoration, Cizhou ware"
+  ],
+  "dimensions": "Diameter: 11.8 cm (4 5/8 in.); Overall: 4.5 cm (1 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Seller's no. 59, Beijing, China; Edward Chao, Hong Kong; (Frank Caro [1904–1980], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.57/1957.57_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.57",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.57"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:cup;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.57",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.382",
+  "uuid": "26ef760c-8e51-5c78-b74c-be78b68f3873",
+  "name": "定窑瓶",
+  "name_traditional": "定窑瓶",
+  "name_en": "Bottle Vase: Ding ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1200,
+   "original": "12th Century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed white porcelain"
+  ],
+  "dimensions": "Overall: 28.3 cm (11 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.382/1917.382_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.382",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.382"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bottle vase;glaze=['定窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.382",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1926.431",
+  "uuid": "725c639c-2f1c-5427-acd7-d2f38985a34a",
+  "name": "Relief of a Woman",
+  "name_traditional": "Relief of a Woman",
+  "name_en": "Relief of a Woman",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "1115–1234",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "Terracotta"
+  ],
+  "dimensions": "Overall: 63.6 x 30.6 cm (25 1/16 x 12 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Dr. Friedrich Perzyński [1877–1965], Beijing, China, sold to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1926.431/1926.431_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1926.431",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1926.431"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1926.431",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.7",
+  "uuid": "dcde46ed-9936-5718-b72f-993feed7bd87",
+  "name": "定窑盘",
+  "name_traditional": "定窑盘",
+  "name_en": "Dish: Ding ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed grayish-white porcelain"
+  ],
+  "dimensions": "Diameter: 30.2 cm (11 7/8 in.); Overall: 4.7 cm (1 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Ralph King [1855–1926], Cleveland, Heights, oh, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.7/1917.7_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.7",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.7"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=['定窑']",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Hebei province, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.7",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.38",
+  "uuid": "e15d5301-4f74-5baf-ad27-22a4d429059b",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Small Lobed Jar",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1368,
+   "original": "1115–1368",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed buff stoneware"
+  ],
+  "dimensions": "Diameter: 5.1 cm (2 in.); Overall: 3.8 cm (1 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Seller's no. 14",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.38/1957.38_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.38",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.38"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.yuan",
+   "culture_raw": "Northern China, Jin dynasty (1115-1234) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.38",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.392",
+  "uuid": "60a291f8-bd40-52d6-b013-b710eac58d02",
+  "name": "Animal-and-Grape Mirror",
+  "name_traditional": "Animal-and-Grape Mirror",
+  "name_en": "Animal-and-Grape Mirror",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1234,
+   "original": "early 1100s–mid-1200s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 12.1 cm (4 3/4 in.); Overall: 1.2 cm (1/2 in.); Rim: 1.2 cm (1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.392/1995.392_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.392",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.392"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.392",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.384",
+  "uuid": "288b4ce3-ff40-5c2d-8157-e87783738318",
+  "name": "Narrative Mirror with Handle",
+  "name_traditional": "Narrative Mirror with Handle",
+  "name_en": "Narrative Mirror with Handle",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1115,
+   "end": 1368,
+   "original": "early 12th Century - mid 14th Century",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 9.7 cm (3 13/16 in.); Overall: 0.5 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.384/1995.384_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.384",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.384"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.yuan",
+   "culture_raw": "China, Jin dynasty (1115-1234) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.384",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1930.311",
+  "uuid": "c18a6538-dcda-5327-acee-c014fb380723",
+  "name": "Saucer:  Northern Celadon Ware, Yaozhou type",
+  "name_traditional": "Saucer:  Northern Celadon Ware, Yaozhou type",
+  "name_en": "Saucer:  Northern Celadon Ware, Yaozhou type",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware"
+  ],
+  "dimensions": "Diameter: 18.4 cm (7 1/4 in.); Overall: 4.5 cm (1 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.311/1930.311_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1930.311",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1930.311"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.northern-song",
+   "culture_raw": "China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1930.311",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1918.469",
+  "uuid": "803084cb-c1ca-563e-a13c-d8a6e296bf97",
+  "name": "Saucer",
+  "name_traditional": "Saucer",
+  "name_en": "Saucer",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1199,
+   "original": "1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed grayish-white porcelain, Ding ware"
+  ],
+  "dimensions": "Diameter: 9.9 cm (3 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Langdon Warner [1881-1955], Cambridge, MA, ?-1918, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH, 1918-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1918.469/1918.469_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1918.469",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1918.469"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1918.469",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1930.317",
+  "uuid": "f0179e2b-ae7c-5d09-b729-2e675d53141c",
+  "name": "碗",
+  "name_traditional": "碗",
+  "name_en": "Bowl",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed light gray porcelain, Northern Celadon ware, Yaozhou type"
+  ],
+  "dimensions": "Diameter: 18.2 cm (7 3/16 in.); Overall: 7.4 cm (2 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Mrs. Edith Lee, London, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.317/1930.317_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1930.317",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1930.317"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Jin dynasty (1115-1234)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1930.317",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.260",
+  "uuid": "a88cc1cd-ce39-5980-9329-e69ce4429271",
+  "name": "Saucer: Ding ware",
+  "name_traditional": "Saucer: Ding ware",
+  "name_en": "Saucer: Ding ware",
+  "dynasty": "dynasty.jin-jurchen",
+  "date": {
+   "start": 1100,
+   "end": 1299,
+   "original": "1100s-1200s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "porcelain"
+  ],
+  "dimensions": "Diameter: 14.6 cm (5 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.260/1917.260_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.260",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.260"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "multi-name:dynasty.jin-jurchen+dynasty.yuan",
+   "culture_raw": "China, Jin dynasty (1115-1234) - Yuan dynasty (1271-1368)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.260",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

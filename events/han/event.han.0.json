@@ -301,5 +301,62 @@
     "outcome": "中央权威崩溃，进入群雄割据时代",
     "sources": [{"title": "后汉书·董卓列传", "type": "primary"}],
     "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "han-events-v1", "version": 1}
+  },
+  {
+    "id": "event.han.wenjing",
+    "uuid": "3b142b4e-0c97-5e7a-83b4-26fbdfe3fab0",
+    "name": "文景之治",
+    "name_traditional": "文景之治",
+    "category": [
+      "golden-age",
+      "governance"
+    ],
+    "time": {
+      "start": -179,
+      "end": -141,
+      "original": "汉文帝元年至景帝后元三年（前179—前141）",
+      "precision": "year"
+    },
+    "place": [
+      "place.changan"
+    ],
+    "participants": [
+      {
+        "person": "person.han.liuheng",
+        "role": "monarch"
+      },
+      {
+        "person": "person.han.liuqi",
+        "role": "monarch"
+      }
+    ],
+    "related_events": [
+      "event.han.tuien"
+    ],
+    "description": "文帝即位后躬修俭节，轻徭薄赋，田租一度全免，废肉刑，除诽谤妖言罪，与匈奴和亲以息兵。景帝承之，三十税一为定制。史称吏安其官、民乐其业，民人给家足，都鄙廪庾尽满，府库余财。然诸侯坐大，七国之乱起于景帝三年，亦此期之隐患。",
+    "outcome": "国力恢复、府库充盈，为汉武帝对外开拓奠定物质基础",
+    "sources": [
+      {
+        "title": "史记·孝文本纪",
+        "type": "primary",
+        "ref": "卷十"
+      },
+      {
+        "title": "史记·孝景本纪",
+        "type": "primary",
+        "ref": "卷十一"
+      },
+      {
+        "title": "汉书·食货志",
+        "type": "primary",
+        "ref": "卷二十四"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
   }
 ]

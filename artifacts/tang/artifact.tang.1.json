@@ -1,0 +1,514 @@
+[
+ {
+  "id": "artifact.cleveland.1952.489",
+  "uuid": "eb5312fb-de41-5fe1-b522-13adeeb450f2",
+  "name": "Knot Picker",
+  "name_traditional": "Knot Picker",
+  "name_en": "Knot Picker",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 618,
+   "end": 907,
+   "original": "618–907",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade"
+  ],
+  "dimensions": "Overall: 2.8 cm (1 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1952.489/1952.489_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1952.489",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1952.489"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1952.489",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.352",
+  "uuid": "88f04570-889f-5cdb-8241-a224c15658c4",
+  "name": "Animal-and-Grape Mirror",
+  "name_traditional": "Animal-and-Grape Mirror",
+  "name_en": "Animal-and-Grape Mirror",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 618,
+   "end": 907,
+   "original": "early 600s–early 900s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 11.2 cm (4 7/16 in.); Overall: 1.3 cm (1/2 in.); Rim: 1.1 cm (7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.352/1995.352_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.352",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.352"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.352",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.603",
+  "uuid": "89bf5dbb-69a2-5f79-b126-f7546d2cc081",
+  "name": "Mirror",
+  "name_traditional": "Mirror",
+  "name_en": "Mirror",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 618,
+   "end": 907,
+   "original": "618–907",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze with silver inlay in lacquer"
+  ],
+  "dimensions": "Diameter: 11.8 cm (4 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.603/1915.603_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.603",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.603"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.603",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1918.470",
+  "uuid": "bca0077f-1664-5e60-8848-5d2e91e5c9f5",
+  "name": "白瓷碗",
+  "name_traditional": "白瓷碗",
+  "name_en": "Bowl:  Southern White Ware",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 875,
+   "end": 925,
+   "original": "late 800s-early 900s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed porcelain, Southern white ware"
+  ],
+  "dimensions": "Diameter: 21.6 cm (8 1/2 in.); Overall: 11.9 cm (4 11/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1918.470/1918.470_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1918.470",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1918.470"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=['白瓷']",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Tang dynasty (618-907) - Five dynasties (907-960)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1918.470",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.605",
+  "uuid": "c9af727f-5e33-5e9f-b9fa-cd1935d53d5a",
+  "name": "Mirror",
+  "name_traditional": "Mirror",
+  "name_en": "Mirror",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 618,
+   "end": 907,
+   "original": "618–907",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze with silver inlay in lacquer"
+  ],
+  "dimensions": "Diameter: 11.8 cm (4 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.605/1915.605_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.605",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.605"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.605",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1958.426",
+  "uuid": "89639632-32cd-5819-954d-50d7855e59df",
+  "name": "Mask",
+  "name_traditional": "Mask",
+  "name_en": "Mask",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "900s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "Earthenware"
+  ],
+  "dimensions": "Overall: 17.2 x 14 cm (6 3/4 x 5 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Samuel Eilenberg [1913–1998], New York, NY, sold to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1958.426/1958.426_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1958.426",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1958.426"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1958.426",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.303",
+  "uuid": "96e50f71-8d0a-53ff-89f2-71f7b801bdee",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Stem Dish",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 600,
+   "end": 799,
+   "original": "600s-700s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed cream-white stoneware"
+  ],
+  "dimensions": "Diameter: 13.2 cm (5 3/16 in.); Overall: 9.5 cm (3 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.303/1917.303_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.303",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.303"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.303",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.347",
+  "uuid": "4a86bc82-0a84-5a47-8b67-2e2e660c5239",
+  "name": "Hexafoil Mirror with Floral Interlaces, a Phoenix, and Running Animals",
+  "name_traditional": "Hexafoil Mirror with Floral Interlaces, a Phoenix, and Running Animals",
+  "name_en": "Hexafoil Mirror with Floral Interlaces, a Phoenix, and Running Animals",
+  "dynasty": "dynasty.tang",
+  "date": {
+   "start": 618,
+   "end": 907,
+   "original": "early 600s-early 900s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 20 cm (7 7/8 in.); Overall: 1 cm (3/8 in.); Rim: 0.8 cm (5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.347/1995.347_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.347",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.347"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.347",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

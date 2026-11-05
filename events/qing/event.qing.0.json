@@ -65,5 +65,55 @@
     "outcome": "清朝灭亡，帝制终结，中华民国建立",
     "sources": [{"title": "清史稿·宣统皇帝本纪", "type": "secondary"}, {"title": "辛亥革命回忆录", "type": "primary"}],
     "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.qing.tanding-rumu",
+    "uuid": "89e14196-a512-58b8-8dca-241014def589",
+    "name": "摊丁入亩",
+    "name_traditional": "攤丁入畝",
+    "category": [
+      "reform",
+      "policy"
+    ],
+    "time": {
+      "start": 1712,
+      "end": 1729,
+      "original": "康熙五十一年（1712）诏滋生人丁永不加赋，雍正元年（1723）起直隶等省次第摊丁入地",
+      "precision": "year"
+    },
+    "place": [
+      "place.beijing"
+    ],
+    "participants": [
+      {
+        "person": "person.qing.xuanye",
+        "role": "decision-maker"
+      },
+      {
+        "person": "person.qing.yinzhen",
+        "role": "executant"
+      }
+    ],
+    "related_events": [],
+    "description": "清代丁银沿明旧制，无地贫民亦须纳丁。康熙五十一年诏以五十年丁册为常额，其后滋生人丁永不加赋；雍正初推行摊丁入亩，将丁银摊入田赋，地多者多纳，无地者不纳。各省次第施行，至乾隆年间基本完成。",
+    "outcome": "延续两千年的人头税基本废止，无地农民负担大减，户籍隐匿减少，人口统计数字随之激增",
+    "sources": [
+      {
+        "title": "清史稿·食货志",
+        "type": "primary",
+        "ref": "卷一百二十一"
+      },
+      {
+        "title": "清圣祖实录",
+        "type": "primary",
+        "ref": "卷二四九"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
   }
 ]

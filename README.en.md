@@ -4,12 +4,12 @@
 
 ### Persons · Events · Artifacts: the open structured database of Chinese history
 
-370 historical figures (94% linked to Wikidata QIDs) · 154 events · 551 era names · 49 dynasties/regimes — all in JSON, clone and build
+370 historical figures (94% linked to Wikidata QIDs) · 162 events · **3,327 museum-held artifacts** (full CC0 Chinese collections of the Met + Cleveland) · 551 era names · 49 dynasties/regimes — all in JSON, clone and build
 
 [![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history?label=release)](https://github.com/anthonyhann/chinese-history/releases)
 [![SQLite download](https://img.shields.io/badge/%E2%AC%87%20SQLite-1.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
 [![JSON snapshot](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-311KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
-[![Entities](https://img.shields.io/badge/entities-1224-red.svg)](#-datasets)
+[![Entities](https://img.shields.io/badge/entities-4497-red.svg)](#-datasets)
 [![CI](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
 
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
@@ -63,7 +63,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① get the data
 cd chinese-history
-python3 tools/validate.py                                     # ② verify integrity (1224 records)
+python3 tools/validate.py                                     # ② verify integrity (4497 records)
 jq '.[] | .name' persons/han/person.han.0.json                # ③ use it (or any JSON lib)
 ```
 

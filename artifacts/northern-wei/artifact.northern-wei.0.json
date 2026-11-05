@@ -1,0 +1,1922 @@
+[
+ {
+  "id": "artifact.met.44337",
+  "uuid": "47474c2c-b58b-5308-8c35-afca8fa4a499",
+  "name": "Dog",
+  "name_traditional": "Dog",
+  "name_en": "Dog",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 400,
+   "end": 599,
+   "original": "5th–6th century",
+   "circa": true
+  },
+  "category": [
+   "陶器"
+  ],
+  "material": [
+   "Earthenware with traces of pigment"
+  ],
+  "dimensions": "H. 2 1/4 in. (5.7 cm); L. 7 in. (17.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/1994_605_36_L35759.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44337",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44337"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "period_raw": "Northern Wei dynasty (386–534)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44337,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1962.213",
+  "uuid": "976285a3-4a91-5348-880a-1f4038ae761f",
+  "name": "Adoring Monk",
+  "name_traditional": "Adoring Monk",
+  "name_en": "Adoring Monk",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 525,
+   "original": "early 500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 14.9 cm (5 7/8 in.); Base: 3.6 x 5.2 x 3.9 cm (1 7/16 x 2 1/16 x 1 9/16 in.); Figure: 11.5 cm (4 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Christian R. Holmes, New York, NY; Mrs. G. M. G. Forman, given to her daughter, Mrs. John Lyon [Georgia Forman Elliott] Collyer; Mrs. John Lyon [Georgia Forman Elliott] Collyer [1898–1994], given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.213/1962.213_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1962.213",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1962.213"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1962.213",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1980.25",
+  "uuid": "6c6820db-b58a-5cf1-97ee-5e22d25ff938",
+  "name": "Ascetic Holding a Skull",
+  "name_traditional": "Ascetic Holding a Skull",
+  "name_en": "Ascetic Holding a Skull",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 450,
+   "end": 550,
+   "original": "c. 500 CE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 19.4 cm (7 5/8 in.); Figure: 18.1 cm (7 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Major General Sir Neill Malcolm [1869–1953], London, England; (Spink & Son, Ltd., London, England, sold to the Cleveland Museum of Art); The Cleveland Museum of Art. Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1980.25/1980.25_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1980.25",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1980.25"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1980.25",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1955.46",
+  "uuid": "8af7337c-45a0-5b95-a3ed-0a17ed46f128",
+  "name": "The New-born Buddha",
+  "name_traditional": "The New-born Buddha",
+  "name_en": "The New-born Buddha",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 400,
+   "end": 499,
+   "original": "400s CE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze with inlays of blue glass and turquoise"
+  ],
+  "dimensions": "Overall: 19.4 cm (7 5/8 in.); Diameter of base: 6.8 cm (2 11/16 in.); Base: 3.1 cm (1 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Walter Hochstadter [1914–2007], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1955.46/1955.46_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1955.46",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1955.46"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1955.46",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1990.84",
+  "uuid": "a5ccf398-c528-55f8-ae43-07aebbe2ab11",
+  "name": "Miniature Votive Stupa",
+  "name_traditional": "Miniature Votive Stupa",
+  "name_en": "Miniature Votive Stupa",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 435,
+   "end": 435,
+   "original": "435 CE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "steatite"
+  ],
+  "dimensions": "Overall: 16.9 cm (6 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Compagnie de la Chine et des Indes, Paris, France, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1990.84/1990.84_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1990.84",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1990.84"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name",
+   "culture_raw": "China, Gansu province, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1990.84",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.2",
+  "uuid": "ee1d7e87-021a-5f0d-a335-289d386dd92d",
+  "name": "Mortuary Figure of the Zodiac Sign: Ox (Taurus)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Ox (Taurus)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Ox (Taurus)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 599,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.2/1972.76.2_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.2",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.2"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.2",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.4",
+  "uuid": "6af302f9-7306-5e82-970b-588168bab230",
+  "name": "Mortuary Figure of the Zodiac Sign: Hare (Cancer)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Hare (Cancer)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Hare (Cancer)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.4/1972.76.4_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.4",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.4"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.4",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76",
+  "uuid": "40a9f0b6-1212-5bb1-ad00-ea02b18980e7",
+  "name": "Mortuary Figures of the Zodiac Signs",
+  "name_traditional": "Mortuary Figures of the Zodiac Signs",
+  "name_en": "Mortuary Figures of the Zodiac Signs",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 599,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76/1972.76_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386–534 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.1",
+  "uuid": "0d35088f-9935-53a3-a5c7-bcbc5776e8c4",
+  "name": "Mortuary Figure of the Zodiac Sign: Rat (Aries)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Rat (Aries)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Rat (Aries)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.1/1972.76.1_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.1",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.1"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.1",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.11",
+  "uuid": "038316e7-26cf-5e92-8d8f-72feb0c68ce2",
+  "name": "Mortuary Figure of the Zodiac Sign: Dog (Aquarius)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Dog (Aquarius)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Dog (Aquarius)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.11/1972.76.11_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.11",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.11"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.11",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.12",
+  "uuid": "90d6fa51-e291-5b2b-9e39-a6d0c22c4daf",
+  "name": "Mortuary Figure of the Zodiac Sign: Boar (Pisces)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Boar (Pisces)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Boar (Pisces)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.12/1972.76.12_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.12",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.12"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.12",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.3",
+  "uuid": "a092951d-fc2e-5681-9b4d-fd58e69b380b",
+  "name": "Mortuary Figure of the Zodiac Sign: Tiger (Gemini)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Tiger (Gemini)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Tiger (Gemini)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.3/1972.76.3_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.3",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.3"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.3",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1959.130",
+  "uuid": "b23c778e-2b21-5980-b8ae-218fbe30f55c",
+  "name": "Stele with Maitreya and Attendants",
+  "name_traditional": "Stele with Maitreya and Attendants",
+  "name_en": "Stele with Maitreya and Attendants",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 450,
+   "end": 550,
+   "original": "500",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray limestone"
+  ],
+  "dimensions": "Overall: 94.6 x 54.6 cm (37 1/4 x 21 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1959.130/1959.130_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1959.130",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1959.130"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1959.130",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1980.184",
+  "uuid": "c6e91cd8-3d71-5c68-9b52-bef7b0699dc0",
+  "name": "Winged Chimera (Bixie)",
+  "name_traditional": "Winged Chimera (Bixie)",
+  "name_en": "Winged Chimera (Bixie)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 400,
+   "end": 499,
+   "original": "400s CE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 6.7 x 7 cm (2 5/8 x 2 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mr. Eugene [1896–1982] and Mrs. Elva Bernat, consigned to Sotheby Parke-Bernet for sale; (Sotheby Parke Bernet, Inc., New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1980.184/1980.184_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1980.184",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1980.184"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span",
+   "culture_raw": "China, Southern and Northern Dynasties period (386–589 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1980.184",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2017.16",
+  "uuid": "30a922a0-78f6-5901-8ad4-eb5ba98960a6",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Covered Jar with Carved Lotus Petals",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 386,
+   "end": 581,
+   "original": "386–581 CE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware"
+  ],
+  "dimensions": "Lid: 2.8 x 14.1 cm (1 1/8 x 5 9/16 in.); vessel only: 21.8 x 24.3 cm (8 9/16 x 9 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Priestley & Ferraro, London, England, 8 April 1997, sold to Donna and James Reid); Donna [b. 1931] and James Reid [1926–2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2017.16/2017.16_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2017.16",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2017.16"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Northern Dynasties period (386-581)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2017.16",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2017.16.a",
+  "uuid": "9aae1690-eb29-582d-bc74-385bbd886207",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Covered Jar with Carved Lotus Petals",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 386,
+   "end": 581,
+   "original": "386–581 CE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware"
+  ],
+  "dimensions": "Overall: 21.8 cm (8 9/16 in.); Diameter: 24.3 cm (9 9/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Priestley & Ferraro, London, England, 8 April 1997, sold to Donna and James Reid); Donna [b. 1931] and James Reid [1926–2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2017.16.a/2017.16.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2017.16.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2017.16.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Northern Dynasties period (386-581)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2017.16.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2017.16.b",
+  "uuid": "9d92b0e9-98c9-53eb-839a-2cef15c66503",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Covered Jar with Carved Lotus Petals (lid)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 386,
+   "end": 581,
+   "original": "386–581 CE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware"
+  ],
+  "dimensions": "Lid: 2.8 x 14.1 cm (1 1/8 x 5 9/16 in.); Diameter of lid: 14.4 cm (5 11/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Priestley & Ferraro, London, England, 8 April 1997, sold to Donna and James Reid); Donna [b. 1931] and James Reid [1926–2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2017.16.b/2017.16.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2017.16.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2017.16.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Northern Dynasties period (386-581)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2017.16.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.10",
+  "uuid": "53b5e34d-1f06-52dd-99f7-eb82f21ccf18",
+  "name": "Mortuary Figure of the Zodiac Sign: Cock (Capricorn)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Cock (Capricorn)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Cock (Capricorn)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.10/1972.76.10_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.10",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.10"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.10",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.5",
+  "uuid": "f4d97b8d-b1ce-5a75-93f1-8b6db2a504fb",
+  "name": "Mortuary Figure of the Zodiac Sign:  Dragon (Leo)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign:  Dragon (Leo)",
+  "name_en": "Mortuary Figure of the Zodiac Sign:  Dragon (Leo)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.5/1972.76.5_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.5",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.5"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.5",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.6",
+  "uuid": "4077ff60-2c2f-5ae8-8266-7f1762970b52",
+  "name": "Mortuary Figure of the Zodiac Sign: Serpent (Virgo)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Serpent (Virgo)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Serpent (Virgo)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.6/1972.76.6_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.6",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.6"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.6",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.7",
+  "uuid": "c4fcfffe-1c31-55f5-bcce-832cbf481741",
+  "name": "Mortuary Figure of the Zodiac Sign: Horse (Libra)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Horse (Libra)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Horse (Libra)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.7/1972.76.7_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.7",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.7"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.7",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.8",
+  "uuid": "e293b406-ceec-59fe-affd-433f5b8bbb45",
+  "name": "Mortuary Figure of the Zodiac Sign: Sheep (Scorpio)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Sheep (Scorpio)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Sheep (Scorpio)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.8/1972.76.8_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.8",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.8"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.8",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1972.76.9",
+  "uuid": "94b19681-c7ab-5ca2-ba81-27139d11e202",
+  "name": "Mortuary Figure of the Zodiac Sign: Monkey (Sagittarius)",
+  "name_traditional": "Mortuary Figure of the Zodiac Sign: Monkey (Sagittarius)",
+  "name_en": "Mortuary Figure of the Zodiac Sign: Monkey (Sagittarius)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of slip"
+  ],
+  "dimensions": "Overall: 22.6 cm (8 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. R. Henry [Emery May Holden] Norweb [1895–1984], Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1972.76.9/1972.76.9_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1972.76.9",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1972.76.9"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1972.76.9",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1977.208",
+  "uuid": "3a2b0a88-cf4d-5cdf-a805-9f3ca1909bd1",
+  "name": "Toad",
+  "name_traditional": "Toad",
+  "name_en": "Toad",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 386,
+   "end": 534,
+   "original": "386–534 CE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 5 cm (1 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Howard Hollis [1899–1985], Cleveland, OH, to Herbert F. Leisy); Herbert F. Leisy [1900–1977], Cleveland Heights, OH, gift to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1977.208/1977.208_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1977.208",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1977.208"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Six Dynasties period (317-581), Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1977.208",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1929.985",
+  "uuid": "8ab3e7c6-f0f9-50cc-9da5-a713867a6338",
+  "name": "Mortuary Horse",
+  "name_traditional": "Mortuary Horse",
+  "name_en": "Mortuary Horse",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 550,
+   "original": "c. 525",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "dark buff earthenware with polychrome"
+  ],
+  "dimensions": "Overall: 22.3 x 22.3 cm (8 3/4 x 8 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Yamanaka and Company, Boston, MA, sold to the Cleveland Museum of Art)",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1929.985/1929.985_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1929.985",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1929.985"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Six Dynasties period (317-581), Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1929.985",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1963.579",
+  "uuid": "7931169a-69e1-555f-9b31-75b23fec0f10",
+  "name": "环",
+  "name_traditional": "环",
+  "name_en": "Ring with Carved Dragons (Ch'ih)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 400,
+   "end": 500,
+   "original": "400s CE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade "
+  ],
+  "dimensions": "Overall: 6.4 cm (2 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1963.579/1963.579_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1963.579",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1963.579"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "jade:ring",
+   "dynasty_note": "span",
+   "culture_raw": "China, Six Dynasties period (220–589 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1963.579",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.77",
+  "uuid": "355ccee3-8cd5-562d-bc39-9a33f1e08ca6",
+  "name": "Head of Bodhisattva Guanyin",
+  "name_traditional": "Head of Bodhisattva Guanyin",
+  "name_en": "Head of Bodhisattva Guanyin",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 510,
+   "end": 520,
+   "original": "c. 510–520",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "stone"
+  ],
+  "dimensions": "Overall: 36.2 cm (14 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.77/1915.77_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.77",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.77"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Six Dynasties period (317-581), Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.77",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1962.216",
+  "uuid": "2f4fdef9-6da7-55b0-86fa-da6f07cafeca",
+  "name": "Court Official (Tomb Figure)",
+  "name_traditional": "Court Official (Tomb Figure)",
+  "name_en": "Court Official (Tomb Figure)",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 500,
+   "end": 525,
+   "original": "early 500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gray earthenware with traces of polychrome"
+  ],
+  "dimensions": "Overall: 36 cm (14 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.216/1962.216_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1962.216",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1962.216"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Six Dynasties period (317-581), Northern Wei dynasty (386-534)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1962.216",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1971.229",
+  "uuid": "915d861a-b49a-5285-b0ba-58c243307fee",
+  "name": "Scabbard Fitting",
+  "name_traditional": "Scabbard Fitting",
+  "name_en": "Scabbard Fitting",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 317,
+   "end": 581,
+   "original": "317–581 CE",
+   "circa": true
+  },
+  "category": [
+   "玉器"
+  ],
+  "material": [
+   "jade "
+  ],
+  "dimensions": "Overall: 2.5 x 4.2 cm (1 x 1 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Carl [Geraldine Erickson] Wittke, Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1971.229/1971.229_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1971.229",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1971.229"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "jade-no-noun",
+   "dynasty_note": "span",
+   "culture_raw": "China, Six Dynasties period (220–589 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1971.229",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.608",
+  "uuid": "0c1e5b1f-b5b4-54ac-a136-509b0155830f",
+  "name": "Mirror",
+  "name_traditional": "Mirror",
+  "name_en": "Mirror",
+  "dynasty": "dynasty.northern-wei",
+  "date": {
+   "start": 317,
+   "end": 581,
+   "original": "317–581 CE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 16 cm (6 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.608/1915.608_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.608",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.608"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span",
+   "culture_raw": "China, Six Dynasties period (220–589 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.608",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]
