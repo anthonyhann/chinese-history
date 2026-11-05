@@ -7,8 +7,8 @@
 370 位历史人物（94% 已对齐 Wikidata QID） · 162 个历史事件 · **3327 件馆藏文物**（大都会 + 克利夫兰 3308 件 CC0 全量） · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
 
 [![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history?label=release)](https://github.com/anthonyhann/chinese-history/releases)
-[![SQLite 下载](https://img.shields.io/badge/%E2%AC%87%20SQLite-1.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
-[![JSON 快照](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-311KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![SQLite 下载](https://img.shields.io/badge/%E2%AC%87%20SQLite-9.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![JSON 快照](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-768KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
 [![实体记录](https://img.shields.io/badge/entities-4497-red.svg)](#-数据集)
 [![CI 校验](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
 
@@ -32,17 +32,24 @@
 
 搜一个人名、拖一条时间轴，30 秒就能看懂这个库装了什么。
 
-**不想 clone？** 直接下载单文件数据库 → [最新 Release](https://github.com/anthonyhann/chinese-history/releases/latest)（SQLite 1.8MB 全库 / JSON zip）
+**不想 clone？** 直接下载单文件数据库 → [最新 Release](https://github.com/anthonyhann/chinese-history/releases/latest)。注意：已发布的是 v1.4.0（SQLite 1.8MB / 1224 条），含 M3 文物的 v1.5.0 尚未打 tag。
 
 **想先看设计思路？** 三条铁律为什么这么定、各自付出了什么代价 → [《给中华历史数据建 Schema 时，我踩的三个坑和付出的代价》](https://juejin.cn/post/7700407749293768739)
 
-[![chinese-history：校验通过 1224 条记录 0 警告 · 年号重名「贞观」有两个 · SQLite 全库 10 张表 · 每条记录都带出处](docs/assets/hero.png)](https://anthonyhann.github.io/chinese-history/)
+[![chinese-history：校验通过 4497 条记录 0 警告 · 年号重名「贞观」有两个 · 每条记录都带出处 · 3327 件馆藏文物](docs/assets/hero.png)](https://anthonyhann.github.io/chinese-history/)
+
+<sub>⚠️ 上图是 v1.4.0 时期（1224 条）截的，数字已过时，待重截；当前实测为 4497 条。</sub>
 
 ---
 
 **如果这个项目对你有用，点个 ⭐ Star 是最实际的帮助。** 它不会让数据变得更准，但决定了这个库能不能被更多需要它的人看见——也是我能不能找到 co-maintainer 的前提。
 
-当前需要帮忙的具体位置：[`disputed[]` 争议多值目前只覆盖 9/370 人](https://github.com/anthonyhann/chinese-history/issues/4)，以及[还没有任何一条数据经过人工核验](https://github.com/anthonyhann/chinese-history/issues/5)。你熟悉哪段历史，就带着书目来提 PR，一条一个 PR，出处要能核。长期共建见 [#6 招募 co-maintainer](https://github.com/anthonyhann/chinese-history/issues/6)。
+当前需要帮忙的具体位置，按缺得最狠的排：
+
+1. **3327 件文物里有 2293 件中文名还是英文原名**，`description` 全部空着——描述必须原创改写，机器批量生成就是洗稿，所以宁缺毋滥，等懂器物的人来补。见 [M3 说明书](docs/M3-ARTIFACTS.md)。
+2. [`disputed[]` 争议多值目前只覆盖 9/370 人](https://github.com/anthonyhann/chinese-history/issues/4)，[还没有任何一条数据经过人工核验](https://github.com/anthonyhann/chinese-history/issues/5)。
+
+你熟悉哪段历史，就带着书目来提 PR，一条一个 PR，出处要能核。长期共建见 [#6 招募 co-maintainer](https://github.com/anthonyhann/chinese-history/issues/6)。
 
 ## ⚖️ 对比已有的方案：它解决什么问题
 
