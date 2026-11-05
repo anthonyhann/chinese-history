@@ -4,12 +4,12 @@
 
 ### 人物 · 事件 · 文物：中华历史的开源结构化数据库
 
-370 位历史人物（94% 已对齐 Wikidata QID） · 154 个历史事件 · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
+370 位历史人物（94% 已对齐 Wikidata QID） · 162 个历史事件 · **3327 件馆藏文物**（大都会 + 克利夫兰 3308 件 CC0 全量） · 551 个年号 · 49 个朝代/政权——全部 JSON 分发，clone 即用
 
 [![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history?label=release)](https://github.com/anthonyhann/chinese-history/releases)
-[![SQLite 下载](https://img.shields.io/badge/%E2%AC%87%20SQLite-1.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
-[![JSON 快照](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-311KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
-[![实体记录](https://img.shields.io/badge/entities-1224-red.svg)](#-数据集)
+[![SQLite 下载](https://img.shields.io/badge/%E2%AC%87%20SQLite-9.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![JSON 快照](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-768KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![实体记录](https://img.shields.io/badge/entities-4497-red.svg)](#-数据集)
 [![CI 校验](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
 
 [![代码许可: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
@@ -32,17 +32,24 @@
 
 搜一个人名、拖一条时间轴，30 秒就能看懂这个库装了什么。
 
-**不想 clone？** 直接下载单文件数据库 → [最新 Release](https://github.com/anthonyhann/chinese-history/releases/latest)（SQLite 1.8MB 全库 / JSON zip）
+**不想 clone？** 直接下载单文件数据库 → [最新 Release](https://github.com/anthonyhann/chinese-history/releases/latest)。注意：已发布的是 v1.4.0（SQLite 1.8MB / 1224 条），含 M3 文物的 v1.5.0 尚未打 tag。
 
 **想先看设计思路？** 三条铁律为什么这么定、各自付出了什么代价 → [《给中华历史数据建 Schema 时，我踩的三个坑和付出的代价》](https://juejin.cn/post/7700407749293768739)
 
-[![chinese-history：校验通过 1224 条记录 0 警告 · 年号重名「贞观」有两个 · SQLite 全库 10 张表 · 每条记录都带出处](docs/assets/hero.png)](https://anthonyhann.github.io/chinese-history/)
+[![chinese-history：校验通过 4497 条记录 0 警告 · 年号重名「贞观」有两个 · 每条记录都带出处 · 3327 件馆藏文物](docs/assets/hero.png)](https://anthonyhann.github.io/chinese-history/)
+
+<sub>⚠️ 上图是 v1.4.0 时期（1224 条）截的，数字已过时，待重截；当前实测为 4497 条。</sub>
 
 ---
 
 **如果这个项目对你有用，点个 ⭐ Star 是最实际的帮助。** 它不会让数据变得更准，但决定了这个库能不能被更多需要它的人看见——也是我能不能找到 co-maintainer 的前提。
 
-当前需要帮忙的具体位置：[`disputed[]` 争议多值目前只覆盖 9/370 人](https://github.com/anthonyhann/chinese-history/issues/4)，以及[还没有任何一条数据经过人工核验](https://github.com/anthonyhann/chinese-history/issues/5)。你熟悉哪段历史，就带着书目来提 PR，一条一个 PR，出处要能核。长期共建见 [#6 招募 co-maintainer](https://github.com/anthonyhann/chinese-history/issues/6)。
+当前需要帮忙的具体位置，按缺得最狠的排：
+
+1. **3327 件文物里有 2293 件中文名还是英文原名**，`description` 全部空着——描述必须原创改写，机器批量生成就是洗稿，所以宁缺毋滥，等懂器物的人来补。见 [M3 说明书](docs/M3-ARTIFACTS.md)。
+2. [`disputed[]` 争议多值目前只覆盖 9/370 人](https://github.com/anthonyhann/chinese-history/issues/4)，[还没有任何一条数据经过人工核验](https://github.com/anthonyhann/chinese-history/issues/5)。
+
+你熟悉哪段历史，就带着书目来提 PR，一条一个 PR，出处要能核。长期共建见 [#6 招募 co-maintainer](https://github.com/anthonyhann/chinese-history/issues/6)。
 
 ## ⚖️ 对比已有的方案：它解决什么问题
 
@@ -145,7 +152,7 @@ jq -r '.[] | "\(.name) → \(.successor // "（终）")"' persons/qing/person.qi
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① 拿数据
 cd chinese-history
-python3 tools/validate.py                                     # ② 验证数据完整性（1224 条）
+python3 tools/validate.py                                     # ② 验证数据完整性（4497 条）
 jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（或任何语言的 JSON 库）
 ```
 
@@ -167,22 +174,21 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 | [人物 · 元明清](persons/) | 43 | ✅ v1.0.0（帝系贯通至 1912） |
 | [人物 · 十国/西夏/大理](persons/) | 34 | ✅ v1.1.0（帝系拼图补齐） |
 | [人物 · 名臣将相](persons/) | 82 | ✅ 两批（商鞅/白起/诸葛亮/魏征/李白/王安石/苏轼/岳飞/于谦/王阳明/曾国藩/林则徐等） |
-| [事件 · 秦](events/qin/) | 20 | ✅ M1 种子 |
-| [事件 · 汉](events/han/) | 19 | ✅ M2 新增 |
-| [事件 · 魏晋南北朝](events/) | 12 | ✅ v0.2.0（官渡/赤壁/淝水/侯景等） |
-| [事件 · 隋唐](events/) | 15 | ✅ v0.3.0（大运河/玄武门/贞观/安史之乱等） |
-| [事件 · 宋辽金](events/) | 12 | ✅ v0.4.0（陈桥兵变/澶渊之盟/靖康之变/崖山等） |
-| [事件 · 元明清](events/) | 15 | ✅ v1.0.0（蒙古西征/郑和下西洋/鸦片战争/辛亥革命） |
-| [事件 · 各朝加密](events/) | 61 | ✅ v1.2.0（参合陂/高平/白江口/胡蓝之狱/萨尔浒/洋务运动等） |
+| [事件 · 秦](events/qin/) | 23 | ✅ M1 种子（+ 商鞅变法/商鞅车裂/长平之战） |
+| [事件 · 汉](events/han/) | 20 | ✅ M2 新增（+ 文景之治） |
+| [事件 · 魏晋南北朝](events/) | 33 | ✅ v0.2.0（官渡/赤壁/淝水/侯景等） |
+| [事件 · 隋唐五代](events/) | 25 | ✅ v0.3.0（大运河/玄武门/贞观/安史之乱等，+ 租庸调制） |
+| [事件 · 宋辽金](events/) | 26 | ✅ v0.4.0（陈桥兵变/澶渊之盟/靖康之变/崖山等） |
+| [事件 · 元明清](events/) | 35 | ✅ v1.0.0（蒙古西征/郑和下西洋/鸦片战争/辛亥革命，+ 一条鞭法/摊丁入亩/土木之变） |
 | [文物 · 秦陵博物院](artifacts/qin/) | 1 | 🔬 Schema 样例 |
-| [文物 · 大都会博物馆](artifacts/met/) | 24 | ✅ v1.1.0（CC0 图片直连） |
+| [文物 · 大都会博物馆](artifacts/met/) | 892 | ✅ M3 全量（中国藏品公有领域 + CC0 图片全库拉取） |
 | [文物 · 史密森尼亚洲艺术馆](artifacts/smithsonian/) | 15 | ✅ v1.2.0（商周青铜/玉器/唐俑，CC0） |
 | [文物 · 大英博物馆](artifacts/british-museum/) | 3 | ✅ v1.3.0（NC 许可仅链接） |
-| [文物 · 克利夫兰](artifacts/cleveland/) | 19 | ✅ v1.4.0（商方卣/汉博山炉/北魏苦行僧/唐乐伎俑等，CC0） |
+| [文物 · 克利夫兰](artifacts/cleveland/) | 2416 | ✅ M3 全量（中国艺术部 CC0 藏品 + 图片全库拉取） |
 | [朝代/政权](dynasties/) | 49 | ✅ 基础表 |
 | [年号纪年](reign_eras/) | 551 | ✅ 秦汉至明清 + 十国西夏（建元 → 宣统） |
 | [地名](places/) | 31 | ✅ 含今地名与坐标 |
-| [博物馆](museums/) | 6 | ✅ 含各馆开放数据许可状态 |
+| [博物馆](museums/) | 7 | ✅ 含各馆开放数据许可状态 |
 
 ## 📐 三个设计决策（与诗词库的关键差异）
 
@@ -209,7 +215,8 @@ jq '.[] | .name' persons/han/person.han.0.json                # ③ 开始用（
 - ✅ **v1.2.0 加密**：名臣第二批 41 人 + 事件加密 61 个 + Smithsonian CC0 文物 15 件
 - ✅ **v1.3.0 对齐**：348/370 人物挂上 Wikidata QID + 大英博物馆文物 3 件
 - ✅ **v1.4.0 馆藏通道**：克利夫兰 CC0 文物 19 件（当前）
-- 🔜 **M3 文物**：Met / Smithsonian 等 CC0 开放馆藏中华文物清洗导入
+- ✅ **M3 文物通道**：大都会中国公有领域藏品 892 件 + 克利夫兰中国艺术部 CC0 藏品 2416 件，全部带 CC0 图片直链（未发布，待 v1.5.0 打 tag）
+  - **诚实说明**：这 3308 件里 972 件给出了中文名（其中 441 件是名称能确定性对译、如「瓶」「罐」「三足鼎」，531 件只对到器物类别、纹饰题材见 `name_en`），其余 2293 件保留博物馆原英文名——宁可留英文，不编中文名。跨馆重复与各馆断代口径不一致的问题见 [M3 说明书](docs/M3-ARTIFACTS.md)
 - 🔜 **M3+**：SQLite 构建器已可用（`python3 tools/build_sqlite.py`），release 自动化见 `.github/workflows/release.yml`
 - 🔜 **M4**：历代皇帝全量、案例展示
 

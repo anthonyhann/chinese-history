@@ -1,0 +1,962 @@
+[
+ {
+  "id": "artifact.met.53630",
+  "uuid": "74d96722-362e-5def-b653-a65d82ee37d3",
+  "name": "Camel with Dionysian imagery on its saddle bags",
+  "name_traditional": "Camel with Dionysian imagery on its saddle bags",
+  "name_en": "Camel with Dionysian imagery on its saddle bags",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 618,
+   "original": "late 6th–7th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Earthenware with appliqué relief decoration and pigment"
+  ],
+  "dimensions": "H. 12 in. (30.5 cm); W. 5 1/2 in. (14 cm); L. 11 1/4 in. (28.6 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 2000",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-343-001.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 53630",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/53630"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "period_raw": "Sui dynasty (581–618)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 53630,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1962.162",
+  "uuid": "37c3c43f-aa3a-5905-be46-f90d355c0b92",
+  "name": "菩萨像",
+  "name_traditional": "菩萨像",
+  "name_en": "Bodhisattva Guanyin",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 575,
+   "end": 625,
+   "original": "late 500s–early 600s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "sandstone with polychromy"
+  ],
+  "dimensions": "Overall: 138.8 x 38.2 x 27.4 cm (54 5/8 x 15 1/16 x 10 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Mayuyama and Company, Tokyo, Japan, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.162/1962.162_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1962.162",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1962.162"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:bodhisattva",
+   "dynasty_note": "multi-name:dynasty.northern-qi+dynasty.sui",
+   "culture_raw": "China, late Northern Qi (550–577) or early Sui dynasty (581–618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1962.162",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1962.217",
+  "uuid": "257df2f1-c312-5f48-9e6f-b512119c1eba",
+  "name": "Bodhisattva Guanyin",
+  "name_traditional": "Bodhisattva Guanyin",
+  "name_en": "Bodhisattva Guanyin",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 618,
+   "original": "581–618",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 8.3 cm (3 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. John Lyon [Georgia Forman Elliott] Collyer [1898–1994], given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1962.217/1962.217_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1962.217",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1962.217"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1962.217",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1964.152",
+  "uuid": "deeb9ad1-4c3f-54ea-b904-c62efd71f88e",
+  "name": "佛像",
+  "name_traditional": "佛像",
+  "name_en": "Amida Buddha",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 618,
+   "original": "581–618",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone with traces of polychromy"
+  ],
+  "dimensions": "Overall: 51.4 x 20.3 cm (20 1/4 x 8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "K. Takenouchi, Tokyo, Japan; (N. V. Hammer, Inc., New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1964.152/1964.152_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1964.152",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1964.152"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:buddha",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1964.152",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1979.20",
+  "uuid": "d8990a40-bd5a-57a9-b3d0-6b78f7fa83d2",
+  "name": "Standing Bodhisattva",
+  "name_traditional": "Standing Bodhisattva",
+  "name_en": "Standing Bodhisattva",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 599,
+   "original": "late 500s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Average: 11.5 cm (4 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Sotheby Parke Bernet, Inc., New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1979.20/1979.20_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1979.20",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1979.20"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1979.20",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.336",
+  "uuid": "ec608557-6e02-536f-92fc-91a655fe2f1b",
+  "name": "Mirror with Interlacing Floral Motifs and Twelve Zodiac Animals",
+  "name_traditional": "Mirror with Interlacing Floral Motifs and Twelve Zodiac Animals",
+  "name_en": "Mirror with Interlacing Floral Motifs and Twelve Zodiac Animals",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 618,
+   "original": "late 500s–early 600s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 15.4 cm (6 1/16 in.); Overall: 1.4 cm (9/16 in.); Rim: 0.5 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, the Cleveland Museum of Art,; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.336/1995.336_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.336",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.336"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.336",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.339",
+  "uuid": "a3410434-0da6-577b-9654-fb1226a3ce5f",
+  "name": "Mirror with Four Spirits",
+  "name_traditional": "Mirror with Four Spirits",
+  "name_en": "Mirror with Four Spirits",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 618,
+   "original": "581–618",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 19.8 cm (7 13/16 in.); Overall: 1.5 cm (9/16 in.); Rim: 0.7 cm (1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.339/1995.339_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.339",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.339"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581–618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.339",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.337",
+  "uuid": "9d64486b-1755-5369-85db-c1cb63846871",
+  "name": "Mirror with Deities and Animals in Concentric Circles",
+  "name_traditional": "Mirror with Deities and Animals in Concentric Circles",
+  "name_en": "Mirror with Deities and Animals in Concentric Circles",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 618,
+   "original": "late 500s–early 600s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 33.4 cm (13 1/8 in.); Overall: 1.6 cm (5/8 in.); Rim: 0.9 cm (3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.337/1995.337_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.337",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.337"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581–618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.337",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1954.784",
+  "uuid": "21ac34bc-f30d-52dd-9daa-7c071fe5ccd6",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Vase with Loop Handles",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 581,
+   "end": 618,
+   "original": "581–618",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware"
+  ],
+  "dimensions": "Overall: 21.9 cm (8 5/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.784/1954.784_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1954.784",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1954.784"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1954.784",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1999.219",
+  "uuid": "9e35e25f-f834-57d3-bbf2-8cdb86d991e0",
+  "name": "Miniature Square Mirror",
+  "name_traditional": "Miniature Square Mirror",
+  "name_en": "Miniature Square Mirror",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 589,
+   "end": 618,
+   "original": "581–618",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 0.6 x 3.8 cm (1/4 x 1 1/2 in.); Rim: 0.5 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, ?-1999, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH, 1999-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1999.219/1999.219_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1999.219",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1999.219"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1999.219",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1970.58",
+  "uuid": "40576e7b-355e-5bdd-8e42-30fcb98e3adf",
+  "name": "Groom (Tomb Figure)",
+  "name_traditional": "Groom (Tomb Figure)",
+  "name_en": "Groom (Tomb Figure)",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 575,
+   "end": 625,
+   "original": "late 500s–early 600s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "buff earthenware with polychromy"
+  ],
+  "dimensions": "Overall: 21 x 8.3 cm (8 1/4 x 3 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Harry C. Nail, Jr. [1909–1990], El Dorado, Arkansas, sold to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1970.58/1970.58_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1970.58",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1970.58"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "multi-name:dynasty.sui+dynasty.tang",
+   "culture_raw": "China, Sui dynasty (581-618) - Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1970.58",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1986.242",
+  "uuid": "2e03f30a-70dd-57d9-9836-702f7338e87d",
+  "name": "菩萨像",
+  "name_traditional": "菩萨像",
+  "name_en": "Bodhisattva",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 575,
+   "end": 625,
+   "original": "late 500s–early 600s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "stone with polychromy and gilding"
+  ],
+  "dimensions": "Overall: 40.2 cm (15 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(James J. Lally, New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1986.242/1986.242_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1986.242",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1986.242"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:bodhisattva",
+   "dynasty_note": "multi-name:dynasty.sui+dynasty.tang",
+   "culture_raw": "China, Sui dynasty (581-618) - Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1986.242",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1954.371",
+  "uuid": "0ee0bd81-f520-5d4e-826c-533294b72a94",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar with Four Loop-Handles",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 500,
+   "end": 599,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed gray stoneware"
+  ],
+  "dimensions": "Overall: 25.5 cm (10 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "from Northern China; (Howard Hollis and Co., Cleveland, OH, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1954.371/1954.371_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1954.371",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1954.371"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "multi-name:dynasty.sui+dynasty.tang",
+   "culture_raw": "China, Sui dynasty (581-618) - Tang dynasty (618-907)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1954.371",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1992.372",
+  "uuid": "8b81e6fd-a1da-5357-abee-592875aae60e",
+  "name": "Sakyamuni with Two Attendants",
+  "name_traditional": "Sakyamuni with Two Attendants",
+  "name_en": "Sakyamuni with Two Attendants",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 600,
+   "end": 699,
+   "original": "600s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": null,
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1992.372/1992.372_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1992.372",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1992.372"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1992.372",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.388",
+  "uuid": "c88a0aed-875a-566c-9920-13386804db15",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar",
+  "dynasty": "dynasty.sui",
+  "date": {
+   "start": 500,
+   "end": 599,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed earthenware"
+  ],
+  "dimensions": "Diameter: 38.2 cm (15 1/16 in.); Overall: 50.8 cm (20 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.388/1915.388_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.388",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.388"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Six Dynasties period (265-589) or Sui dynasty (581-618)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.388",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

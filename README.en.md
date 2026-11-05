@@ -4,12 +4,12 @@
 
 ### Persons · Events · Artifacts: the open structured database of Chinese history
 
-370 historical figures (94% linked to Wikidata QIDs) · 154 events · 551 era names · 49 dynasties/regimes — all in JSON, clone and build
+370 historical figures (94% linked to Wikidata QIDs) · 162 events · **3,327 museum-held artifacts** (full CC0 Chinese collections of the Met + Cleveland) · 551 era names · 49 dynasties/regimes — all in JSON, clone and build
 
 [![Release](https://img.shields.io/github/v/release/anthonyhann/chinese-history?label=release)](https://github.com/anthonyhann/chinese-history/releases)
-[![SQLite download](https://img.shields.io/badge/%E2%AC%87%20SQLite-1.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
-[![JSON snapshot](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-311KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
-[![Entities](https://img.shields.io/badge/entities-1224-red.svg)](#-datasets)
+[![SQLite download](https://img.shields.io/badge/%E2%AC%87%20SQLite-9.8MB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![JSON snapshot](https://img.shields.io/badge/%E2%AC%87%20JSON%20zip-768KB-brightgreen)](https://github.com/anthonyhann/chinese-history/releases/latest)
+[![Entities](https://img.shields.io/badge/entities-4497-red.svg)](#-datasets)
 [![CI](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml/badge.svg)](https://github.com/anthonyhann/chinese-history/actions/workflows/validate.yml)
 
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
@@ -28,7 +28,7 @@
 >
 > **In one line**: clean, structured Chinese history for developers and AI agents — clone and build, no scraping encyclopedias, no copyright worries.
 
-**Don't want to clone?** Grab the single-file database → [latest release](https://github.com/anthonyhann/chinese-history/releases/latest) (1.8 MB SQLite / JSON zip)
+**Don't want to clone?** Grab the single-file database → [latest release](https://github.com/anthonyhann/chinese-history/releases/latest). Note: the published release is still v1.4.0 (1.8 MB SQLite / 1224 records); v1.5.0 with the M3 artifacts is not tagged yet.
 
 ---
 
@@ -63,7 +63,7 @@ jq '.[] | select(.titles[]? | contains("秦始皇"))' persons/qin/person.qin.0.j
 ```bash
 git clone https://github.com/anthonyhann/chinese-history.git  # ① get the data
 cd chinese-history
-python3 tools/validate.py                                     # ② verify integrity (1224 records)
+python3 tools/validate.py                                     # ② verify integrity (4497 records)
 jq '.[] | .name' persons/han/person.han.0.json                # ③ use it (or any JSON lib)
 ```
 
@@ -85,22 +85,21 @@ Every record must carry `sources` — records without provenance fail CI. That i
 | [Persons · Yuan-Ming-Qing](persons/) | 43 | ✅ v1.0.0 (imperial line complete through 1912) |
 | [Persons · Ten Kingdoms/W. Xia/Dali](persons/) | 34 | ✅ v1.1.0 |
 | [Persons · Ministers & Generals](persons/) | 82 | ✅ two batches |
-| [Events · Qin](events/qin/) | 20 | ✅ M1 seed |
-| [Events · Han](events/han/) | 19 | ✅ M2 (new) |
-| [Events · Wei-Jin & N/S Dynasties](events/) | 12 | ✅ v0.2.0 (Guandu, Chibi, Feishui…) |
-| [Events · Sui-Tang](events/) | 15 | ✅ v0.3.0 (Grand Canal, Xuanwu Gate, An Lushan…) |
-| [Events · Song-Liao-Jin](events/) | 12 | ✅ v0.4.0 (Chenqiao, Chanyuan, Jingkang, Yashan…) |
-| [Events · Yuan-Ming-Qing](events/) | 15 | ✅ v1.0.0 |
-| [Events · density pass](events/) | 61 | ✅ v1.2.0 (Canhepi, Baijiangkou, Sarhū, Self-Strengthening…) |
+| [Events · Qin](events/qin/) | 23 | ✅ M1 seed |
+| [Events · Han](events/han/) | 20 | ✅ M2 (new) |
+| [Events · Wei-Jin & N/S Dynasties](events/) | 33 | ✅ v0.2.0 (Guandu, Chibi, Feishui…) |
+| [Events · Sui-Tang](events/) | 25 | ✅ v0.3.0 (Grand Canal, Xuanwu Gate, An Lushan…; + zu-yong-diao tax system) |
+| [Events · Song-Liao-Jin](events/) | 26 | ✅ v0.4.0 (Chenqiao, Chanyuan, Jingkang, Yashan…) |
+| [Events · Yuan-Ming-Qing](events/) | 35 | ✅ v1.0.0 (+ Single-Whip Reform, tanding-rumu, Tumu Crisis) |
 | [Artifacts · Qin](artifacts/qin/) | 1 | 🔬 schema sample |
-| [Artifacts · Met](artifacts/met/) | 24 | ✅ v1.1.0 (CC0) |
+| [Artifacts · Met](artifacts/met/) | 892 | ✅ M3 full public-domain Chinese collection (CC0) |
 | [Artifacts · Smithsonian NMAA](artifacts/smithsonian/) | 15 | ✅ v1.2.0 (CC0) |
 | [Artifacts · British Museum](artifacts/british-museum/) | 3 | ✅ v1.3.0 (NC = link only) |
-| [Artifacts · Cleveland](artifacts/cleveland/) | 19 | ✅ v1.4.0 (CC0, keyless API) |
+| [Artifacts · Cleveland](artifacts/cleveland/) | 2416 | ✅ M3 full CC0 Chinese collection |
 | [Dynasties/regimes](dynasties/) | 49 | ✅ base table |
 | [Era names](reign_eras/) | 551 | ✅ incl. Ten Kingdoms & Western Xia |
 | [Places](places/) | 31 | ✅ with modern names & coordinates |
-| [Museums](museums/) | 6 | ✅ with open-data license status |
+| [Museums](museums/) | 7 | ✅ with open-data license status |
 
 ## 📐 Three design decisions (what differs from the poetry repo)
 
@@ -128,6 +127,8 @@ Every record must carry `sources` — records without provenance fail CI. That i
 - ✅ **v1.3.0**: 94% Wikidata alignment + 3 BM artifacts
 - ✅ **v1.4.0**: 19 Cleveland CC0 artifacts (current)
 - 🔜 **M3 Artifacts**: CC0 Chinese artifacts from Met / Smithsonian open collections
+- ✅ **M3 artifacts**: 892 Met + 2416 Cleveland CC0 Chinese objects with direct CC0 image URLs (not released; awaiting v1.5.0)
+  - **Honest note**: only 972 of the 3308 have a Chinese name (441 confidently translated, 531 category-only); the other 2293 keep the museum's original English title, and every `description` is intentionally empty. See [docs/M3-ARTIFACTS.md](docs/M3-ARTIFACTS.md).
 - 🔜 **M3+**: SQLite builder is ready (`python3 tools/build_sqlite.py`); release automation in `.github/workflows/release.yml`
 - 🔜 **M4**: all dynasties' emperors, showcase gallery
 

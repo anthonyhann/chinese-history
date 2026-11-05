@@ -1,0 +1,386 @@
+[
+ {
+  "id": "artifact.met.61404",
+  "uuid": "fdc28d3e-01f8-5689-bacf-ba83006ca6c7",
+  "name": "Mirror",
+  "name_traditional": "Mirror",
+  "name_en": "Mirror",
+  "dynasty": "dynasty.three-kingdoms",
+  "date": {
+   "start": 220,
+   "end": 589,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "青铜器"
+  ],
+  "material": [
+   "Bronze, silver"
+  ],
+  "dimensions": "Diam. 4 3/4 in. (12.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1925",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/25_20_1_183326.JPG",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61404",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61404"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span",
+   "period_raw": "Six Dynasties (220–589)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61404,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.61868",
+  "uuid": "95b3fa93-81d3-5cf9-b3ac-8f9df98295a8",
+  "name": "Textile with deer and a woven inscription",
+  "name_traditional": "Textile with deer and a woven inscription",
+  "name_en": "Textile with deer and a woven inscription",
+  "dynasty": "dynasty.three-kingdoms",
+  "date": {
+   "start": 200,
+   "end": 499,
+   "original": "3rd–5th century",
+   "circa": true
+  },
+  "category": [
+   "丝织品"
+  ],
+  "material": [
+   "Warp-faced compound plain-weave silk"
+  ],
+  "dimensions": "Overall: 25 1/4 × 19 5/8 in. (64.1 × 49.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Purchase, Friends of Asian Art Gifts, in honor of Douglas Dillon, 2001",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP158223.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 61868",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/61868"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "other-kind",
+   "dynasty_note": "span",
+   "period_raw": "",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 61868,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1973.84",
+  "uuid": "86b36fe2-841f-59ff-a16b-34174df12fee",
+  "name": "执壶",
+  "name_traditional": "执壶",
+  "name_en": "Chicken-Headed Ewer",
+  "dynasty": "dynasty.three-kingdoms",
+  "date": {
+   "start": 220,
+   "end": 589,
+   "original": "220–589 CE",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "green-glazed stoneware with incised, carved and applied decoration, Yue ware"
+  ],
+  "dimensions": "Overall: 23.5 cm (9 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mr. and Mrs. John D. MacDonald, Cambridge, MA, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1973.84/1973.84_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1973.84",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1973.84"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:ewer;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Zhejiang province, Southern Dynasties period (420-589)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1973.84",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.322",
+  "uuid": "acacb960-576f-5b10-bc9a-a2cd6b84865b",
+  "name": "Mirror with Two Dragons and a Tiger",
+  "name_traditional": "Mirror with Two Dragons and a Tiger",
+  "name_en": "Mirror with Two Dragons and a Tiger",
+  "dynasty": "dynasty.three-kingdoms",
+  "date": {
+   "start": 220,
+   "end": 280,
+   "original": "200s CE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 14.7 cm (5 13/16 in.); Overall: 1.5 cm (9/16 in.); Rim: 1.1 cm (7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.322/1995.322_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.322",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.322"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Three Kingdoms (221–280 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.322",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.317",
+  "uuid": "27ba3304-8dad-584f-8abd-25a0788f9a6b",
+  "name": "Mirror with Quatrefoil, Paired Phoenixes, and Auspicious Animals",
+  "name_traditional": "Mirror with Quatrefoil, Paired Phoenixes, and Auspicious Animals",
+  "name_en": "Mirror with Quatrefoil, Paired Phoenixes, and Auspicious Animals",
+  "dynasty": "dynasty.three-kingdoms",
+  "date": {
+   "start": 221,
+   "end": 316,
+   "original": "221–316 CE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 18.6 cm (7 5/16 in.); Overall: 1.2 cm (1/2 in.); Rim: 0.4 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.317/1995.317_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.317",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.317"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.three-kingdoms+dynasty.jin",
+   "culture_raw": "China, Three Kingdoms (221–280 CE)–Western Jin dynasty (265–316 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.317",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.323",
+  "uuid": "bcc03670-17c0-58f6-aecc-b03d20775431",
+  "name": "Mirror with a Coiling Dragon",
+  "name_traditional": "Mirror with a Coiling Dragon",
+  "name_en": "Mirror with a Coiling Dragon",
+  "dynasty": "dynasty.three-kingdoms",
+  "date": {
+   "start": 220,
+   "end": 280,
+   "original": "200s CE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 9.9 cm (3 7/8 in.); Overall: 1 cm (3/8 in.); Rim: 0.8 cm (5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.323/1995.323_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.323",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.323"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Three Kingdoms (221–280 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.323",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

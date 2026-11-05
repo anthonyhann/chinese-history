@@ -106,24 +106,24 @@
   {
     "id": "artifact.met.42331",
     "uuid": "ff999af4-9e19-49ec-b9d9-c14d073e6ee4",
-    "name": "彩陶/青铜罐（罐）",
-    "name_traditional": "彩陶/青铜罐（罐）",
-    "name_en": "Jar (Guan)",
+    "name": "战国印纹硬陶罐",
+    "name_traditional": "戰國印紋硬陶罐",
+    "name_en": "Jar (Guan), Eastern Zhou, Warring States period",
     "dynasty": "dynasty.zhou",
     "date": {
-      "start": -400,
-      "end": -250,
-      "original": "4th–3rd century BCE",
+      "start": -399,
+      "end": -200,
+      "original": "Eastern Zhou dynasty, Warring States period (475–221 BCE)；馆方年代 4th–3rd century BCE，取 objectBeginDate/objectEndDate 整数区间",
       "circa": true
     },
     "category": [
       "陶器"
     ],
     "material": [
-      "Stoneware with impressed and carved decoration"
+      "Stoneware with impressed and carved decoration（印纹硬陶）"
     ],
     "dimensions": "H. 7 1/4 in. (18.4 cm); Diam. 10 in. (25.4 cm)",
-    "description": "战国时期的罐，器型浑圆，为研究战国日常生活器用的实物。",
+    "description": "战国时期的印纹硬陶罐。馆方原作 \"Jar (Guan)\"，classification 为 Ceramics，质地是印纹与刻划装饰的硬陶（stoneware）。原条目把名称写成「彩陶/青铜罐」、类别记作陶器却归类不清，与本馆记录不符，此处按馆方字段更正。",
     "current_holder": {
       "museum": "museum.met",
       "city": "纽约",
@@ -151,7 +151,14 @@
       "created_by": "ai-pipeline",
       "model": "kimi-k3",
       "prompt_version": "met-import-v1",
-      "version": 1
+      "version": 2,
+      "corrected_at": "2026-11-05",
+      "correction_note": "朝代 dynasty.zhou 保留（周），但名称原写「彩陶/青铜罐」与馆方 classification=Ceramics、medium=Stoneware 不符，已按馆方更正；date 收到馆方 objectBeginDate/objectEndDate",
+      "source_snapshot": {
+        "api": "Met Collection API v1.1 /objects",
+        "object_id": 42331,
+        "fetched_at": "2026-11-05"
+      }
     }
   },
   {

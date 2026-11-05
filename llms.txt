@@ -1,6 +1,6 @@
 # chinese-history
 
-> Open structured database of Chinese history: 370 persons, 154 events, 551 reign eras, 49 dynasties, 62 museum-held artifacts — 1224 records. JSON distribution (clone-and-use) plus a single-file SQLite build. Every record carries `sources`. Inspired by chinese-poetry.
+> Open structured database of Chinese history: 370 persons, 162 events, 551 reign eras, 49 dynasties, 3327 museum-held artifacts (Met + Cleveland CC0) — 4497 records. JSON distribution (clone-and-use) plus a single-file SQLite build. Every record carries `sources`. Inspired by chinese-poetry.
 
 Repo: https://github.com/anthonyhann/chinese-history
 Discussions: https://github.com/anthonyhann/chinese-history/discussions

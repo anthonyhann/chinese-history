@@ -1,0 +1,386 @@
+[
+ {
+  "id": "artifact.met.54213",
+  "uuid": "1dbd3d1a-4a3e-56b1-8653-6af48ba11350",
+  "name": "Head of a Buddhist Image",
+  "name_traditional": "Head of a Buddhist Image",
+  "name_en": "Head of a Buddhist Image",
+  "dynasty": "dynasty.eastern-wei",
+  "date": {
+   "start": 500,
+   "end": 699,
+   "original": "ca. 6th–7th century",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Pigments on mud plaster"
+  ],
+  "dimensions": "6 x 6 3/4 in. (15.2 x 17.1 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1944",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP338612.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 54213",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/54213"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "span",
+   "period_raw": "Kizil kingdom",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 54213,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1914.567",
+  "uuid": "dea9b77c-61c4-5ea3-846b-fed6d654e1ee",
+  "name": "Stele with Sakyamuni and Bodhisattvas",
+  "name_traditional": "Stele with Sakyamuni and Bodhisattvas",
+  "name_en": "Stele with Sakyamuni and Bodhisattvas",
+  "dynasty": "dynasty.eastern-wei",
+  "date": {
+   "start": 537,
+   "end": 537,
+   "original": "537",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "limestone"
+  ],
+  "dimensions": "Overall: 77.5 x 44.4 cm (30 1/2 x 17 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Edgar Worch [1880–1972], New York, NY and Berlin, Germany, sold to the Cleveland Museum of Art); The Cleveland Museum of Art",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1914.567/1914.567_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1914.567",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1914.567"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "name",
+   "culture_raw": "China, Hebei province, Eastern Wei dynasty (534-550)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1914.567",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1930.731",
+  "uuid": "a281ce2b-b145-5ae7-82bc-2a042f3c6c0a",
+  "name": "Monster Face: Door Ring Holder (Pushou)",
+  "name_traditional": "Monster Face: Door Ring Holder (Pushou)",
+  "name_en": "Monster Face: Door Ring Holder (Pushou)",
+  "dynasty": "dynasty.eastern-wei",
+  "date": {
+   "start": 500,
+   "end": 599,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 13.6 x 20 cm (5 3/8 x 7 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "said to be from Sung-Shan in Honan [Henan] Province, China; Jörg Trübner [1903–1930] acquired in China, to his brother-in-law, Edgar Worch; Edgar Worch [1880–1972], sold to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1930.731/1930.731_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1930.731",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1930.731"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span",
+   "culture_raw": "China, Henan province, Northern Dynasties period (386–581 CE)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1930.731",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1983.214",
+  "uuid": "5f2d9550-aa0a-541a-8f3a-304817666695",
+  "name": "三足鼎",
+  "name_traditional": "三足鼎",
+  "name_en": "Tripod Container with Dragon-Head Handle (Zhadou)",
+  "dynasty": "dynasty.eastern-wei",
+  "date": {
+   "start": 500,
+   "end": 600,
+   "original": "500s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 22.8 cm (9 in.); Diameter of mouth with rim: 15.5 cm (6 1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Sotheby Parke Bernet, New York, NY, Sale of Fine Chinese Ceramics, Works of Art and Paintings, Wednesday, December 7, 1983, lot 63); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1983.214/1983.214_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1983.214",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1983.214"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "metal:tripod;form=['三足']",
+   "dynasty_note": "span",
+   "culture_raw": "China, Southern and Northern Dynasties period (386-589)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1983.214",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1997.116",
+  "uuid": "40912f0b-13f5-5cfb-931f-d41b0515790d",
+  "name": "Fragment of Bodhisattva Head",
+  "name_traditional": "Fragment of Bodhisattva Head",
+  "name_en": "Fragment of Bodhisattva Head",
+  "dynasty": "dynasty.eastern-wei",
+  "date": {
+   "start": 400,
+   "end": 699,
+   "original": "possibly 400s–600s CE",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "sandstone"
+  ],
+  "dimensions": "Overall: 14.9 cm (5 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. A. Dean [Helen Wade Greene] Perry [1911–1996], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1997.116/1997.116_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1997.116",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1997.116"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "sculpt-other",
+   "dynasty_note": "span",
+   "culture_raw": "China, possibly Yungang ?",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1997.116",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.327",
+  "uuid": "6043984a-76ca-53e9-b35f-a64e8b25b766",
+  "name": "Mirror with Four Bixie",
+  "name_traditional": "Mirror with Four Bixie",
+  "name_en": "Mirror with Four Bixie",
+  "dynasty": "dynasty.eastern-wei",
+  "date": {
+   "start": 420,
+   "end": 589,
+   "original": "early 400s–late 500s CE",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 11.6 cm (4 9/16 in.); Overall: 1.3 cm (1/2 in.); Rim: 0.6 cm (1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.327/1995.327_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.327",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.327"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span",
+   "culture_raw": "China, Southern and Northern Dynasties period (386-589)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.327",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

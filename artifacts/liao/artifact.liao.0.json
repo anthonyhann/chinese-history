@@ -1,0 +1,1218 @@
+[
+ {
+  "id": "artifact.met.36443",
+  "uuid": "dac0931e-66ba-5478-aca0-4531c501edc2",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Oblong dish with foliate rim",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 1050,
+   "end": 1099,
+   "original": "second half 11th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Earthenware with colored glaze (sancai ware)"
+  ],
+  "dimensions": "H. 1 in. (2.5 cm); W. 6 1/2 in. (16.5 cm); L. 11 1/8 in. (28.3 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Mr. and Mrs. George J. Fan, 1991",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/1991_382.JPG",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 36443",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/36443"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Liao dynasty (907–1125)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 36443,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.44799",
+  "uuid": "929ad877-6554-5e1a-a943-eff50c0fe286",
+  "name": "Arhat (Luohan)",
+  "name_traditional": "Arhat (Luohan)",
+  "name_en": "Arhat (Luohan)",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 990,
+   "end": 1010,
+   "original": "ca. 1000",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with three-color glaze"
+  ],
+  "dimensions": "Figure: H. 41 1/4 in. (104.8 cm)\r\nBase: H. 6 3/4 in. (17.1 cm); W. 36 in. (91.4 cm); D. 33 in. (83.8 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Frederick C. Hewitt Fund, 1921",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP163966.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 44799",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/44799"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "period_raw": "Liao dynasty (907–1125)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 44799,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1942.1082",
+  "uuid": "8e21c0db-2ecd-512f-b02f-392cf88b862b",
+  "name": "Amitabha",
+  "name_traditional": "Amitabha",
+  "name_en": "Amitabha",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 1040,
+   "end": 1060,
+   "original": "mid-1000s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 23 cm (9 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1942.1082/1942.1082_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1942.1082",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1942.1082"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span",
+   "culture_raw": "China, Yunnan province, Dali kingdom (938–1253)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1942.1082",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1976.14",
+  "uuid": "98e9836b-a87a-5f9d-9613-faad0b75e4f2",
+  "name": "Bodhisattva Guanyin",
+  "name_traditional": "Bodhisattva Guanyin",
+  "name_en": "Bodhisattva Guanyin",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "900s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 43.8 cm (17 1/4 in.); Diameter of base: 14.6 cm (5 3/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "R. T. Bruce, London, England; (J. E. Eskenazi, Ltd., London, England, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1976.14/1976.14_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1976.14",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1976.14"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1976.14",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1974.90",
+  "uuid": "3d58c31f-e47c-5a67-8745-e3a58688ff90",
+  "name": "Manjusri Riding on a Lion",
+  "name_traditional": "Manjusri Riding on a Lion",
+  "name_en": "Manjusri Riding on a Lion",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "900s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 17 x 10.2 cm (6 11/16 x 4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Yamanaka and Company, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1974.90/1974.90_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1974.90",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1974.90"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1974.90",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2012.448",
+  "uuid": "c3f3c28b-1d15-5d03-b510-24c73c4f2314",
+  "name": "Pair of Leather Bag-Shaped Flasks with Covers",
+  "name_traditional": "Pair of Leather Bag-Shaped Flasks with Covers",
+  "name_en": "Pair of Leather Bag-Shaped Flasks with Covers",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 916,
+   "end": 1125,
+   "original": "916–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "earthenware with green glaze"
+  ],
+  "dimensions": "Part 1: 24.5 x 16.5 x 16 cm (9 5/8 x 6 1/2 x 6 5/16 in.); Part 2: 23.5 x 17.5 x 13.8 cm (9 1/4 x 6 7/8 x 5 7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Uragami Sokyu-do Co. Ltd., Tokyo, Japan, sold to Donna and James Reid); Donna [b. 1931] and James Reid [1926-2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2012.448/2012.448_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2012.448",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2012.448"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "ceramic-no-noun",
+   "dynasty_note": "span+name",
+   "culture_raw": "Northeast China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2012.448",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2017.15",
+  "uuid": "6cfb77ef-6209-512d-91ef-6a040af61a97",
+  "name": "枕",
+  "name_traditional": "枕",
+  "name_en": "Headrest with Three Lions",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 916,
+   "end": 1125,
+   "original": "916–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed earthenware, sancai (three-color ware)"
+  ],
+  "dimensions": "Overall: 13.4 x 37.9 x 18.2 cm (5 1/4 x 14 15/16 x 7 3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Kaikodo, New York, NY); Donna [b. 1931] and James Reid [1926–2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2017.15/2017.15_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2017.15",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2017.15"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:headrest;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2017.15",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.29",
+  "uuid": "437e8f00-934b-5b15-86b7-254f97533040",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "900s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "white porcelain with combed and incised decoration"
+  ],
+  "dimensions": "Diameter: 12.8 x 12.5 cm (5 1/16 x 4 15/16 in.); Overall: 12.5 cm (4 15/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-chu Wang, Seller's No. 2",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.29/1957.29_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.29",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.29"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "Northeast China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.29",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2023.97",
+  "uuid": "4de6488e-1730-5c65-a397-d9381656bfeb",
+  "name": "Gilt-bronze Boot, One of a Pair",
+  "name_traditional": "Gilt-bronze Boot, One of a Pair",
+  "name_en": "Gilt-bronze Boot, One of a Pair",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 907,
+   "end": 1125,
+   "original": "907–1125",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "Gilt-bronze"
+  ],
+  "dimensions": "43.2 x 29.2 cm (17 x 11 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Aaron Gallery, London, England, sold to Barbara S. Robinson); Barbara S. Robinson [d. 2023], Cleveland, OH, bequest to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2023.97/2023.97_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2023.97",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2023.97"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-noun",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "Northern China, Liao dynasty (907-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2023.97",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1980.24",
+  "uuid": "e2be3201-a6f9-5b78-bc62-34772dead592",
+  "name": "Caparisoned Elephant",
+  "name_traditional": "Caparisoned Elephant",
+  "name_en": "Caparisoned Elephant",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 1000,
+   "end": 1100,
+   "original": "c. 1000s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "gilt bronze"
+  ],
+  "dimensions": "Overall: 18.5 cm (7 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(J. E. Eskenazi, Ltd., London, England, sold to the Cleveland Musuem of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1980.24/1980.24_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1980.24",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1980.24"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1980.24",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2012.448.1",
+  "uuid": "500e1650-b8c3-5cf3-a6df-7e81c2fd0fc8",
+  "name": "扁壶",
+  "name_traditional": "扁壶",
+  "name_en": "Leather Bag-Shaped Flask with Cover",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 916,
+   "end": 1125,
+   "original": "916–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "earthenware with green glaze"
+  ],
+  "dimensions": "Overall: 24.5 x 16.5 x 16 cm (9 5/8 x 6 1/2 x 6 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Uragami Sokyu-do Co. Ltd., Tokyo, Japan, sold to Donna and James Reid); Donna [b. 1931] and James Reid [1926–2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2012.448.1/2012.448.1_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2012.448.1",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2012.448.1"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:flask;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "Northeast China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2012.448.1",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2012.448.2",
+  "uuid": "abdcb273-67bb-5493-b17b-5dba427bc97e",
+  "name": "扁壶",
+  "name_traditional": "扁壶",
+  "name_en": "Leather Bag-Shaped Flask with Cover",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 916,
+   "end": 1125,
+   "original": "916–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "earthenware with green glaze"
+  ],
+  "dimensions": "Overall: 23.5 x 17.5 x 13.8 cm (9 1/4 x 6 7/8 x 5 7/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Uragami Sokyu-do Co. Ltd., Tokyo, Japan, sold to Donna and James Reid); Donna [b. 1931] and James Reid [1926-2020], Cleveland Heights, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2012.448.2/2012.448.2_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2012.448.2",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2012.448.2"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:flask;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "Northeast China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2012.448.2",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.368",
+  "uuid": "6ad98b03-7f4e-573f-ad15-aee4ebc2a222",
+  "name": "Square Mirror with Wan Symbol",
+  "name_traditional": "Square Mirror with Wan Symbol",
+  "name_en": "Square Mirror with Wan Symbol",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 1020,
+   "end": 1030,
+   "original": "early 1000s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 0.9 x 12.5 cm (3/8 x 4 15/16 in.); Rim: 0.5 cm (3/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.368/1995.368_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.368",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.368"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Liao dynasty (916-1125), Taiping period (1020-1030)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.368",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1919.34",
+  "uuid": "e1c1c79b-7c27-5190-ae55-f7be2d0dc2c2",
+  "name": "瓶",
+  "name_traditional": "瓶",
+  "name_en": "Vase",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 916,
+   "end": 1125,
+   "original": "916–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "burnished stoneware"
+  ],
+  "dimensions": "Overall: 43.2 cm (17 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1919.34/1919.34_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1919.34",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1919.34"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:vase;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "Northeast China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1919.34",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1957.30",
+  "uuid": "91b288a3-8652-51ac-9243-98f177284fac",
+  "name": "盘",
+  "name_traditional": "盘",
+  "name_en": "Square Dish",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 916,
+   "end": 1125,
+   "original": "916–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "white porcelain with impressed decoration"
+  ],
+  "dimensions": "Overall: 2.8 x 11.5 cm (1 1/8 x 4 1/2 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Men-Chu Wang.  Seller's No. 3",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1957.30/1957.30_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1957.30",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1957.30"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:dish;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "Northeast China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1957.30",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1953.248",
+  "uuid": "25a0ebc8-ec4d-588e-8b28-e742e1c68347",
+  "name": "执壶",
+  "name_traditional": "执壶",
+  "name_en": "Ewer in the form of a Sheng Player",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 1000,
+   "end": 1099,
+   "original": "1000s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed, buff stoneware with underglaze slip coating and painting"
+  ],
+  "dimensions": "Overall: 21.2 cm (8 3/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Mrs. Samuel Peters, New York",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1953.248/1953.248_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1953.248",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1953.248"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:ewer;glaze=[]",
+   "dynasty_note": "span+name",
+   "culture_raw": "China, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1953.248",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1915.309",
+  "uuid": "8ed11c94-76fc-577d-be64-26b95d2254ac",
+  "name": "执壶",
+  "name_traditional": "执壶",
+  "name_en": "Ewer with Corolla Base",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 907,
+   "end": 1125,
+   "original": "907–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "pottery"
+  ],
+  "dimensions": "Diameter: 54.6 cm (21 1/2 in.); Overall: 39.4 cm (15 1/2 in.); Base: 19.4 x 18 cm (7 5/8 x 7 1/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1915.309/1915.309_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1915.309",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1915.309"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:ewer;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Manchuria, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1915.309",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1948.224",
+  "uuid": "66a7f200-01ce-51b4-b424-8a6a668e6bc9",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 907,
+   "end": 1125,
+   "original": "907–1125",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware, Cizhou ware"
+  ],
+  "dimensions": "Overall: 27.4 cm (10 13/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Dikran G. Kelekian [1867–1951], New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1948.224/1948.224_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1948.224",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1948.224"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "name(span-partial)",
+   "culture_raw": "China, Manchuria, Liao dynasty (916-1125)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1948.224",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.371",
+  "uuid": "6b176c78-6b6b-53d0-b347-f7a573c942a9",
+  "name": "Square Mirror with Floral and Coin Motifs",
+  "name_traditional": "Square Mirror with Floral and Coin Motifs",
+  "name_en": "Square Mirror with Floral and Coin Motifs",
+  "dynasty": "dynasty.liao",
+  "date": {
+   "start": 907,
+   "end": 1125,
+   "original": "early 900s-early 1100s",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Overall: 0.5 x 10.5 cm (3/16 x 4 1/8 in.); Rim: 0.3 cm (1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.371/1995.371_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.371",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.371"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "multi-name:dynasty.liao+dynasty.song",
+   "culture_raw": "China, Liao dynasty (916-1125) - Song dynasty (960-1279)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.371",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

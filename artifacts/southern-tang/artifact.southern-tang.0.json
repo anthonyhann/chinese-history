@@ -1,0 +1,66 @@
+[
+ {
+  "id": "artifact.met.39542",
+  "uuid": "6b371273-505c-560d-ab31-aba12ee00e15",
+  "name": "Riverbank",
+  "name_traditional": "Riverbank",
+  "name_en": "Riverbank",
+  "dynasty": "dynasty.southern-tang",
+  "date": {
+   "start": 937,
+   "end": 976,
+   "original": "",
+   "circa": true
+  },
+  "category": [
+   "绘画"
+  ],
+  "material": [
+   "Hanging scroll; ink and color on silk"
+  ],
+  "dimensions": "Image: 86 3/4 × 43 in. (220.3 × 109.2 cm)\r\nOverall with mounting: 11 ft. 1/2 in. × 48 in. (336.6 × 121.9 cm)\r\nOverall with knobs: 11 ft. 1/2 in. × 53 in. (336.6 × 134.6 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Ex coll.: C. C. Wang Family, Gift of Oscar L. Tang Family, in memory of Douglas Dillon, 2016",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-13074-006.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 39542",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/39542"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "paint-descriptive",
+   "dynasty_note": "multi-name:dynasty.southern-tang+dynasty.tang",
+   "period_raw": "Southern Tang dynasty (937–76)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 39542,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]

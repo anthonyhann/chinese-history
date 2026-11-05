@@ -118,5 +118,95 @@
     "outcome": "明亡清兴，中国进入清朝统治",
     "sources": [{"title": "清世祖实录", "type": "primary"}, {"title": "明史·庄烈帝纪", "type": "primary"}],
     "_meta": {"created_by": "ai-pipeline", "model": "kimi-k3", "prompt_version": "yuanmingqing-v1", "version": 1}
+  },
+  {
+    "id": "event.ming.yitiaobian",
+    "uuid": "51192291-8122-5ff0-89f0-f84a3c5b04f7",
+    "name": "一条鞭法",
+    "name_traditional": "一條鞭法",
+    "category": [
+      "reform",
+      "policy"
+    ],
+    "time": {
+      "start": 1581,
+      "end": 1581,
+      "original": "明神宗万历九年（1581）通行全国",
+      "precision": "year"
+    },
+    "place": [
+      "place.beijing"
+    ],
+    "participants": [
+      {
+        "person": "person.ming.zhangjuzheng",
+        "role": "advocate"
+      }
+    ],
+    "related_events": [],
+    "description": "将田赋、徭役及土贡方物并为一条，按亩折算银两征收；役归于地，计亩征收，量地计丁，丁粮毕输于官。总括一州县之赋役，岁编银差力差，皆计亩征银，折办于官。此法始于嘉靖年间地方试行，张居正主持丈量田亩、推行考成法之后，万历九年通行全国。",
+    "outcome": "赋役由实物劳役转向货币白银，人身依附减弱；为清代摊丁入亩所承",
+    "sources": [
+      {
+        "title": "明史·食货志",
+        "type": "primary",
+        "ref": "卷七十八"
+      },
+      {
+        "title": "明史·张居正传",
+        "type": "primary",
+        "ref": "卷二一三"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
+  },
+  {
+    "id": "event.ming.tumu",
+    "uuid": "ec97a4ee-52f5-56cf-b1c0-6ea8a33c1eed",
+    "name": "土木之变",
+    "name_traditional": "土木之變",
+    "category": [
+      "war",
+      "regime-change"
+    ],
+    "time": {
+      "start": 1449,
+      "end": 1449,
+      "original": "明英宗正统十四年（1449）八月",
+      "precision": "month"
+    },
+    "place": [],
+    "participants": [
+      {
+        "person": "person.ming.zhuqizhen",
+        "role": "victim"
+      }
+    ],
+    "related_events": [],
+    "description": "瓦剌也先分道入寇，王振劝英宗亲征，仓促发京师，大军五十万行至大同而还。回师途中王振欲邀帝幸其第，改道宣府，至土木堡被围，掘地无水，人马渴死。也先纵骑四面蹙之，明军大溃，英宗被俘，英国公张辅等死之。",
+    "outcome": "明廷震动，于谦拥立景帝、主持北京保卫战；此后明代边防由攻转守",
+    "sources": [
+      {
+        "title": "明史·英宗前纪",
+        "type": "primary",
+        "ref": "卷十"
+      },
+      {
+        "title": "明史·于谦传",
+        "type": "primary",
+        "ref": "卷一七〇"
+      }
+    ],
+    "_meta": {
+      "created_by": "ai-pipeline",
+      "model": "deepseek-v4.1-flash",
+      "prompt_version": "m4-events-v1",
+      "version": 1
+    }
   }
 ]

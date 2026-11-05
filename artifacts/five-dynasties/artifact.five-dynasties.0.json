@@ -1,0 +1,578 @@
+[
+ {
+  "id": "artifact.met.42434",
+  "uuid": "46603ba3-b0d6-5d9e-afdf-9fc1f64520d4",
+  "name": "执壶",
+  "name_traditional": "执壶",
+  "name_en": "Ewer with Parrots",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "10th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Stoneware with incised decoration under celadon glaze (Yue ware)"
+  ],
+  "dimensions": "H. 6 1/4 in. (15.9 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Gift of Dr. and Mrs. Roger G. Gerry, 1979",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14609-032.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 42434",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/42434"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:ewer;glaze=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Five Dynasties (907–960)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 42434,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.met.42449",
+  "uuid": "3f0ccaae-0b6a-5d4e-b86e-e5b8b669e6f4",
+  "name": "罐",
+  "name_traditional": "罐",
+  "name_en": "Jar",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "10th century",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Porcelain with incised decoration under transparent glaze (Xing ware)"
+  ],
+  "dimensions": "H. 3 3/8 in. (8.6 cm)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.met",
+   "city": "纽约",
+   "country": "美国"
+  },
+  "provenance": "Rogers Fund, 1919",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://images.metmuseum.org/CRDImages/as/original/DP-14610-030.jpg",
+    "license": "CC0",
+    "source": "The Metropolitan Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Met Collection Online, object 42449",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/art/collection/search/42449"
+   },
+   {
+    "title": "The Met Open Access 政策（CC0 数据与图片）",
+    "type": "institutional",
+    "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "ceramic:jar;glaze=[]",
+   "dynasty_note": "span+name",
+   "period_raw": "Five Dynasties (907–960)",
+   "source_snapshot": {
+    "api": "Met Collection API v1.1 /objects",
+    "object_id": 42449,
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1965.556",
+  "uuid": "77b98cb6-b346-543e-916d-3e93ff700865",
+  "name": "观音像",
+  "name_traditional": "观音像",
+  "name_en": "Potalaka Guanyin",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 900,
+   "end": 999,
+   "original": "900s",
+   "circa": true
+  },
+  "category": [
+   "雕塑"
+  ],
+  "material": [
+   "Carved sandalwood with traces of paint"
+  ],
+  "dimensions": "Overall: 15.1 x 9.9 cm (5 15/16 x 3 7/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Ellsworth and Goldie, Ltd., New York, NY, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1965.556/1965.556_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1965.556",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1965.556"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "high",
+   "name_source": "zh",
+   "name_note": "sculpt:guanyin",
+   "dynasty_note": "span",
+   "culture_raw": "China, Five dynasties (907-960)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1965.556",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.2020.186",
+  "uuid": "23d8bdf6-4622-593b-8e63-44484d090d69",
+  "name": "定窑碗",
+  "name_traditional": "定窑碗",
+  "name_en": "Ding Ware Bowl of the Xing Type with Bi-Disc Foot",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 907,
+   "end": 960,
+   "original": "907–60",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "White stoneware with ivory-white glaze"
+  ],
+  "dimensions": "Overall: 4.7 x 18.5 cm (1 7/8 x 7 5/16 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(K.Y. Fine Art, Hong Kong, sold to Mr. and Mrs. Joseph P. Keithley); Nancy F. and Joseph P. Keithley, Cleveland, OH, given to the Cleveland Museum of Art; The Cleveland Museum of Art, Cleveland, OH",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/2020.186/2020.186_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 2020.186",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/2020.186"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:bowl;glaze=['定窑']",
+   "dynasty_note": "span",
+   "culture_raw": "China, Henan province, Gongxian kilns, Five dynasties (907–60)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "2020.186",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1987.38",
+  "uuid": "8c575593-3408-5a58-b871-f10f7e294e03",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box with Double-Parakeet Design",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 900,
+   "end": 1199,
+   "original": "900s-1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware with incised decoration, Yue ware"
+  ],
+  "dimensions": null,
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Sotheby Parke Bernet, Inc., New York, NY, 1987, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH, 1987-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1987.38/1987.38_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1987.38",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1987.38"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Zhejiang province, Five dynasties (907-60) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1987.38",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1987.38.a",
+  "uuid": "7057aca6-0ea5-5c76-bac4-da9dfd5a2a35",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box with Double-Parakeet Design",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 900,
+   "end": 1199,
+   "original": "900s-1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware with incised decoration, Yue ware"
+  ],
+  "dimensions": null,
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Sotheby Parke Bernet, Inc., New York, NY, 1987, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH, 1987-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1987.38.a/1987.38.a_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1987.38.a",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1987.38.a"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Zhejiang province, Five dynasties (907-60) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1987.38.a",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1987.38.b",
+  "uuid": "9a47794e-c490-50c7-9974-d7cb60f781ce",
+  "name": "盒",
+  "name_traditional": "盒",
+  "name_en": "Covered Box with Double-Parakeet Design (lid)",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 900,
+   "end": 1199,
+   "original": "900s-1100s",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "Glazed stoneware with incised decoration, Yue ware"
+  ],
+  "dimensions": null,
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "(Sotheby Parke Bernet, Inc., New York, NY, 1987, sold to the Cleveland Museum of Art); The Cleveland Museum of Art, Cleveland, OH, 1987-present",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1987.38.b/1987.38.b_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1987.38.b",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1987.38.b"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:box;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Zhejiang province, Five dynasties (907-60) or later",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1987.38.b",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1917.298",
+  "uuid": "40b6945c-e119-5f72-9666-dc6854434e6d",
+  "name": "枕",
+  "name_traditional": "枕",
+  "name_en": "Pillow:  Wazhaping ware",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 906,
+   "end": 970,
+   "original": "906–960",
+   "circa": true
+  },
+  "category": [
+   "瓷器"
+  ],
+  "material": [
+   "glazed stoneware"
+  ],
+  "dimensions": "Overall: 8.6 x 12.4 x 18.4 cm (3 3/8 x 4 7/8 x 7 1/4 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": null,
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1917.298/1917.298_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1917.298",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1917.298"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "medium",
+   "name_source": "zh",
+   "name_note": "ceramic:pillow;glaze=[]",
+   "dynasty_note": "span",
+   "culture_raw": "China, Hunan province, Changsha, Five dynasties (907-960)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1917.298",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ },
+ {
+  "id": "artifact.cleveland.1995.394",
+  "uuid": "ce502065-dbfc-5928-8fef-5fd827df894d",
+  "name": "Octafoil Mirror with Avian and Floral Motifs",
+  "name_traditional": "Octafoil Mirror with Avian and Floral Motifs",
+  "name_en": "Octafoil Mirror with Avian and Floral Motifs",
+  "dynasty": "dynasty.five-dynasties",
+  "date": {
+   "start": 907,
+   "end": 960,
+   "original": "early to mid 10th Century",
+   "circa": true
+  },
+  "category": [
+   "金属器"
+  ],
+  "material": [
+   "bronze"
+  ],
+  "dimensions": "Diameter: 13.8 cm (5 7/16 in.); Overall: 0.7 cm (1/4 in.); Rim: 0.3 cm (1/8 in.)",
+  "description": "",
+  "current_holder": {
+   "museum": "museum.cleveland",
+   "city": "克利夫兰",
+   "country": "美国"
+  },
+  "provenance": "Thomas and Martha Carter, Madison, WI",
+  "related_persons": [],
+  "related_events": [],
+  "images": [
+   {
+    "url": "https://openaccess-cdn.clevelandart.org/1995.394/1995.394_web.jpg",
+    "license": "CC0",
+    "source": "The Cleveland Museum of Art Open Access (CC0)"
+   }
+  ],
+  "data_license": "CC0",
+  "sources": [
+   {
+    "title": "The Cleveland Museum of Art, accession 1995.394",
+    "type": "institutional",
+    "url": "https://clevelandart.org/art/1995.394"
+   },
+   {
+    "title": "CMA Open Access 政策（CC0）",
+    "type": "institutional",
+    "url": "https://www.clevelandart.org/open-access"
+   }
+  ],
+  "_meta": {
+   "created_by": "import",
+   "version": 1,
+   "confidence": "bare",
+   "name_source": "english",
+   "name_note": "metal-no-context",
+   "dynasty_note": "span",
+   "culture_raw": "China, Five dynasties (907-960)",
+   "source_snapshot": {
+    "api": "CMA Open Access /artworks",
+    "accession": "1995.394",
+    "fetched_at": "2026-11-05"
+   }
+  }
+ }
+]
