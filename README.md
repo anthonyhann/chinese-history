@@ -44,7 +44,7 @@
 
 当前需要帮忙的具体位置，按缺得最狠的排：
 
-1. **3327 件文物里有 2293 件中文名还是英文原名**，`description` 全部空着——描述必须原创改写，机器批量生成就是洗稿，所以宁缺毋滥，等懂器物的人来补。见 [M3 说明书](docs/M3-ARTIFACTS.md)。
+1. **3327 件文物里有 2293 件中文名还是英文原名**，`description` 全部空着——描述必须原创改写，机器批量生成就是洗稿，所以宁缺毋滥，等懂器物的人来补。不想提 PR 也行，挑 10 件把你认为该叫什么贴在 [#6](https://github.com/anthonyhann/chinese-history/issues/6) 里就够了。取舍细节见 [M3 说明书](docs/M3-ARTIFACTS.md)。
 2. [`disputed[]` 争议多值目前只覆盖 9/370 人](https://github.com/anthonyhann/chinese-history/issues/4)，[还没有任何一条数据经过人工核验](https://github.com/anthonyhann/chinese-history/issues/5)。
 
 你熟悉哪段历史，就带着书目来提 PR，一条一个 PR，出处要能核。长期共建见 [#6 招募 co-maintainer](https://github.com/anthonyhann/chinese-history/issues/6)。
