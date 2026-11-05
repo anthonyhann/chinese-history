@@ -6,6 +6,12 @@ on:
     paths:
       - 'docs/demo/**'
       - '.github/workflows/pages.yml'
+      # 数据目录：data.json 由这里的 JSON 分片构建，数据变了 demo 就得跟着变
+      - 'artifacts/**'
+      - 'events/**'
+      - 'persons/**'
+      - 'dynasties/**'
+      - 'reign_eras/**'
   workflow_dispatch:
 
 permissions:
