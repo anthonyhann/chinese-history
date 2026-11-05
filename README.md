@@ -38,8 +38,6 @@
 
 [![chinese-history：校验通过 4497 条记录 0 警告 · 年号重名「贞观」有两个 · 每条记录都带出处 · 3327 件馆藏文物](docs/assets/hero.png)](https://anthonyhann.github.io/chinese-history/)
 
-<sub>⚠️ 上图是 v1.4.0 时期（1224 条）截的，数字已过时，待重截；当前实测为 4497 条。</sub>
-
 ---
 
 **如果这个项目对你有用，点个 ⭐ Star 是最实际的帮助。** 它不会让数据变得更准，但决定了这个库能不能被更多需要它的人看见——也是我能不能找到 co-maintainer 的前提。
